@@ -1,6 +1,7 @@
 package sergeysav.neuralnetwork;
 
 import java.io.Serializable;
+import java.util.Arrays;
 import java.util.function.Function;
 
 /**
@@ -19,6 +20,7 @@ public class Neuron implements Serializable {
 	
 	//The activation function to use for this neuron
 	private Function<Double, Double> activationFunction;
+	private Function<Double, Double> derivativeFunction;
 	
 	//The weights to the previous layer of neurons
 	private double[] weights;
@@ -38,7 +40,7 @@ public class Neuron implements Serializable {
 	 * @param numParents the number of parent nodes for this neuron
 	 */
 	public Neuron(int numParents) {
-		this(numParents, Neuron::sigmoid);
+		this(numParents, Neuron::sigmoid, Neuron::sigmoidDerivative);
 	}
 	
 	/**
@@ -52,13 +54,14 @@ public class Neuron implements Serializable {
 	 * @param numParents the number of parent nodes for this neuron
 	 * @param activationFunction the activation function to use
 	 */
-	public Neuron(int numParents, Function<Double, Double> activationFunction) {
+	public Neuron(int numParents, Function<Double, Double> activationFunction, Function<Double, Double> derivativeFunction) {
 		//Set the weights as random values from -1 to 1
-		weights = NeuralNetwork.rand.doubles(numParents, -1, 2).toArray();
+		weights = NeuralNetwork.rand.doubles(numParents, -1, 1).toArray();
 		//Set the bias to 0
 		bias = 0;
 		//Set the activation function as the given function
 		this.activationFunction = activationFunction;
+		this.derivativeFunction = derivativeFunction;
 	}
 	
 	/**
@@ -97,14 +100,72 @@ public class Neuron implements Serializable {
 	}
 	
 	/**
-	 * The step function of x
+	 * The derivative of the sigmoid function.
 	 * 
-	 * @param x the input x value to the step function
-	 * @return 1 if x is greater than or equal to 1. 0 if x is less than 1
+	 * y = x * (1 - x)
+	 * 
+	 * @param x the input value into the derivative function
+	 * @return the derivative of the sigmoid function
 	 */
-	public static double step(double x) {
-		//Calculate the value of the step function
-		if (x >= 1) return 1;
-		return 0;
+	public static double sigmoidDerivative(double x) {
+		return x * (1-x);
+	}
+		
+	/**
+	 * Get the expected number of parent neurons to this neuron
+	 * 
+	 * @return the number of parent neurons
+	 */
+	public int getParentNeurons() {
+		return weights.length;
+	}
+	
+	/**
+	 * Get the weights of this neuron
+	 * 
+	 * @return an array of the weights of this neuron
+	 */
+	public double[] getWeights() {
+		return weights;
+	}
+	
+	
+	/**
+	 * Set the weights of this neuron
+	 * 
+	 * @throws IllegalArgumentException when the length of the input array is not equal to the expected length
+	 * 
+	 * @param weights an array of the weights of this neuron
+	 */
+	public void setWeights(double[] weights) {
+		if (weights.length != this.weights.length) throw new IllegalArgumentException("There are " + this.weights.length + " input neuron values when " + weights.length + " were expected.");
+		this.weights = weights;
+	}
+	
+	/**
+	 * Get the bias parameter of this neuron
+	 * 
+	 * @return the bias parameter
+	 */
+	public double getBias() {
+		return bias;
+	}
+	
+	/**
+	 * Set the bias parameter of the neuron
+	 * 
+	 * @param bias the bias parameter
+	 */
+	public void setBias(double bias) {
+		this.bias = bias;
+	}
+	
+	public Function<Double, Double> getDerivativeFunction() {
+		return derivativeFunction;
+	}
+	
+	@Override
+	public String toString() {
+		return "Neuron[weights=" + Arrays.toString(weights) + ",bias=" + bias + "" + "]";
 	}
 }

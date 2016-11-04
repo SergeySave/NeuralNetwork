@@ -2,7 +2,6 @@ package sergeysav.neuralnetwork;
 
 import java.io.Serializable;
 import java.util.Random;
-import java.util.function.Function;
 
 /**
  * An implementation of a feedforward neural network
@@ -28,61 +27,40 @@ public class NeuralNetwork implements Serializable {
 	//The neuron layers excluding the input layer
 	private Neuron[][] layers;
 
+	//The number of input neurons
+	private int inputNeurons;
+
 	/**
 	 * Create a new neural network
 	 * 
 	 * @param neuronsPerLayer the count of neurons per layer. The first number will be the count of input neurons. The last number will be the count of output neurons.
 	 */
-	public NeuralNetwork(boolean lastLayerStep, int... neuronsPerLayer) {
+	public NeuralNetwork(boolean stepFunctionLast, int... neuronsPerLayer) {
+		long seed = rand.nextLong();
+		//seed = -1698630836038324742L;
+		//System.out.println(seed);
+		rand.setSeed(seed);
+		
+		//Set the number of input neurons
+		inputNeurons = neuronsPerLayer[0];
+
 		//Create the array of neurons
 		layers = new Neuron[neuronsPerLayer.length-1][0];
 
 		//For each layer of neurons except the input layer
 		for (int i = 1; i<neuronsPerLayer.length; i++) {
 			//Set the number of neurons based on the value that was inputed
-			layers[i-1] = new Neuron[neuronsPerLayer[i-1]];
+			layers[i-1] = new Neuron[neuronsPerLayer[i]];
 			//For each neuron in this layer
 			for (int j = 0; j<layers[i-1].length; j++) {
-				//If this is the last layer use the step function if the feature was requested
-				if (lastLayerStep && i == neuronsPerLayer.length-1) {
-					layers[i-1][j] = new Neuron(neuronsPerLayer[i-1], Neuron::step);
+				//Put the neuron in the array and set it's number of parent neurons
+				if (stepFunctionLast && i == neuronsPerLayer.length-1) {
+					layers[i-1][j] = new Neuron(neuronsPerLayer[i-1]); //, Neuron::identity, Neuron::sigmoidDerivative
 				} else {
-					//Put the neuron in the array and set it's number of parent neurons
 					layers[i-1][j] = new Neuron(neuronsPerLayer[i-1]);
 				}
 			}
 		}
-	}
-
-	/**
-	 * Create a new neural network
-	 * 
-	 * @param neuronsPerLayer the count of neurons per layer. The first number will be the count of input neurons. The last number will be the count of output neurons.
-	 * @param activationFunctionPerLayer the activation function for each layer. The first layer may be null. It will not be used for anything.
-	 */
-	public NeuralNetwork(int[] neuronsPerLayer, Function<Double, Double>[] activationFunctionPerLayer) {
-		//Create the array of neurons
-		layers = new Neuron[neuronsPerLayer.length-1][0];
-
-		//For each layer of neurons except the input layer
-		for (int i = 1; i<neuronsPerLayer.length; i++) {
-			//Set the number of neurons based on the value that was inputed
-			layers[i-1] = new Neuron[neuronsPerLayer[i-1]];
-			//For each neuron in this layer
-			for (int j = 0; j<layers[i-1].length; j++) {
-				//Put the neuron in the array and set it's number of parent neurons
-				layers[i-1][j] = new Neuron(neuronsPerLayer[i-1], activationFunctionPerLayer[i]);
-			}
-		}
-	}
-
-	/**
-	 * Teach the neural network by performing backpropogation on a set of training data
-	 * 
-	 * @param data the set of training data
-	 */
-	public void learn(double[][] data) {
-		// TODO Program a computer to learn to do stuff n things
 	}
 
 	/**
@@ -126,5 +104,84 @@ public class NeuralNetwork implements Serializable {
 		return testAll(inputs)[outputNeuron];
 
 		//Performance can be improved by only calculating the value of desired neuron in the output layer
+	}
+
+	public int getMaxNeuron(double... inputs) {
+		int maxIndex = -1;
+		double maxVal = Double.MIN_VALUE;
+
+		double[] outputs = testAll(inputs);
+		for (int i = 0; i<outputs.length; i++) {
+			if (outputs[i] > maxVal) {
+				maxVal = outputs[i];
+				maxIndex = i;
+			}
+		}
+
+		return maxIndex;
+	}
+
+	public int getMinNeuron(double... inputs) {
+		int minIndex = -1;
+		double minVal = Double.MAX_VALUE;
+
+		double[] outputs = testAll(inputs);
+		for (int i = 0; i<outputs.length; i++) {
+			if (outputs[i] < minVal) {
+				minVal = outputs[i];
+				minIndex = i;
+			}
+		}
+
+		return minIndex;
+	}
+
+	public int[] getMaxMinNeurons(double... inputs) {
+		int[] indicies = {-1,-1};
+		double[] maxVals = new double[] {Double.MIN_VALUE, Double.MAX_VALUE};
+
+		double[] outputs = testAll(inputs);
+		for (int i = 0; i<outputs.length; i++) {
+			if (outputs[i] > maxVals[0]) {
+				maxVals[0] = outputs[i];
+				indicies[0] = i;
+			}
+			if (outputs[i] < maxVals[1]) {
+				maxVals[1] = outputs[i];
+				indicies[1] = i;
+			}
+		}
+
+		return indicies;
+	}
+
+	/**
+	 * Get the number of input neurons
+	 * 
+	 * @return the number of input neurons
+	 */
+	public int getInputNeurons() {
+		return inputNeurons;
+	}
+
+	/**
+	 * Gets the neural data of this network
+	 * 
+	 * @return the two dimensional array of neurons
+	 */
+	public Neuron[][] getNeuralData() {
+		return layers;
+	}
+
+	/**
+	 * Set the neural data of this network
+	 * 
+	 * @throws IllegalArgumentException thrown if the number of input neurons expected by the first layer of the neurons in the data is not equal to the number of input neurons in the network
+	 * 
+	 * @param neurons the two dimensional array of neurons
+	 */
+	public void setNeuralData(Neuron[][] neurons) {
+		if (neurons[0][0].getParentNeurons() != inputNeurons) new IllegalArgumentException("The inputted neurons expect " + neurons[0][0].getParentNeurons() + " input neurons. " + inputNeurons + " expected.");
+		layers = neurons;
 	}
 }

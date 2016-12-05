@@ -1,0 +1,572 @@
+[Event ""]
+[Site "London (England)"]
+[Date "1857.??.??"]
+[Round "?"]
+[White "Morphy Paul"]
+[Black "Barnes Thomas W (ENG)"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "2680"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Bc4 Be7 5.c3 d3 6.Qb3 Be6 7.Bxe6
+fxe6 8.Qxb7 Nd7 9.Qb5 Ngf6 10.Ng5 Rb8 11.Qa4 O-O 12.Nxe6 Nc5
+13.Nxc5 dxc5 14.Qc4+ Kh8 15.O-O Ng4 16.f4 d2 17.Bxd2 Rxb2 18.h3
+Rxd2 19.Nxd2 Ne3 20.Qe2 Nxf1 21.Rxf1 Qd7 22.Nc4 Qb5 23.e5 Bh4
+24.f5 Be7 25.Qg4 Qd7 26.Rd1 Qxf5 27.Qxf5 Rxf5 28.Rd7 Bf8 29.e6 1-0
+
+
+[Event ""]
+[Site "New Orleans (USA)"]
+[Date "1857.??.??"]
+[Round "?"]
+[White "Morphy Paul"]
+[Black "Meek A"]
+[Result "1-0"]
+[ECO "C52"]
+[WhiteElo "2680"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.O-O Nf6 7.d4
+Nxe4 8.Ba3 d6 9.d5 Nxc3 10.Nxc3 Bxc3 11.Rc1 Bb4 12.Bxb4 Nxb4
+13.Qa4+ Nc6 14.dxc6 b6 15.Rcd1 Qf6 16.Rfe1 a6 17.Qa3 O-O 18.Qb3
+b5 19.Bd5 Bg4 20.h3 Be6 21.Re3 Rae8 22.Nd2 Qh6 23.Ne4 Kh8 24.Qa3
+f5 25.Bxe6 Rxe6 26.Nxd6 Rxd6 27.Red3 Rfd8 28.Rxd6 Rxd6 29.Rxd6
+cxd6 30.c7 Qe6 31.Qxd6 Qc8 32.Qd8+ Qxd8 33.cxd8Q# 1-0
+
+
+[Event ""]
+[Site "New York (USA)"]
+[Date "1857.??.??"]
+[Round "?"]
+[White "Morphy Paul"]
+[Black "Lichtenhein T"]
+[Result "1-0"]
+[ECO "C36"]
+[WhiteElo "2680"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.f4 exf4 3.Nf3 d5 4.exd5 Be7 5.Bb5+ c6 6.dxc6 bxc6 7.Bc4
+Bh4+ 8.g3 fxg3 9.O-O gxh2+ 10.Kh1 Bf6 11.Ne5 Nh6 12.d4 Bxe5 13.Qh5
+Qxd4 14.Bxf7+ Nxf7 15.Qxf7+ Kd8 16.Bg5+ Bf6 17.Nc3 Bd7 18.Rxf6
+Kc7 19.Bf4+ Kb7 20.Rd6 Qc5 21.Ne4 Qxc2 22.Rxd7+ Nxd7 23.Qxd7+
+Ka6 24.Nd6 Rhd8 25.Qb7+ Ka5 26.Bd2+ Qxd2 27.Nc4+ Ka4 28.b3# 1-0
+
+
+[Event ""]
+[Site "New York (USA)"]
+[Date "1857.??.??"]
+[Round "?"]
+[White "Morphy Paul"]
+[Black "Lichtenhein T"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2680"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Bc4 Nf6 3.Nf3 Nxe4 4.Nc3 d5 5.Bxd5 Nf6 6.Bb3 Bd6 7.d3
+O-O 8.h3 h6 9.Be3 Nc6 10.Qd2 Na5 11.g4 Nxb3 12.axb3 Bd7 13.Rg1
+Nh7 14.Ne4 Kh8 15.g5 h5 16.Nh4 g6 17.Qe2 Bc6 18.f4 exf4 19.Bd4+
+Kg8 20.Nf5 Re8 21.Nh6+ Kf8 22.O-O-O Bxe4 23.dxe4 Qe7 24.e5 Bxe5
+25.Bxe5 Qxe5 26.Rd7 Qg7 27.Qc4 Re7 28.Rxe7 Kxe7 29.Re1+ 1-0
+
+
+[Event ""]
+[Site "New York (USA)"]
+[Date "1857.??.??"]
+[Round "?"]
+[White "Morphy Paul"]
+[Black "Lichtenhein T"]
+[Result "1-0"]
+[ECO "C51"]
+[WhiteElo "2680"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.O-O Nf6 7.d4
+exd4 8.cxd4 Bb6 9.e5 d5 10.exf6 dxc4 11.fxg7 Rg8 12.Re1+ Ne7
+13.Bg5 Be6 14.Nc3 Ba5 15.Ne4 Rxg7 16.Nf6+ Kf8 17.Re5 c6 18.Bh6
+Nf5 19.Rxe6 fxe6 20.Ng5 Ke7 21.Bxg7 Nxg7 22.Qf3 Qxd4 23.Rd1 Bd2
+24.Ng8+ Rxg8 25.Qf7+ Kd8 26.Nf3 1-0
+
+
+[Event ""]
+[Site "New York (USA)"]
+[Date "1857.??.??"]
+[Round "?"]
+[White "Morphy Paul"]
+[Black "Meek A"]
+[Result "1-0"]
+[ECO "A44"]
+[WhiteElo "2680"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 c5 3.d5 e5 4.f4 d6 5.Nf3 Bg4 6.fxe5 Bxf3 7.Qxf3
+dxe5 8.Bb5+ Nd7 9.Nc3 Ngf6 10.Bg5 Be7 11.d6 Bxd6 12.O-O-O 1-0
+
+
+[Event ""]
+[Site "New York (USA)"]
+[Date "1857.??.??"]
+[Round "?"]
+[White "Morphy Paul"]
+[Black "Meek A"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2680"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 g6 3.Bd3 Bg7 4.Be3 Ne7 5.Ne2 b6 6.Nd2 Bb7 7.O-O
+d5 8.e5 O-O 9.f4 f5 10.h3 Nd7 11.Kh2 c5 12.c3 c4 13.Bc2 a6 14.Nf3
+h6 15.g4 Kh7 16.Rg1 Rg8 17.Qe1 Nc6 18.Nh4 Qf8 19.Nxg6 Kxg6 20.gxf5+
+Kf7 21.fxe6+ Kxe6 22.f5+ Ke7 23.Qh4+ Ke8 24.f6 Bxf6 25.exf6 Rxg1
+26.Rxg1 Nxf6 27.Bg6+ Kd7 28.Bf5+ Ke8 29.Bxh6 Qh8 30.Rg7 Ng8 1-0
+
+
+[Event ""]
+[Site "New York (USA)"]
+[Date "1857.??.??"]
+[Round "?"]
+[White "Morphy Paul"]
+[Black "Paulsen Louis (GER)"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "2680"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Bc5 5.Be3 Qb6 6.Nb5 Nf6 7.Bxc5
+Qxc5 8.Nd6+ Ke7 9.Nxc8+ Rxc8 10.Bd3 Nc6 11.O-O h5 12.Nd2 h4 13.h3
+g5 14.a3 Rg8 15.b4 Qb6 16.Nc4 Qc7 17.f3 Ne5 18.Nxe5 Qxe5 19.Qd2
+Rg7 20.Rad1 Rd8 21.Qf2 b6 22.f4 gxf4 23.Qxf4 Qg5 24.Rf2 Qxf4
+25.Rxf4 Rdg8 26.Rd2 Rh8 27.e5 Nd5 28.Rd4 f6 29.exf6+ Nxf6 30.Rc4
+Kd8 31.a4 Nd5 32.Be4 Nc7 33.Bf3 d5 34.Rc6 Rd7 35.Bg4 Rh6 36.Re2
+Ke7 37.Kh2 Kf7 38.g3 hxg3+ 39.Kxg3 Re7 40.h4 Ne8 41.h5 Nf6 42.Rcxe6
+Rxe6 43.Bxe6+ Kg7 44.Bg4 Nxh5+ 45.Bxh5 Rxh5 46.Re7+ Kf6 47.Rxa7
+Ke5 48.Ra6 Rg5+ 49.Kf3 Rf5+ 50.Ke2 b5 51.axb5 Rf4 52.c3 d4 53.c4
+Rh4 54.c5 Rh2+ 55.Kd3 Rh3+ 56.Kc2 Rh2+ 57.Kb3 Rh3+ 58.Ka4 Kd5
+59.Rd6+ Kc4 60.c6 Rh1 61.Rxd4+ Kxd4 62.c7 Rh8 63.b6 Kd5 64.b7 1-0
+
+
+[Event ""]
+[Site "New York (USA)"]
+[Date "1857.??.??"]
+[Round "?"]
+[White "Morphy Paul"]
+[Black "Paulsen Louis (GER)"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "2680"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Bc5 5.Be3 Qb6 6.Nc3 Qxb2 7.Ndb5
+Bxe3 8.Rb1 Qxb1 9.Nxb1 Bf4 10.g3 a6 11.gxf4 axb5 12.Nc3 Ne7 13.Nxb5
+O-O 14.Nd6 Nbc6 15.Rg1 Rxa2 16.f5 f6 17.Bc4 Ra4 18.f4 b6 19.fxe6
+dxe6 20.Nxc8 Nxc8 21.Bxe6+ Kh8 22.Bxc8 Rxc8 23.Qd7 Ne7 24.Qxe7
+Ra1+ 25.Kf2 Rxc2+ 26.Ke3 1-0
+
+
+[Event ""]
+[Site "New York (USA)"]
+[Date "1857.??.??"]
+[Round "?"]
+[White "Morphy Paul"]
+[Black "Paulsen Louis (GER)"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "2680"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.d4 cxd4 3.Nf3 e6 4.Nxd4 Bc5 5.Nb3 Bb6 6.Nc3 Ne7 7.Bf4
+O-O 8.Bd6 f5 9.e5 a6 10.Be2 Nbc6 11.O-O Rf7 12.Kh1 f4 13.Ne4
+Nf5 14.Bh5 g6 15.Bg4 Ng7 16.Qf3 h5 17.Bh3 Qh4 18.Nf6+ Kh8 19.Qe4
+Qg5 20.g3 f3 21.Nd2 Bd8 22.Nxf3 Qh6 23.Rg1 Bxf6 24.exf6 Ne8 25.Bf4
+Nxf6 26.Qxc6 Qxf4 27.Qxc8+ Rxc8 28.gxf4 Rxc2 29.Rac1 Rxf2 30.Rc8+
+Ng8 31.Ne5 Rg7 32.Nxg6+ Kh7 33.Nf8+ Kh6 34.Nxd7 Rxd7 35.Rcxg8
+Rxf4 36.Bxe6 Re7 1-0
+
+
+[Event ""]
+[Site "New York (USA)"]
+[Date "1857.??.??"]
+[Round "?"]
+[White "Morphy Paul"]
+[Black "Paulsen Louis (GER)"]
+[Result "1-0"]
+[ECO "C40"]
+[WhiteElo "2680"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 d5 3.exd5 e4 4.Qe2 f5 5.d3 Bb4+ 6.c3 Be7 7.dxe4
+fxe4 8.Qxe4 Nf6 9.Bb5+ Bd7 10.Qe2 Nxd5 11.Bc4 c6 12.Bg5 Bg4 13.Nbd2
+Nd7 14.O-O N7b6 15.Rfe1 Bxf3 16.Nxf3 Nxc4 17.Qxc4 Qc7 18.Bxe7
+Nxe7 19.Rxe7+ Qxe7 20.Re1 Qxe1+ 21.Nxe1 O-O-O 22.Qg4+ Rd7 23.Nd3
+h5 24.Qe6 Rh6 25.Qe4 Rhd6 26.Ne1 Rd1 27.g3 Kd8 28.Qe5 Re7 29.Qb8+
+Kd7 30.Qxb7+ Kd6 31.Qb8+ Kd7 32.Qxa7+ Kd6 33.Qb8+ Kd7 34.Kg2
+Rdxe1 35.a4 Ra1 36.Qb7+ Kd6 37.Qb4+ Kd7 38.a5 g6 39.a6 g5 40.Qb7+
+Kd6 41.Qb8+ Ke6 42.b4 g4 43.c4 Kf7 44.Qb7 Kf8 45.h3 Ree1 46.hxg4
+hxg4 47.Qc8+ Ke7 48.Qxg4 Rg1+ 49.Kf3 Rxa6 50.Qg7+ Ke6 51.Qc7
+Rga1 52.Kg4 R1a4 53.Kg5 Ra2 54.f4 1-0
+
+
+[Event ""]
+[Site "New York (USA)"]
+[Date "1857.??.??"]
+[Round "?"]
+[White "Morphy Paul"]
+[Black "Perrin F"]
+[Result "1-0"]
+[ECO "B44"]
+[WhiteElo "2680"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Be3 Nf6 6.Bd3 Bb4+ 7.c3
+Ba5 8.O-O Bb6 9.Nd2 Ne5 10.Be2 d5 11.f4 Nc6 12.e5 Bxd4 13.cxd4
+Nd7 14.Bd3 f5 15.g4 g6 16.gxf5 exf5 17.Kh1 Nf8 18.Rc1 Ne6 19.Bxf5
+Nexd4 20.Bxc8 Rxc8 21.f5 Nxf5 22.Rxf5 gxf5 23.Qh5+ Kd7 24.Qf7+
+Qe7 25.e6+ Kd8 26.Bg5 1-0
+
+
+[Event ""]
+[Site "London (England)"]
+[Date "1858.??.??"]
+[Round "?"]
+[White "Boden Samuel S (ENG)"]
+[Black "Morphy Paul"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[WhiteElo "0"]
+[BlackElo "2680"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 d6 3.d4 f5 4.Bc4 Nc6 5.dxe5 dxe5 6.Qxd8+ Nxd8 7.O-O
+fxe4 8.Nxe5 Nf6 9.Re1 Bd6 10.f4 Be6 11.Nc3 O-O 12.Nxe4 Bxe5 13.fxe5
+Nd7 14.Nd2 Rf5 15.Bxe6+ Nxe6 16.Nf3 Rxf3 17.gxf3 Nd4 18.Bf4 Nxf3+
+19.Kg2 Nxe1+ 20.Rxe1 Re8 21.Rd1 Nf8 22.Kf3 Ng6 23.Ke4 Nxf4 24.Kxf4
+Kf7 25.h4 Ke6 26.Ke4 Rf8 27.Rg1 g6 28.h5 gxh5 29.Rg7 Rf7 30.Rg5
+Rf2 31.Rxh5 Rxc2 32.Rh6+ Ke7 33.Rxh7+ Ke6 34.Rh6+ Ke7 35.Rh7+
+Ke6 1/2-1/2
+
+
+[Event ""]
+[Site "London (England)"]
+[Date "1858.??.??"]
+[Round "?"]
+[White "Boden Samuel S (ENG)"]
+[Black "Morphy Paul"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "0"]
+[BlackElo "2680"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Bc4 Nf6 3.Nf3 Nxe4 4.Nc3 Nxc3 5.dxc3 c6 6.Nxe5 d5 7.O-O
+Bd6 8.Re1 Be6 9.Bd3 Nd7 10.f4 Nxe5 11.fxe5 Bc5+ 12.Kh1 Qh4 13.Be3
+Bxe3 14.Rxe3 O-O 15.Qe1 Qh6 16.Qg3 Rae8 17.Rae1 c5 18.Be2 Bd7
+19.Bf3 Qe6 20.Rd3 Bc6 21.b4 b6 22.a4 f6 23.b5 Bb7 24.c4 dxc4
+25.Rd6 Qe7 26.Bxb7 Qxb7 27.e6 Qc7 28.Red1 Rd8 29.Kg1 Rxd6 30.Qxd6
+Qxd6 31.Rxd6 Re8 32.Kf2 Kf8 33.Kf3 Ke7 34.Rd7+ Kxe6 35.Rxa7 Re7
+36.Ra6 Rb7 37.a5 Kd6 38.axb6 Ke6 39.Ke3 g5 40.g4 Kd6 41.Ke4 Ke6 1/2-1/2
+
+
+[Event ""]
+[Site "London (England)"]
+[Date "1858.??.??"]
+[Round "?"]
+[White "Loewenthal Johann J (HUN)"]
+[Black "Morphy Paul"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[WhiteElo "0"]
+[BlackElo "2680"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 d6 3.d4 f5 4.Bc4 Nc6 5.dxe5 dxe5 6.Qxd8+ Nxd8 7.Nxe5
+fxe4 8.Bd2 Bd6 9.Bc3 Nf6 10.h3 Be6 11.Nd2 O-O 12.O-O Nd5 13.Bxd5
+Bxd5 14.Ndc4 b5 15.Nxd6 cxd6 16.Rfd1 e3 17.fxe3 Bxg2 18.Kxg2
+dxe5 19.Bxe5 Nc6 20.Bd4 Rae8 21.Rd2 Re6 22.Re1 Rg6+ 23.Kh2 Rf3
+24.Rg2 Nxd4 25.exd4 Rh6 26.Re7 Rfxh3+ 27.Kg1 Rh1+ 28.Kf2 Rf6+
+29.Ke2 Rf7 30.Re8+ Rf8 1/2-1/2
+
+
+[Event ""]
+[Site "London (England)"]
+[Date "1858.??.??"]
+[Round "1"]
+[White "Loewenthal Johann J (HUN)"]
+[Black "Morphy Paul"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[WhiteElo "0"]
+[BlackElo "2680"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Be7 6.Be2 O-O 7.O-O
+c5 8.Nf3 Nc6 9.Bf4 Be6 10.Qd2 d5 11.exd5 Nxd5 12.Rad1 Nxf4 13.Qxf4
+Qa5 14.Bd3 Rad8 15.Ng5 Bxg5 16.Qxg5 h6 17.Qh4 Nd4 18.a3 Rfe8
+19.Rfe1 Qb6 20.Na4 Qa5 21.Nc3 f5 22.Re5 Bf7 23.Rde1 Qb6 24.Rxe8+
+Rxe8 25.Rxe8+ Bxe8 26.Qe7 Bf7 27.Na4 Qa5 28.Nxc5 Qd2 29.f3 Nc6
+30.Qe2 Qc1+ 31.Kf2 Qxb2 32.Bxf5 Qxa3 33.Qb5 Qc3 34.Nb3 Qf6 35.Qxb7
+g6 36.Qc8+ Kh7 37.Bd3 Ne5 38.Nd2 Qh4+ 39.Kf1 Qxh2 40.Ne4 Qh1+
+41.Kf2 Qc1 42.Qc3 Qf4 43.Ke2 h5 44.Nf2 h4 45.Qd2 Qg3 46.Qe3 a5
+47.Qe4 Be6 48.f4 Nxd3 49.cxd3 Bg4+ 50.Kf1 Bf5 51.Qe7+ Kh6 1/2-1/2
+
+
+[Event ""]
+[Site "London (England)"]
+[Date "1858.??.??"]
+[Round "13"]
+[White "Loewenthal Johann J (HUN)"]
+[Black "Morphy Paul"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "0"]
+[BlackElo "2680"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O
+Nc6 8.c4 Be6 9.cxd5 Bxd5 10.Nc3 Nxc3 11.bxc3 O-O 12.Bf4 Bd6 13.Bxd6
+Qxd6 14.Ng5 f5 15.c4 Bxg2 16.Kxg2 Qg6 17.f4 h6 18.d5 Nd8 19.h4
+hxg5 20.hxg5 Nf7 21.Qf3 Nh6 22.Qg3 Nf7 23.c5 Rad8 24.Bc4 b5 25.Bb3
+a5 26.Rae1 Rfe8 27.Re6 Rxe6 28.dxe6 Kf8 29.exf7 a4 30.Rd1 Rxd1
+31.Bxd1 Qc6+ 32.Bf3 Qxc5 33.g6 Qd6 34.Qg5 Qd2+ 35.Kh3 Qd3 36.Qh5
+Ke7 37.Qh4+ Kd7 38.Kg3 Qd6 39.Qh8 Qxg6+ 40.Kf2 Qxf7 41.a3 Qe7
+42.Kg3 Qe1+ 43.Kg2 Qd2+ 44.Kg3 Qe1+ 1/2-1/2
+
+
+[Event "Match"]
+[Site "Paris (France)"]
+[Date "1858.??.??"]
+[Round "2"]
+[White "Anderssen Adolf (GER)"]
+[Black "Morphy Paul"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[WhiteElo "0"]
+[BlackElo "2680"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 Bc5 6.c3 b5 7.Bc2 d5
+8.exd5 Nxd5 9.h3 O-O 10.O-O h6 11.d4 exd4 12.cxd4 Bb6 13.Nc3
+Ndb4 14.Bb1 Be6 15.a3 Nd5 16.Ne2 Nf6 17.Be3 Re8 18.Ng3 Bc4 19.Nf5
+Bxf1 20.Qxf1 Ne7 21.N3h4 Nxf5 22.Nxf5 Qd7 23.Bxh6 gxh6 24.Qc1
+Bxd4 25.Qxh6 Re1+ 26.Kh2 Ne4 27.Bxe4 Rxe4 28.Qg5+ Kf8 29.Qh6+
+Ke8 30.Nxd4 Qd6+ 31.Qxd6 cxd6 32.Rd1 Kf8 33.Rd2 Rae8 34.g4 R8e5
+35.f3 Re1 36.h4 Rd5 37.Kg3 a5 38.h5 Kg8 39.Kf2 Re8 40.Kg3 Re7
+41.Kf4 Kh7 42.Kg3 Re3 43.Kf4 Re8 44.Kg3 Re3 1/2-1/2
+
+
+[Event "Match"]
+[Site "Paris (France)"]
+[Date "1858.??.??"]
+[Round "8"]
+[White "Anderssen Adolf (GER)"]
+[Black "Morphy Paul"]
+[Result "1/2-1/2"]
+[ECO "A20"]
+[WhiteElo "0"]
+[BlackElo "2680"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.a3 e5 2.c4 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.e3 Be6 6.Nf3 Bd6 7.Be2
+O-O 8.d4 Nxc3 9.bxc3 e4 10.Nd2 f5 11.f4 Qh4+ 12.g3 Qh3 13.Bf1
+Qh6 14.c4 c6 15.c5 Bc7 16.Bc4 Nd7 17.O-O b5 18.cxb6 axb6 19.Qb3
+Rfe8 20.Bb2 b5 21.Bxe6+ Qxe6 22.Qc2 Qd5 23.Rfc1 Ra6 24.a4 Rea8
+25.axb5 Qxb5 26.Qc4+ Qxc4 27.Nxc4 Rxa1 28.Bxa1 Nf6 29.Bc3 Ra2
+30.Bd2 Nd5 31.Kf1 Bd8 32.Ke1 Be7 33.Rb1 h6 34.Ne5 c5 35.dxc5
+Bxc5 36.Rb5 Nxe3 37.Rxc5 Ng2+ 38.Ke2 e3 39.Nf3 g6 40.Rd5 Kf7
+41.Rd6 Kg7 42.h4 exd2 43.Rxd2 Ra4 44.Kf2 Nxf4 45.gxf4 Rxf4 46.Rd4
+Rxd4 47.Nxd4 Kf6 48.Ke3 g5 49.h5 Ke5 50.Nf3+ Kf6 51.Nd4 Ke5 1/2-1/2
+
+
+[Event ""]
+[Site "Paris (France)"]
+[Date "1858.??.??"]
+[Round "?"]
+[White "Baucher Jacques (FRA)"]
+[Black "Morphy Paul"]
+[Result "0-1"]
+[ECO "C39"]
+[WhiteElo "2086"]
+[BlackElo "2680"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6 6.Nxg4 Nxe4 7.d3
+Ng3 8.Bxf4 Nxh1 9.Qe2+ Qe7 10.Nf6+ Kd8 11.Bxc7+ Kxc7 12.Nd5+
+Kd8 13.Nxe7 Bxe7 14.Qg4 d6 15.Qf4 Rg8 16.Nc3 Be6 17.Be2 Nc6 18.O-O-O
+Ng3 19.Bf3 Nf5 20.d4 Nxh4 21.Kb1 Nxf3 22.gxf3 d5 23.Nb5 Rc8 24.c4
+Kd7 25.cxd5 Bxd5 26.Nc3 Bd6 27.Qf5+ Be6 28.Qb5 Kc7 29.Ka1 Bd7
+30.Nd5+ Kb8 31.Nf6 Rgd8 32.d5 Ne5 33.Qe2 Bf5 34.Ne4 Bxe4 35.fxe4
+Nc4 36.Rc1 b5 37.e5 Nxe5 38.Qxb5+ Ka8 39.Rd1 Rc2 40.Qa6 f5 41.Kb1
+Rc7 42.Rf1 Nc4 43.Rf2 Rb8 44.b3 Ba3 0-1
+
+
+[Event ""]
+[Site "Paris (France)"]
+[Date "1858.??.??"]
+[Round "?"]
+[White "De Riviere Jules A (FRA)"]
+[Black "Morphy Paul"]
+[Result "0-1"]
+[ECO "C51"]
+[WhiteElo "0"]
+[BlackElo "2680"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.O-O d6 7.d4
+exd4 8.cxd4 Bb6 9.d5 Na5 10.Bd3 Ne7 11.Bb2 O-O 12.Nbd2 Ng6 13.Nd4
+Qf6 14.N2f3 Bg4 15.Qc2 Bxf3 16.Nxf3 Ne5 17.Kh1 Qe7 18.Nxe5 dxe5
+19.f4 f6 20.Qc3 Bd4 21.Qxa5 Bxb2 22.Rab1 b6 23.Qd2 Bd4 24.f5
+a6 25.Bc4 Qd6 26.a4 Rfb8 27.Rb3 Kf8 28.Qe2 b5 29.axb5 a5 30.Rg3
+a4 31.Qh5 h6 32.Qg6 Qe7 33.d6 cxd6 34.Qxh6 Qf7 35.Qh8+ Ke7 36.Rxg7
+Rxh8 37.Rxf7+ Ke8 38.Rxf6 a3 39.Ba2 Rc8 40.b6 Kd7 41.b7 Rc2 42.Be6+
+Kc7 43.Rb1 Kb8 44.Bb3 Rb2 45.Rxb2 axb2 46.Ba2 Kxb7 47.Rxd6 Ra8 0-1
+
+
+[Event ""]
+[Site "Paris (France)"]
+[Date "1858.??.??"]
+[Round "?"]
+[White "De Riviere Jules A (FRA)"]
+[Black "Morphy Paul"]
+[Result "0-1"]
+[ECO "C51"]
+[WhiteElo "0"]
+[BlackElo "2680"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.O-O d6 7.d4
+exd4 8.cxd4 Bb6 9.Bb2 Nf6 10.Nbd2 O-O 11.h3 d5 12.exd5 Nxd5 13.Ne4
+Bf5 14.Ng3 Bg6 15.Ne5 Nf6 16.Nxg6 hxg6 17.Ba3 Re8 18.Qb3 Qd7
+19.Rad1 Na5 20.Qd3 Rad8 21.Bb2 Nxc4 22.Qxc4 Qd5 23.Qa4 c6 24.Rd3
+c5 25.Rfd1 c4 26.Re3 Bc7 27.Nf1 a5 28.Rxe8+ Rxe8 29.Ne3 Qd6 30.Qxc4
+Qh2+ 31.Kf1 Ne4 32.Bc1 Bf4 33.Qc2 Bxe3 34.Bxe3 Qh1+ 35.Ke2 Qxg2
+36.Kd3 Qf3 37.Re1 Qf5 38.Ke2 Qh5+ 39.Kd3 Qb5+ 40.Qc4 Nxf2+ 41.Bxf2
+Qf5+ 42.Kd2 Qxf2+ 43.Re2 Rxe2+ 44.Qxe2 Qxd4+ 0-1
+
+
+[Event ""]
+[Site "Paris (France)"]
+[Date "1858.??.??"]
+[Round "5"]
+[White "Harrwitz Daniel (GER)"]
+[Black "Morphy Paul"]
+[Result "0-1"]
+[ECO "A85"]
+[WhiteElo "0"]
+[BlackElo "2680"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 f5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Bd3 b6 7.Nge2
+Bb7 8.O-O Nh5 9.Bxe7 Qxe7 10.Ng3 Nxg3 11.hxg3 d6 12.f4 Nc6 13.g4
+Nb4 14.gxf5 exf5 15.Qd2 Rae8 16.Rae1 Qh4 17.Bb1 Re6 18.Qf2 Qh5
+19.d5 Rh6 20.Qf3 Qh4 21.a3 Na6 22.b4 Nb8 23.Ne2 Nd7 24.Ng3 g6
+25.Kf2 Nf6 26.Rh1 Ng4+ 27.Kg1 Qf6 28.Rxh6 Nxh6 29.Qd1 Ng4 30.Qd2
+Qh4 31.Nf1 Re8 32.g3 Qh3 33.b5 Nf6 34.Qg2 Qxg2+ 35.Kxg2 a6 36.a4
+axb5 37.axb5 Ra8 38.Nd2 Ra3 39.e4 fxe4 40.Nxe4 Nxe4 41.Bxe4 Rc3
+42.Bf3 Kf7 43.Re4 Bc8 44.Be2 Bf5 45.Rd4 h5 46.Kf2 Kf6 47.Rd2
+Bc2 48.Ke1 Be4 49.Kf2 Kf5 50.Ra2 h4 51.gxh4 Kxf4 52.Ra7 Rh3 53.Rxc7
+Rh2+ 54.Ke1 Ke3 0-1
+
+
+[Event ""]
+[Site "Paris (France)"]
+[Date "1858.??.??"]
+[Round "7"]
+[White "Harrwitz Daniel (GER)"]
+[Black "Morphy Paul"]
+[Result "1/2-1/2"]
+[ECO "A85"]
+[WhiteElo "0"]
+[BlackElo "2680"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 f5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Bd3 b6 7.Nge2
+Bb7 8.Bxf6 Bxf6 9.O-O Qe7 10.Qd2 d6 11.f4 c5 12.d5 Na6 13.dxe6
+Qxe6 14.Rae1 Bh4 15.Ng3 Qg6 16.Nd5 Bxd5 17.cxd5 Bxg3 18.hxg3
+Nc7 19.Kf2 Rae8 20.Rh1 Re7 21.Rh4 Qf7 22.Be2 Ne8 23.Qd3 Nf6 24.Bf3
+g6 25.Re2 Rfe8 26.b3 Qg7 27.Rh1 h6 28.Kg1 g5 29.fxg5 hxg5 30.Bh5
+Ne4 31.Re1 Rf8 32.Bf3 Nxg3 33.Rh3 Qe5 34.Rh6 g4 35.Bd1 Kg7 36.Rh4
+Rh8 37.Rxh8 Kxh8 38.Bc2 Rh7 39.Qd2 Qb2 40.Rd1 Rh1+ 41.Kf2 Rf1+
+42.Kxg3 Qe5+ 43.Kh4 Qf6+ 44.Kg3 Qe5+ 45.Kh4 Qf6+ 1/2-1/2
+
+
+[Event ""]
+[Site "Paris (France)"]
+[Date "1858.??.??"]
+[Round "?"]
+[White "Journoud P"]
+[Black "Morphy Paul"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "0"]
+[BlackElo "2680"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Nc3 d6 5.h3 Be6 6.Bb3 Nf6 7.d3
+Qd7 8.O-O O-O 9.Kh1 h6 10.Nh2 d5 11.f4 dxe4 12.fxe5 Nxe5 13.Na4
+Bb6 14.Nxb6 axb6 15.d4 Nc6 16.Rxf6 gxf6 17.Bxh6 Rfd8 18.Qe1 Ne7
+19.Qh4 Ng6 20.Qxf6 Qxd4 21.Qf1 Bxb3 22.cxb3 Ra5 23.Ng4 f5 24.Be3
+Qd3 25.Nh6+ Kh7 26.Qc1 Rd7 27.Bg5 Qg3 28.Qe3 Qxe3 29.Bxe3 f4
+30.Ng4 fxe3 31.Nf6+ Kg7 32.Nxd7 Rd5 33.Re1 Rxd7 34.Rxe3 Rd4 35.Kh2
+Nh4 36.g4 Kf6 37.a4 Kg5 38.Kg3 Rd2 0-1

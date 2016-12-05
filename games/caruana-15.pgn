@@ -1,0 +1,715 @@
+[Event "76th Tata Steel Masters"]
+[Site "Wijk aan Zee NED"]
+[Date "2014.01.12"]
+[Round "2.4"]
+[White "Aronian, L."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "A34"]
+[WhiteElo "2812"]
+[BlackElo "2782"]
+[PlyCount "115"]
+[EventDate "2014.01.11"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "NED"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2014.01.13"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 d5 4. cxd5 Nxd5 5. d4 Nxc3 6. bxc3 g6 7. Bf4 Bg7 8.
+e3 O-O 9. Bd3 Nd7 10. O-O Qa5 11. Qc2 cxd4 12. cxd4 e5 13. Bg3 exd4 14. Nxd4
+Nb6 15. Qc7 Bxd4 16. exd4 Bf5 17. Bxf5 Qxf5 18. Qxb7 Rfd8 19. Rfd1 Rd7 20. Qa6
+Qe4 21. Be5 Rf8 22. h3 f6 23. Bg3 Rff7 24. f3 Qf5 25. Rac1 Kg7 26. Kh2 Rfe7 27.
+Rc5 Nd5 28. Qa5 Qe6 29. Re1 Qf7 30. Re4 Ne3 31. Bf2 Nf5 32. Qd2 Re6 33. Rxe6
+Qxe6 34. d5 Qd6+ 35. Kg1 Rb7 36. Qe1 Ne7 37. Ra5 Nxd5 38. Qd1 Rd7 39. Rxa7 Rxa7
+40. Bxa7 g5 41. a4 Qa6 42. Bd4 Qc4 43. Qa1 Qc2 44. a5 Nf4 45. Bf2 Ne2+ 46. Kh2
+Nf4 47. Qf1 Nd3 48. Bd4 Qd2 49. Bg1 Qf4+ 50. Kh1 Qc4 51. Qa1 Qc2 52. Be3 h6 53.
+a6 Qe2 54. Qg1 Qa2 55. a7 Nb4 56. Qd1 Nd5 57. Qd2 Qa1+ 58. Bg1 1-0
+
+
+[Event "76th Tata Steel Masters"]
+[Site "Wijk aan Zee NED"]
+[Date "2014.01.15"]
+[Round "4.3"]
+[White "Dominguez Perez, L."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "2754"]
+[BlackElo "2782"]
+[PlyCount "215"]
+[EventDate "2014.01.11"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "NED"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2014.01.20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3
+O-O 9. Nc3 Be6 10. Be3 Qd7 11. Nd5 Bd8 12. Bg5 Bxd5 13. exd5 Nd4 14. Nxd4 exd4
+15. a4 Qf5 16. Bd2 Rb8 17. axb5 axb5 18. h3 h5 19. Ra7 h4 20. Qf3 Qxf3 21. gxf3
+Re8 22. f4 Nd7 23. Bb4 Nb6 24. Kg2 Na4 25. Ba3 Nb6 26. Bb4 Na4 27. Rb1 Re7 28.
+Ra6 Re8 29. Kf3 Rb7 30. Ra8 Kf8 31. Ra1 Nc5 32. R1a7 Rxa7 33. Rxa7 Nxb3 34.
+cxb3 Ke7 35. Rb7 Kd7 36. Rxb5 Rh8 37. Bd2 Rh5 38. Ra5 g6 39. Ke4 Rh8 40. Ra8
+f5+ 41. Kf3 Bf6 42. Ra1 Rb8 43. b4 Re8 44. Ra7 Rb8 45. Ke2 Kc8 46. Kd1 Rb5 47.
+Ra5 Rb8 48. Kc2 Kd7 49. Ra1 Rb5 50. Ra5 Rb8 51. b5 Kc8 52. Kb3 Kb7 53. Ra1 Re8
+54. Re1 Rxe1 55. Bxe1 Kb6 56. Kc4 Be7 57. f3 Bf6 58. Kb4 Bd8 59. Bf2 Bf6 60. b3
+Kb7 61. Ka5 Bd8 62. Kb4 Bf6 63. Ka5 Bd8 64. b6 cxb6+ 65. Kb5 Bf6 66. b4 Be7 67.
+Bxd4 Bd8 68. Bc3 Be7 69. Bg7 Bd8 70. Bd4 Be7 71. Bxb6 Bf6 72. Bf2 Bc3 73. Bxh4
+Bd2 74. Bf2 Bxf4 75. Ka4 Ka6 76. b5+ Kb7 77. Kb3 Kc7 78. Kc2 Kb7 79. Bd4 Bg3
+80. Be3 Be5 81. Kb3 Kc7 82. Ka4 Kb7 83. Kb4 Bg3 84. Kc4 Be5 85. Kb3 Bg3 86. Kc2
+Be5 87. Kd2 Bg3 88. Ke2 Bh4 89. Kf1 Bg3 90. Kg2 Bh4 91. Bf2 Bf6 92. Be3 Bh4 93.
+Bf2 Bf6 94. h4 Kc7 95. Kh3 Kb7 96. h5 gxh5 97. Bh4 Bd4 98. Be7 Be5 99. Bd8 Kc8
+100. Bg5 Kb7 101. Kh4 Kb6 102. Be3+ Kxb5 103. f4 Bb2 104. Kxh5 Kb4 105. Kg5 Kc3
+106. Kxf5 Kxd3 107. Bg1 Bc1 108. Bh2 1-0
+
+
+[Event "Zurich Chess Challenge 2014"]
+[Site "Zurich SUI"]
+[Date "2014.02.02"]
+[Round "4.2"]
+[White "Carlsen, M."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "2872"]
+[BlackElo "2782"]
+[PlyCount "93"]
+[EventDate "2014.01.30"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "SUI"]
+[EventCategory "22"]
+[Source "Mark Crowther"]
+[SourceDate "2014.02.03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. h3 Nd7 7. Be3 Bd6 8.
+Nc3 c5 9. O-O Nf8 10. Nd2 Ng6 11. Nc4 Be6 12. Ne2 Qd7 13. Nxd6+ cxd6 14. f4
+exf4 15. Nxf4 Nxf4 16. Rxf4 b6 17. Qh5 d5 18. d4 c4 19. b3 Qc6 20. Raf1 O-O-O
+21. bxc4 Qxc4 22. Rxf7 Bxf7 23. Rxf7 Rd7 24. Rxd7 Kxd7 25. exd5 g6 26. Qg4+ Kc7
+27. Qe6 Kb7 28. Qe7+ Qc7 29. Qe4 Qd7 30. d6+ Ka6 31. Bf4 Rc8 32. Kh2 Rc4 33.
+Bg3 Rc8 34. Qd3+ Kb7 35. c4 Qc6 36. Qb3 Ka8 37. a4 Re8 38. a5 Kb7 39. c5 Kc8
+40. axb6 axb6 41. d5 Qxc5 42. Qa4 Re3 43. Qa8+ Kd7 44. Qb7+ Ke8 45. d7+ Kd8 46.
+Bh4+ Re7 47. Qc8+ 1-0
+
+
+[Event "Vugar Gashimov Mem 2014"]
+[Site "Shamkir AZE"]
+[Date "2014.04.30"]
+[Round "10.2"]
+[White "Carlsen, M."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "A49"]
+[WhiteElo "2881"]
+[BlackElo "2783"]
+[PlyCount "97"]
+[EventDate "2014.04.20"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "AZE"]
+[EventCategory "22"]
+[Source "Mark Crowther"]
+[SourceDate "2014.05.05"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 c5 5. c3 d5 6. dxc5 O-O 7. O-O a5 8. Be3
+Nc6 9. Na3 a4 10. Qc1 e5 11. Rd1 Qe7 12. Nb5 Be6 13. Ng5 Bg4 14. Nd6 h6 15. Nf3
+Kh7 16. h3 Be6 17. b4 axb3 18. axb3 Rxa1 19. Qxa1 Ne4 20. Nd2 f5 21. N2xe4 dxe4
+22. Qb1 f4 23. Bd2 e3 24. Be1 Bf5 25. Qc1 h5 26. fxe3 fxg3 27. Bxg3 Qg5 28. e4
+Qxg3 29. Rd3 Qh4 30. exf5 gxf5 31. e4 fxe4 32. Bxe4+ Kh8 33. Qe3 Rf4 34. Bg2
+Qe7 35. Qe2 Qh4 36. b4 e4 37. Nxe4 Ne5 38. Rd5 Kg8 39. b5 Rf5 40. c6 bxc6 41.
+bxc6 Qe7 42. Nd6 Rg5 43. Nb5 Qe6 44. Rd8+ Kh7 45. Qe4+ Rg6 46. c7 Qa6 47. c8=Q
+Qa1+ 48. Kf2 Qb2+ 49. Ke1 1-0
+
+
+[Event "Vugar Gashimov Mem 2014"]
+[Site "Shamkir AZE"]
+[Date "2014.04.24"]
+[Round "5.3"]
+[White "Mamedyarov, S."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "D90"]
+[WhiteElo "2760"]
+[BlackElo "2783"]
+[PlyCount "167"]
+[EventDate "2014.04.20"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "AZE"]
+[EventCategory "22"]
+[Source "Mark Crowther"]
+[SourceDate "2014.04.28"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. Bg5 Nxc3 7. bxc3 c5 8.
+Rc1 Bg4 9. Qb3 Qc7 10. e3 Bxf3 11. gxf3 O-O 12. d5 a6 13. a4 b5 14. axb5 axb5
+15. Bxb5 Nd7 16. c4 Ne5 17. Ke2 Ra7 18. f4 Ng4 19. Rc2 Nf6 20. Qd3 Rfa8 21.
+Bxf6 Bxf6 22. Bc6 Rb8 23. h3 Rb6 24. Bb5 Qc8 25. Rd2 Kg7 26. Kf3 Ra1 27. Rdd1
+Ra2 28. Kg2 Bh4 29. Rhf1 Rf6 30. Qb3 Ra7 31. Qc3 Kh6 32. Ra1 Rxa1 33. Qxa1 g5
+34. fxg5+ Bxg5 35. Qe5 Bh4 36. Qe4 Rg6+ 37. Kh2 Bf6 38. Ba4 Qc7+ 39. Kh1 Qc8
+40. Qf3 Kg7 41. Bc2 Rg5 42. Rb1 Be5 43. Rg1 Rxg1+ 44. Kxg1 Bd6 45. Kg2 Qg8 46.
+Qh5 Kh8+ 47. Kf1 Qg7 48. f4 Kg8 49. Kf2 Kh8 50. Kf3 Bc7 51. Qf5 Bd6 52. Qh5 Bc7
+53. Bb1 Bb8 54. Bd3 Bd6 55. h4 Qg8 56. Bc2 Qg7 57. Bd3 Qg8 58. Be4 Qg7 59. Bb1
+Qg8 60. Bd3 Qg7 61. e4 Qc3 62. Qxf7 Qxd3+ 63. Kg4 Qe2+ 64. Kf5 h5 65. Qf8+ Kh7
+66. Qf7+ Kh8 67. Qg6 Qxc4 68. Qxh5+ Kg7 69. Qg6+ Kh8 70. Ke6 Qf1 71. Qh6+ Kg8
+72. Qg6+ Kh8 73. Qh5+ Kg7 74. Qg4+ Kf8 75. Qh5 Kg7 76. Qg5+ Kf8 77. e5 Qb1 78.
+Qh6+ Kg8 79. Qg5+ Kf8 80. f5 Bxe5 81. Qxe7+ Kg8 82. Kxe5 Qb2+ 83. Ke6 Qe2+ 84.
+Kf6 1-0
+
+
+[Event "2nd Norway Blitz 2014"]
+[Site "Flor & Fjaere NOR"]
+[Date "2014.06.02"]
+[Round "6.2"]
+[White "Carlsen, M."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "C07"]
+[WhiteElo "2881"]
+[BlackElo "2791"]
+[PlyCount "21"]
+[EventDate "2014.06.02"]
+[EventType "tourn (blitz)"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2014.06.02"]
+
+1. d4 e6 2. e4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. Nxd4 Nf6 6. exd5 Qxd5 7. Nb5 Na6 8.
+Nc3 Qd8 9. a3 Be7 10. Qf3 O-O 11. Bxa6 1-0
+
+
+[Event "2nd Norway Blitz 2014"]
+[Site "Flor & Fjaere NOR"]
+[Date "2014.06.02"]
+[Round "3.2"]
+[White "Svidler, P."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2753"]
+[BlackElo "2791"]
+[PlyCount "49"]
+[EventDate "2014.06.02"]
+[EventType "tourn (blitz)"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2014.06.02"]
+
+1. Nf3 c5 2. c4 Nc6 3. b3 e5 4. Bb2 d6 5. e3 f5 6. Nc3 Nf6 7. d4 cxd4 8. exd4
+e4 9. d5 exf3 10. dxc6 Qe7+ 11. Kd2 bxc6 12. Qxf3 Ne4+ 13. Kc2 Be6 14. Nxe4
+fxe4 15. Qxe4 d5 16. Qe5 Qf7 17. cxd5 cxd5 18. Re1 Rc8+ 19. Kb1 Qg6+ 20. Ka1
+Kf7 21. Bd3 Qh6 22. Bf5 Rc6 23. Bxe6+ Rxe6 24. Qf5+ Ke7 25. Qxd5 1-0
+
+
+[Event "2nd Norway Blitz 2014"]
+[Site "Flor & Fjaere NOR"]
+[Date "2014.06.02"]
+[Round "1.4"]
+[White "Grischuk, A."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "A34"]
+[WhiteElo "2792"]
+[BlackElo "2791"]
+[PlyCount "91"]
+[EventDate "2014.06.02"]
+[EventType "tourn (blitz)"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2014.06.02"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 g6 4. Bg2 Bg7 5. e3 O-O 6. Nge2 d6 7. O-O Nc6 8. d4
+Bd7 9. b3 Rb8 10. Bb2 a6 11. Rc1 e6 12. Qd2 Qe7 13. Rfd1 Rfd8 14. h3 Be8 15. d5
+exd5 16. Nxd5 Nxd5 17. Bxd5 Bxb2 18. Qxb2 Ne5 19. Nc3 Bc6 20. Qe2 Nd7 21. Qf3
+Rbc8 22. Ne4 Ne5 23. Qf6 Qxf6 24. Nxf6+ Kf8 25. Nxh7+ Ke7 26. Ng5 b5 27. f4
+Bxd5 28. Rxd5 Nc6 29. Ne4 Nb4 30. Rd2 bxc4 31. bxc4 a5 32. Rcd1 Rc6 33. Nc3 Ke6
+34. Kg2 Na6 35. g4 Nc7 36. a4 Rb6 37. Nb5 Nxb5 38. axb5 a4 39. Ra2 Ra8 40. e4
+a3 41. Rd3 Ra4 42. Rc3 f5 43. exf5+ gxf5 44. Raxa3 Rb4 45. Re3+ Kf6 46. g5+ 1-0
+
+
+[Event "2nd Norway Chess 2014"]
+[Site "Stavanger NOR"]
+[Date "2014.06.08"]
+[Round "5.3"]
+[White "Kramnik, V."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "E60"]
+[WhiteElo "2783"]
+[BlackElo "2791"]
+[PlyCount "103"]
+[EventDate "2014.06.03"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2014.06.09"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 c5 6. Nc3 cxd4 7. Nxd4 Qc7 8.
+Qd3 Nc6 9. O-O d6 10. b3 Nxd4 11. Qxd4 Ne4 12. Nd5 Bxd4 13. Nxc7 Bxa1 14. Be3
+Bf6 15. Nxa8 Nc3 16. Bxa7 Nxa2 17. Nc7 Nb4 18. Rd1 Kg7 19. f4 h5 20. Kf2 h4 21.
+c5 hxg3+ 22. hxg3 dxc5 23. Bxc5 Na6 24. Nxa6 bxa6 25. e4 Bg4 26. Rd5 Bb2 27.
+Bxe7 Re8 28. Bd8 Be6 29. Rd3 Bf6 30. Bxf6+ Kxf6 31. Bf3 Rb8 32. Bd1 Rb4 33. Ke3
+Ke7 34. g4 f6 35. g5 fxg5 36. fxg5 a5 37. Kf4 Rb5 38. Rc3 Kd6 39. Bc2 Rb4 40.
+Rg3 Ke7 41. Rd3 Rb5 42. Rc3 Kd7 43. Bd1 Kd6 44. Rd3+ Ke7 45. Rd2 Bxb3 46. Bxb3
+Rxb3 47. Rd5 a4 48. Ra5 a3 49. Ke5 Kf7 50. Ra7+ Ke8 51. Kf6 Rb6+ 52. Kg7 1-0
+
+
+[Event "FIDE World Rapid 2014"]
+[Site "Dubai UAE"]
+[Date "2014.06.17"]
+[Round "10.1"]
+[White "Carlsen, M."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "2881"]
+[BlackElo "2791"]
+[PlyCount "75"]
+[EventDate "2014.06.16"]
+[EventType "swiss (rapid)"]
+[EventRounds "15"]
+[EventCountry "UAE"]
+[Source "Mark Crowther"]
+[SourceDate "2014.06.23"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O exd4 7. Qxd4 Nb6 8.
+Bb3 O-O 9. a4 a5 10. Bf4 Bg4 11. Qd3 Nfd7 12. Nd4 Bf6 13. Ndb5 Nc5 14. Qg3 Nxb3
+15. cxb3 Be6 16. Rac1 Nd7 17. Nd5 Bxd5 18. exd5 Rc8 19. Bd2 Be5 20. Qh3 c6 21.
+dxc6 Rxc6 22. Bxa5 Qxa5 23. Qxd7 Rxc1 24. Rxc1 Qd2 25. Rf1 Qxb2 26. Qxb7 Qxb3
+27. a5 d5 28. Qc6 Rb8 29. Rc1 g6 30. a6 Qa2 31. a7 Rf8 32. g3 d4 33. Qb7 Kg7
+34. Rc8 Rxc8 35. Qxc8 Qb1+ 36. Kg2 Qe4+ 37. Kh3 Qd3 38. a8=Q 1-0
+
+
+[Event "FIDE World Blitz 2014"]
+[Site "Dubai UAE"]
+[Date "2014.06.20"]
+[Round "17.6"]
+[White "Morozevich, A."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "A41"]
+[WhiteElo "2731"]
+[BlackElo "2791"]
+[PlyCount "75"]
+[EventDate "2014.06.19"]
+[EventType "swiss (blitz)"]
+[EventRounds "21"]
+[EventCountry "UAE"]
+[Source "Mark Crowther"]
+[SourceDate "2014.06.23"]
+
+1. d4 d6 2. Nf3 Nf6 3. c4 g6 4. Nc3 Bf5 5. h3 Bg7 6. g4 Bc8 7. e4 h5 8. g5 Nfd7
+9. Be3 c5 10. d5 Na6 11. Bg2 O-O 12. O-O Nc7 13. a4 Rb8 14. Nh4 e5 15. dxe6
+Nxe6 16. f4 Bd4 17. Bxd4 Nxd4 18. Nb5 Re8 19. Nxd6 Re6 20. e5 Nf8 21. Ne4 Rb6
+22. Rf2 Be6 23. Nxc5 Bxc4 24. Rc1 Ne2+ 25. Kh2 Nxc1 26. Qxc1 Qd4 27. Ne4 Ne6
+28. Rd2 Qe3 29. Rd8+ Rxd8 30. Qxe3 Rxb2 31. f5 gxf5 32. Nxf5 Bf1 33. Nh4 Rd3
+34. Nf6+ Kg7 35. Qe4 Nxg5 36. Qf5 Rxh3+ 37. Kg1 Nf3+ 38. Nxf3 1-0
+
+
+[Event "FIDE World Blitz 2014"]
+[Site "Dubai UAE"]
+[Date "2014.06.20"]
+[Round "14.8"]
+[White "Harikrishna, P."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "A41"]
+[WhiteElo "2726"]
+[BlackElo "2791"]
+[PlyCount "47"]
+[EventDate "2014.06.19"]
+[EventType "swiss (blitz)"]
+[EventRounds "21"]
+[EventCountry "UAE"]
+[Source "Mark Crowther"]
+[SourceDate "2014.06.23"]
+
+1. d4 d6 2. Nf3 Nf6 3. Bg5 Nbd7 4. c3 g6 5. Nbd2 Bg7 6. e4 h6 7. Bh4 g5 8. Bg3
+Nh5 9. Bd3 e6 10. Qe2 O-O 11. O-O-O Qe7 12. e5 g4 13. exd6 cxd6 14. Nh4 Nxg3
+15. hxg3 Qg5 16. Kb1 d5 17. f4 gxf3 18. gxf3 e5 19. f4 exf4 20. gxf4 Qf6 21.
+Nf5 Nc5 22. Nxh6+ Bxh6 23. Rdg1+ Kh8 24. Qe5 1-0
+
+
+[Event "FIDE World Blitz 2014"]
+[Site "Dubai UAE"]
+[Date "2014.06.20"]
+[Round "12.7"]
+[White "Polgar, Ju"]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2685"]
+[BlackElo "2791"]
+[PlyCount "115"]
+[EventDate "2014.06.19"]
+[EventType "swiss (blitz)"]
+[EventRounds "21"]
+[EventCountry "UAE"]
+[Source "Mark Crowther"]
+[SourceDate "2014.06.23"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 f6 7. b4 c4 8. Be3 Bd7 9.
+Nbd2 Qc7 10. b5 Na5 11. a4 O-O-O 12. g3 Ne7 13. h4 h5 14. Qc2 Be8 15. Bh3 Qd7
+16. b6 a6 17. exf6 gxf6 18. Bf4 Bg6 19. Qb2 Bd3 20. Bc7 Re8 21. Kd1 Nf5 22. Ne1
+Bd6 23. Nxd3 cxd3 24. Qb1 Nc4 25. Nxc4 dxc4 26. Bg2 e5 27. Qa2 Bxc7 28. Qxc4
+Nd6 29. Qc5 e4 30. Re1 f5 31. Bh3 Rhf8 32. c4 Kb8 33. bxc7+ Qxc7 34. Qxc7+ Kxc7
+35. Rc1 Nc8 36. Bg2 Nb6 37. Kd2 Nxa4 38. c5 Rd8 39. Rc4 Nb2 40. Rb4 a5 41. Rxb2
+Rxd4 42. Reb1 Kc6 43. Rxb7 Ra4 44. R1b2 Rd8 45. f3 Kxc5 46. fxe4 fxe4 47. Rc7+
+Kd4 48. Re7 Kd5 49. Ke3 Kc5 50. Rxe4 d2 51. Rc2+ Kb6 52. Re6+ Ka7 53. Rc7+ Kb8
+54. Rb7+ Kc8 55. Ree7 Ra3+ 56. Kf2 Rc3 57. Bh3+ Rd7 58. Rbxd7 1-0
+
+
+[Event "FIDE World Blitz 2014"]
+[Site "Dubai UAE"]
+[Date "2014.06.19"]
+[Round "8.14"]
+[White "Gundavaa, B."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "2501"]
+[BlackElo "2791"]
+[PlyCount "97"]
+[EventDate "2014.06.19"]
+[EventType "swiss (blitz)"]
+[EventRounds "21"]
+[EventCountry "UAE"]
+[Source "Mark Crowther"]
+[SourceDate "2014.06.23"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O exd4 7. Qxd4 Nb6 8.
+Bb3 O-O 9. a4 a5 10. h3 Nfd7 11. Be3 Nc5 12. Rad1 Nxb3 13. cxb3 Be6 14. Nd5
+Nxd5 15. exd5 Bf5 16. Rd2 Re8 17. Rc1 Bf6 18. Qc4 Rc8 19. Nd4 Be4 20. Ne6 Bxd5
+21. Qxd5 Rxe6 22. Qxb7 h6 23. Qc6 Bg5 24. Bxg5 Qxg5 25. Rd5 Qf6 26. Qc3 Qf4 27.
+Rxa5 c5 28. Rf1 Rb8 29. Rb5 Ree8 30. Qc4 Qe5 31. a5 Qxb2 32. a6 Qa2 33. Rd1 Ra8
+34. Rb6 Re2 35. Rf1 Re6 36. Qb5 Kh7 37. Qd3+ g6 38. Qf3 Rf8 39. Qb7 Kg7 40. a7
+Rfe8 41. Ra6 Qe2 42. g3 Qd3 43. a8=Q Re1 44. Qg2 Rxa8 45. Rxa8 Re7 46. Rb8 d5
+47. Rd8 d4 48. Qd5 Qc2 49. b4 1-0
+
+
+[Event "FIDE World Blitz 2014"]
+[Site "Dubai UAE"]
+[Date "2014.06.19"]
+[Round "4.20"]
+[White "Volokitin, And"]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2638"]
+[BlackElo "2791"]
+[PlyCount "49"]
+[EventDate "2014.06.19"]
+[EventType "swiss (blitz)"]
+[EventRounds "21"]
+[EventCountry "UAE"]
+[Source "Mark Crowther"]
+[SourceDate "2014.06.23"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Na3 Nh6 7. Nc2 cxd4 8. cxd4
+Nf5 9. Bd3 Be7 10. O-O Bd7 11. g4 Nh6 12. h3 O-O-O 13. Rb1 Kb8 14. b4 Ng8 15.
+Bd2 h5 16. b5 Na5 17. Qe1 Qc7 18. Bxa5 b6 19. Nb4 Ka8 20. Na6 Qb7 21. Bb4 hxg4
+22. hxg4 Bc8 23. Rc1 Qd7 24. Rc7 Qe8 25. Rxe7 1-0
+
+
+[Event "2nd Sinquefield Cup 2014"]
+[Site "Saint Louis USA"]
+[Date "2014.09.05"]
+[Round "9.1"]
+[White "Caruana, F."]
+[Black "Nakamura, Hi"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2801"]
+[BlackElo "2787"]
+[PlyCount "110"]
+[EventDate "2014.08.27"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "USA"]
+[EventCategory "23"]
+[Source "Mark Crowther"]
+[SourceDate "2014.09.08"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 11. Bf4 Be7 12. Rad1 Be6 13. Ng5 Rh6 14.
+Rfe1 Bb4 15. g4 hxg4 16. hxg4 Ne7 17. Nxe6 Rxe6 18. Kg2 Rd8 19. Rxd8+ Kxd8 20.
+Rd1+ Kc8 21. Bg3 Bxc3 22. bxc3 Rg6 23. Rd4 f5 24. Bh4 c5 25. Rf4 Nd5 26. Rxf5
+Rxg4+ 27. Bg3 Kd8 28. Kh3 Rg6 29. c4 Ne7 30. Rf8+ Kd7 31. f4 Ke6 32. Bh4 Rh6
+33. Re8 g5 34. fxg5 Rg6 35. Kg4 Kf7 36. Rh8 Ra6 37. Rh7+ Kf8 38. Rh6 Ng6 39.
+Kf5 Kg7 40. Bf2 Ne7+ 41. Ke4 Ra4 42. Re6 Nc6 43. Kf5 Rxc4 44. Rg6+ Kf8 45. Rf6+
+Kg8 46. g6 Rxc2 47. Be3 Nd4+ 48. Bxd4 cxd4 49. Rf7 d3 50. Rd7 Rf2+ 51. Kg5 Rg2+
+52. Kf6 Rf2+ 53. Kg5 Rg2+ 54. Kf6 Rf2+ 55. Kg5 Rg2+ 1/2-1/2
+
+
+[Event "30th ECC Open 2014"]
+[Site "Bilbao ESP"]
+[Date "2014.09.20"]
+[Round "7.3"]
+[White "Caruana, F."]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "A15"]
+[WhiteElo "2801"]
+[BlackElo "2777"]
+[PlyCount "201"]
+[EventDate "2014.09.14"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "Mark Crowther"]
+[SourceDate "2014.09.22"]
+[WhiteTeam "Obiettivo Risarcimento"]
+[BlackTeam "Malakhite"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 c5 4. Bg2 Bb7 5. O-O g6 6. d4 cxd4 7. Qxd4 Bg7 8. Nc3
+d6 9. Rd1 Nbd7 10. Be3 Nc5 11. Rac1 O-O 12. Qh4 Nce4 13. Nxe4 Bxe4 14. Bd4 Re8
+15. b3 Bc6 16. Ne1 Qc7 17. Bxc6 Qxc6 18. Nc2 Rac8 19. Nb4 Qb7 20. Bxf6 Bxf6 21.
+Qf4 Be5 22. Qe3 e6 23. a4 Bg7 24. Rd3 h5 25. h4 Kh7 26. Qd2 Bh6 27. e3 Bf8 28.
+Na2 Red8 29. Nc3 Rd7 30. Nb5 Rcd8 31. Qe2 a6 32. Nd4 e5 33. Nf3 b5 34. Rd5 bxa4
+35. bxa4 Rc8 36. Qd3 Rdc7 37. c5 Rxc5 38. Rcxc5 Rxc5 39. Rxc5 dxc5 40. Nxe5 Bg7
+41. Nc4 Qc6 42. a5 Qb5 43. Qd5 Kg8 44. Kg2 Qe8 45. Nd2 Bf8 46. Ne4 Qc8 47. Nf6+
+Kg7 48. Nd7 Qc7 49. Nb6 Be7 50. Qc4 Qc6+ 51. Kg1 Bf6 52. Qd3 Qb7 53. Qd6 c4 54.
+Nd7 Qb1+ 55. Kh2 Qf5 56. Kg1 c3 57. Qf8+ Kh7 58. Nxf6+ Qxf6 59. Qc5 c2 60. Qxc2
+Qa1+ 61. Kg2 Qxa5 62. Qc4 Kg8 63. e4 Qb6 64. Qc8+ Kg7 65. Qc3+ Qf6 66. Qa5 Qe6
+67. Kf3 Qb3+ 68. Kg2 Qb5 69. Qc3+ Kf8 70. Qc8+ Ke7 71. Qc7+ Ke6 72. Qc8+ Ke5
+73. Qc7+ Ke6 74. Qc8+ Ke7 75. Qc7+ Kf8 76. Qc8+ Kg7 77. Qc3+ Kh7 78. Qc7 Qb3
+79. Qa5 Qb7 80. Kg1 Qb5 81. Qc7 Qb1+ 82. Kh2 Qa2 83. Qa7 Qc4 84. e5 Qe6 85. Qc7
+Kg7 86. Kg1 Qd5 87. Qa7 Qc6 88. Qd4 Kh7 89. Qa7 Kg8 90. Qb8+ Kg7 91. Qd8 Qc1+
+92. Kg2 Qc4 93. Kg1 Qc6 94. Qd4 Qe6 95. Qa7 Qa2 96. Qd4 Kh7 97. Qa7 Kg8 98.
+Qb8+ Kg7 99. Qa7 a5 100. e6 Qxe6 101. Qxa5 1/2-1/2
+
+
+[Event "Baku FIDE Grand Prix 2014"]
+[Site "Baku AZE"]
+[Date "2014.10.03"]
+[Round "2.2"]
+[White "Caruana, F."]
+[Black "Gelfand, B."]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2844"]
+[BlackElo "2748"]
+[PlyCount "74"]
+[EventDate "2014.10.02"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "AZE"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2014.10.06"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3
+h5 9. Qd2 Nbd7 10. Nd5 Bxd5 11. exd5 g6 12. Be2 Bg7 13. Na5 Qc7 14. c4 e4 15.
+O-O exf3 16. gxf3 O-O 17. b4 Rfe8 18. Rac1 Rxe3 19. Qxe3 Re8 20. Qd2 Kh7 21.
+Nb3 Bh6 22. f4 Ne4 23. Qe1 Ndf6 24. Bd3 Qd7 25. Rc2 Qh3 26. Qd1 Bxf4 27. Qf3
+Qxf3 28. Rxf3 Ng5 29. Rf1 Re3 30. Nc1 Ng4 31. c5 dxc5 32. bxc5 Re8 33. h4 Re3
+34. hxg5 Rg3+ 35. Kh1 Rh3+ 36. Kg2 Rg3+ 37. Kh1 Rh3+ 1/2-1/2
+
+
+[Event "Baku FIDE Grand Prix 2014"]
+[Site "Baku AZE"]
+[Date "2014.10.14"]
+[Round "11.1"]
+[White "Caruana, F."]
+[Black "Tomashevsky, E."]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[WhiteElo "2844"]
+[BlackElo "2701"]
+[PlyCount "67"]
+[EventDate "2014.10.02"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "AZE"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2014.10.20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d3 d6 10. Nbd2 Na5 11. Ba2 c5 12. Nf1 bxa4 13. Ne3 Bc6 14. Nh4 Bd7 15.
+Nhf5 Rb8 16. Qf3 Kh8 17. Qg3 Nh5 18. Qg4 g6 19. Qf3 Nc6 20. c3 Nf4 21. Nxe7
+Qxe7 22. Nd5 Nxd5 23. Bxd5 f6 24. Qg3 Rb6 25. f4 exf4 26. Bxf4 Ne5 27. d4 g5
+28. Bc1 cxd4 29. cxd4 Ng6 30. Qf2 Bc6 31. Be6 Rb4 32. Bf5 Nh4 33. d5 Bb5 34.
+Ra3 1/2-1/2
+
+
+[Event "Tashkent FIDE GP 2014"]
+[Site "Tashkent UZB"]
+[Date "2014.10.26"]
+[Round "5.4"]
+[White "Caruana, F."]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[WhiteElo "2844"]
+[BlackElo "2764"]
+[PlyCount "68"]
+[EventDate "2014.10.21"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UZB"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2014.10.27"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. Nc3 e6 6. Qb3 Qb6 7. Nh4 Bh5 8. h3
+Qxb3 9. axb3 Na6 10. g4 Nb4 11. Ke2 g5 12. gxh5 gxh4 13. Bg2 Nxh5 14. Bf3 Nf6
+15. Bd2 Be7 16. Rhc1 Kd7 17. e4 dxe4 18. Bxe4 Nxe4 19. Nxe4 Na6 20. Ra5 f5 21.
+Ng5 Bd8 22. Raa1 Bf6 23. Nf3 c5 24. Bc3 cxd4 25. Nxd4 Nc5 26. Rd1 Ke7 27. Bb4
+Rhc8 28. Nb5 a5 29. Rxa5 Rxa5 30. Bxa5 Bxb2 31. Bb4 Be5 32. Na7 Rc7 33. Nb5 Rc8
+34. Na7 Rc7 1/2-1/2
+
+
+[Event "Tashkent FIDE GP 2014"]
+[Site "Tashkent UZB"]
+[Date "2014.10.23"]
+[Round "3.5"]
+[White "Caruana, F."]
+[Black "Andreikin, D."]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2844"]
+[BlackElo "2722"]
+[PlyCount "88"]
+[EventDate "2014.10.21"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UZB"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2014.10.27"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 11. Bf4 Be7 12. Rad1 Be6 13. Ng5 Rh6 14.
+Rfe1 Bb4 15. Nge4 Rg6 16. Kh2 h4 17. g4 hxg3+ 18. fxg3 Ne7 19. a3 Bxc3 20. Nxc3
+Nd5 21. Ne2 Ke7 22. g4 Rh8 23. Kg2 Nxf4+ 24. Nxf4 Rgh6 25. Nxe6 Kxe6 26. Rd3 a5
+27. a4 b6 28. Re4 Re8 29. Red4 c5 30. Rf4 Rhh8 31. Kg3 Rd8 32. Rdf3 Rhf8 33. g5
+Rd1 34. h4 Re1 35. Rf5 g6 36. Rf6+ Ke7 37. Rc6 Rc8 38. Kf4 Kd7 39. Rf6 Ke7 40.
+b3 Rh8 41. Kg3 Rh7 42. Rc6 Kd7 43. Rcf6 Ke7 44. Rc6 Kd7 1/2-1/2
+
+
+[Event "Tashkent FIDE GP 2014"]
+[Site "Tashkent UZB"]
+[Date "2014.11.01"]
+[Round "10.2"]
+[White "Caruana, F."]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[ECO "D73"]
+[WhiteElo "2844"]
+[BlackElo "2767"]
+[PlyCount "82"]
+[EventDate "2014.10.21"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UZB"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2014.11.03"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 Nf6 5. c4 c6 6. cxd5 cxd5 7. Nc3 Ne4 8. Qb3
+Nxc3 9. bxc3 O-O 10. Nd2 e6 11. e4 Nc6 12. O-O Na5 13. Qd1 b6 14. e5 Ba6 15.
+Re1 Rc8 16. Re3 Re8 17. h4 Re7 18. h5 Rec7 19. Bb2 Nc4 20. Nxc4 Bxc4 21. hxg6
+hxg6 22. a4 b5 23. axb5 Rb7 24. Ba3 Rxb5 25. f4 a5 26. g4 Rcb8 27. Re1 Bf8 28.
+Bxf8 Kxf8 29. Qf3 Qh4 30. f5 gxf5 31. gxf5 Ke7 32. Rec1 exf5 33. Qxf5 Rb2 34.
+Rc2 Rxc2 35. Qxc2 Rh8 36. Qf5 Rh6 37. Rb1 Kf8 38. Qf3 a4 39. Rb7 f6 40. Rb8+
+Kf7 41. Rb7+ Kf8 1/2-1/2
+
+
+[Event "Tashkent FIDE GP 2014"]
+[Site "Tashkent UZB"]
+[Date "2014.10.29"]
+[Round "8.4"]
+[White "Caruana, F."]
+[Black "Kasimdzhanov, R."]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[WhiteElo "2844"]
+[BlackElo "2706"]
+[PlyCount "72"]
+[EventDate "2014.10.21"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "UZB"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2014.11.03"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 e6 5. Nf3 c5 6. O-O a6 7. dxc5 Qxd1 8.
+Rxd1 Bxc5 9. Be2 Nbd7 10. Nbd2 b6 11. a3 Bb7 12. b4 Be7 13. Nc4 O-O 14. Bb2 Bd5
+15. Nfe5 b5 16. Na5 Nxe5 17. Bxe5 Nd7 18. Bc7 Bf6 19. Rac1 Bb2 20. Rc2 Rfc8 21.
+Nc6 Rxc7 22. Ne7+ Kf8 23. Rxc7 Kxe7 24. e4 Be5 25. Rxd7+ Kxd7 26. exd5 Rc8 27.
+dxe6+ Kxe6 28. Bg4+ f5 29. Bf3 Rc3 30. Bb7 Rxa3 31. Bc8+ Kf6 32. g3 f4 33. gxf4
+Bxf4 34. Rd5 g6 35. Rd7 h5 36. Ra7 Bd6 1/2-1/2
+
+
+[Event "6th London Classic 2014"]
+[Site "London ENG"]
+[Date "2014.12.12"]
+[Round "3.2"]
+[White "Caruana, F."]
+[Black "Giri, A."]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2829"]
+[BlackElo "2768"]
+[PlyCount "88"]
+[EventDate "2014.12.10"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[EventCategory "22"]
+[Source "Mark Crowther"]
+[SourceDate "2014.12.15"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 Ke8 10. Ne2 b6 11. Rd1 Bb7 12. b3 Rc8 13. Bb2 Be7 14. Ned4
+Nxd4 15. Nxd4 Rg8 16. Nf5 c5 17. c4 Be4 18. Ng3 Bg6 19. f4 h5 20. f5 h4 21.
+fxg6 hxg3 22. gxf7+ Kxf7 23. hxg3 Ke6 24. Kf2 Rcd8 25. Ke2 Rxd1 26. Rxd1 Rh8
+27. Bc3 c6 28. Bd2 Re8 29. Rh1 Kxe5 30. Bc3+ Kf5 31. Kf3 Kg6 32. Rd1 Rd8 33.
+Rxd8 Bxd8 34. Be5 Kf7 35. Kf4 a6 36. Bb8 Ke6 37. g4 b5 38. Be5 g6 39. Ke4 Be7
+40. Bf4 Bf8 41. Be3 Bd6 42. Bf4 Bf8 43. Be3 Bd6 44. Bf4 Bf8 1/2-1/2
+
+
+[Event "6th London Classic 2014"]
+[Site "London ENG"]
+[Date "2014.12.14"]
+[Round "5.2"]
+[White "Caruana, F."]
+[Black "Nakamura, Hi"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2829"]
+[BlackElo "2775"]
+[PlyCount "162"]
+[EventDate "2014.12.10"]
+[EventType "tourn"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[EventCategory "22"]
+[Source "Mark Crowther"]
+[SourceDate "2014.12.15"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 Be6 11. g4 Ne7 12. Nd4 Bd7 13. Re1 h5 14. e6
+fxe6 15. Nxe6 Bxe6 16. Rxe6 Kd7 17. Re2 hxg4 18. hxg4 Ng6 19. Bg5 Bd6 20. Ne4
+Rh7 21. Nxd6 cxd6 22. f4 Rah8 23. Rae1 c5 24. a4 a6 25. Rg2 Rh3 26. Re4 b5 27.
+axb5 axb5 28. f5 Ne5 29. Bf4 Nf3+ 30. Kf1 g5 31. fxg6 Rg8 32. Rge2 Nd4 33. Re7+
+Kc6 34. Kg2 Rh4 35. Kg3 Rh1 36. R2e6 Nxe6 37. Rxe6 Kd5 38. Rxd6+ Ke4 39. Re6+
+Kd5 40. Re5+ Kd4 41. Rg5 Ke4 42. Re5+ Kd4 43. c3+ Kc4 44. Be3 Rxg6 45. Rxc5+
+Kd3 46. Bf2 Rgh6 47. g5 R6h3+ 48. Kg4 R3h2 49. Rd5+ Kc2 50. Bd4 Kxb2 51. Rxb5+
+Kc2 52. Kf5 Rg2 53. Kf6 Rh3 54. Rc5 Rhg3 55. Kg6 Kd3 56. Bf6 Rg1 57. Rc8 R3g2
+58. Kf5 Rf1+ 59. Ke6 Rfg1 60. Rc5 Re2+ 61. Kf7 Reg2 62. Kg6 Rg3 63. Bd4 R1g2
+64. Bf6 Rg1 65. Rc7 R3g2 66. Rc8 Rg3 67. c4 Rg4 68. c5 Kc4 69. Be7 Re4 70. Bf6
+Kd5 71. c6 Kd6 72. Kf7 Rf4 73. Kg7 Rc4 74. Kf7 Rxc6 75. Rd8+ Kc7 76. Rf8 Rf1
+77. Kg7 Kd7 78. Rf7+ Ke6 79. Re7+ Kf5 80. Re5+ Kg4 81. Kg6 Rc4 1/2-1/2

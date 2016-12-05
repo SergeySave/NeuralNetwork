@@ -1,0 +1,575 @@
+[Event "Match"]
+[Site "Bastia (France)"]
+[Date "1999.??.??"]
+[Round "1"]
+[White "Bacrot Etienne (FRA)"]
+[Black "Polgar Judit (HUN)"]
+[Result "1-0"]
+[ECO "E97"]
+[WhiteElo "2592"]
+[BlackElo "2671"]
+[Annotator ""]
+[Source ""]
+[Remark "XI"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6
+8.d5 Ne7 9.b4 a5 10.Ba3 Nd7 11.bxa5 Rxa5 12.Bb4 Ra8 13.a4 Bh6
+14.a5 f5 15.Nd2 Kh8 16.Bd3 Nb8 17.c5 Na6 18.Bxa6 Rxa6 19.Nc4
+dxc5 20.Bxc5 Bg7 21.f3 Re8 22.d6 Ng8 23.Nb5 Rc6 24.dxc7 Qxd1
+25.Rfxd1 Rxc5 26.Ncd6 Rf8 27.Nxc8 Rxc8 28.Rac1 Rxb5 29.Rd8 Rxc7
+30.Rxc7 Bf6 31.Rb8 Rxa5 32.Rcc8 Ra1+ 33.Kf2 Ra2+ 34.Kg3 Kg7 35.Rxg8+
+Kh6 36.exf5 e4 37.Rbe8 exf3 38.gxf3 Ra1 39.Re6 Kg5 40.fxg6 hxg6
+41.Re4 Kh6 42.Rge8 Rg1+ 43.Kf2 Rb1 44.R8e6 Kg5 45.h4+ Kf5 46.Re8
+b5 47.Rf8 b4 48.Rc4 Ke5 49.Re4+ Kf5 50.Rc4 Ke5 51.Rb8 b3 52.Rcb4
+b2 53.Rxb2 Bxh4+ 54.Kg2 Rd1 55.R8b6 g5 56.R2b5+ Kf4 57.Rf6+ Ke3
+58.Re5+ Kd4 59.Re4+ Kd5 60.Rf8 Ra1 61.Rd8+ Kc5 62.Rd2 Ra3 63.Rc2+
+Kd5 64.Rd2+ Kc5 65.Rg4 Kc6 66.Rc4+ Kb5 67.Rdc2 Re3 68.R4c3 Re5
+69.Rb3+ Ka4 70.Rb7 Ka3 71.Rcb2 Ra5 72.R7b3+ Ka4 73.Rb1 Be1 74.R3b2
+Ka3 75.Rb5 Rxb5 76.Rxb5 Bd2 77.Kg3 Ka4 78.Rb7 Bf4+ 79.Kg4 Ka5
+80.Rg7 Bd2 81.Rxg5+ Kb6 82.Rd5 Bc1 83.Rd1 1-0
+
+
+[Event "Ch Europe (team)"]
+[Site "Batumi (Georgia)"]
+[Date "1999.??.??"]
+[Round "9"]
+[White "Aleksandrov Aleksej (BLR)"]
+[Black "Polgar Judit (HUN)"]
+[Result "1-0"]
+[ECO "E48"]
+[WhiteElo "2619"]
+[BlackElo "2671"]
+[Annotator ""]
+[Source ""]
+[Remark "XI-XII"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.cxd5 exd5 7.Nge2
+Bd6 8.O-O Ng4 9.g3 Re8 10.Nxd5 Bxg3 11.fxg3 Qxd5 12.Qc2 Nxe3
+13.Bxe3 Rxe3 14.Nc3 Qxd4 15.Bxh7+ Kh8 16.Kg2 Nc6 17.Rxf7 Be6
+18.Rf4 Bh3+ 19.Kh1 Qe5 20.Be4 g5 21.Qf2 Rg8 22.Qxe3 gxf4 23.Qxf4
+Qxf4 24.gxf4 Rf8 25.Nd5 Re8 26.Rg1 Rxe4 27.Nf6 Bg2+ 28.Rxg2 Re1+
+29.Rg1 Rxg1+ 30.Kxg1 Nb4 31.Kf2 Nd3+ 32.Ke3 Nxb2 33.Kd4 b6 34.Nd5
+c5+ 35.Kc3 Na4+ 36.Kc4 a6 37.Nc7 b5+ 38.Kd3 Kg7 39.Nxa6 Kf6 40.h4
+Kf5 41.h5 b4 42.Kc4 Nc3 43.a3 Nb1 44.a4 Nd2+ 45.Kd3 Nb3 46.Kc2
+Nd4+ 47.Kb2 Ne2 48.Nxc5 Nxf4 49.a5 Nd5 50.a6 Nb6 51.a7 Kg5 52.Kb3 1-0
+
+
+[Event "Ch Europe (team)"]
+[Site "Batumi (Georgia)"]
+[Date "1999.??.??"]
+[Round "7"]
+[White "Polgar Judit (HUN)"]
+[Black "Onischuk Alexander (USA)"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[WhiteElo "2671"]
+[BlackElo "2657"]
+[Annotator ""]
+[Source ""]
+[Remark "XI-XII"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.c3 d5 9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d4 Bd6 13.Re1
+Qh4 14.g3 Qh3 15.Re4 g5 16.Qe2 Nf6 17.Nd2 Bf5 18.f3 Nxe4 1/2-1/2
+
+
+[Event "It (cat.19)"]
+[Site "Dos Hermanas (Spain)"]
+[Date "1999.??.??"]
+[Round "2"]
+[White "Korchnoi Viktor (SUI)"]
+[Black "Polgar Judit (HUN)"]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "2676"]
+[BlackElo "2671"]
+[Annotator ""]
+[Source ""]
+[Remark "IV"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Bd2 Bg7 6.e4 Nb6 7.Be3
+O-O 8.Be2 Nc6 9.Nf3 Bg4 10.d5 Bxf3 11.gxf3 Na5 12.Bd4 c5 13.Bxg7
+Kxg7 14.Qc2 e5 15.Nd1 Nd7 16.Qc3 a6 17.f4 f6 18.f5 g5 19.h4 h6
+20.Ne3 Qb6 21.a3 c4 22.Rd1 Nc5 23.Qb4 Qb5 24.f3 Rac8 25.Kf2 b6
+26.Kg2 g4 27.Nxg4 Ncb3 28.Rhg1 Qxb4 29.axb4 Nb7 30.Kf2 Kh7 31.Ne3
+Nd6 32.Rg6 h5 33.Nf1 Nd4 34.Ng3 c3 35.bxc3 Rxc3 36.Bd3 a5 37.bxa5
+bxa5 38.Nxh5 Ne8 39.d6 Rf7 40.d7 Rxd7 41.Bb5 Rc2+ 42.Kf1 Rf7
+43.Bxe8 1-0
+
+
+[Event "It (cat.19)"]
+[Site "Dos Hermanas (Spain)"]
+[Date "1999.??.??"]
+[Round "8"]
+[White "Polgar Judit (HUN)"]
+[Black "Karpov Anatoly (RUS)"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[WhiteElo "2671"]
+[BlackElo "2700"]
+[Annotator ""]
+[Source ""]
+[Remark "IV"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.cxd5
+Nxd5 8.Bd2 Nc6 9.Bd3 Nf6 10.O-O O-O 11.Bg5 h6 12.Be3 Bd6 13.Rc1
+e5 14.h3 Be6 15.Qd2 Qa5 16.Bxh6 exd4 17.Nb5 Qxd2 18.Bxd2 Bb8
+19.Nbxd4 Nxd4 20.Nxd4 Bxa2 21.Rfe1 Rd8 22.Bg5 Bf4 23.Bxf4 Rxd4
+24.Bb1 Bxb1 25.Be5 Rd7 26.Bxf6 Bd3 27.Bc3 f6 28.Re3 Kf7 29.g4 1/2-1/2
+
+
+[Event "It (active) (cat.15)"]
+[Site "Frankfurt (Germany)"]
+[Date "1999.??.??"]
+[Round "10"]
+[White "Leko Peter (HUN)"]
+[Black "Polgar Judit (HUN)"]
+[Result "1-0"]
+[ECO "B80"]
+[WhiteElo "2701"]
+[BlackElo "2671"]
+[Annotator ""]
+[Source ""]
+[Remark "VI-VII"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be3 a6 7.f3
+b5 8.Qd2 Bb7 9.g4 h6 10.h4 Nbd7 11.Rg1 Ne5 12.g5 hxg5 13.hxg5
+Nfd7 14.f4 b4 15.Nd1 Ng6 16.f5 Nge5 17.Nf2 Nc5 18.O-O-O Rc8 19.Qxb4
+Qc7 20.g6 exf5 21.exf5 fxg6 22.fxg6 Rh2 23.Kb1 Be7 24.Bh3 Rxh3
+25.Nxh3 Rb8 26.Nf5 Bd5 27.Nxg7+ Kd7 28.Qd4 Ne4 29.Ka1 Qxc2 30.Rc1
+Qd3 31.Nf4 Qxd4 32.Bxd4 Ba8 33.Nf5 Nf3 34.g7 Bg5 35.Rxg5 Nexg5
+36.Bc3 Be4 37.Nh6 Bh7 38.Nh5 Ne4 39.Rf1 Nxc3 40.Nf6+ 1-0
+
+
+[Event "It (active) (cat.15)"]
+[Site "Frankfurt (Germany)"]
+[Date "1999.??.??"]
+[Round "11"]
+[White "Polgar Judit (HUN)"]
+[Black "Adams Michael (ENG)"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[WhiteElo "2671"]
+[BlackElo "2708"]
+[Annotator ""]
+[Source ""]
+[Remark "VI-VII"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.h3 Bb7 9.d3 d6 10.a3 Na5 11.Ba2 c5 12.Nc3 Nc6 13.Bg5 h6
+14.Bxf6 Bxf6 15.Bd5 Qd7 16.Nh2 Bd8 17.Ng4 Kh8 18.Ne3 Bg5 19.Qg4
+Qxg4 20.hxg4 Rab8 21.Nf5 Nd4 22.Bxb7 Rxb7 23.Nxd4 cxd4 24.Nd5
+g6 25.g3 f5 26.gxf5 gxf5 27.Kg2 f4 28.b4 Rg7 29.Rh1 Kg8 30.Rh3
+fxg3 31.Rxg3 Kh7 32.Rh1 Rc8 33.a4 Rxc2 34.axb5 axb5 35.Ra1 Bh4
+36.Rxg7+ Kxg7 37.Ra6 Rxf2+ 38.Kh3 Bg5 39.Kg4 Rg2+ 40.Kf5 Rf2+
+41.Kg4 Rg2+ 42.Kf5 Rf2+ 43.Kg4 Rg2+ 44.Kf5 1/2-1/2
+
+
+[Event "It (active) (cat.15)"]
+[Site "Frankfurt (Germany)"]
+[Date "1999.??.??"]
+[Round "3"]
+[White "Polgar Judit (HUN)"]
+[Black "Leko Peter (HUN)"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2671"]
+[BlackElo "2701"]
+[Annotator ""]
+[Source ""]
+[Remark "VI-VII"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Ndb5 d6 7.Bf4
+e5 8.Bg5 a6 9.Na3 b5 10.Nd5 Be7 11.Bxf6 Bxf6 12.c3 O-O 13.Nc2
+Bg5 14.a4 bxa4 15.Rxa4 a5 16.Bb5 Ne7 17.O-O Nxd5 18.Qxd5 Be6
+19.Qd3 Qb6 20.c4 f5 21.Ne3 fxe4 22.Qxe4 Rac8 23.Nd5 Bxd5 24.Qxd5+
+Kh8 25.Ra3 Rf6 26.Rf3 Rxf3 27.Qxf3 Bd2 28.h4 Qd8 29.g3 Qe7 30.c5
+dxc5 31.Rd1 e4 32.Qe2 e3 33.Kh2 Rf8 34.fxe3 Bxe3 35.Re1 Qb7 36.Ba6
+Qa8 37.Qxe3 Qxa6 1/2-1/2
+
+
+[Event "It (active) (cat.15)"]
+[Site "Frankfurt (Germany)"]
+[Date "1999.??.??"]
+[Round "13"]
+[White "Polgar Judit (HUN)"]
+[Black "Topalov Veselin (BUL)"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2671"]
+[BlackElo "2690"]
+[Annotator ""]
+[Source ""]
+[Remark "VI-VII"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Rg1 b5 7.g4
+Bb7 8.Bg2 Nfd7 9.a4 bxa4 10.Rxa4 Nb6 11.Rb4 e6 12.Be3 N8d7 13.Nxe6
+fxe6 14.Bxb6 Nxb6 15.Qd4 Nd7 16.Rxb7 Nc5 17.Rb4 Qg5 18.Qd2 Qxg4
+19.Na4 Qh5 20.Nxc5 dxc5 21.Rb6 Rd8 22.Qe2 Qxh2 23.Kf1 Qh6 24.Bf3
+Be7 25.Bh5+ g6 26.Bg4 O-O 27.Bxe6+ Kh8 28.Bd5 Qh3+ 29.Ke1 Rxf2
+30.Qxf2 Bh4 31.Rf6 Rb8 32.b3 Bxf2+ 33.Rxf2 Qh6 34.Ke2 Rf8 35.Rxf8+
+Qxf8 36.Rf1 Qd6 37.Rf7 h5 38.Ra7 g5 39.Bc4 Qh2+ 40.Kd3 Qg3+ 41.Ke2
+h4 42.Ra8+ Kg7 43.Ra7+ Kf6 44.Rxa6+ Ke5 45.Re6+ Kd4 46.c3+ Qxc3
+47.Rd6+ Kxe4 48.Re6+ Kf4 49.Bd3 Qb2+ 50.Ke1 g4 0-1
+
+
+[Event "Simultan"]
+[Site "Frankfurt (Germany)"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Polgar Judit (HUN)"]
+[Black "Heck Norbert (GER)"]
+[Result "1/2-1/2"]
+[ECO "E94"]
+[WhiteElo "2671"]
+[BlackElo "2357"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Be2 e5 7.O-O exd4
+8.Nxd4 Re8 9.f3 Nc6 10.Be3 Nh5 11.Nxc6 bxc6 12.Rc1 f5 13.Qd2
+f4 14.Bxf4 Nxf4 15.Qxf4 Be5 16.Qd2 Qf6 17.f4 Bd4+ 18.Kh1 Rb8
+19.Bd3 Be6 20.b3 Bf7 21.e5 dxe5 22.Ne4 Qe7 23.f5 gxf5 24.Rxf5
+Bg6 25.Nf6+ Kh8 26.Nxe8 Bxf5 27.Bxf5 Rxe8 28.Rf1 Rf8 29.h3 c5
+30.Rf3 Qh4 31.g3 Qe7 32.Qe2 Qg5 33.h4 Qh6 34.Kg2 Rg8 35.Kh3 Qc1
+36.Rf1 Qh6 37.Be4 Rf8 38.Rxf8+ Qxf8 39.Qh5 Qe7 40.Qf5 a5 41.g4
+Be3 42.g5 Bf4 43.Kg4 Be3 44.h5 h6 45.gxh6 Bxh6 46.Qg6 Qg7 47.Kf5
+Qd7+ 48.Qe6 Qxe6+ 49.Kxe6 Bd2 50.Kd7 Kg7 51.Kxc7 Kh6 52.Kd6 Bb4
+53.Kxe5 Kxh5 54.Kd5 1/2-1/2
+
+
+[Event "Simultan"]
+[Site "Frankfurt (Germany)"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Polgar Judit (HUN)"]
+[Black "Meyer Ingo (GER)"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2671"]
+[BlackElo "2235"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d3 Nf6 6.d4 Be7 7.Bd3
+Bg4 8.O-O Nc6 9.c3 O-O 10.Nbd2 Re8 11.Re1 Qd7 12.h3 Bh5 13.Nf1
+Bf8 14.Bd2 Rxe1 15.Bxe1 Re8 16.Ng3 Bg6 17.Bxg6 hxg6 18.Bd2 d5
+19.Bf4 Ne4 20.Nxe4 Rxe4 21.Qd2 Bd6 22.Bxd6 Qxd6 23.Re1 Qe7 24.Kf1
+Kf8 25.Qd3 a6 26.b3 Nd8 27.Re2 Rxe2 28.Qxe2 Qxe2+ 29.Kxe2 f6
+30.Kd3 Ne6 31.g3 Ke7 32.c4 dxc4+ 33.bxc4 g5 34.Ke4 c6 35.Ne1
+b5 36.c5 a5 37.Nd3 Nc7 38.Nc1 Nd5 39.Kd3 a4 40.Kc2 Ke6 41.Nd3
+Kf5 42.f3 Ke6 43.a3 Ne3+ 44.Kc3 Nf5 45.g4 Ne7 46.Kc2 Nd5 47.Kd2
+Nc7 48.Nb4 Kd7 49.Kd3 Ne6 50.Ke4 Nf4 51.h4 Nh3 52.h5 Nf4 53.Kf5
+Nd5 54.Nc2 Ne7+ 55.Ke4 Ke6 56.Nb4 Kd7 1/2-1/2
+
+
+[Event "Simultan"]
+[Site "Frankfurt (Germany)"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Polgar Judit (HUN)"]
+[Black "Paehtz Elisabeth (GER)"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[WhiteElo "2671"]
+[BlackElo "2276"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e5 7.Nf3
+Nbd7 8.Bd3 Be7 9.O-O b6 10.fxe5 dxe5 11.Nd5 Nxd5 12.exd5 Bb7
+13.c4 b5 14.b3 O-O 15.Kh1 Bf6 16.Rb1 Nc5 17.Bc2 bxc4 18.bxc4
+Rc8 19.Ba3 Ba8 20.Nd2 Bg5 21.Ne4 Nxe4 22.Bxe4 Re8 23.c5 g6 24.c6
+f5 25.Bc2 e4 26.Bb3 Kg7 27.Qd4+ Bf6 28.Qa7+ Rc7 29.Qxa6 Be5 30.Bb2
+Bxb2 31.Rxb2 Qf6 32.Qb6 Rxc6 33.dxc6 Qxb2 34.Qa7+ Kh6 35.Qe3+
+Kg7 36.c7 Qe5 37.Rc1 Bb7 38.Rc5 f4 39.Qc1 Qd4 40.c8Q Bxc8 41.Rc7+
+Bd7 42.Qxf4 Rf8 43.Qc1 Qd2 44.h3 Qxc1+ 45.Rxc1 Bb5 46.Rc5 e3 1/2-1/2
+
+
+[Event "It (cat.15)"]
+[Site "Hoogeveen (Netherlands)"]
+[Date "1999.??.??"]
+[Round "6"]
+[White "Polgar Judit (HUN)"]
+[Black "Karpov Anatoly (RUS)"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2671"]
+[BlackElo "2700"]
+[Annotator ""]
+[Source ""]
+[Remark "X"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O
+Nc6 8.Re1 Bg4 9.c4 Nf6 10.Nc3 Nxd4 11.cxd5 Bxf3 12.gxf3 c5 13.dxc6
+Nxc6 14.Bb5 O-O 15.Qxd8 Bxd8 16.Bxc6 bxc6 17.Be3 Bb6 18.Rad1
+Rfd8 19.b4 Bxe3 20.fxe3 Kf8 21.Kf2 Ke7 22.e4 Rxd1 23.Rxd1 a5
+24.b5 cxb5 25.Nxb5 Rc8 26.Ke3 g6 27.Rd3 Rc2 28.Ra3 Rxh2 29.Rxa5
+h5 30.Ra7+ Nd7 31.Nc3 h4 32.Nd5+ Kd6 33.Ra6+ Kc5 34.Ra7 Kd6 35.Ra6+
+Kc5 36.Ra7 Ne5 37.Ra5+ Kd6 38.Ra6+ Kc5 39.Ra5+ Kd6 40.Ra6+ Kd7
+41.Kf4 Nd3+ 42.Ke3 Ne5 43.Kf4 1/2-1/2
+
+
+[Event "It (cat.15)"]
+[Site "Hoogeveen (Netherlands)"]
+[Date "1999.??.??"]
+[Round "4"]
+[White "Polgar Judit (HUN)"]
+[Black "Timman Jan H (NED)"]
+[Result "1/2-1/2"]
+[ECO "C22"]
+[WhiteElo "2671"]
+[BlackElo "2650"]
+[Annotator ""]
+[Source ""]
+[Remark "X"]
+
+1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 Nf6 5.Bd2 Be7 6.Nc3 d5 7.exd5
+Nxd5 8.Qg3 Nxc3 9.Bxc3 Bf6 10.Bb5 Qd5 11.Bxf6 gxf6 12.Bxc6+ Qxc6
+13.O-O-O Bd7 14.Qa3 Qb6 15.Re1+ Be6 16.Qa4+ c6 17.Rd1 Rg8 18.Nf3
+Rxg2 19.Qf4 Qc5 20.Qe4 Qf5 21.Qe2 Qf4+ 22.Kb1 Qc4 23.Qxc4 Bxc4
+24.Rhg1 Rxg1 25.Rxg1 Kf8 26.Rg4 Bd5 27.Rf4 Re8 28.Kc1 Re2 29.c4
+Re4 30.Rxe4 Bxe4 31.Nd2 Bf5 32.b4 Ke7 33.Kb2 Ke6 34.Kc3 Ke5 35.a4
+h5 36.c5 Be6 37.Kd3 a5 38.bxa5 Kd5 39.Kc3 Bf5 40.Kb4 Bd3 41.Kc3
+Be2 42.Nb3 Bd1 43.Nd4 Kxc5 44.Nf5 Bg4 45.Ne3 Bf3 46.h4 Be4 47.Nf1
+Bf3 48.Ng3 f5 49.Nxf5 Bg4 50.Nh6 Be6 51.Ng8 f5 52.Nf6 Bf7 53.Nd7+
+Kd6 54.Nb6 f4 55.Kd4 Bd5 56.Nc8+ Kd7 57.Nb6+ Kd6 58.Nc8+ Kd7
+59.Nb6+ Kd6 1/2-1/2
+
+
+[Event "Ch World FIDE"]
+[Site "Las Vegas (USA)"]
+[Date "1999.??.??"]
+[Round "5"]
+[White "Polgar Judit (HUN)"]
+[Black "Khalifman Alexander (RUS)"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+[WhiteElo "2671"]
+[BlackElo "2628"]
+[Annotator ""]
+[Source ""]
+[Remark "VIII"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.f4 e6 7.Nf3
+Bd6 8.Be2 Ne7 9.Ne5 Bxe5 10.fxe5 c5 11.dxc5 Qxd1+ 12.Bxd1 Na6
+13.O-O Nxc5 14.Bf3 Nc6 15.Bxc6+ bxc6 16.b3 Nd7 17.c4 a5 18.Ba3
+Nxe5 19.Bb2 f6 20.Bxe5 fxe5 21.Rae1 Rf8 22.Rxe5 Rxf1+ 23.Nxf1
+Ke7 24.Nd2 a4 25.Kf2 axb3 26.axb3 Kd6 27.Rg5 c5 28.Ke3 Rb8 29.h4
+Rb7 30.Ne4+ Bxe4 31.Kxe4 Rxb3 32.Rxg7 h6 33.Rg6 Rc3 34.Rxh6 Rg3
+35.h5 Rxg2 36.Rh8 Rg4+ 37.Kd3 Rd4+ 38.Kc3 Rh4 39.h6 Rh3+ 40.Kc2
+Ke5 41.h7 Ke4 42.Kd2 1/2-1/2
+
+
+[Event "Ch World FIDE"]
+[Site "Las Vegas (USA)"]
+[Date "1999.??.??"]
+[Round "4"]
+[White "Polgar Judit (HUN)"]
+[Black "Zvjaginsev Vadim (RUS)"]
+[Result "1/2-1/2"]
+[ECO "B36"]
+[WhiteElo "2671"]
+[BlackElo "2652"]
+[Annotator ""]
+[Source ""]
+[Remark "VIII"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nf6 6.Nc3 d6 7.Be2
+Nxd4 8.Qxd4 Bg7 9.Be3 O-O 10.Qd2 Be6 11.f3 Qa5 12.Nd5 Qxd2+ 13.Kxd2
+Nxd5 14.exd5 Bd7 15.Rab1 e6 16.Bd3 exd5 17.cxd5 Rfe8 18.f4 1/2-1/2
+
+
+[Event "Match"]
+[Site "Prague (Czech Republic)"]
+[Date "1999.??.??"]
+[Round "2"]
+[White "Polgar Judit (HUN)"]
+[Black "Shirov Alexei (ESP)"]
+[Result "0-1"]
+[ECO "C11"]
+[WhiteElo "2671"]
+[BlackElo "2734"]
+[Annotator ""]
+[Source ""]
+[Remark "VII"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4
+8.Nxd4 Bc5 9.Qd2 O-O 10.O-O-O a6 11.h4 Nxd4 12.Bxd4 b5 13.Rh3
+b4 14.Ne2 a5 15.Qe3 Qc7 16.Bxc5 Nxc5 17.Nd4 a4 18.Kb1 a3 19.b3
+Ba6 20.Bxa6 Rxa6 21.Qe1 Rb6 22.c3 Qb7 23.Rc1 Ne4 24.cxb4 Rxb4
+25.Rd3 Rc4 26.Rxc4 dxc4 27.Rd1 Nc5 28.Qc3 Qxg2 29.b4 Nd3 30.Qxa3
+Ra8 31.Rxd3 cxd3 32.Qxd3 Qxa2+ 33.Kc1 Qa1+ 34.Kd2 Rd8 35.Ke3
+Qe1+ 0-1
+
+
+[Event "Match"]
+[Site "Prague (Czech Republic)"]
+[Date "1999.??.??"]
+[Round "4"]
+[White "Polgar Judit (HUN)"]
+[Black "Shirov Alexei (ESP)"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2671"]
+[BlackElo "2734"]
+[Annotator ""]
+[Source ""]
+[Remark "VII"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O
+Be7 8.Re1 Bg4 9.c4 Nf6 10.Nc3 Bxf3 11.Qxf3 Nxd4 12.Qd1 Ne6 13.Bf5
+d4 14.Ne2 d3 15.Nf4 Nd4 16.Bxd3 O-O 17.Be3 Bb4 18.Rf1 c5 19.Ne2
+Ng4 20.Bxd4 cxd4 21.Bf5 Ne5 22.Qxd4 Qxd4 23.Nxd4 1/2-1/2
+
+
+[Event "Simultan"]
+[Site "Frankfurt (Germany)"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Polgar Judit (HUN)"]
+[Black "Arbinger Roland (GER)"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "2671"]
+[BlackElo "2036"]
+[PlyCount "88"]
+[EventDate "1999.??.??"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 c6 5. Qd2 Nbd7 6. O-O-O b5 7. e5 dxe5 8.
+dxe5 Ng4 9. e6 fxe6 10. Qd4 Ngf6 11. Nf3 Qb6 12. Ng5 Qxd4 13. Bxd4 Bh6 14. f4
+e5 15. Be3 exf4 16. Bxf4 O-O 17. Be2 Nb6 18. h4 b4 19. Nb1 Nfd5 20. Bd2 a5 21.
+h5 Rf2 22. Rde1 Rxg2 23. Rhg1 Rh2 24. hxg6 hxg6 25. Nf3 Bxd2+ 26. Nbxd2 Rh6 27.
+Ne5 Bf5 28. Nxc6 Rc8 29. Nd4 e6 30. Nxf5 exf5 31. Bd3 Kf7 32. Nf3 Nf4 33. Bb5
+Kf6 34. Rd1 Nbd5 35. Kb1 Rh3 36. Nd4 Rh2 37. Nc6 g5 38. Nd4 Rc5 39. Bd7 Ne3 40.
+Rde1 Nxc2 41. Rc1 Rd5 42. Nf3 Rf2 43. Rxc2 Rxc2 44. Kxc2 Rxd7 1/2-1/2
+
+
+[Event "Simultan"]
+[Site "Frankfurt (Germany)"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Polgar Judit (HUN)"]
+[Black "Balzer Lars (GER)"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[WhiteElo "2671"]
+[BlackElo "2139"]
+[PlyCount "85"]
+[EventDate "1999.??.??"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 c6 4. Nf3 d6 5. Be3 Nf6 6. Qd2 Nbd7 7. O-O-O b5 8. e5
+Ng4 9. Bf4 dxe5 10. dxe5 Qb6 11. e6 fxe6 12. Bg3 Bh6 13. Ng5 Ndf6 14. f4 Nh5
+15. Be2 Nxg3 16. hxg3 Bxg5 17. Bxg4 Bf6 18. Ne4 Kf7 19. Ng5+ Bxg5 20. fxg5 e5
+21. Rdf1+ Kg7 22. Qe2 Qd4 23. Qf3 Qd5 24. Bxc8 Raxc8 25. Qa3 Qe6 26. Qb4 Rhf8
+27. Rxf8 Rxf8 28. Qh4 Rh8 29. Qh6+ Kf7 30. Rf1+ Ke8 31. Qg7 Rg8 32. Qxh7 Qxa2
+33. Rf3 Qe6 34. Qh1 Rf8 35. Qe1 Rf5 36. Qe3 a5 37. Qb6 a4 38. g4 Rf4 39. Qb8+
+Kd7 40. Rd3+ Rd4 41. Qa7+ Ke8 42. Qb8+ Kd7 43. Qa7+ 1/2-1/2
+
+
+[Event "Simultan"]
+[Site "Frankfurt (Germany)"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Polgar Judit (HUN)"]
+[Black "Zweschper Erich (GER)"]
+[Result "0-1"]
+[ECO "C41"]
+[WhiteElo "2671"]
+[BlackElo "2131"]
+[PlyCount "48"]
+[EventDate "1999.??.??"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 Nbd7 4. Be3 e5 5. Nf3 Be7 6. Qd2 c6 7. O-O-O Qc7 8.
+h3 a6 9. g4 h6 10. dxe5 dxe5 11. Rg1 b5 12. Bd3 a5 13. g5 hxg5 14. Rxg5 Rxh3
+15. Qe2 g6 16. Bxb5 cxb5 17. Nxb5 Qc6 18. Nxe5 Nxe5 19. Rxe5 Bg4 20. f3 Bxf3
+21. Qf1 Bxd1 22. Nd4 Qd6 23. Rxe7+ Qxe7 24. Qxh3 Bh5 0-1
+
+
+[Event "Match (active)"]
+[Site "Budapest (Hungary)"]
+[Date "1999.??.??"]
+[Round "1"]
+[White "Polgar Judit (HUN)"]
+[Black "Computer \"]
+[Result "1/2-1/2"]
+[ECO "B47"]
+[WhiteElo "2671"]
+[PlyCount "82"]
+[EventDate "1999.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Qc7 7. O-O Nf6 8.
+Kh1 Bb4 9. f3 O-O 10. Bg5 Be7 11. Nxc6 dxc6 12. f4 Rd8 13. Qe1 h6 14. Bh4 b6
+15. e5 Nd5 16. Bxe7 Nxe7 17. Ne4 Bb7 18. Nd6 Nf5 19. Nxf5 exf5 20. Bd3 Qc8 21.
+Qe3 c5 22. Rad1 c4 23. Be2 Qe6 24. Bf3 Bxf3 25. Qxf3 Qe8 26. Rd5 Qa4 27. Rfd1
+Rxd5 28. Qxd5 Rf8 29. e6 fxe6 30. Qxe6+ Kh7 31. b3 cxb3 32. axb3 Qxf4 33. Qxb6
+Rc8 34. Qxa6 Rxc2 35. Qd3 Qe4 36. Qxe4 fxe4 37. Re1 Kg6 38. g4 Rb2 39. Rxe4
+Rxb3 40. Re5 Rb2 41. h3 Rd2 1/2-1/2
+
+
+[Event "Match (active)"]
+[Site "Budapest (Hungary)"]
+[Date "1999.??.??"]
+[Round "3"]
+[White "Polgar Judit (HUN)"]
+[Black "Computer \"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[WhiteElo "2671"]
+[PlyCount "130"]
+[EventDate "1999.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 e6 6. O-O a6 7. c4 Be7 8. Nc3
+O-O 9. Be3 Nbd7 10. b3 Qc7 11. Rc1 b6 12. f3 Ne5 13. Be2 Bb7 14. Qd2 Rac8 15.
+Rfd1 Rfd8 16. Bf1 Nfd7 17. Qf2 Bf6 18. h3 Nc5 19. b4 Ncd7 20. f4 Ng6 21. f5
+Ngf8 22. g4 h6 23. h4 Be5 24. g5 hxg5 25. hxg5 Re8 26. Bg2 Bxd4 27. Bxd4 exf5
+28. exf5 Bxg2 29. Kxg2 Qb7+ 30. Nd5 Rxc4 31. Qf3 Qc8 32. Qf1 b5 33. Rxc4 bxc4
+34. Qf4 Qc6 35. Qf3 Qa4 36. Rh1 Qc2+ 37. Kg3 Ne5 38. Qh5 Qd3+ 39. Be3 Neg6 40.
+fxg6 Rxe3+ 41. Nxe3 Qxe3+ 42. Qf3 Qxg5+ 43. Qg4 Qxg4+ 44. Kxg4 Nxg6 45. Rd1
+Ne5+ 46. Kf4 Nd3+ 47. Ke3 Nxb4 48. Rxd6 Nxa2 49. Rxa6 Nb4 50. Ra4 Nd5+ 51. Kd4
+Nf4 52. Rxc4 f6 53. Ke4 Ne6 54. Rc6 Kf7 55. Rb6 g5 56. Kf5 Ng7+ 57. Kg4 Kg6 58.
+Ra6 Nf5 59. Rb6 Ne3+ 60. Kf3 Nc4 61. Rb4 Ne5+ 62. Ke4 Nf7 63. Rb6 Nh6 64. Ra6
+Nf5 65. Rb6 Nh4 1/2-1/2
+
+
+[Event "Match (active)"]
+[Site "Budapest (Hungary)"]
+[Date "1999.??.??"]
+[Round "5"]
+[White "Polgar Judit (HUN)"]
+[Black "Computer \"]
+[Result "0-1"]
+[ECO "B48"]
+[WhiteElo "2671"]
+[PlyCount "52"]
+[EventDate "1999.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be3 Qc7 7. Qd2 Nf6 8. f3
+Ne5 9. O-O-O Bb4 10. Nb3 b5 11. Bd4 h6 12. Qe1 Nc6 13. Be3 O-O 14. g4 Ne5 15.
+Qg3 Bxc3 16. bxc3 Bb7 17. g5 hxg5 18. Bxg5 Nh5 19. Qh3 Qxc3 20. Qxh5 Rfc8 21.
+Rd2 Nxf3 22. Rg2 Bxe4 23. Qg4 f5 24. Qg3 Nxg5 25. Rhg1 Bxg2 26. Qxg2 Nf3 0-1
+
+
+[Event "It (active) (cat.15)"]
+[Site "Frankfurt (Germany)"]
+[Date "1999.??.??"]
+[Round "7"]
+[White "Polgar Judit (HUN)"]
+[Black "Computer \"]
+[Result "0-1"]
+[ECO "A22"]
+[WhiteElo "2671"]
+[PlyCount "94"]
+[EventDate "1999.??.??"]
+
+1. c4 e5 2. Nc3 Nf6 3. e4 Bc5 4. d3 d6 5. Be2 Nc6 6. Nf3 Nd4 7. Nxd4 Bxd4 8.
+O-O c6 9. Be3 O-O 10. Qd2 Be6 11. Bf3 Re8 12. Bxd4 exd4 13. Ne2 c5 14. b4 Nd7
+15. bxc5 dxc5 16. Ng3 b6 17. Be2 Qh4 18. f4 Nf6 19. f5 Bc8 20. Rf4 Qg5 21. Raf1
+Bd7 22. Nh1 Re5 23. Qe1 Bc6 24. h4 Qh6 25. g4 Nd7 26. Qg3 Qd6 27. g5 f6 28. Nf2
+Re7 29. Ng4 Kh8 30. Kh2 a6 31. Rg1 b5 32. gxf6 Nxf6 33. Nxf6 Qxf6 34. Bf3 Re5
+35. Rg4 Ra7 36. h5 bxc4 37. h6 Qxh6+ 38. Rh4 Qd6 39. dxc4 Rb7 40. Kh1 Be8 41.
+Qf4 Qf6 42. Rh2 Rb6 43. Qd2 Rb4 44. Rhg2 Rxe4 45. Bxe4 Qh4+ 46. Rh2 Qxe4+ 47.
+Rhg2 Qh4+ 0-1

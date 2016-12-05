@@ -1,0 +1,765 @@
+[Event "19th European Teams"]
+[Site "Warsaw POL"]
+[Date "2013.11.09"]
+[Round "2.5"]
+[White "Polgar, Ju"]
+[Black "Pantsulaia, L."]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2689"]
+[BlackElo "2595"]
+[PlyCount "178"]
+[EventDate "2013.11.08"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "Mark Crowther"]
+[SourceDate "2013.11.11"]
+[WhiteTeam "HUNGARY"]
+[BlackTeam "GEORGIA"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "GEO"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nd2 e6 5. Nb3 Nd7 6. Nf3 a6 7. Be2 c5 8. dxc5
+Bxc5 9. Nxc5 Nxc5 10. Nd4 Ne7 11. O-O O-O 12. Be3 Rc8 13. c3 b5 14. Qd2 Bg6 15.
+f3 Qc7 16. Rf2 h6 17. Bf4 Na4 18. Bf1 Nb6 19. Qe1 Qb8 20. g4 Nc6 21. Rd1 Nd7
+22. Bg3 Qb6 23. Re2 Nxd4 24. cxd4 b4 25. h4 h5 26. Bf4 Rc2 27. gxh5 Rxe2 28.
+Qxe2 Bxh5 29. Qxa6 Qxa6 30. Bxa6 Ra8 31. Bb5 Nb6 32. Ra1 Bxf3 33. Bd2 b3 34. a4
+Nc4 35. Bc3 Rb8 36. Re1 Bh5 37. Bxc4 dxc4 38. Kf2 Ra8 39. a5 Bg6 40. Kf3 Kh7
+41. Ra1 Ra6 42. Ke3 Kh6 43. Rg1 Kh5 44. Kf4 Kh6 45. Bd2 Kh7 46. Ke3 Rc6 47. Bc3
+Ra6 48. Rf1 Ra7 49. Rf4 Kh6 50. Kf3 Kh5 51. Rg4 Kh6 52. Rg5 Bc2 53. Rg1 Bg6 54.
+Bd2+ Kh7 55. Ra1 Ra6 56. Ra4 Bd3 57. h5 Ra8 58. Ra1 Ra6 59. Rh1 Ra8 60. Kf4 Rd8
+61. Bc3 Kh6 62. Rg1 Kxh5 63. Rh1+ Kg6 64. Rg1+ Kh6 65. Rh1+ Kg6 66. a6 Ra8 67.
+Ra1 Ra7 68. d5 exd5 69. Bd4 Ra8 70. a7 Kh5 71. e6 g5+ 72. Ke3 fxe6 73. Rh1+ Kg4
+74. Rh8 Rxa7 75. Bxa7 e5 76. Rf8 Bg6 77. Kd2 d4 78. Rc8 c3+ 79. Kc1 cxb2+ 80.
+Kxb2 Bc2 81. Rf8 Kh3 82. Re8 e4 83. Bxd4 g4 84. Rg8 Kg3 85. Kc3 Kf3 86. Rf8+
+Kg2 87. Kd2 g3 88. Be5 Bd3 89. Rg8 Kf3 1-0
+
+
+[Event "19th European Teams"]
+[Site "Warsaw POL"]
+[Date "2013.11.08"]
+[Round "1.7"]
+[White "Polgar, Ju"]
+[Black "Rasmussen, A."]
+[Result "1-0"]
+[ECO "B14"]
+[WhiteElo "2689"]
+[BlackElo "2486"]
+[PlyCount "79"]
+[EventDate "2013.11.08"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "Mark Crowther"]
+[SourceDate "2013.11.11"]
+[WhiteTeam "HUNGARY"]
+[BlackTeam "DENMARK"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. cxd5 Nxd5 8.
+Bd3 Nc6 9. O-O O-O 10. Re1 Nf6 11. a3 b6 12. Bg5 Bb7 13. Bc2 Rc8 14. Qd3 g6 15.
+h4 Rc7 16. Rad1 Nd5 17. Nxd5 exd5 18. Bh6 Re8 19. h5 Bd6 20. Bg5 Be7 21. Qe3
+Rc8 22. Qf4 Bxg5 23. Nxg5 Rxe1+ 24. Rxe1 Qf8 25. Re3 Re8 26. Rg3 Ne7 27. Rf3 f5
+28. Ba4 Bc6 29. Bxc6 Nxc6 30. Rg3 h6 31. Nf3 g5 32. Nxg5 hxg5 33. Rxg5+ Kh7 34.
+Rxf5 Re1+ 35. Kh2 Qb8 36. Rf7+ Kg8 37. Rc7 Ne7 38. h6 Re6 39. Qg3+ Rg6 40. h7+
+1-0
+
+
+[Event "19th European Teams"]
+[Site "Warsaw POL"]
+[Date "2013.11.17"]
+[Round "9.4"]
+[White "Polgar, Ju"]
+[Black "Kovalev, Vl"]
+[Result "1-0"]
+[ECO "C86"]
+[WhiteElo "2689"]
+[BlackElo "2583"]
+[PlyCount "103"]
+[EventDate "2013.11.08"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "Mark Crowther"]
+[SourceDate "2013.11.18"]
+[WhiteTeam "HUNGARY"]
+[BlackTeam "BELARUS"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "BLR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8. c3
+d5 9. d3 Bb7 10. Nbd2 Re8 11. a4 Bf8 12. Re1 Qd6 13. axb5 axb5 14. Rxa8 Bxa8
+15. exd5 Na5 16. Bc2 Bxd5 17. b4 Nc6 18. Ng5 Ra8 19. Nge4 Qe6 20. Nxf6+ Qxf6
+21. d4 Ra1 22. Qxb5 Bxg2 23. Qd3 e4 24. Qg3 Bf3 25. Nxe4 Qf5 26. Qg5 Qh3 27.
+Nf6+ Kh8 28. Bf5 h6 29. Bxh3 hxg5 30. Bg4 Bxg4 31. Nxg4 f5 32. Ne3 f4 33. Nd5
+Bd6 34. Kg2 Kh7 35. h3 Rb1 36. Kf3 Na7 37. Bd2 Rb2 38. Ke2 Nb5 39. Kd3 Kg6 40.
+Ne7+ Kf7 41. Nc6 Na3 42. Ra1 Nb1 43. Be1 f3 44. Na5 Nxc3 45. Kxc3 Re2 46. Nc4
+Bf4 47. Kd3 Kg6 48. Bd2 Rxf2 49. Bxf4 gxf4 50. Ke4 Kg5 51. Rg1+ Rg2 52. Ne5 1-0
+
+
+[Event "19th European Teams"]
+[Site "Warsaw POL"]
+[Date "2013.11.16"]
+[Round "8.5"]
+[White "Polgar, Ju"]
+[Black "Howell, D."]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2689"]
+[BlackElo "2644"]
+[PlyCount "130"]
+[EventDate "2013.11.08"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "Mark Crowther"]
+[SourceDate "2013.11.18"]
+[WhiteTeam "HUNGARY"]
+[BlackTeam "ENGLAND"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Rd1+ Ke8 10. Nc3 Ne7 11. h3 h6 12. b3 Bf5 13. Nd4 Bh7 14. Bb2
+Rd8 15. e6 Nc8 16. Nce2 Bd6 17. c4 Ne7 18. Rac1 b6 19. g4 f6 20. f4 a6 21. Nf3
+Rf8 22. Ng3 Rg8 23. Ne2 Rf8 24. Kg2 g6 25. Ng3 f5 26. Ne5 fxg4 27. Nf7 gxh3+
+28. Kxh3 Rxf7 29. exf7+ Kxf7 30. Be5 c5 31. Ne4 Nf5 32. Nf6 Bg8 33. Nd5 Bxe5
+34. fxe5 Rc8 35. Re1 Kg7 36. e6 Nd4 37. e7 Be6+ 38. Kg3 Kf7 39. Nf4 Re8 40.
+Nxe6 Nxe6 41. Re5 Nd4 42. Rf1+ Nf5+ 43. Kf4 Rxe7 44. Rxe7+ Kxe7 45. Ke5 a5 46.
+Rg1 Kf7 47. Rf1 Ke7 48. Rg1 Kf7 49. Rf1 h5 50. Rf2 Ke7 51. Rg2 Nh4 52. Rg3 g5
+53. Rd3 g4 54. Kf4 Kf6 55. Rd5 Kg6 56. Re5 Nf3 57. Re6+ Kg7 58. Re7+ Kf6 59.
+Rh7 Kg6 60. Rxc7 Nd4 61. Rd7 Ne6+ 62. Kg3 Nd4 63. Kf4 Ne6+ 64. Kg3 Nd4 65. Kf4
+Ne6+ 1/2-1/2
+
+
+[Event "19th European Teams"]
+[Site "Warsaw POL"]
+[Date "2013.11.15"]
+[Round "7.6"]
+[White "Polgar, Ju"]
+[Black "Georgiadis, N."]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[WhiteElo "2689"]
+[BlackElo "2423"]
+[PlyCount "88"]
+[EventDate "2013.11.08"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "POL"]
+[Source "Mark Crowther"]
+[SourceDate "2013.11.18"]
+[WhiteTeam "HUNGARY"]
+[BlackTeam "SWITZERLAND"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "SUI"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d6 7. Nbd2 Bd7 8. b4
+Bb6 9. Nc4 Ne7 10. Bxd7 Nxd7 11. a4 a6 12. Qb3 h6 13. d4 Ng6 14. dxe5 dxe5 15.
+Nxb6 Nxb6 16. Be3 Qd3 17. Nd2 Nd7 18. c4 Qxb3 19. Nxb3 Rfe8 20. Rfd1 Ndf8 21.
+Rd2 Ne7 22. a5 Ne6 23. b5 Nc8 24. Rd5 Nd6 25. Rc1 Nxe4 26. Rxe5 Nf6 27. h3 Rad8
+28. Nc5 Nd7 29. Nxd7 Rxd7 30. Rd5 Red8 31. Rxd7 Rxd7 32. Rb1 Kh7 33. g4 g5 34.
+Kg2 Kg6 35. h4 f5 36. gxf5+ Kxf5 37. hxg5 hxg5 38. Kf3 Rd3 39. b6 cxb6 40. Rxb6
+Rd7 41. Rb1 Rc7 42. Rb2 Rd7 43. Rb1 Rc7 44. Rb2 Rd7 1/2-1/2
+
+
+[Event "5th Classic GpC 2013"]
+[Site "London ENG"]
+[Date "2013.12.13"]
+[Round "5.2"]
+[White "Polgar, Ju"]
+[Black "Jones, G."]
+[Result "0-1"]
+[ECO "B78"]
+[WhiteElo "2693"]
+[BlackElo "2654"]
+[PlyCount "86"]
+[EventDate "2013.12.11"]
+[EventType "tourn (rapid)"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2013.12.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Nxd4 12. Bxd4 b5 13. h4 a5 14. h5 a4 15.
+Bxf6 Bxf6 16. hxg6 e6 17. e5 Bg7 18. Rxh7 Bxe5 19. Rdh1 fxg6 20. Bd5 Rf7 21.
+Rxf7 Kxf7 22. Be4 Qf6 23. Kb1 Rh8 24. Rxh8 Qxh8 25. Nd1 d5 26. Bd3 Qh4 27. a3
+Bd6 28. c3 Bf4 29. Qe2 Qh1 30. Bc2 e5 31. g4 Be6 32. Qxb5 Qxf3 33. Qxa4 Qxg4
+34. Qa7+ Kf6 35. a4 Qe2 36. Qg1 e4 37. Qd4+ Be5 38. Qc5 Qd2 39. a5 Bf4 40. Bb3
+e3 41. Qf8+ Bf7 42. Nxe3 Qxe3 43. Bxd5 Qd3+ 0-1
+
+
+[Event "5th Classic GpC 2013"]
+[Site "London ENG"]
+[Date "2013.12.11"]
+[Round "1.1"]
+[White "Gelfand, B."]
+[Black "Polgar, Ju"]
+[Result "1-0"]
+[ECO "E15"]
+[WhiteElo "2777"]
+[BlackElo "2693"]
+[PlyCount "99"]
+[EventDate "2013.12.11"]
+[EventType "tourn (rapid)"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2013.12.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb7 6. Bg2 Bb4+ 7. Bd2 a5 8. O-O
+O-O 9. Qc2 Be4 10. Qb2 c5 11. Nc3 d5 12. cxd5 exd5 13. Bg5 Bxc3 14. Qxc3 Nbd7
+15. Bh3 Ra7 16. dxc5 bxc5 17. Bxd7 Rxd7 18. Qxc5 Bxf3 19. exf3 d4 20. Rad1 Rd5
+21. Bxf6 gxf6 22. Qc4 Qd7 23. Rd2 Rc8 24. Qd3 Re8 25. Rfd1 Rd8 26. Kg2 Qd6 27.
+Re1 f5 28. Rc2 Kg7 29. Rec1 Rd7 30. Rc6 Qe5 31. Qd2 f4 32. Re1 Qb8 33. Re4 Qd8
+34. Rxf4 R7d6 35. Rxd6 Qxd6 36. Qd3 f5 37. Rh4 Qf6 38. Rh5 h6 39. g4 Qd6 40.
+gxf5 Qf6 41. Qe4 Rd8 42. Rh4 d3 43. Rg4+ Kh7 44. Rg6 Qf7 45. Qf4 Qf8 46. Qc7+
+Kh8 47. Rxh6+ Kg8 48. Rg6+ Kh8 49. Qe5+ Kh7 50. Qf4 1-0
+
+
+[Event "5th Classic GpC 2013"]
+[Site "London ENG"]
+[Date "2013.12.12"]
+[Round "4.1"]
+[White "Polgar, Ju"]
+[Black "Gelfand, B."]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2693"]
+[BlackElo "2777"]
+[PlyCount "88"]
+[EventDate "2013.12.11"]
+[EventType "tourn (rapid)"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2013.12.16"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Re1 a6 6. Bf1 d5 7. exd5 Nxd5 8.
+d4 Nf6 9. Be3 Be7 10. c4 O-O 11. Nc3 cxd4 12. Nxd4 Ne5 13. h3 Bd7 14. Rc1 Rc8
+15. Qb3 Bc5 16. Red1 Qc7 17. Nc2 Bxe3 18. Nxe3 Rfd8 19. Qa3 Be8 20. b4 Rxd1 21.
+Rxd1 Rd8 22. Qc1 Nc6 23. Nc2 Rxd1 24. Qxd1 Qe5 25. Qd3 Qf4 26. a4 Ne5 27. Qe3
+Qxe3 28. Nxe3 a5 29. bxa5 Nc6 30. f4 Nxa5 31. Kf2 Nb3 32. Bd3 Nc5 33. Bc2 Kf8
+34. g4 Bc6 35. Ned1 Ke7 36. Ke3 h6 37. Nf2 g5 38. a5 Kd6 39. Ne2 Nfd7 40. Ng3
+Nf6 41. Ne2 Bg2 42. Nc3 Bc6 43. Ne2 Bg2 44. Nc3 Bc6 1/2-1/2
+
+
+[Event "5th Classic GpC 2013"]
+[Site "London ENG"]
+[Date "2013.12.11"]
+[Round "2.2"]
+[White "Polgar, Ju"]
+[Black "Nakamura, Hi"]
+[Result "0-1"]
+[ECO "C70"]
+[WhiteElo "2693"]
+[BlackElo "2786"]
+[PlyCount "112"]
+[EventDate "2013.12.11"]
+[EventType "tourn (rapid)"]
+[EventRounds "6"]
+[EventCountry "ENG"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2013.12.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nge7 5. c3 g6 6. d4 exd4 7. cxd4 b5 8. Bb3
+Bg7 9. Nc3 d6 10. a4 b4 11. Nd5 h6 12. a5 O-O 13. O-O Bg4 14. Be3 Rb8 15. Bc4
+Nxd5 16. Bxd5 Qd7 17. Bc4 Qc8 18. Be2 Ne7 19. h3 Bd7 20. Qd2 Kh7 21. Rfc1 f5
+22. e5 Nd5 23. Bc4 Nxe3 24. Qxe3 Qb7 25. Qb3 dxe5 26. Nxe5 Be8 27. Bd5 Qa7 28.
+Rd1 c5 29. Rac1 Rd8 30. Qf3 cxd4 31. Nc6 Bxc6 32. Rxc6 Rf6 33. Rxf6 Bxf6 34.
+Bc4 Qc7 35. Bxa6 Qxa5 36. Qb7+ Bg7 37. Re1 d3 38. Re7 Qa1+ 39. Kh2 Qxb2 40. Qc7
+Rf8 41. Bxd3 Qc3 42. Qd7 b3 43. Bb1 b2 44. Ba2 h5 45. Qb7 Kh6 46. Re6 Be5+ 47.
+g3 f4 48. gxf4 Rxf4 49. Kg2 Qd4 50. f3 Qd2+ 51. Kf1 Qd1+ 52. Kf2 Qd2+ 53. Kf1
+Qe3 54. Rxg6+ Kxg6 55. Bb1+ Kf6 56. Qc6+ Kg5 0-1
+
+
+[Event "FIDE World Cup 2013"]
+[Site "Tromso NOR"]
+[Date "2013.08.12"]
+[Round "2.42"]
+[White "Polgar, Ju"]
+[Black "Ortiz Suarez, I."]
+[Result "1/2-1/2"]
+[ECO "B94"]
+[WhiteElo "2696"]
+[BlackElo "2609"]
+[PlyCount "173"]
+[EventDate "2013.08.11"]
+[EventType "k.o."]
+[EventRounds "7"]
+[EventCountry "NOR"]
+[Source "Mark Crowther"]
+[SourceDate "2013.08.12"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Qe2 h6 8.
+Bd2 e6 9. f4 Qc7 10. O-O-O b5 11. g4 Bb7 12. g5 hxg5 13. fxg5 b4 14. Nd5 Nxd5
+15. exd5 Bxd5 16. Bg2 Bxg2 17. Qxg2 Rc8 18. Bxb4 g6 19. Bc3 e5 20. Ne2 Nb6 21.
+h4 d5 22. Rhe1 Bg7 23. h5 Rxh5 24. Nf4 Rh4 25. Nxd5 Nxd5 26. Rxd5 Rc4 27. Re3
+Kf8 28. Qd2 e4 29. Bxg7+ Kxg7 30. c3 Qf4 31. Re2 Qg3 32. Kc2 Re8 33. Rg2 Qb8
+34. Qe3 Rc7 35. Rh2 Rce7 36. Qf2 Re6 37. Rd7 Rf8 38. Rxf7+ Rxf7 39. Rh7+ Kxh7
+40. Qxf7+ Kh8 41. Qxe6 Qh2+ 42. Kb3 Qb8+ 43. Ka3 Qf8+ 44. Ka4 Qf4 45. Qe8+ Kg7
+46. Qd7+ Kf8 47. Qd8+ Kf7 48. Qd5+ Ke7 49. Qd4 Ke6 50. Kb3 Qf3 51. Kc2 Kf5 52.
+a4 Kxg5 53. b4 Kh4 54. b5 axb5 55. a5 Qe2+ 56. Kb3 Kg3 57. Qd6+ Kf3 58. a6 Qe1
+59. Kb4 Qb1+ 60. Kc5 Qa1 61. Qf6+ Ke2 62. Kb6 b4 63. Qd4 bxc3 64. Qxe4+ Kd2 65.
+Qd5+ Ke3 66. Qe5+ Kd3 67. Qg3+ Kd2 68. Qd6+ Ke3 69. Qc5+ Kd3 70. Qb5+ Kd2 71.
+Qg5+ Ke2 72. Qe5+ Kd3 73. a7 Qg1+ 74. Ka6 Qa1+ 75. Kb7 Qh1+ 76. Kb8 c2 77. Qg3+
+Kd2 78. Qg5+ Kd1 79. Qd8+ Ke2 80. Qe7+ Kd2 81. Qb4+ Ke2 82. Qc4+ Kd2 83. Qf4+
+Kd1 84. Qd6+ Ke2 85. a8=Q Qxa8+ 86. Kxa8 c1=Q 87. Qxg6 1/2-1/2
+
+
+[Event "FIDE World Cup 2013"]
+[Site "Tromso NOR"]
+[Date "2013.08.11"]
+[Round "1.42"]
+[White "Ortiz Suarez, I."]
+[Black "Polgar, Ju"]
+[Result "1-0"]
+[ECO "A35"]
+[WhiteElo "2609"]
+[BlackElo "2696"]
+[PlyCount "129"]
+[EventDate "2013.08.11"]
+[EventType "k.o."]
+[EventRounds "7"]
+[EventCountry "NOR"]
+[Source "Mark Crowther"]
+[SourceDate "2013.08.12"]
+
+1. c4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. e3 e6 5. d4 d5 6. cxd5 exd5 7. Bb5 Bd6 8.
+dxc5 Bxc5 9. O-O O-O 10. b3 Bg4 11. Bb2 Rc8 12. h3 Bh5 13. Rc1 Bd6 14. Be2 Bxf3
+15. Bxf3 Be5 16. Ba1 Qa5 17. Nxd5 Rfd8 18. Bxe5 Nxd5 19. Bxd5 Qxd5 20. Qxd5
+Rxd5 21. Bc3 Rcd8 22. Rfe1 a5 23. Kf1 b5 24. Rc2 h5 25. Rec1 Kh7 26. Be1 Nb4
+27. Bxb4 axb4 28. Rc5 h4 29. R1c2 f6 30. Ke2 g5 31. Rxd5 Rxd5 32. Rd2 Rc5 33.
+Rd7+ Kg6 34. Kd2 Rc6 35. Rd5 Ra6 36. Rxb5 Rxa2+ 37. Ke1 Rb2 38. Rxb4 Kf5 39.
+Kf1 Ke5 40. f3 Rb1+ 41. Kf2 Rb2+ 42. Kg1 Rb1+ 43. Kh2 f5 44. e4 fxe4 45. Rxe4+
+Kf5 46. Rb4 Rb2 47. Rb8 Kf6 48. b4 Rb1 49. b5 Kg6 50. b6 Kg7 51. b7 Kh7 52. f4
+gxf4 53. Rf8 Rxb7 54. Rxf4 Kg6 55. Rxh4 Rb3 56. Rf4 Kg5 57. Rf3 Rb4 58. Kg3 Ra4
+59. Rb3 Ra5 60. h4+ Kh5 61. Kh3 Ra6 62. g4+ Kh6 63. Kg3 Kg6 64. h5+ Kh6 65. Kh4
+1-0
+
+
+[Event "Match des Championnes Rapid"]
+[Site "Porto-Vecchio FRA"]
+[Date "2013.05.13"]
+[Round "1"]
+[White "Polgar, Ju"]
+[Black "Polgar, S."]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "2696"]
+[BlackElo "2450"]
+[PlyCount "71"]
+[EventDate "2013.05.13"]
+[EventType "match"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[Source "Mark Crowther"]
+[SourceDate "2013.05.27"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 d6 5. Nc3 Ne7 6. Be3 a6 7. g4 Nbc6 8. f4
+Nxd4 9. Qxd4 Nc6 10. Qd2 b5 11. O-O-O Bb7 12. Qf2 b4 13. Na4 Be7 14. Nc5 Bc8
+15. Kb1 Qc7 16. Na4 Rb8 17. g5 Na5 18. Bb6 Qc6 19. Bxa5 Qxa4 20. Bc7 Rb7 21.
+Bxd6 Bxd6 22. Rxd6 O-O 23. Bc4 Rc7 24. b3 Qa5 25. h4 Bb7 26. Qe2 Qc5 27. Rhd1
+a5 28. h5 a4 29. g6 fxg6 30. hxg6 axb3 31. cxb3 Rxf4 32. Rd8+ Rf8 33. Bxe6+ Kh8
+34. Qc4 Qf2 35. Bf7 Rxc4 36. Rxf8# 1-0
+
+
+[Event "Match des Championnes Rapid"]
+[Site "Porto-Vecchio FRA"]
+[Date "2013.05.14"]
+[Round "2"]
+[White "Polgar, S."]
+[Black "Polgar, Ju"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2450"]
+[BlackElo "2696"]
+[PlyCount "91"]
+[EventDate "2013.05.13"]
+[EventType "match"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[Source "Mark Crowther"]
+[SourceDate "2013.05.27"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 Nc6 7. Nxc6 bxc6 8.
+e5 d5 9. exf6 dxc4 10. Qxd8+ Kxd8 11. fxe7+ Bxe7 12. Be3 Be6 13. O-O-O+ Kc8 14.
+Na4 Rb8 15. Bc5 Bg5+ 16. Kb1 Rb5 17. Bd4 Be7 18. Rhe1 Rd8 19. g3 g5 20. Nb6+
+Kb7 21. Nxc4 Rbd5 22. c3 c5 23. Ne3 cxd4 24. Nxd5 Rxd5 25. Rxd4 Rf5 26. Rxe6
+fxe6 27. Rd7+ Kc6 28. Rxe7 Kd5 29. Rd7+ Ke4 30. Rd2 Kf3 31. b4 e5 32. c4 e4 33.
+c5 Rf6 34. Rc2 Rf8 35. c6 h5 36. c7 Rc8 37. a4 h4 38. gxh4 gxh4 39. b5 h3 40.
+b6 Kg2 41. b7 Rxc7 42. Rxc7 Kxh2 43. b8=Q Kg2 44. Rg7+ Kh1 45. Qg3 h2 46. Qg2#
+1-0
+
+
+[Event "Geneva Masters GpA 2013"]
+[Site "Geneva SUI"]
+[Date "2013.06.28"]
+[Round "3.2"]
+[White "Polgar, Ju"]
+[Black "Mamedyarov, S."]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "2696"]
+[BlackElo "2753"]
+[PlyCount "109"]
+[EventDate "2013.06.26"]
+[EventType "tourn (rapid)"]
+[EventRounds "3"]
+[EventCountry "SUI"]
+[EventCategory "19"]
+[Source "Mark Crowther"]
+[SourceDate "2013.07.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8. Nbd2
+Bg4 9. h3 Bh5 10. Re1 Nd7 11. Nf1 Bxf3 12. Qxf3 Bg5 13. Ne3 Nc5 14. Bc2 g6 15.
+b4 Ne6 16. Bb3 Qf6 17. Qxf6 Bxf6 18. Nd5 Bg7 19. a4 Rfe8 20. g3 Ne7 21. Ne3 h5
+22. h4 Bh6 23. Kg2 Kg7 24. a5 Ng8 25. Bb2 Nf6 26. f3 Rad8 27. d4 Bxe3 28. Rxe3
+exd4 29. cxd4 d5 30. e5 Ng8 31. g4 Ne7 32. Kg3 Rh8 33. Rc1 c6 34. Rh1 Rh7 35.
+Rd3 Rdh8 36. Bc1 g5 37. Bxg5 Nxg5 38. hxg5 hxg4 39. Rxh7+ Rxh7 40. fxg4 Rh1 41.
+Rd1 Rh8 42. Bc2 Rb8 43. Rh1 Rh8 44. Rxh8 Kxh8 45. Kf4 Kg7 46. Bf5 Ng6+ 47. Kg3
+Ne7 48. e6 c5 49. dxc5 Nc6 50. exf7 Nxb4 51. Bc8 Nd3 52. Bxb7 Nxc5 53. Bxd5 Nd3
+54. Kf3 Nb4 55. Ke4 1-0
+
+
+[Event "Geneva Masters GpA 2013"]
+[Site "Geneva SUI"]
+[Date "2013.06.28"]
+[Round "3.3"]
+[White "Polgar, Ju"]
+[Black "Mamedyarov, S."]
+[Result "1-0"]
+[ECO "B18"]
+[WhiteElo "2696"]
+[BlackElo "2753"]
+[PlyCount "115"]
+[EventDate "2013.06.26"]
+[EventType "tourn (rapid)"]
+[EventRounds "3"]
+[EventCountry "SUI"]
+[EventCategory "19"]
+[Source "Mark Crowther"]
+[SourceDate "2013.07.01"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nf6 8. Bd3
+Bxd3 9. Qxd3 e6 10. Bd2 Be7 11. O-O-O O-O 12. Kb1 c5 13. Ne4 Nbd7 14. dxc5 Nxc5
+15. Nxf6+ Bxf6 16. Qc4 Qb6 17. c3 Rac8 18. Be3 Qa5 19. Bd4 Ne4 20. Qd3 Bxd4 21.
+Qxd4 Qf5 22. Ka1 a5 23. Rhe1 Nf6 24. Re5 Qc2 25. Qd2 Qa4 26. Nd4 Rfd8 27. f3
+Nd7 28. Re3 Nb6 29. b3 Qe8 30. Rd3 a4 31. Kb2 Ra8 32. Nc2 Rdc8 33. Nb4 Qb5 34.
+c4 Qc5 35. Nc2 axb3 36. axb3 Qh5 37. Qb4 Qe5+ 38. Rd4 Rc6 39. f4 Qf6 40. h5 Kh7
+41. Qc3 Rac8 42. Qd3+ g6 43. hxg6+ Qxg6 44. Nb4 Rc5 45. Rd6 Nxc4+ 46. bxc4 Rxc4
+47. Qxg6+ Kxg6 48. R1d4 Rc1 49. g4 Kg7 50. f5 exf5 51. gxf5 Rf1 52. Rg4+ Kh7
+53. f6 Rf2+ 54. Kb3 Rf3+ 55. Ka4 Ra8+ 56. Kb5 Rf5+ 57. Kb6 Ra4 58. Rg7+ 1-0
+
+
+[Event "Geneva Masters GpA 2013"]
+[Site "Geneva SUI"]
+[Date "2013.06.26"]
+[Round "1.2"]
+[White "Polgar, Ju"]
+[Black "Pelletier, Y."]
+[Result "0-1"]
+[ECO "A05"]
+[WhiteElo "2696"]
+[BlackElo "2574"]
+[PlyCount "66"]
+[EventDate "2013.06.26"]
+[EventType "tourn (rapid)"]
+[EventRounds "3"]
+[EventCountry "SUI"]
+[EventCategory "19"]
+[Source "Mark Crowther"]
+[SourceDate "2013.07.01"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 c6 4. d3 Bg4 5. Nbd2 Nbd7 6. O-O e5 7. h3 Bh5 8. Nh4
+Bc5 9. c4 O-O 10. cxd5 cxd5 11. Nb3 Bb6 12. Bd2 a5 13. a4 Re8 14. Rc1 Nf8 15.
+Nf5 Ne6 16. Qe1 Bg6 17. Nh4 e4 18. Nxg6 hxg6 19. Rc3 Qd7 20. Qa1 Nd4 21. Nxd4
+Bxd4 22. Rb3 e3 23. Be1 exf2+ 24. Bxf2 Bxf2+ 25. Rxf2 Re3 26. g4 Rae8 27. Qd1
+Qxa4 28. g5 Ne4 29. Bxe4 dxe4 30. Rxf7 Qd4 31. Rf2 Rg3+ 32. Kf1 Rxh3 33. Qc2 e3
+0-1
+
+
+[Event "Geneva Masters GpA 2013"]
+[Site "Geneva SUI"]
+[Date "2013.06.27"]
+[Round "2.1"]
+[White "Polgar, Ju"]
+[Black "Kramnik, V."]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2696"]
+[BlackElo "2803"]
+[PlyCount "119"]
+[EventDate "2013.06.26"]
+[EventType "tourn (rapid)"]
+[EventRounds "3"]
+[EventCountry "SUI"]
+[EventCategory "19"]
+[Source "Mark Crowther"]
+[SourceDate "2013.07.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 Bd7 10. Ne2 Be7 11. h3 h5 12. Rd1 Ke8 13. Bg5 c5 14. Nf4
+Bc6 15. Nd5 Bxg5 16. Nxg5 Rd8 17. Nf4 Rd4 18. Rxd4 cxd4 19. Rd1 h4 20. c3 dxc3
+21. bxc3 Rg8 22. e6 f6 23. Nf7 Nd6 24. Nxd6+ cxd6 25. Ng6 Be4 26. Nxh4 g5 27.
+Rd4 d5 28. Nf3 Bxf3 29. gxf3 Ke7 30. Rxd5 Kxe6 31. Rd3 Rc8 32. f4 gxf4 33. Kg2
+Kf5 34. Rd7 Rxc3 35. Rxb7 Ra3 36. Rb5+ Kg6 37. Rb4 Kg5 38. Rb2 a5 39. Rc2 f5
+40. Rd2 a4 41. Rc2 Rd3 42. Rc4 a3 43. Ra4 Rc3 44. Kh2 Rc2 45. Kg2 Rxa2 46. Kf3
+Ra1 47. h4+ Kxh4 48. Kxf4 Kh3 49. Kxf5 Kg2 50. f4 Kf3 51. Kf6 Ke3 52. f5 a2 53.
+Ke6 Kd3 54. f6 Re1+ 55. Kd7 a1=Q 56. Rxa1 Rxa1 57. f7 Rf1 58. Ke7 Kc4 59. f8=Q
+Rxf8 60. Kxf8 1/2-1/2
+
+
+[Event "15th ch-EUR Indiv 2014"]
+[Site "Yerevan ARM"]
+[Date "2014.03.06"]
+[Round "4.12"]
+[White "Tregubov, P."]
+[Black "Polgar, Ju"]
+[Result "1/2-1/2"]
+[ECO "E17"]
+[WhiteElo "2614"]
+[BlackElo "2693"]
+[PlyCount "117"]
+[EventDate "2014.03.03"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ARM"]
+[Source "Mark Crowther"]
+[SourceDate "2014.03.10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Re1 h6 8. d5
+exd5 9. Nh4 c6 10. cxd5 Nxd5 11. Nf5 Bc5 12. e4 Ne7 13. Nxg7 Kxg7 14. b4 Bxf2+
+15. Kxf2 Ng6 16. e5 d5 17. exd6 Qf6+ 18. Qf3 Qxf3+ 19. Bxf3 Nd7 20. Bb2+ f6 21.
+Na3 Nde5 22. Be4 Rad8 23. Rad1 Ba6 24. Bc3 Kf7 25. Kg2 Rg8 26. b5 Bb7 27. Rf1
+Ke6 28. bxc6 Bxc6 29. Bxc6 Nxc6 30. Rxf6+ Kd7 31. Rf7+ Ke6 32. Rf6+ Kd7 33. Nb5
+Rdf8 34. Rdf1 Rxf6 35. Rxf6 h5 36. Nd4 Nce5 37. h3 Rc8 38. Ne2 Rc4 39. Rf5 Kxd6
+40. Rxh5 Ra4 41. a3 a5 42. Rg5 b5 43. h4 Re4 44. Nd4 b4 45. axb4 axb4 46. Bxb4+
+Kd5 47. Bc3 Rxd4 48. Bxd4 Kxd4 49. h5 Nh8 50. g4 Nhf7 51. Rg7 Ke4 52. g5 Kf5
+53. g6 Kf6 54. Rg8 Nh6 55. Rh8 Kg5 56. g7 Neg4 57. Kf3 Nf6 58. Ra8 Kxh5 59.
+Ra5+ 1/2-1/2
+
+
+[Event "15th ch-EUR Indiv 2014"]
+[Site "Yerevan ARM"]
+[Date "2014.03.04"]
+[Round "2.14"]
+[White "Gabrielian, A."]
+[Black "Polgar, Ju"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2560"]
+[BlackElo "2693"]
+[PlyCount "142"]
+[EventDate "2014.03.03"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ARM"]
+[Source "Mark Crowther"]
+[SourceDate "2014.03.10"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Qb6 6. Nb3 e6 7. Bd3 Be7 8.
+Be3 Qc7 9. f4 d6 10. Qf3 O-O 11. g4 Nb4 12. g5 Nd7 13. O-O-O b6 14. Kb1 Bb7 15.
+Nd4 Nxd3 16. cxd3 Rfe8 17. h4 Bf8 18. h5 Rac8 19. Ncb5 Qd8 20. g6 f5 21. h6 Nf6
+22. gxh7+ Kh8 23. hxg7+ Bxg7 24. Qg3 Ng4 25. Rhg1 Qd7 26. Nc3 Ba6 27. Qh3 Rc7
+28. Rxg4 fxg4 29. Qxg4 Bxd4 30. Bxd4+ e5 31. Qxd7 Rxd7 32. Be3 exf4 33. Bxf4
+Rf8 34. Be3 Rf3 35. Bd4+ Kxh7 36. Kc2 Rg3 37. b4 Rc7 38. a4 Kg6 39. b5 Bc8 40.
+Rf1 Rg2+ 41. Rf2 Rxf2+ 42. Bxf2 Kf6 43. a5 bxa5 44. b6 axb6 45. Bxb6 Rh7 46.
+Nd5+ Ke6 47. Bxa5 Bb7 48. Ne3 Rh3 49. Bb6 Ba6 50. Kc3 Kd7 51. Bd4 Kc6 52. Ba7
+Bb5 53. Bd4 Rf3 54. Ba7 Rf8 55. Bd4 Ra8 56. Nc2 Kd7 57. Be3 Ra2 58. Kb3 Ra8 59.
+Kc3 Rc8+ 60. Kd2 Rh8 61. Bd4 Rh2+ 62. Kc3 Ba4 63. Ne3 Re2 64. Kb4 Bc6 65. Kc3
+Bb5 66. Nd5 Ra2 67. Nf4 Kc6 68. Be3 Ra4 69. Kd2 Ra3 70. Bd4 Ra2+ 71. Ke3 Ra3
+1/2-1/2
+
+
+[Event "15th ch-EUR Indiv 2014"]
+[Site "Yerevan ARM"]
+[Date "2014.03.08"]
+[Round "6.14"]
+[White "Schlosser, P."]
+[Black "Polgar, Ju"]
+[Result "1/2-1/2"]
+[ECO "A33"]
+[WhiteElo "2612"]
+[BlackElo "2693"]
+[PlyCount "119"]
+[EventDate "2014.03.03"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ARM"]
+[Source "Mark Crowther"]
+[SourceDate "2014.03.10"]
+
+1. c4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g3 Qb6 7. Ndb5 Ne5 8.
+Bg2 a6 9. Na4 Qa5+ 10. Nbc3 Rb8 11. Bf4 d6 12. c5 Nfd7 13. cxd6 b5 14. Nc5 Nxc5
+15. Bxe5 b4 16. Na4 Nxa4 17. d7+ Bxd7 18. Bxb8 Nxb2 19. Qc1 Na4 20. Qc7 Qxc7
+21. Bxc7 Bc5 22. Rb1 Ke7 23. Rb3 Bb5 24. e3 Bc4 25. Kd2 Rc8 26. Be5 f6 27. Ba1
+a5 28. Rc1 Bxb3 29. axb3 Nb6 30. Ke2 a4 31. bxa4 Nxa4 32. Be4 h6 33. g4 b3 34.
+Rb1 Bd6 35. Rxb3 Nc5 36. Rb4 Nxe4 37. Rxe4 Rc2+ 38. Kf3 Bxh2 39. Kg2 Bd6 40.
+Ra4 e5 41. Ra7+ Bc7 42. Bb2 Kd7 43. Rb7 Kc6 44. Rb3 Ba5 45. Kf1 Rc4 46. f3 Rc2
+47. Ba3 g6 48. Be7 f5 49. gxf5 gxf5 50. Rb8 Rc3 51. Rf8 Rxe3 52. Rxf5 Bc3 53.
+Bf8 h5 54. Kf2 Bd4 55. Rxh5 e4 56. Rh6+ Kd7 57. Rd6+ Ke8 58. Rxd4 Rxf3+ 59. Ke2
+Kxf8 60. Rxe4 1/2-1/2
+
+
+[Event "HUN-POL Friendly Match m 2014"]
+[Site "Budapest HUN"]
+[Date "2014.06.08"]
+[Round "1.5"]
+[White "Gajewski, G."]
+[Black "Polgar, Ju"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2650"]
+[BlackElo "2685"]
+[PlyCount "118"]
+[EventDate "2014.06.08"]
+[EventType "team-schev"]
+[EventRounds "6"]
+[EventCountry "HUN"]
+[Source "Mark Crowther"]
+[SourceDate "2014.06.09"]
+[WhiteTeam "Poland"]
+[BlackTeam "Hungary"]
+[WhiteTeamCountry "POL"]
+[BlackTeamCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. a3 Bxd2+ 6. Qxd2 Bb7 7. e3 d6 8.
+b4 Nbd7 9. Be2 a5 10. Bb2 axb4 11. axb4 Rxa1+ 12. Bxa1 b5 13. cxb5 Nb6 14. O-O
+O-O 15. Rc1 Qa8 16. Bb2 Rc8 17. Ra1 Qb8 18. Qd1 Bxf3 19. Bxf3 d5 20. Qc2 Ne8
+21. e4 Nd6 22. e5 Ndc4 23. Be2 Qb7 24. Bd3 h6 25. Rf1 Nxb2 26. Qxb2 Nc4 27. Qc3
+Qxb5 28. Rc1 Ra8 29. h4 Ra4 30. Ra1 Rxa1+ 31. Qxa1 Qb7 32. b5 Qb8 33. h5 Nb6
+34. Qa3 Qd8 35. g3 Qg5 36. Kg2 Qd2 37. Bb1 Qe1 38. Bc2 Qd2 39. Qd3 Nc4 40. Qxd2
+Nxd2 41. f3 f6 42. Kf2 Nc4 43. Bd3 Nb6 44. g4 Kf7 45. Ke3 Ke7 46. f4 Nd7 47.
+Bc2 Nb6 48. Bb3 Nd7 49. Ba2 Kd8 50. Kd3 fxe5 51. dxe5 c5 52. bxc6 Nb8 53. Bxd5
+exd5 54. Kd4 Nxc6+ 55. Kxd5 Nb4+ 56. Ke6 Ke8 57. f5 Nc2 58. f6 gxf6 59. Kxf6
+Ne3 1/2-1/2
+
+
+[Event "FIDE World Rapid 2014"]
+[Site "Dubai UAE"]
+[Date "2014.06.18"]
+[Round "12.37"]
+[White "Durarbayli, V."]
+[Black "Polgar, Ju"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2590"]
+[BlackElo "2685"]
+[PlyCount "111"]
+[EventDate "2014.06.16"]
+[EventType "swiss (rapid)"]
+[EventRounds "15"]
+[EventCountry "UAE"]
+[Source "Mark Crowther"]
+[SourceDate "2014.06.23"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Qb6 6. Nb3 e6 7. Be3 Qc7 8.
+a3 a6 9. f4 d6 10. g4 h6 11. Bg2 Be7 12. O-O g5 13. fxg5 hxg5 14. h3 Nd7 15.
+Qd2 f6 16. Qf2 Nce5 17. Nd4 Nf8 18. Nf3 Nfg6 19. Nxe5 Nxe5 20. Na4 b5 21. Nb6
+Rb8 22. Nxc8 Rxc8 23. c3 d5 24. Bb6 Nxg4 25. Bxc7 Nxf2 26. Kxf2 Rxc7 27. exd5
+e5 28. Kg3 Rh6 29. a4 b4 30. cxb4 Bxb4 31. Rac1 Rxc1 32. Rxc1 f5 33. Rf1 Rf6
+34. Be4 f4+ 35. Kg4 Be7 36. a5 Rh6 37. Rf3 Kf7 38. Rb3 Bd8 39. Rb7+ Kf6 40. Rh7
+Rxh7 41. Bxh7 Bxa5 42. Bd3 Bc7 43. b4 Bd6 44. Kf3 Bxb4 45. Bxa6 Ke7 46. d6+
+Bxd6 47. Bb7 Kf6 48. Ke4 Kg6 49. Bc8 Kh5 50. Bg4+ Kh4 51. Kf3 Bb8 52. Bf5 Bc7
+53. Bg4 e4+ 54. Kxe4 Kg3 55. Bh5 Kxh3 56. Kf3 1/2-1/2
+
+
+[Event "FIDE World Rapid 2014"]
+[Site "Dubai UAE"]
+[Date "2014.06.17"]
+[Round "9.20"]
+[White "Potkin, V."]
+[Black "Polgar, Ju"]
+[Result "1/2-1/2"]
+[ECO "E16"]
+[WhiteElo "2621"]
+[BlackElo "2685"]
+[PlyCount "139"]
+[EventDate "2014.06.16"]
+[EventType "swiss (rapid)"]
+[EventRounds "15"]
+[EventCountry "UAE"]
+[Source "Mark Crowther"]
+[SourceDate "2014.06.23"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb4+ 5. Bd2 a5 6. Bg2 Bb7 7. O-O O-O 8. Bf4
+Be7 9. Qc2 Be4 10. Qc1 Na6 11. Nc3 Bb7 12. Rd1 d5 13. cxd5 Nxd5 14. Nxd5 Bxd5
+15. Ne5 Bxg2 16. Kxg2 Nb4 17. e4 Bd6 18. a3 Na6 19. Qc4 Qe8 20. Rac1 b5 21. Qc6
+f6 22. Nd3 Qxc6 23. Rxc6 Nb8 24. Rc2 Rd8 25. e5 fxe5 26. dxe5 Bf8 27. Rxc7 Na6
+28. Rcc1 Rac8 29. Rxc8 Rxc8 30. Be3 a4 31. Nf4 Rc6 32. Rd8 Kf7 33. Ra8 Nc7 34.
+Ra7 Bc5 35. Bxc5 Rxc5 36. Kf3 g5 37. Ne2 Rc4 38. Ke3 Kg6 39. Nd4 g4 40. Rb7 Rc5
+41. Ke4 Rc4 42. Rb8 Rc1 43. Rg8+ Kf7 44. Rc8 Re1+ 45. Kf4 Nd5+ 46. Kxg4 Re4+
+47. f4 Rxd4 48. Rb8 b4 49. axb4 Rxb4 50. Ra8 Nb6 51. Ra7+ Kg6 52. Re7 h5+ 53.
+Kh4 Nd5 54. Rxe6+ Kf5 55. Ra6 Rxb2 56. h3 Ra2 57. Kxh5 a3 58. e6 Kf6 59. Ra5
+Kxe6 60. f5+ Kd6 61. Kg5 Ra1 62. f6 a2 63. Ra6+ Kd7 64. Ra7+ Ke8 65. Ra8+ Kf7
+66. Ra7+ Ke6 67. Ra6+ Kd7 68. Ra7+ Ke8 69. Ra8+ Kf7 70. Ra7+ 1/2-1/2
+
+
+[Event "FIDE World Blitz 2014"]
+[Site "Dubai UAE"]
+[Date "2014.06.20"]
+[Round "17.10"]
+[White "Le Quang Liem"]
+[Black "Polgar, Ju"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[WhiteElo "2712"]
+[BlackElo "2685"]
+[PlyCount "140"]
+[EventDate "2014.06.19"]
+[EventType "swiss (blitz)"]
+[EventRounds "21"]
+[EventCountry "UAE"]
+[Source "Mark Crowther"]
+[SourceDate "2014.06.23"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 c5 4. f3 Qa5+ 5. c3 Nf6 6. Nd2 cxd4 7. Nb3 Qd8 8.
+cxd4 e6 9. e4 d5 10. e5 Nfd7 11. Bd3 Bb4+ 12. Bd2 Nc6 13. f4 Qb6 14. Nf3 a5 15.
+Bxb4 Qxb4+ 16. Qd2 a4 17. Nc1 b6 18. Ne2 Ba6 19. Bxa6 Rxa6 20. Rc1 Qxd2+ 21.
+Kxd2 b5 22. Nc3 Ke7 23. Nxb5 Rb8 24. Nd6 Rxb2+ 25. Rc2 Rxc2+ 26. Kxc2 Nb4+ 27.
+Kd2 Nxa2 28. Rb1 a3 29. Ne1 Rc6 30. Rb3 Ra6 31. Nc2 Ra4 32. Rb7 Ra6 33. g4 f6
+34. h4 fxe5 35. fxe5 Kd8 36. Rb3 Nb6 37. Nxa3 Kc7 38. Kc2 Ra4 39. Kb2 Nb4 40.
+Rc3+ Nc6 41. Nab5+ Kd7 42. Rf3 Nc4+ 43. Kb3 Nd2+ 44. Kxa4 Nxf3 45. Nb7 Nfxd4
+46. Nc5+ Ke7 47. Nxd4 Nxd4 48. Nd3 Nf3 49. h5 h6 50. Kb4 Nh2 51. Nf2 Nf3 52.
+Nd3 g6 53. hxg6 Nh4 54. Nf4 Nf3 55. Nd3 Kf8 56. Kc5 Kg7 57. Kd6 Ng5 58. Nf4 d4
+59. Kc5 d3 60. Nxd3 Kxg6 61. Kd6 Kf7 62. Nc5 Nf3 63. Nxe6 Nh2 64. Nf4 Nxg4 65.
+e6+ Ke8 66. Nd5 Kf8 67. Kc7 Nf6 68. Nxf6 Ke7 69. Ng8+ Kxe6 70. Nxh6 Ke5 1/2-1/2
+
+
+[Event "FIDE World Blitz 2014"]
+[Site "Dubai UAE"]
+[Date "2014.06.19"]
+[Round "5.9"]
+[White "Morozevich, A."]
+[Black "Polgar, Ju"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[WhiteElo "2731"]
+[BlackElo "2685"]
+[PlyCount "131"]
+[EventDate "2014.06.19"]
+[EventType "swiss (blitz)"]
+[EventRounds "21"]
+[EventCountry "UAE"]
+[Source "Mark Crowther"]
+[SourceDate "2014.06.23"]
+
+1. e4 c5 2. b3 Nc6 3. Bb2 d6 4. f4 a6 5. Nf3 e6 6. Qe2 Nf6 7. Nc3 Be7 8. O-O-O
+O-O 9. g4 d5 10. g5 Nh5 11. Qf2 Nxf4 12. Qg3 Bd6 13. Qe1 d4 14. e5 Bc7 15. Ne4
+Nxe5 16. Nxe5 Bxe5 17. Nxc5 Qd5 18. Ne4 d3 19. c4 Bxb2+ 20. Kxb2 Qd4+ 21. Nc3
+e5 22. Qe3 Bf5 23. h4 Rad8 24. Rh2 Rfe8 25. a4 Qxe3 26. dxe3 Nh5 27. e4 Bg4 28.
+Rxd3 Nf4 29. Rxd8 Rxd8 30. Nd5 Bf3 31. Rf2 Bxe4 32. Nxf4 exf4 33. Rxf4 Bc6 34.
+Kc3 Kf8 35. Bd3 Ke7 36. a5 h6 37. gxh6 gxh6 38. b4 Rc8 39. Rf5 Kf8 40. b5 Bd7
+41. Rd5 Bxb5 42. Rd6 Kg7 43. Kd4 Bc6 44. c5 Re8 45. Bc4 Re4+ 46. Kc3 Rxh4 47.
+Bd5 Ra4 48. Bxc6 bxc6 49. Rxc6 Rxa5 50. Kc4 h5 51. Rd6 h4 52. c6 Ra1 53. Rd3
+Rc1+ 54. Kd5 Kg6 55. Kd6 Kg5 56. c7 Kg4 57. Rd5 Rxc7 58. Kxc7 h3 59. Rd4+ Kg3
+60. Rd3+ Kg4 61. Rd4+ Kg5 62. Rd3 Kg4 63. Rd4+ Kg3 64. Rd3+ Kg2 65. Rd2+ Kg3
+66. Rd3+ 1/2-1/2

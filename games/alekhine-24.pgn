@@ -1,0 +1,565 @@
+[Event "It"]
+[Site "Bled (Slovenia)"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Nimzowitsch Aaron"]
+[Result "1-0"]
+[ECO "C15"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Nge2 dxe4 5.a3 Bxc3+ 6.Nxc3 f5 7.f3
+exf3 8.Qxf3 Qxd4 9.Qg3 Nf6 10.Qxg7 Qe5+ 11.Be2 Rg8 12.Qh6 Rg6
+13.Qh4 Bd7 14.Bg5 Bc6 15.O-O-O Bxg2 16.Rhe1 Be4 17.Bh5 Nxh5 18.Rd8+
+Kf7 19.Qxh5 1-0
+
+
+[Event "It"]
+[Site "Bled (Slovenia)"]
+[Date "1931.??.??"]
+[Round "16"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Asztalos Lajos (HUN)"]
+[Result "1/2-1/2"]
+[ECO "D60"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VIII-IX"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Nbd7 5.Bg5 Be7 6.e3 O-O 7.a3
+c5 8.Qc2 b6 9.Rd1 cxd4 10.Nxd4 Bb7 11.cxd5 Nxd5 12.Nxd5 Bxg5
+13.Nc3 a6 14.Bd3 h6 15.Bh7+ Kh8 16.Be4 Qc7 17.O-O Rac8 18.Qe2
+Be7 19.f4 Nf6 20.Bxb7 Qxb7 21.Rd3 Rfd8 22.Rfd1 b5 23.Qf3 Qb6 1/2-1/2
+
+
+[Event "It"]
+[Site "Bled (Slovenia)"]
+[Date "1931.??.??"]
+[Round "22"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Bogoljubow Efim D (UKR)"]
+[Result "1/2-1/2"]
+[ECO "D70"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VIII-IX"]
+
+1.d4 Nf6 2.c4 g6 3.f3 d5 4.cxd5 Nxd5 5.e4 Nb6 6.Nc3 Bg7 7.Be3
+O-O 8.Qd2 Nc6 9.d5 Ne5 10.Bg5 c6 11.Rd1 cxd5 12.exd5 Bf5 13.g4
+Bd7 14.d6 f6 15.Bh6 Bc6 16.Bxg7 Kxg7 17.Qf4 exd6 18.Be2 Qe7 19.Kf2
+g5 20.Qd4 f5 21.h4 fxg4 22.hxg5 Qxg5 23.Ne4 Qf4 24.Nxd6 Qxd4+
+25.Rxd4 Kg6 26.Rh4 Rad8 27.f4 Nd5 28.Kg3 Nxf4 29.Rxf4 Rxf4 30.Kxf4
+Rxd6 31.Kxe5 Rd5+ 32.Ke6 h5 33.Bxg4 hxg4 34.Rxg4+ Kh5 35.Rg3
+Rd2 36.Nf3 Rxb2 37.Nd4 1/2-1/2
+
+
+[Event "It"]
+[Site "Bled (Slovenia)"]
+[Date "1931.??.??"]
+[Round "18"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Colle Edgard (BEL)"]
+[Result "1-0"]
+[ECO "D51"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VIII-IX"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Nbd7 5.Nf3 c6 6.e4 dxe4 7.Nxe4
+Qb6 8.Bd3 Qxb2 9.O-O Nxe4 10.Bxe4 Nf6 11.Bd3 Qb6 12.Re1 Be7 13.Qc2
+h6 14.Bd2 c5 15.Bc3 cxd4 16.Nxd4 O-O 17.Nf5 Qd8 18.Nxe7+ Qxe7
+19.Rab1 Rd8 20.Re3 b6 21.Qe2 Bb7 22.Rg3 Ne8 23.Re1 Kf8 24.Qb2
+f6 25.Bb4 Nd6 26.Rge3 Kf7 27.f4 Qd7 28.Qe2 Re8 29.Qh5+ Kg8 30.Qg6
+f5 31.Bxd6 Qxd6 32.Bxf5 Qxf4 33.Qh7+ Kf8 34.Bg6 Qd4 35.Bxe8 Rxe8
+36.Kh1 Qf6 1-0
+
+
+[Event "It"]
+[Site "Bled (Slovenia)"]
+[Date "1931.??.??"]
+[Round "8"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Flohr Salomon M (CZE)"]
+[Result "1-0"]
+[ECO "D28"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VIII-IX"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O Nc6 7.Qe2
+a6 8.Rd1 b5 9.dxc5 Qc7 10.Bd3 Bxc5 11.a4 b4 12.Nbd2 O-O 13.Nb3
+Be7 14.e4 Nd7 15.Be3 Nde5 16.Nxe5 Nxe5 17.Rac1 Qb8 18.Bc5 Bxc5
+19.Nxc5 Qb6 20.Qh5 Nd7 21.Be2 g6 22.Qg5 Nxc5 23.Rxc5 a5 24.h4
+Ba6 25.Bf3 f6 26.Qe3 Rad8 27.Rxd8 Rxd8 28.e5 f5 29.Rc8 1-0
+
+
+[Event "It"]
+[Site "Bled (Slovenia)"]
+[Date "1931.??.??"]
+[Round "10"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Kashdan Isaac (USA)"]
+[Result "1/2-1/2"]
+[ECO "D52"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VIII-IX"]
+
+1.d4 Nf6 2.c4 c6 3.Nf3 d5 4.Nc3 e6 5.Bg5 Nbd7 6.e3 Qa5 7.Nd2
+dxc4 8.Bxf6 Nxf6 9.Nxc4 Qc7 10.Bd3 Be7 11.O-O O-O 12.Rc1 Rd8
+13.Qe2 Bd7 14.Ne5 Be8 15.f4 c5 16.dxc5 Qxc5 17.Ne4 Qa5 18.Ng5
+Rac8 19.a3 b5 20.h3 Qb6 21.Kh1 h6 22.Rxc8 Rxc8 23.Ngf3 Bc5 24.Nd4
+Bxd4 25.exd4 Qxd4 26.f5 Nh5 27.Qxh5 Qxe5 28.Qg4 exf5 29.Bxf5
+Rc4 30.Qd1 Rf4 31.Rxf4 Qxf4 32.Bd7 Bxd7 33.Qxd7 Qb8 34.Qd4 g6
+35.a4 bxa4 36.Qxa4 Qb6 37.Qe8+ Kg7 38.Qe5+ Qf6 39.Qc5 a6 40.b4
+Qf1+ 41.Kh2 h5 42.Qd4+ Kh7 43.Qe5 Qb5 44.Qf6 Kg8 45.Qd6 Qc4 46.Kg1
+Kg7 47.Kf2 Qe6 48.Qb8 Kf6 49.Qb7 Qc4 50.Ke3 Ke6 51.Qb6+ Kd7 52.Qb7+
+Kd6 53.g3 g5 54.Qb8+ Qc7 55.Qh8 Qc1+ 56.Ke2 Qc4+ 57.Kf2 g4 58.Qxh5
+Qd4+ 59.Ke2 Qe4+ 60.Kd1 Qd3+ 61.Kc1 Qf1+ 62.Kd2 Qg2+ 63.Kd1 Qf1+
+64.Kd2 gxh3 65.Qc5+ Ke6 66.Qc8+ Kf6 67.Ke3 Qe1+ 68.Kf3 Qe6 69.Qc3+
+Kg6 70.g4 Qf6+ 71.Qxf6+ Kxf6 72.Kg3 Ke5 73.Kxh3 Kd4 74.Kh4 1/2-1/2
+
+
+[Event "It"]
+[Site "Bled (Slovenia)"]
+[Date "1931.??.??"]
+[Round "13"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Kostic Boris (YUG)"]
+[Result "1-0"]
+[ECO "D04"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VIII-IX"]
+
+1.d4 d5 2.Nf3 Nf6 3.e3 Bf5 4.Bd3 e6 5.Bxf5 exf5 6.Qd3 Qc8 7.O-O
+Bd6 8.b3 O-O 9.c4 c6 10.Nc3 b6 11.cxd5 Nxd5 12.Nxd5 cxd5 13.Bb2
+g6 14.Rfc1 Qa6 15.Qc3 Rd8 16.Ne5 Nd7 17.b4 Nf6 18.Qb3 b5 19.Rc6
+Qb7 20.Rac1 a5 21.Ba3 Rac8 22.bxa5 b4 23.a6 Qa8 24.Qc2 Rxc6 25.Nxc6
+Rd7 26.Bxb4 Qxa6 27.Nb8 Bxb8 28.Qc8+ Qxc8 29.Rxc8+ Kg7 30.Bf8+
+Kh8 31.Rxb8 h5 32.Bd6+ Kh7 33.Be5 Ng8 34.h4 f6 35.Bf4 Ra7 36.Rb5
+Nh6 37.a4 Nf7 38.a5 Nd8 39.Bb8 Rd7 40.a6 Nc6 41.Rb6 Nxb8 42.Rxb8
+Kh6 43.Rb7 Rd6 44.a7 Ra6 45.f4 Ra2 46.Kf1 g5 47.g3 1-0
+
+
+[Event "It"]
+[Site "Bled (Slovenia)"]
+[Date "1931.??.??"]
+[Round "24"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Maroczy Geza (HUN)"]
+[Result "1-0"]
+[ECO "D66"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VIII-IX"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Bg5 Nbd7 5.e3 h6 6.Bh4 Be7 7.Nc3
+O-O 8.Rc1 c6 9.Bd3 a6 10.O-O dxc4 11.Bxc4 c5 12.a4 Qa5 13.Qe2
+cxd4 14.exd4 Nb6 15.Bd3 Bd7 16.Ne5 Rfd8 17.f4 Be8 18.Ng4 Rxd4
+19.Bxf6 Bxf6 20.Nxf6+ gxf6 21.Ne4 Rad8 22.Nxf6+ Kf8 23.Nh7+ Ke7
+24.f5 R8d6 25.b4 Qxb4 26.Qe5 Nd7 27.Qh8 Rxd3 28.f6+ 1-0
+
+
+[Event "It"]
+[Site "Bled (Slovenia)"]
+[Date "1931.??.??"]
+[Round "20"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Pirc Vasja (YUG)"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VIII-IX"]
+
+1.d4 Nf6 2.c4 c6 3.Nf3 d5 4.e3 e6 5.Bd3 Nbd7 6.Nbd2 Be7 7.O-O
+O-O 8.e4 dxc4 9.Nxc4 c5 10.Bc2 b5 11.Ne3 Bb7 12.e5 Nd5 13.Qd3
+f5 14.exf6 N7xf6 15.Qxb5 Qc7 16.Bb3 Nf4 17.Nf5 N6d5 18.Bxd5 Nxd5
+19.Nxe7+ Qxe7 20.Bg5 Nf6 21.Qxc5 Qe8 22.Bxf6 Rxf6 23.Ne5 Qh5
+24.f3 Qg5 25.Ng4 Rf5 26.Qc1 Rf4 27.Qe3 Bd5 28.Ne5 Qf6 29.Rac1
+h5 30.Rc7 Rf5 31.Rfc1 h4 32.Rc8+ Rxc8 33.Rxc8+ Kh7 34.b3 h3 35.g4
+Rf4 36.Qd3+ g6 37.Rc7+ Kh6 38.Qe3 Bxf3 1-0
+
+
+[Event "It"]
+[Site "Bled (Slovenia)"]
+[Date "1931.??.??"]
+[Round "26"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Spielmann Rudolf (AUT)"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VIII-IX"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Be7 5.Bg5 O-O 6.e3 Ne4 7.Bxe7
+Qxe7 8.Qc2 Nxc3 9.Qxc3 c6 10.Bd3 dxc4 11.Bxc4 Nd7 12.O-O b6 13.Qd3
+c5 14.Qe4 Rb8 15.Bd3 g6 16.Qf4 Bb7 17.Be4 cxd4 18.Bxb7 Rxb7 19.Qxd4
+Rc7 1/2-1/2
+
+
+[Event "It"]
+[Site "Bled (Slovenia)"]
+[Date "1931.??.??"]
+[Round "14"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Stoltz Gosta (SWE)"]
+[Result "1-0"]
+[ECO "D17"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VIII-IX"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Nh4 e6 7.Nxf5
+exf5 8.e3 Nbd7 9.Bxc4 Nb6 10.Bb3 Bd6 11.Qf3 Qd7 12.h3 Nc8 13.a5
+Ne7 14.Bd2 Rb8 15.g4 b5 16.gxf5 Qxf5 17.Qxf5 Nxf5 18.Bc2 Nh4
+19.Ke2 O-O 20.Ne4 Nxe4 21.Bxe4 c5 22.dxc5 Bxc5 23.Rac1 Bd6 24.Rc6
+Rbd8 25.Ra6 Rfe8 26.Bc6 Re7 27.Rd1 Nf5 28.Bb4 g6 29.Bc5 Bxc5
+30.Rxd8+ Kg7 31.Rd5 Bd4 32.Rd7 Re5 33.Kd3 Bxb2 34.Raxa7 Rc5 35.Rxf7+
+Kh6 36.Rxh7+ Kg5 37.Raf7 1-0
+
+
+[Event "It"]
+[Site "Bled (Slovenia)"]
+[Date "1931.??.??"]
+[Round "2"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Tartakower Savielly (FRA)"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VIII-IX"]
+
+1.e4 c6 2.d4 Nf6 3.Bd3 d6 4.Nf3 e5 5.Nc3 Qc7 6.h3 h6 7.Be3 Be7
+8.a4 Nbd7 9.Qd2 a6 10.a5 exd4 11.Nxd4 Nc5 12.O-O Nxd3 13.cxd3
+O-O 14.Na4 c5 15.Rac1 Qd8 16.Ne2 Bd7 17.Nb6 Rb8 18.Ng3 Kh7 19.d4
+cxd4 20.Bxd4 Bc6 21.Rfe1 g6 22.Bc3 Ne8 23.Rcd1 Bf6 24.Bb4 Rg8
+25.Nc4 Ba4 26.Ra1 Bb5 27.Nb6 Bc6 28.Ra3 Qc7 29.Rf3 Rd8 30.Nd5
+Bxd5 31.Qxd5 Rd7 32.Bc3 Bxc3 33.Rxc3 Qd8 34.Rf3 Qe7 35.e5 Nc7
+36.Qxb7 dxe5 37.Qc6 f5 38.Rb3 Rgd8 39.Rb6 Rd6 40.Qc5 Re6 41.Qxe7+
+Rxe7 42.Rc1 Red7 43.Kh2 e4 44.Ne2 Nd5 45.Rxa6 e3 46.fxe3 Nxe3
+47.Re6 Nd5 48.Rcc6 Ne7 49.Ra6 Rb8 50.Nf4 Rxb2 51.Nxg6 Nxg6 52.Rxg6
+f4 53.Rxh6+ Kg8 54.Rag6+ Rg7 55.Kg1 Ra2 56.a6 Rxg6 57.Rxg6+ Kf7
+58.Rg4 f3 59.Rf4+ Kg6 60.Rxf3 Rxa6 61.Kh2 1-0
+
+
+[Event "It"]
+[Site "Bled (Slovenia)"]
+[Date "1931.??.??"]
+[Round "4"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Vidmar Milan Sr (YUG)"]
+[Result "1-0"]
+[ECO "D43"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VIII-IX"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.Nc3 e6 5.Bg5 Be7 6.e3 O-O 7.Qc2 Ne4
+8.Bxe7 Qxe7 9.Bd3 Nxc3 10.bxc3 Kh8 11.cxd5 exd5 12.O-O Bg4 13.Ne5
+Bh5 14.Bxh7 g6 15.g4 Bxg4 16.Nxg4 Qg5 17.h3 Kxh7 18.f4 Qh4 19.Kh2
+Nd7 20.Rab1 b6 21.Rg1 Nf6 22.Ne5 Ne4 23.Rbf1 Kg7 24.Rg4 Qh6 25.f5
+Qxe3 26.Qg2 Qd2 27.f6+ Kg8 28.Nxc6 Qxg2+ 29.Kxg2 Rfe8 30.Ne7+
+Rxe7 31.fxe7 Re8 32.c4 Rxe7 33.cxd5 Nc3 34.d6 Rd7 35.Rc1 Nb5
+36.Rg5 Nxd6 37.Rd5 Kf8 38.Re1 Rd8 39.Kf3 Rd7 40.Kf4 Kg7 41.Re8
+Kf6 42.h4 Kg7 43.a4 Kf6 44.Rc8 Ke6 45.Re5+ Kf6 46.Rc6 Rd8 47.a5
+b5 48.Rxb5 Ke6 49.Re5+ Kf6 50.Ra6 Rd7 51.Kg4 Rd8 52.Kf3 Rd7 53.Kf4
+Rd8 54.h5 gxh5 55.Rxh5 Rd7 56.Re5 Rd8 57.Rxa7 Nc4 58.Ra6+ Kg7
+59.Rg5+ Kf8 60.Ke4 Ke7 61.Rc5 Nd6+ 62.Kd3 Ke6 63.Rcc6 Kd5 64.Rxd6+
+Rxd6 65.Rxd6+ Kxd6 66.a6 1-0
+
+
+[Event "Olympiad"]
+[Site "Prague (Czech Republic)"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Andersen (DEN)"]
+[Result "1-0"]
+[ECO "A50"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 b6 3.Nc3 Bb7 4.Qc2 e6 5.e4 Bb4 6.f3 O-O 7.Bd3 h6
+8.Nge2 d5 9.cxd5 exd5 10.e5 Nfd7 11.O-O c5 12.a3 Bxc3 13.bxc3
+Nc6 14.Be3 cxd4 15.cxd4 Rc8 16.Qd2 Na5 17.Bxh6 Nb3 18.Qf4 Rc6
+19.Bg5 f6 20.exf6 Nxa1 21.Bh7+ Kh8 22.Qh4 Nxf6 23.Nf4 1-0
+
+
+[Event "Olympiad"]
+[Site "Prague (Czech Republic)"]
+[Date "1931.??.??"]
+[Round "13"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Erdelyi Stefan (ROM)"]
+[Result "1-0"]
+[ECO "B54"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.c4 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Nc3 d6 7.Be2
+a6 8.O-O Qc7 9.b3 Be7 10.Bb2 O-O 11.Nc2 Rd8 12.Ne3 Ne5 13.Qe1
+Qc5 14.Na4 Qa7 15.Rd1 Rb8 16.c5 Nc6 17.cxd6 Rxd6 18.e5 Rxd1 19.Bxd1
+Nd7 20.f4 b5 21.Nc3 Bc5 22.Bc1 Ne7 23.Kh1 Bb7 24.Bc2 Qa8 25.Qe2
+Ng6 26.f5 exf5 27.Bxf5 Ndxe5 28.Ng4 Re8 29.Nxe5 Rxe5 30.Qg4 Nh4
+31.Bxh7+ Kf8 32.Be4 Rxe4 33.Qh5 g6 34.Qxc5+ Re7 35.Bg5 Bxg2+
+36.Kg1 Bxf1 37.Qxe7+ Kg8 38.Qd8+ Qxd8 39.Bxd8 Nf3+ 40.Kxf1 Nxh2+
+41.Ke2 Ng4 42.Nd5 1-0
+
+
+[Event "Olympiad"]
+[Site "Prague (Czech Republic)"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Gruenfeld Ernst F (AUT)"]
+[Result "1-0"]
+[ECO "D41"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3
+cxd4 8.cxd4 Bb4+ 9.Bd2 Bxd2+ 10.Qxd2 O-O 11.Be2 Nd7 12.O-O b6
+13.Rac1 Bb7 14.Qf4 Nf6 15.Bd3 Rc8 16.Rxc8 Bxc8 17.Rc1 Bb7 18.h3
+Re8 19.e5 Nh5 20.Qg4 Bxf3 21.Qxf3 g6 22.g4 Ng7 23.Bb5 Rf8 24.Qe3
+h5 25.Be2 Qd5 26.a3 Rd8 27.Bf3 Qd7 28.Qg5 hxg4 29.hxg4 Rc8 30.Re1
+Qd8 31.Qh6 Qf8 32.Kg2 Ne8 33.Qh4 Qxa3 34.Rh1 Kf8 35.Qg5 1-0
+
+
+[Event "Olympiad"]
+[Site "Prague (Czech Republic)"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Johner Paul F (SUI)"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 O-O 5.Qc2 d5 6.a3 Bxd2+ 7.Bxd2
+Ne4 8.Bf4 c6 9.e3 Nd7 10.h4 f5 11.Ne5 Qe7 12.Bd3 Nxe5 13.Bxe5
+Nd6 14.cxd5 exd5 15.Qc5 Rd8 16.Rh3 Rd7 17.Qc2 Qe6 18.Rf3 Rf7
+19.g4 fxg4 20.Bxh7+ Kh8 21.Rxf7 Nxf7 22.Bf4 Nd6 23.Bd3 Bd7 24.O-O-O
+Rf8 25.Qc5 Rxf4 26.exf4 Qf6 27.Qxa7 Qxf4+ 28.Kb1 Bf5 29.Qb8+
+Kh7 30.Ka2 Qf3 31.Bxf5+ Nxf5 32.Rd2 Qe4 33.Qxb7 Qf4 34.Qb4 Nd6
+35.Re2 Ne4 36.Qe1 Kg8 37.Rc2 Qf6 38.Qe3 Qxh4 39.Qf4 Qh3 40.Rxc6 1-0
+
+
+[Event "Olympiad"]
+[Site "Prague (Czech Republic)"]
+[Date "1931.??.??"]
+[Round "5"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Kashdan Isaac (USA)"]
+[Result "1/2-1/2"]
+[ECO "D67"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1
+c6 8.Bd3 dxc4 9.Bxc4 Nd5 10.Bxe7 Qxe7 11.Ne4 Qb4+ 12.Qd2 Qxd2+
+13.Kxd2 Rd8 14.Rhd1 N7f6 15.Nxf6+ Nxf6 16.Bd3 Bd7 17.Ne5 Be8
+18.g4 Nd7 19.Nc4 c5 20.Nd6 cxd4 21.Nxe8 Rxe8 22.exd4 Nf6 23.Rc7
+Rab8 24.f3 Red8 25.Ke2 Nd5 26.Rc4 Nf4+ 27.Ke3 Nxd3 28.Rxd3 Rd7
+29.Rdc3 f6 30.Rc7 Rbd8 31.f4 Kf7 32.Ke4 Ke7 33.Rxd7+ Rxd7 34.Rh3
+h6 35.Ra3 a6 36.Rb3 Kd8 37.Rb6 Re7 38.a4 Kc7 39.a5 Re8 40.h4
+Re7 41.g5 hxg5 42.fxg5 Re8 43.Kf4 Rd8 44.gxf6 gxf6 45.Rxe6 Rxd4+
+46.Kg3 Rd3+ 47.Kg4 Rd4+ 48.Kh5 Rf4 49.Re3 Rb4 50.Rh3 Kd6 51.Kg6
+Ke7 52.h5 Rg4+ 53.Kf5 Rg5+ 54.Kf4 Kf7 55.Rb3 Rxa5 56.Rxb7+ Kg8
+57.h6 Rh5 58.Rg7+ Kf8 59.Ra7 Rxh6 60.Kf5 Rh5+ 1/2-1/2
+
+
+[Event "Olympiad"]
+[Site "Prague (Czech Republic)"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Steiner Albrecht"]
+[Result "1-0"]
+[ECO "A32"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.Nf3 Nf6 2.c4 c5 3.d4 cxd4 4.Nxd4 e6 5.a3 Ne4 6.e3 f5 7.Nd2
+Nf6 8.b3 Be7 9.Bb2 O-O 10.Bd3 Nc6 11.O-O Ne5 12.Bc2 Ng6 13.f4
+Ng4 14.Qe2 Qc7 15.h3 Nh6 16.g4 b6 17.g5 Nf7 18.N2f3 Bb7 19.h4
+Bc5 20.Qh2 Rae8 21.h5 Ne7 22.Rae1 Nc6 23.Nb5 Qd8 24.b4 Be7 25.Qd2
+Bxg5 26.fxg5 Nxg5 27.Qg2 Nxf3+ 28.Rxf3 Re7 29.Nd6 Ba8 30.e4 Qb8
+31.Rg3 e5 32.Nxf5 Rxf5 33.exf5 Nd4 34.Be4 Nxf5 35.Bxa8 Nxg3 36.Bd5+ 1-0
+
+
+[Event "Olympiad"]
+[Site "Prague (Czech Republic)"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Sultan Khan Mir (IND)"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.Nf3 Nf6 2.c4 e6 3.d4 b6 4.g3 Bb7 5.Bg2 d5 6.Ne5 Nbd7 7.Qa4
+c5 8.cxd5 Nxd5 9.dxc5 Bxc5 10.O-O a6 11.Qxd7+ Qxd7 12.Nxd7 Kxd7
+13.Nd2 Rhd8 14.Nb3 Rac8 15.Nxc5+ Rxc5 16.e4 Nf6 17.Be3 Rb5 18.Rfd1+
+Ke8 19.Rxd8+ Kxd8 20.Bd4 Nxe4 21.Bxg7 Nd6 22.a4 Rf5 23.Bd4 b5
+24.Bf1 Kd7 25.axb5 axb5 26.Be3 h5 27.f4 Be4 28.Ra7+ Ke8 29.Kf2
+Rd5 30.Be2 Bd3 31.Bf3 Be4 32.Be2 Bd3 1/2-1/2
+
+
+[Event "Olympiad"]
+[Site "Prague (Czech Republic)"]
+[Date "1931.??.??"]
+[Round "3"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Vidmar Milan Sr (YUG)"]
+[Result "1/2-1/2"]
+[ECO "C48"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Nxd4 exd4 6.e5 dxc3 7.exf6
+Qxf6 8.dxc3 Qe5+ 9.Qe2 Qxe2+ 10.Bxe2 d5 11.Bf4 c6 12.c4 Be6 13.cxd5
+Bxd5 14.O-O Bc5 15.Rad1 O-O 16.c4 Be6 17.Bd6 Bxd6 18.Rxd6 Rfd8
+19.Rfd1 Rxd6 20.Rxd6 Kf8 21.f3 Ke7 22.Rd2 Rd8 23.Rxd8 Kxd8 24.Kf2 1/2-1/2
+
+
+[Event "Olympiad"]
+[Site "Prague (Czech Republic)"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Weenink Henri G (NED)"]
+[Result "1-0"]
+[ECO "D12"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5 5.cxd5 Bxb1 6.Rxb1 Qxd5 7.a3
+e6 8.Qc2 Be7 9.Bd3 h6 10.e4 Qd8 11.O-O Nbd7 12.b4 O-O 13.Qe2
+Re8 14.Rb3 Qc7 15.Bb1 Nh7 16.e5 f5 17.exf6 Bxf6 18.Qe4 Nhf8 19.Qg4
+Kh8 20.Qh5 Nh7 21.Re1 Rad8 22.g4 Qd6 23.Bg6 Rf8 24.g5 Bxd4 25.gxh6
+Ndf6 26.hxg7+ Kxg7 27.Qh6+ Kh8 28.Nxd4 Qxd4 29.Bb2 1-0
+
+
+[Event ""]
+[Site "Reykjavik (Iceland)"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Asgeirsson Asmundur"]
+[Result "1-0"]
+[ECO "C13"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.Bxf6 Bxf6 6.Nf3 O-O 7.Bd3
+Re8 8.e5 Be7 9.h4 c5 10.Bxh7+ Kxh7 11.Ng5+ Kg8 12.Qh5 Bxg5 13.hxg5
+Kf8 14.g6 Ke7 15.gxf7 Rf8 16.O-O-O a6 17.dxc5 Nd7 18.Rxd5 Qa5
+19.Qg5+ Kxf7 20.Rh7 Rg8 21.Rd4 Qxc5 22.Rxd7+ Bxd7 23.Ne4 Qb4
+24.Nd6+ Kf8 25.Qf6+ gxf6 26.Rf7# 1-0
+
+
+[Event ""]
+[Site "URS"]
+[Date "1931.??.??"]
+[Round "?"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Lukovski Lev (GER)"]
+[Result "1-0"]
+[ECO "C25"]
+[WhiteElo "0"]
+[BlackElo "2064"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nc3 Nc6 3.Bc4 Bc5 4.Qg4 Qf6 5.Nd5 Qxf2+ 6.Kd1 Kf8 7.Nh3
+Qd4 8.d3 Bb6 9.Rf1 Nd8 10.c3 Qc5 11.Ng5 h6 12.Qh5 1-0
+
+
+[Event ""]
+[Site "Pasadena (USA)"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Factor Samuel"]
+[Black "Alekhine Alexander A (RUS)"]
+[Result "1/2-1/2"]
+[ECO "B02"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 Nf6 2.Nc3 d5 3.exd5 Nxd5 4.d4 Nc6 5.Bb5 Nxc3 6.Bxc6+ bxc6
+7.bxc3 Qd5 8.Qf3 Bf5 9.Qxd5 cxd5 10.Bf4 c5 11.Kd2 Rc8 12.Ne2
+f6 13.Rhe1 g5 14.Bd6 c4 15.Rab1 h5 16.Ng3 Bd7 17.Rb7 a6 18.Bc7
+Rh7 19.Ra7 h4 20.Nf1 e6 21.Ba5 Rc6 22.Rb1 Bd6 23.Rbb7 Re7 24.Bb4
+Bxb4 25.cxb4 c3+ 26.Kd3 Rc8 27.a4 e5 28.Ne3 Kd8 29.Rxa6 Bf5+
+30.Nxf5 Rxb7 31.Nd6 Rxb4 32.Nxc8 Rxd4+ 33.Kxc3 Kxc8 34.Rxf6 Rxa4
+35.Rf5 Rc4+ 36.Kb3 Rg4 37.g3 hxg3 38.hxg3 Kc7 39.Rxe5 Kd6 40.Re8
+Rc4 41.Re3 Rc8 42.f4 gxf4 43.gxf4 Rf8 44.Rf3 Ke6 45.Kc3 Rc8+
+46.Kd3 Kf5 47.c3 Rc4 48.Rf1 1/2-1/2

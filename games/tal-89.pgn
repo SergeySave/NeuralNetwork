@@ -1,0 +1,593 @@
+[Event "Tournament (candidates)"]
+[Site "Bled (Slovenia)"]
+[Date "1959.??.??"]
+[Round "14"]
+[White "Tal Mikhail (LAT)"]
+[Black "Benko Pal C (USA)"]
+[Result "1-0"]
+[ECO "A43"]
+[WhiteElo "0"]
+[BlackElo "2408"]
+[Annotator ""]
+[Source ""]
+[Remark "IX-X"]
+
+1.e4 c5 2.Nf3 g6 3.d4 Bg7 4.d5 d6 5.Nc3 Nf6 6.Bb5+ Nbd7 7.a4
+O-O 8.O-O a6 9.Be2 Rb8 10.Re1 Ne8 11.Bf4 Nc7 12.Bf1 b5 13.Qd2
+Re8 14.h3 Nf6 15.Rad1 Bd7 16.e5 b4 17.Ne4 Nxe4 18.Rxe4 Bxa4 19.Bh6
+Bh8 20.Rde1 f6 21.e6 f5 22.Rh4 Bxb2 23.Bf8 Rxf8 24.Qh6 Rf7 25.exf7+
+Kxf7 26.Qxh7+ Bg7 27.Rh6 Qg8 28.Qxg6+ Kf8 29.Ng5 Qxd5 30.Rh8+ 1-0
+
+
+[Event "Tournament (candidates)"]
+[Site "Bled (Slovenia)"]
+[Date "1959.??.??"]
+[Round "6"]
+[White "Tal Mikhail (LAT)"]
+[Black "Fischer Robert J (USA)"]
+[Result "1-0"]
+[ECO "E93"]
+[WhiteElo "0"]
+[BlackElo "2780"]
+[Annotator ""]
+[Source ""]
+[Remark "IX-X"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.d5 Nbd7
+8.Bg5 h6 9.Bh4 a6 10.Nd2 Qe8 11.O-O Nh7 12.b4 Ng5 13.f3 f5 14.Bf2
+Qe7 15.Rc1 Nf6 16.c5 Bd7 17.Qc2 Nh5 18.b5 fxe4 19.Ndxe4 Nxe4
+20.fxe4 Nf4 21.c6 Qg5 22.Bf3 bxc6 23.dxc6 Bg4 24.Bxg4 Qxg4 25.Be3
+axb5 26.Bxf4 exf4 27.Nxb5 Rf7 28.Qc4 Rc8 29.Rf3 Be5 30.Rcf1 Kg7
+31.a4 Ra8 32.Kh1 Qg5 33.g3 Raf8 34.gxf4 Bxf4 35.Nd4 Qh4 36.Rxf4
+Rxf4 37.Ne6+ Kh8 38.Qd4+ R8f6 39.Nxf4 Kh7 40.e5 dxe5 41.Qd7+ 1-0
+
+
+[Event "Match \"BRD-URS\""]
+[Site "Hamburg (Germany)"]
+[Date "1960.??.??"]
+[Round "2"]
+[White "Mohrlock Dieter (GER)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "0-1"]
+[ECO "C62"]
+[WhiteElo "2321"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VII-VIII"]
+
+1.e4 d6 2.Nf3 e5 3.d4 exd4 4.Qxd4 Nc6 5.Bb5 Bd7 6.Bxc6 bxc6 7.Nc3
+Ne7 8.O-O f6 9.Be3 c5 10.Qd3 g6 11.Rad1 Bg7 12.Rfe1 Rb8 13.b3
+Be6 14.Qa6 Qc8 15.Nb5 Bd7 16.Qxc8+ Rxc8 17.a4 Nc6 18.h3 Be6 19.Nc3
+O-O 20.Nd5 Rfe8 21.Bc1 f5 22.exf5 gxf5 23.Nf4 Bf7 24.Ba3 Bc3
+25.Rxe8+ Rxe8 26.Kf1 a5 27.Rd3 Bb4 28.Bxb4 Nxb4 29.Rd2 Kg7 30.c4
+Kf6 31.Re2 Re4 32.g3 c6 33.Nd2 Rd4 34.Nf3 Rd1+ 35.Re1 Rxe1+ 36.Kxe1
+d5 37.Nd2 h6 38.Ke2 Ke5 39.Ke3 Nc2+ 40.Kd3 Nd4 41.Ke3 Kd6 42.f3
+Nc2+ 43.Kd3 Nb4+ 44.Ke3 Ke5 45.Ng2 Nc2+ 46.Kd3 Nb4+ 47.Ke3 Kf6
+48.Nf4 Bg8 49.Ke2 Ke5 50.Ke3 Bh7 51.Nb1 Nc2+ 52.Kd3 Nd4 53.Nd2
+Ne6 54.Ke3 d4+ 55.Kd3 Nxf4+ 56.gxf4+ Kxf4 57.b4 cxb4 58.Kxd4
+Bg6 59.Nb3 c5+ 60.Kxc5 Be8 61.Nxa5 Bxa4 62.Kxb4 Be8 63.Nb7 Kxf3
+64.Nd6 Bd7 65.Nf7 Ke3 66.Ne5 Be6 67.Kc5 f4 68.Kd6 Bxh3 69.Ke7
+f3 70.Nxf3 Kxf3 71.Kf6 Kg4 0-1
+
+
+[Event "Match \"BRD-URS\""]
+[Site "Hamburg (Germany)"]
+[Date "1960.??.??"]
+[Round "4"]
+[White "Pfeiffer Gerhard (GER)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "0-1"]
+[ECO "A47"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VII-VIII"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 c5 4.c3 b6 5.Bg2 Bb7 6.O-O Be7 7.dxc5
+bxc5 8.c4 O-O 9.Nc3 Ne4 10.Nxe4 Bxe4 11.Ne1 Bxg2 12.Kxg2 Nc6
+13.Nf3 Qb6 14.Qa4 d5 15.cxd5 exd5 16.e4 dxe4 17.Qxe4 Bf6 18.Be3
+Rfe8 19.Qd5 Nd4 20.Bxd4 cxd4 21.Rfd1 Rac8 22.Rd2 Rc5 23.Qb3 Rb5
+24.Qc2 Qb7 25.Qd3 Rxb2 26.Rad1 Rxd2 27.Rxd2 g6 28.h3 Rc8 29.Qe2
+Rc3 30.Rd3 Qd5 31.Rxc3 dxc3 32.Kh2 c2 0-1
+
+
+[Event "Match \"BRD-URS\""]
+[Site "Hamburg (Germany)"]
+[Date "1960.??.??"]
+[Round "6"]
+[White "Troeger Paul (GER)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "0-1"]
+[ECO "A83"]
+[WhiteElo "2225"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VII-VIII"]
+
+1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5 Nc6 5.d5 Ne5 6.Qd4 Nf7 7.Bxf6
+exf6 8.Nxe4 Be7 9.O-O-O O-O 10.g4 d6 11.h3 c5 12.dxc6 bxc6 13.Ng3
+Qa5 14.Qe4 Ne5 15.f4 d5 16.Qe1 Qxa2 17.fxe5 Qa1+ 18.Kd2 Bb4+
+19.Ke2 Qxb2 20.Rd2 Qxe5+ 21.Kd1 Qa1+ 0-1
+
+
+[Event "Match \"BRD-URS\""]
+[Site "Hamburg (Germany)"]
+[Date "1960.??.??"]
+[Round "8"]
+[White "Unzicker Wolfgang (GER)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "0-1"]
+[ECO "C95"]
+[WhiteElo "2433"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VII-VIII"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.c3 d6 9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.Nf1
+Bf8 14.Ng3 g6 15.b3 Bg7 16.d5 Nb6 17.Qe2 c6 18.c4 cxd5 19.cxd5
+Nfxd5 20.exd5 e4 21.Nxe4 Bxa1 22.Bg5 f6 23.Be3 Nxd5 24.Rxa1 Nxe3
+25.Qxe3 Bxe4 26.Bxe4 f5 0-1
+
+
+[Event "Olympiad"]
+[Site "Leipzig (Germany)"]
+[Date "1960.??.??"]
+[Round "9"]
+[White "Durao Joaquim (POR)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "0-1"]
+[ECO "B82"]
+[WhiteElo "2197"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "X-XI"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be3 a6 7.f4
+Qc7 8.Bd3 Nbd7 9.O-O Be7 10.Kh1 b5 11.a3 Bb7 12.Qf3 Nc5 13.Rae1
+O-O 14.f5 e5 15.Nde2 Rad8 16.Ng3 Nxd3 17.cxd3 d5 18.Bg5 dxe4
+19.dxe4 Qc4 20.Bxf6 gxf6 21.Qh5 Kh8 22.Qh6 Rg8 23.Nh5 Rd6 24.Rf3
+Bf8 25.Qe3 a5 26.Rg3 Rxg3 27.Qxg3 b4 28.Nxf6 Rxf6 29.Qxe5 Qa6
+30.axb4 axb4 31.Nb5 h6 32.Qe8 Qa8 33.Qe5 Qd8 34.Nc7 Qd6 35.Qa5
+Bxe4 0-1
+
+
+[Event "Olympiad"]
+[Site "Leipzig (Germany)"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Fischer Robert J (USA)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1/2-1/2"]
+[ECO "C17"]
+[WhiteElo "2780"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "X-XI"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Ba5 6.b4 cxd4 7.Qg4 Ne7
+8.bxa5 dxc3 9.Qxg7 Rg8 10.Qxh7 Nbc6 11.Nf3 Qc7 12.Bb5 Bd7 13.O-O
+O-O-O 14.Bg5 Nxe5 15.Nxe5 Bxb5 16.Nxf7 Bxf1 17.Nxd8 Rxg5 18.Nxe6
+Rxg2+ 19.Kh1 Qe5 20.Rxf1 Qxe6 21.Kxg2 Qg4+ 1/2-1/2
+
+
+[Event "Olympiad"]
+[Site "Leipzig (Germany)"]
+[Date "1960.??.??"]
+[Round "2"]
+[White "Gligoric Svetozar (SCG)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1/2-1/2"]
+[ECO "E96"]
+[WhiteElo "2447"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "X-XI"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nbd7
+8.Re1 Re8 9.Bf1 c6 10.Rb1 exd4 11.Nxd4 Nc5 12.f3 a5 13.Be3 Qc7
+14.Qd2 Bd7 15.b3 Rad8 16.a3 Bc8 17.b4 axb4 18.axb4 Ne6 19.Rbc1
+Qe7 20.Rcd1 Nd7 21.Nxe6 Qxe6 22.Na4 Be5 23.Bg5 c5 24.bxc5 dxc5
+25.Bxd8 Bd4+ 26.Kh1 Rxd8 27.Nc3 Ne5 28.Nd5 Kg7 29.Rb1 Rd6 30.Rb3
+Qd7 31.Reb1 Ra6 32.Nb6 Qc6 33.h3 h5 34.Nd5 Ra4 35.Rb6 Qe8 36.Qc2
+Ra3 37.R6b3 Qa4 38.Nb6 Ra2 39.Nxa4 Rxc2 40.Nb6 Be6 41.Nd5 g5
+42.Rxb7 Bxh3 43.gxh3 Nxf3 44.Bg2 Nh4 45.Rf1 Rxg2 46.Rfxf7+ Kh6
+47.Rb1 g4 48.Nf4 Ra2 49.Rb6+ Kg5 50.Ne6+ Kg6 51.Nd8+ Kg5 52.Ne6+
+Kg6 1/2-1/2
+
+
+[Event "Olympiad"]
+[Site "Leipzig (Germany)"]
+[Date "1960.??.??"]
+[Round "9"]
+[White "Malich Burkhard Dr (GER)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "0-1"]
+[ECO "A56"]
+[WhiteElo "2372"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "X-XI"]
+
+1.d4 c5 2.e3 Nf6 3.c4 g6 4.Nf3 Bg7 5.Be2 O-O 6.dxc5 Na6 7.O-O
+Nxc5 8.Nc3 b6 9.Qc2 Bb7 10.b3 d5 11.Bb2 dxc4 12.Bxc4 Qb8 13.h3
+a6 14.Rac1 b5 15.Be2 Rc8 16.Qb1 b4 17.Nd1 Be4 18.Qa1 Qb7 19.Ne1
+a5 20.f3 Bf5 21.e4 Be6 22.Bd4 a4 23.Rxc5 Rxc5 24.Bxc5 axb3 25.a4
+bxa3 26.Bd4 Rd8 27.Nd3 Bc4 28.Nf4 Bxe2 29.Nxe2 b2 30.Nxb2 Rxd4
+31.Nxd4 axb2 32.Qd1 Qb6 33.Kh1 b1Q 34.Qxb1 Qxd4 35.Rd1 Qe5 36.Rd8+
+Bf8 37.Qc1 h5 38.Qc8 Nh7 39.Qa8 Kg7 40.Rd5 Qc3 41.Qd8 h4 42.Rd1
+Qe5 43.Qd4 Qxd4 44.Rxd4 e5 45.Rd5 f6 46.g3 g5 47.Kg2 Bb4 48.f4
+exf4 49.gxf4 gxf4 50.Kf3 Ng5+ 51.Kxf4 Kg6 52.Rd3 Be1 53.Rd8 Ne6+ 0-1
+
+
+[Event "Olympiad"]
+[Site "Leipzig (Germany)"]
+[Date "1960.??.??"]
+[Round "7"]
+[White "Najdorf Miguel (POL)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1/2-1/2"]
+[ECO "E39"]
+[WhiteElo "2445"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "X-XI"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.Nf3 Na6 7.e3
+Nxc5 8.Bd2 b6 9.Be2 Bb7 10.O-O Nce4 11.Nxe4 Nxe4 12.Bd3 1/2-1/2
+
+
+[Event "Olympiad"]
+[Site "Leipzig (Germany)"]
+[Date "1960.??.??"]
+[Round "11"]
+[White "Penrose Jonathan (ENG)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1-0"]
+[ECO "A65"]
+[WhiteElo "2405"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "X-XI"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 c5 4.d5 exd5 5.cxd5 g6 6.e4 d6 7.Bd3 Bg7
+8.Nge2 O-O 9.O-O a6 10.a4 Qc7 11.h3 Nbd7 12.f4 Re8 13.Ng3 c4
+14.Bc2 Nc5 15.Qf3 Nfd7 16.Be3 b5 17.axb5 Rb8 18.Qf2 axb5 19.e5
+dxe5 20.f5 Bb7 21.Rad1 Ba8 22.Nce4 Na4 23.Bxa4 bxa4 24.fxg6 fxg6
+25.Qf7+ Kh8 26.Nc5 Qa7 27.Qxd7 Qxd7 28.Nxd7 Rxb2 29.Nb6 Rb3 30.Nxc4
+Rd8 31.d6 Rc3 32.Rc1 Rxc1 33.Rxc1 Bd5 34.Nb6 Bb3 35.Ne4 h6 36.d7
+Bf8 37.Rc8 Be7 38.Bc5 Bh4 39.g3 1-0
+
+
+[Event "Olympiad"]
+[Site "Leipzig (Germany)"]
+[Date "1960.??.??"]
+[Round "5"]
+[White "Robatsch Karl (AUT)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1/2-1/2"]
+[ECO "B86"]
+[WhiteElo "2349"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "X-XI"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.a3
+Be7 8.Ba2 O-O 9.O-O b5 10.f4 Nbd7 11.Rf3 Bb7 12.Rh3 Rc8 13.Be3
+Qc7 14.Nxe6 fxe6 15.Bxe6+ Kh8 16.Bd4 Bd8 17.Qe2 Qc6 18.Kh1 Bb6
+19.Bxd7 Qxd7 20.Bxb6 Rc4 21.b3 Qxh3 22.gxh3 Rxc3 23.Kg1 Bxe4
+24.Rc1 Rxh3 25.Bf2 d5 26.Bg3 Nh5 27.Qe3 g5 28.Qd4+ Kg8 29.Re1
+Nxg3 30.Rxe4 dxe4 31.Qd5+ Rf7 32.Qd8+ Kg7 33.Qxg5+ Kh8 34.Qd8+
+Kg7 35.Kg2 Rh6 36.hxg3 Re6 37.Qg5+ Kf8 38.f5 Re8 39.f6 e3 40.Qc5+
+Kg8 41.Qc6 Ref8 42.Qe6 Kh8 43.Qxe3 Rxf6 44.Qd4 h6 45.a4 bxa4
+46.Qxa4 Rg6 47.Qd4+ Rff6 1/2-1/2
+
+
+[Event "Olympiad"]
+[Site "Leipzig (Germany)"]
+[Date "1960.??.??"]
+[Round "7"]
+[White "Unzicker Wolfgang (GER)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1/2-1/2"]
+[ECO "B94"]
+[WhiteElo "2433"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "X-XI"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.Bc4
+Qa5 8.Qd2 e6 9.O-O h6 10.Bh4 Be7 11.Rad1 Nc5 12.Rfe1 Bd7 13.a3
+Qc7 14.Nf3 Rd8 15.e5 dxe5 16.Nxe5 b5 17.Ba2 Bc8 18.Qe3 O-O 19.Rxd8
+Rxd8 20.b4 Nb7 21.Qf3 Nd6 22.Nc6 Bb7 23.Nxe7+ Qxe7 24.Bd5 Rc8
+25.Bxb7 Qxb7 26.Qxb7 Nxb7 27.Bxf6 gxf6 28.Re3 Kf8 29.Kf1 Nd6
+30.Rd3 Ke7 31.g3 f5 32.f3 Rc4 33.Ke2 f4 34.Kd2 f5 35.Ne2 fxg3
+36.hxg3 e5 37.Nc3 Ke6 38.Nd5 Rc8 39.Ne3 Rg8 40.Ke2 h5 41.Kf2
+Rc8 42.Ke1 Rc6 43.f4 Ne4 44.Rd5 Nxg3 45.Rxe5+ Kf6 46.Nd5+ Kf7
+47.Re7+ Kf8 48.Rc7 Rh6 49.Rc8+ Kf7 50.Rc7+ Ke8 51.Ne3 h4 52.Nf1
+Ne4 53.Nh2 h3 54.Kf1 Rh4 55.Kg1 Rh6 56.Rc8+ Ke7 57.Nf3 Rg6+ 58.Ng5
+Nxg5 59.fxg5 Rxg5+ 60.Kh2 Rh5 61.Rc5 Ke6 62.c4 Rh8 63.cxb5 axb5
+64.Rxb5 f4 65.Rc5 f3 66.b5 Rf8 67.Rc1 Ke5 68.Kg3 f2 69.Rf1 h2
+70.Kxh2 Ke4 71.Kg2 Ke3 72.Rb1 Rg8+ 73.Kh2 1/2-1/2
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1960.??.??"]
+[Round "2"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[WhiteElo "2630"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.Bg5
+Bg7 8.Nd2 h6 9.Bh4 g5 10.Bg3 Nh5 11.Nc4 Nxg3 12.hxg3 O-O 13.e3
+Qe7 14.Be2 Rd8 15.O-O Nd7 16.a4 Ne5 17.Nxe5 Qxe5 18.a5 Rb8 19.Ra2
+Bd7 20.Nb5 Bxb5 21.Bxb5 b6 22.a6 Rbc8 23.Qd3 Rc7 24.b3 Qc3 25.Qxc3
+Bxc3 26.Rc2 Bf6 27.g4 Re7 28.Rc4 Rc8 29.g3 Bg7 30.Rd1 Rf8 31.Rd3
+Kh7 32.Kg2 Kg6 33.Rd1 h5 34.gxh5+ Kxh5 35.g4+ Kg6 36.Rc2 Rh8
+37.Bd3+ Kf6 38.Kg3 Ree8 39.Bb5 Re4 40.Rc4 Rxc4 41.bxc4 Ke7 42.Ba4
+Be5+ 43.Kf3 Rh4 44.Rg1 f5 1/2-1/2
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1960.??.??"]
+[Round "4"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1/2-1/2"]
+[ECO "E27"]
+[WhiteElo "2630"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 O-O 6.f3 d5 7.cxd5
+exd5 8.e3 Bf5 9.Ne2 Nbd7 10.Ng3 Bg6 11.Bd3 c5 12.O-O Re8 13.Re1
+Qc7 14.Bxg6 hxg6 15.e4 cxd4 16.cxd4 Rac8 17.Bg5 Qc2 18.Bxf6 Qxd1
+19.Rexd1 Nxf6 20.e5 Nh5 21.Ne2 Rc2 22.Kf1 g5 23.Rdc1 Rec8 24.g3
+f6 25.Rxc2 Rxc2 26.Rb1 b6 27.Rb5 fxe5 28.dxe5 Rc5 29.Nd4 Kf7
+30.Ke2 g6 31.Kd3 Ng7 32.Rb1 Ra5 33.Nc2 Ne6 34.Rb4 Rc5 35.h4 gxh4
+36.Rxh4 d4 37.Nxd4 Rxe5 38.Nxe6 Kxe6 39.a4 Rg5 40.Re4+ Kf6 1/2-1/2
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1960.??.??"]
+[Round "6"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "0-1"]
+[ECO "E69"]
+[WhiteElo "2630"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.d4 d6 6.Nc3 Nbd7 7.O-O
+e5 8.e4 c6 9.h3 Qb6 10.d5 cxd5 11.cxd5 Nc5 12.Ne1 Bd7 13.Nd3
+Nxd3 14.Qxd3 Rfc8 15.Rb1 Nh5 16.Be3 Qb4 17.Qe2 Rc4 18.Rfc1 Rac8
+19.Kh2 f5 20.exf5 Bxf5 21.Ra1 Nf4 22.gxf4 exf4 23.Bd2 Qxb2 24.Rab1
+f3 25.Rxb2 fxe2 26.Rb3 Rd4 27.Be1 Be5+ 28.Kg1 Bf4 29.Nxe2 Rxc1
+30.Nxd4 Rxe1+ 31.Bf1 Be4 32.Ne2 Be5 33.f4 Bf6 34.Rxb7 Bxd5 35.Rc7
+Bxa2 36.Rxa7 Bc4 37.Ra8+ Kf7 38.Ra7+ Ke6 39.Ra3 d5 40.Kf2 Bh4+
+41.Kg2 Kd6 42.Ng3 Bxg3 43.Bxc4 dxc4 44.Kxg3 Kd5 45.Ra7 c3 46.Rc7
+Kd4 47.Rd7+ 0-1
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1960.??.??"]
+[Round "8"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1-0"]
+[ECO "E10"]
+[WhiteElo "2630"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 exd5 5.cxd5 g6 6.Nc3 Bg7 7.Bg5
+O-O 8.e3 Re8 9.Nd2 d6 10.Be2 a6 11.a4 Nbd7 12.O-O Qc7 13.Qc2
+Nb6 14.Bf3 c4 15.Bxf6 Bxf6 16.a5 Nd7 17.Nce4 Be5 18.Qxc4 Qd8
+19.Qa2 f5 20.Nc3 g5 21.Nc4 g4 22.Be2 Qf6 23.Na4 Kh8 24.g3 h5
+25.f4 Bd4 26.Qa3 Rb8 27.Nab6 h4 28.Rad1 Bxb6 29.axb6 Nc5 30.gxh4
+Bd7 31.Qc3 Qxc3 32.bxc3 Bb5 33.Rfe1 Ne4 34.Rc1 Rbc8 35.Na5 Bxe2
+36.Rxe2 Nxc3 37.Rxc3 Rxc3 38.Nxb7 Rcxe3 39.Rxe3 Rxe3 40.Nxd6
+Rd3 41.Nf7+ 1-0
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1960.??.??"]
+[Round "10"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1/2-1/2"]
+[ECO "E88"]
+[WhiteElo "2630"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 c6
+8.Qd2 cxd5 9.cxd5 a6 10.g4 Nbd7 11.Nge2 h5 12.Bg5 hxg4 13.fxg4
+Nc5 14.Ng3 Bxg4 15.b4 Ncd7 16.h3 Bf3 17.Rh2 a5 18.b5 Qb6 19.Qf2
+Qxf2+ 20.Rxf2 Bh5 21.b6 Rfc8 22.Nb5 Ne8 23.Nxh5 gxh5 24.Be3 Nc5
+25.Bxc5 Rxc5 26.Bd3 Rac8 27.Ke2 Rc1 28.Rxc1 Rxc1 29.Rf1 Rc5 30.Rb1
+Bf6 31.Na3 Bd8 32.Nc4 f5 33.Ne3 fxe4 34.Bxe4 Kh8 35.Kd3 Nf6 36.Bg2
+Kg8 37.a4 Be7 38.Bf3 Bf8 39.Rg1+ Kh7 40.Be4+ Nxe4 41.Kxe4 Bh6
+42.Nf5 Rc4+ 43.Kd3 Rxa4 44.Nxd6 Rd4+ 45.Ke2 Rxd5 46.Ne4 Kh8 47.Nf6
+Rd2+ 48.Kf3 Rd8 49.Rg6 a4 50.Rxh6+ Kg7 51.Rh7+ Kxf6 52.Rxb7 Rd3+
+53.Kg2 Rb3 54.Ra7 a3 55.b7 Kf5 56.Rxa3 Rxb7 57.Ra4 Rb2+ 58.Kf3
+Rb3+ 59.Kg2 Re3 60.Rh4 1/2-1/2
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1960.??.??"]
+[Round "12"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1/2-1/2"]
+[ECO "D40"]
+[WhiteElo "2630"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 Nf6 2.d4 e6 3.Nf3 d5 4.Nc3 c5 5.e3 Nc6 6.a3 Bd6 7.dxc5 Bxc5
+8.b4 Bd6 9.Bb2 O-O 10.cxd5 exd5 11.Nb5 Bb8 12.Be2 a5 13.bxa5
+Nxa5 14.O-O Ra6 15.Be5 Bxe5 16.Nxe5 Re8 17.Nd3 Ne4 18.Nf4 Re5
+19.Rc1 Rh6 20.Nd4 Nc6 21.g3 g5 22.Nd3 Re8 23.Bg4 Bxg4 24.Qxg4
+Nxd4 25.exd4 Qf6 26.Ne5 Nd2 27.Rfd1 Rxe5 28.Rxd2 Re4 29.Qc8+
+Kg7 30.Qxb7 Qe6 31.Rf1 Re1 32.Qb5 Qh3 33.f3 Qe6 34.Rdf2 Rf6 35.Rxe1
+Qxe1+ 36.Kg2 g4 37.Qd3 h5 38.Rf1 Qe6 39.fxg4 Rxf1 40.Kxf1 hxg4
+41.a4 Qb6 42.Kf2 Qb4 43.Ke3 Qxa4 44.Kf4 Qa2 45.Qe3 Qxh2 46.Qe5+
+Kf8 47.Qd6+ Kg7 48.Qxd5 Qf2+ 49.Kxg4 f5+ 50.Kg5 Qxg3+ 51.Kxf5
+Qg6+ 52.Kf4 Qf6+ 53.Ke3 Kf8 54.Kd3 Qf1+ 55.Ke4 Qg2+ 56.Ke5 Qg5+
+57.Ke6 Qe7+ 58.Kf5 Qc7 59.Qa8+ Ke7 60.Qe4+ Kd8 61.Qh4+ Kc8 62.Qh8+
+Kb7 63.Qe5 Qf7+ 64.Ke4 Qg6+ 65.Qf5 Qd6 66.Qf7+ Kc8 67.Qf5+ Kd8
+68.Qa5+ Ke8 69.d5 Kd7 70.Qa7+ Kd8 71.Qa8+ Kd7 72.Kf5 Ke7 1/2-1/2
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1960.??.??"]
+[Round "14"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1/2-1/2"]
+[ECO "E24"]
+[WhiteElo "2630"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 Ne4 6.Nh3 c5 7.e3
+Qa5 8.Bd2 cxd4 9.cxd4 Nxd2 10.Qxd2 Qxd2+ 11.Kxd2 b6 12.Bd3 Ba6
+13.Rhc1 Nc6 14.Rab1 Ke7 15.c5 Bxd3 16.Kxd3 Rab8 17.Rb5 bxc5 18.Rcxc5
+a6 19.Rxb8 Rxb8 20.Kc2 Rc8 21.Nf4 d6 22.Rc3 g5 1/2-1/2
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1960.??.??"]
+[Round "16"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1/2-1/2"]
+[ECO "E24"]
+[WhiteElo "2630"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 Ne4 6.Qc2 f5 7.Nh3
+d6 8.f3 Nf6 9.e4 fxe4 10.fxe4 e5 11.Nf2 O-O 12.Be2 c5 13.dxe5
+dxe5 14.O-O Nc6 15.Bg5 Qe8 16.Nd1 Qg6 17.Bxf6 Rxf6 18.Ne3 Rxf1+
+19.Rxf1 Be6 20.Qd3 Rd8 21.Nd5 Rf8 22.Nc7 Rxf1+ 23.Bxf1 Qf7 24.Qd6
+Bc8 25.Na6 Qf4 26.Qd5+ Kh8 27.Qxc5 Be6 28.Nc7 Bg8 29.Qf2 Qxe4
+30.Ne8 Qg6 31.Qf8 e4 32.Nd6 Ne5 33.c5 Nd3 34.Nf5 Ne5 35.Ne7 Qf7
+36.Qxf7 Bxf7 37.Kf2 Bc4 38.Bxc4 Nxc4 39.c6 bxc6 40.Nxc6 a5 41.a4 1/2-1/2
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1960.??.??"]
+[Round "18"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1/2-1/2"]
+[ECO "E24"]
+[WhiteElo "2630"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 Ne4 6.Qc2 f5 7.Nh3
+O-O 8.f3 Nf6 9.c5 b6 10.cxb6 cxb6 11.e3 Qc7 12.Bd2 Ne8 13.c4
+Ba6 14.Rc1 Nd6 15.Qa4 Qc6 16.Qxc6 Nxc6 17.Bb4 Nxb4 18.axb4 Bxc4
+19.Bxc4 Rfc8 20.Bxe6+ dxe6 21.Ke2 Kf7 22.Nf4 a5 23.bxa5 bxa5
+24.Kd3 a4 25.Rxc8 Rxc8 26.Ra1 Nc4 27.Rb1 a3 28.Rb7+ Kf6 29.Ra7
+g5 30.Nh5+ Kg6 31.g4 Nb2+ 32.Kd2 Nc4+ 33.Kd3 Nb2+ 34.Kd2 Nc4+
+35.Ke2 Rc6 36.h3 e5 37.dxe5 fxg4 38.hxg4 Nxe5 39.Rxa3 Rc2+ 40.Kf1
+Kf7 41.e4 Rd2 42.Ke1 Rg2 43.Rb3 Ke7 44.Ng7 Nxf3+ 45.Rxf3 Rxg4
+46.Nf5+ Ke6 47.Ng3 h5 48.Nxh5 Rxe4+ 49.Kf2 Ke5 50.Kg3 Rh4 51.Ng7
+Rf4 52.Ra3 Rd4 53.Ra6 Rd6 54.Ra7 Rd4 55.Rc7 Rf4 56.Re7+ Kf6 57.Ra7
+Re4 58.Nh5+ Kg6 59.Kf3 Rb4 60.Ng3 Rf4+ 61.Ke3 Rf7 62.Ra5 Rf6
+63.Ne4 Rf5 64.Ra6+ Kg7 65.Ng3 Re5+ 66.Kd4 Rb5 67.Ke4 Kf7 68.Nf5
+Rb4+ 69.Nd4 Rb1 70.Nf3 Rb4+ 71.Nd4 Rb1 72.Nc6 Kg6 73.Ne5+ Kh5
+74.Ra5 Re1+ 75.Kf3 Rf1+ 76.Kg3 Rf5 1/2-1/2
+
+
+[Event "Ch World (match)"]
+[Site "Moscow (Russia)"]
+[Date "1960.??.??"]
+[Round "20"]
+[White "Botvinnik Mikhail M (RUS)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1/2-1/2"]
+[ECO "E24"]
+[WhiteElo "2630"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 Nf6 2.d4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 Ne4 6.e3 f5 7.Qh5+
+g6 8.Qh6 d6 9.f3 Nf6 10.e4 e5 11.Bg5 Qe7 12.Bd3 Rf8 13.Ne2 Qf7
+14.Qh4 fxe4 15.fxe4 Ng4 16.h3 Qf2+ 17.Kd2 Qxh4 18.Bxh4 Nf2 19.Rhf1
+Nxd3 20.Rxf8+ Kxf8 21.Kxd3 Be6 22.Ng3 Nd7 23.Nf1 a6 24.Bf2 Kg7
+25.Nd2 Rf8 26.Be3 b6 27.Rb1 Nf6 1/2-1/2
+
+
+[Event "Simultan (radio)"]
+[Site "Prague (Czech Republic)"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Tal Mikhail N (LAT)"]
+[Black "Trapl Jindrich (CZE)"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[WhiteElo "2520"]
+[BlackElo "2372"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.c3 d5 9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d4 Bd6 13.Re1
+Qh4 14.g3 Qh3 15.Be3 Bg4 16.Qd3 g5 17.Bxg5 f5 18.Qf1 Qh5 19.f4
+Rae8 20.Nd2 Kg7 21.Bxd5 cxd5 22.Rxe8 Rxe8 23.Re1 Bh3 24.Qf2 b4
+25.Bh4 bxc3 26.bxc3 h6 27.Kh1 Ba3 28.Rxe8 Qxe8 29.g4 Bxg4 30.Kg2
+Bb2 31.h3 Bh5 32.Qg3+ Kf7 33.Qd3 Qe2+ 34.Qxe2 Bxe2 35.Kf2 Bb5
+36.Ke3 Bxc3 37.Be1 Bb2 38.Nf3 Bf1 39.Ne5+ Ke6 40.h4 Bc1+ 41.Bd2
+Ba3 42.Nd3 Be7 43.h5 Ba3 1/2-1/2

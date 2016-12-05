@@ -1,0 +1,661 @@
+[Event "It (cat.19)"]
+[Site "Wijk aan Zee (Netherlands)"]
+[Date "2006.01.14"]
+[Round "1"]
+[White "Karjakin Sergey (UKR)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2660"]
+[BlackElo "2792"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3
+Be6 8.f3 Be7 9.Qd2 O-O 10.O-O-O Nbd7 11.g4 b5 12.g5 b4 13.Ne2
+Ne8 14.f4 a5 15.f5 a4 16.Nbd4 exd4 17.Nxd4 b3 18.Kb1 bxc2+ 19.Nxc2
+Bb3 20.axb3 axb3 21.Na3 Ne5 22.h4 Ra5 23.Qc3 Qa8 24.Bg2 Nc7 25.Qxc7
+Rc8 26.Qxe7 Nc4 27.g6 hxg6 28.fxg6 Nxa3+ 29.bxa3 Rxa3 30.gxf7+
+Kh7 31.f8N+ Rxf8 32.Qxf8 Ra1+ 33.Kb2 Ra2+ 34.Kc3 Qa5+ 35.Kd3
+Qb5+ 36.Kd4 Ra4+ 37.Kc3 Qc4+ 0-1
+
+
+[Event "It (cat.19)"]
+[Site "Wijk aan Zee (Netherlands)"]
+[Date "2006.01.16"]
+[Round "3"]
+[White "Ivanchuk Vassily (UKR)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "0-1"]
+[ECO "B38"]
+[WhiteElo "2729"]
+[BlackElo "2792"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 Nc6 4.e3 e5 5.Be2 d5 6.d4 exd4 7.exd4
+Be6 8.Be3 dxc4 9.Qa4 cxd4 10.Nxd4 Bd7 11.Qxc4 Rc8 12.O-O Bd6
+13.Nxc6 Rxc6 14.Qh4 O-O 15.Bxa7 b6 16.Rad1 Bc5 17.b4 Be7 18.Qd4
+Rd6 19.Qc4 Be6 20.Qa6 Nd5 21.Nxd5 Bxd5 22.Rfe1 Rg6 23.g3 Bxb4
+24.Bc4 Bxe1 25.Bxd5 Qe7 26.a4 Rf6 27.f4 Qe3+ 28.Kh1 Bxg3 0-1
+
+
+[Event "It (cat.19)"]
+[Site "Wijk aan Zee (Netherlands)"]
+[Date "2006.01.20"]
+[Round "6"]
+[White "Kamsky Gata (USA)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1-0"]
+[ECO "D20"]
+[WhiteElo "2686"]
+[BlackElo "2792"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 dxc4 3.e4 Nf6 4.e5 Nd5 5.Bxc4 Nb6 6.Bd3 Nc6 7.Ne2
+Be6 8.Nbc3 Qd7 9.Ne4 Bd5 10.Be3 O-O-O 11.a3 Qe8 12.Qc2 f5 13.N4c3
+Bxg2 14.Rg1 Bf3 15.Bxf5+ e6 16.Bh3 Kb8 17.Rg3 Bxe2 18.Nxe2 Nd5
+19.Nc3 Nxe3 20.fxe3 Qh5 21.Qe2 Qxe2+ 22.Kxe2 Re8 23.Rf1 Nd8 24.Ne4
+g6 25.Ng5 Re7 26.Rgf3 Bh6 27.Nf7 Nxf7 28.Rxf7 Rhe8 29.R1f6 a5
+30.Rxe7 Rxe7 31.Rxe6 Rxe6 32.Bxe6 Bg5 33.d5 Ka7 34.Bg8 h6 35.Bf7
+Kb6 36.Bxg6 Kc5 37.Bf7 h5 38.Kd3 h4 39.h3 b5 40.Ke4 b4 41.axb4+
+axb4 42.b3 Bh6 43.Bh5 Bg5 44.Be2 Bh6 45.Bc4 Bg5 46.Kf5 Bxe3 47.d6 1-0
+
+
+[Event "It (cat.19)"]
+[Site "Wijk aan Zee (Netherlands)"]
+[Date "2006.01.22"]
+[Round "8"]
+[White "Bacrot Etienne (FRA)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "0-1"]
+[ECO "E15"]
+[WhiteElo "2717"]
+[BlackElo "2792"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 b5 6.cxb5 Bxb5 7.Bg2
+Bb4+ 8.Bd2 a5 9.O-O d5 10.Nc3 Ba6 11.a3 Be7 12.Ne5 O-O 13.Re1
+Nfd7 14.Nf3 Nf6 15.Ne5 Nfd7 16.Nxd7 Nxd7 17.e4 dxe4 18.Bxe4 Rb8
+19.Na4 Nf6 20.Bf3 Qxd4 21.Bxa5 Qxd1 22.Bxd1 c5 23.Rc1 Rfc8 24.Bc3
+Nd7 25.Bc2 Bb5 26.Nb2 Bf6 27.Bxf6 gxf6 28.Re3 Bc6 29.Bd1 Bd5
+30.Rec3 Rc7 31.Nd3 Rcb7 32.b4 cxb4 33.Nxb4 Be4 34.Re3 Bg6 35.h4
+h5 36.Nc6 Rb1 37.Rec3 R8b2 38.a4 Kf8 39.a5 Rxc1 40.Rxc1 Ra2 41.Bf3
+Kg7 42.Kg2 Kh6 43.Re1 Nc5 44.Re2 Ra1 45.Re3 Kg7 46.Rc3 Nd3 47.Be2
+Ne1+ 48.Kh3 Bf5+ 49.g4 hxg4+ 50.Bxg4 Be4 51.Nd4 f5 52.Be2 Ra4
+53.Nb3 Bg2+ 54.Kg3 f4+ 55.Kh2 Bd5 56.Kg1 Ng2 57.h5 Nh4 58.Bd1
+Ra3 59.Kh2 Nf5 60.Rd3 Nd6 61.Rd4 Ne4 62.Bc2 Ng5 0-1
+
+
+[Event "It \"Glitnir Blitz\""]
+[Site "Reykjavik (Iceland)"]
+[Date "2006.03.16"]
+[Round "5"]
+[White "Carlsen Magnus (NOR)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1-0"]
+[ECO "A58"]
+[WhiteElo "2625"]
+[BlackElo "2792"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 g6 6.Nc3 Bxa6 7.Nf3
+Bg7 8.g3 d6 9.Bg2 O-O 10.O-O Nbd7 11.Rb1 Ne8 12.Qc2 Nc7 13.Rd1
+Nb6 14.e4 Bc8 15.h3 Bd7 16.b3 Qc8 17.a4 Bxh3 18.Bb2 Bg4 19.Re1
+Na6 20.Nb5 Bxb2 21.Rxb2 Bd7 22.Nc3 Nb4 23.Qd2 c4 24.bxc4 Nxc4
+25.Qh6 f6 26.Rxb4 Ne5 27.Qe3 Qc7 28.Nxe5 fxe5 29.Reb1 Rac8 30.Rb7
+Qd8 31.Nb5 Rc2 32.Rf1 Bg4 33.Qb6 Qxb6 34.Rxb6 Be2 35.Rc6 Rb2
+36.Re1 Bxb5 37.axb5 Rfxf2 38.Bf1 Rf3 39.Re2 Rxg3+ 40.Kf2 Rbb3
+41.b6 Rgf3+ 42.Kg1 Rb1 43.Rf2 Re3 44.Kh2 Rxe4 45.Bh3 Kg7 46.Bc8
+h5 47.b7 Kh6 48.Rc7 Ree1 49.Rxe7 Kg5 50.Ref7 Kh4 51.Kg2 g5 52.Rf1
+Rxf1 53.Rxf1 Rb2+ 54.Rf2 Rb6 55.Ra2 g4 56.Ra8 Rb2+ 57.Kf1 Kg3
+58.b8Q Rxb8 59.Rxb8 h4 60.Rb3+ Kf4 61.Bxg4 Kxg4 62.Rb6 h3 63.Rxd6
+e4 64.Re6 Kf5 65.Rxe4 Kxe4 66.d6 Kf3 67.Kg1 Kg3 68.d7 h2+ 69.Kh1
+Kh3 70.d8Q Kg3 71.Qd6+ Kf3 72.Kxh2 Ke3 73.Kg2 Ke4 74.Kg3 Ke3
+75.Qd5 Ke2 76.Qd4 Ke1 77.Kf3 Kf1 78.Qd1# 1-0
+
+
+[Event "It \"Amber\" (blindfold)"]
+[Site "Monte Carlo (Monaco)"]
+[Date "2006.03.23"]
+[Round "5"]
+[White "Grischuk Alexander (RUS)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1-0"]
+[ECO "C67"]
+[WhiteElo "2717"]
+[BlackElo "2792"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5
+Nf5 8.Qxd8+ Kxd8 9.Nc3 Ne7 10.h3 Bf5 11.Nd4 Bg6 12.f4 c5 13.Nf3
+Bxc2 14.Rf2 Bg6 15.g4 f5 16.Be3 b6 17.Rd1+ Kc8 18.Nh4 Kb7 19.Rfd2
+fxg4 20.hxg4 Be8 21.f5 Nc6 22.Nf3 Be7 23.Nd5 Rf8 24.Nxe7 Nxe7
+25.Ng5 Nxf5 26.Rf1 Nxe3 27.Rxf8 Bg6 28.Rxa8 Kxa8 29.e6 Nxg4 30.e7
+Nf6 31.Ne6 Ne8 32.Nf8 Bf7 33.Nxh7 Nd6 34.Ng5 Bg6 35.Ne6 Kb7 36.Rg2
+Be8 37.Nxg7 Bb5 38.Rf2 a5 39.Rf8 c4 40.e8Q 1-0
+
+
+[Event "It (cat.20)"]
+[Site "Sofia (Bulgaria)"]
+[Date "2006.05.17"]
+[Round "6"]
+[White "Anand Viswanathan (IND)"]
+[Black "Bacrot Etienne (FRA)"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[WhiteElo "2803"]
+[BlackElo "2708"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.c3 d5 9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d4 Bd6 13.Re1
+Qh4 14.g3 Qh3 15.Re4 g5 16.Qe1 Bf5 17.Nd2 h6 18.f3 Kg7 19.a4
+Bxe4 20.fxe4 Rae8 21.axb5 axb5 22.Nf1 Qg4 23.Bc2 Re7 24.Bd2 Rfe8
+25.e5 f6 26.h3 Qxh3 27.Qe4 Kh8 28.Ra6 fxe5 29.Rxc6 Rf8 30.Bd3
+Ref7 31.Qg2 Qxg2+ 32.Kxg2 Rf6 33.dxe5 Bxe5 34.Rc5 Rd6 35.Be4
+Rfd8 36.Rxb5 Bg7 37.Bc1 Nf6 38.Bf3 g4 39.Be2 Re8 40.Bc4 Rd1 41.Bf4
+Ne4 42.Be2 Nxc3 43.Bxd1 Nxb5 44.Bxg4 Re1 45.Ne3 Nd4 46.Nc4 Rb1
+47.Bd2 Nb3 48.Be3 Nd4 49.Bd2 Nb3 50.Be3 Nd4 1/2-1/2
+
+
+[Event "It (cat.20)"]
+[Site "Sofia (Bulgaria)"]
+[Date "2006.05.20"]
+[Round "9"]
+[White "Anand Viswanathan (IND)"]
+[Black "Svidler Peter (RUS)"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[WhiteElo "2803"]
+[BlackElo "2743"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.h3 Bb7 9.d3 d6 10.a4 Na5 11.Ba2 c5 12.Nbd2 Bc8 13.Nf1 Bd7
+14.Ne3 bxa4 15.Nd2 Rb8 16.c3 Bb5 17.Nf5 Ne8 18.Nc4 Nb3 19.Bxb3
+axb3 20.Qxb3 Bf6 21.Qd1 g6 22.Nfe3 Nc7 23.Nd2 Bg5 24.c4 Bxe3
+25.Rxe3 Bc6 26.Nf1 f5 27.exf5 gxf5 28.Rg3+ Kh8 29.f4 Qf6 30.Qh5
+Rg8 31.fxe5 dxe5 32.Bg5 Qe6 33.Re1 Rxb2 34.Nh2 f4 35.Rg4 Qf5
+36.Qh6 Rg6 37.Rxe5 Rb1+ 38.Kf2 Rb2+ 39.Kg1 Rb1+ 40.Kf2 Rb2+ 1/2-1/2
+
+
+[Event "Olympiad"]
+[Site "Turin (Italy)"]
+[Date "2006.05.25"]
+[Round "5"]
+[White "Anand Viswanathan (IND)"]
+[Black "Bu Xiangzhi (CHN)"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2803"]
+[BlackElo "2640"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3
+Be6 8.f3 Nbd7 9.g4 b5 10.g5 b4 11.Nd5 Nxd5 12.exd5 Bf5 13.Bd3
+Bxd3 14.Qxd3 Be7 15.h4 O-O 16.O-O-O a5 17.Kb1 f5 18.Nd2 Qc7 19.Nc4
+a4 20.Rhf1 g6 21.b3 Rfe8 22.f4 Bf8 23.h5 exf4 24.Rxf4 Bg7 25.hxg6
+hxg6 26.Qd2 Nc5 27.Qxb4 axb3 28.cxb3 Reb8 29.Bxc5 Rxb4 30.Bxb4
+Qe7 31.Rf2 Qe4+ 32.Kc1 f4 33.Bxd6 Bd4 34.Rfd2 Be3 35.Nxe3 fxe3
+36.Rc2 e2 37.Re1 Qxd5 38.Be7 Re8 39.Rcxe2 Rc8+ 40.Kb1 Qd3+ 1/2-1/2
+
+
+[Event "Olympiad"]
+[Site "Turin (Italy)"]
+[Date "2006.05.28"]
+[Round "7"]
+[White "Anand Viswanathan (IND)"]
+[Black "Ivanchuk Vassily (UKR)"]
+[Result "1/2-1/2"]
+[ECO "C92"]
+[WhiteElo "2803"]
+[BlackElo "2723"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.a4 h6 13.Bc2 exd4
+14.cxd4 Nb4 15.Bb1 c5 16.d5 Nd7 17.Ra3 f5 18.Nh2 Qe7 19.Rae3
+f4 20.R3e2 Ne5 21.Ndf3 g5 22.Nxe5 dxe5 23.Bd2 Bc8 24.axb5 axb5
+25.Bxb4 cxb4 26.Bd3 Bd7 27.Rd2 Qd6 28.Be2 Re7 29.Bg4 Be8 30.Bh5
+Bd7 31.Qf3 Rc8 32.Ra1 Rc4 33.Ng4 Kg7 34.Kh2 Bc8 35.Qe2 b3 36.Ra3
+Rec7 37.Ra1 Bd7 38.Qf3 Rc2 39.Rad1 R7c4 40.Re2 Rxe2 41.Qxe2 Rc2
+42.Qf3 Rxb2 43.Qc3 Bxg4 44.Bxg4 Rxf2 45.Qxb3 Qb4 46.Qxb4 Bxb4
+47.d6 Rd2 48.Rxd2 Bxd2 49.Be2 1/2-1/2
+
+
+[Event "Olympiad"]
+[Site "Turin (Italy)"]
+[Date "2006.06.02"]
+[Round "11"]
+[White "Anand Viswanathan (IND)"]
+[Black "Gelfand Boris (ISR)"]
+[Result "1/2-1/2"]
+[ECO "B80"]
+[WhiteElo "2803"]
+[BlackElo "2727"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e6 7.Be3
+b5 8.Qd2 b4 9.Nce2 e5 10.Nb3 a5 11.Ng3 a4 12.Nc1 d5 13.exd5 Ra5
+14.Nd3 Rxd5 15.Ne4 Nc6 16.Qf2 Bf5 17.Nxf6+ Qxf6 18.g4 Bxd3 19.Bxd3
+a3 20.Be4 axb2 21.Rb1 Rd7 22.Rxb2 Be7 23.O-O 1/2-1/2
+
+
+[Event "Olympiad"]
+[Site "Turin (Italy)"]
+[Date "2006.06.03"]
+[Round "12"]
+[White "Charbonneau Pascal (CAN)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1-0"]
+[ECO "B44"]
+[WhiteElo "2510"]
+[BlackElo "2803"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 Nf6 7.N1c3
+a6 8.Na3 Be7 9.Be2 O-O 10.O-O b6 11.Bf4 Bb7 12.Qd2 Ne5 13.f3
+Qc7 14.Rac1 Rac8 15.Rfd1 Qb8 16.Kh1 Rfe8 17.Bf1 Kh8 18.Be3 Ba8
+19.Bg1 Rg8 20.Qe3 Ned7 21.Nab1 g5 22.Nd2 Bd8 23.b4 Bc7 24.Qe1
+Rg6 25.Bd3 Ne5 26.Be2 Rcg8 27.Be3 Rh6 28.Nf1 Rgg6 29.Qd2 Qg8
+30.a4 Bb7 31.c5 dxc5 32.bxc5 bxc5 33.Rb1 Bc6 34.Bxc5 g4 35.f4
+g3 36.fxe5 Nxe4 37.Nxe4 Bxe4 38.Bd3 Bxg2+ 39.Qxg2 gxh2 40.Bxg6
+Rxg6 41.Ng3 Rxg3 42.Qe4 Rg4 43.Be7 1-0
+
+
+[Event "It (active)"]
+[Site "Leon (Spain)"]
+[Date "2006.06.09"]
+[Round "1"]
+[White "Anand Viswanathan (IND)"]
+[Black "Bruzon Lazaro (CUB)"]
+[Result "1/2-1/2"]
+[ECO "C92"]
+[WhiteElo "2803"]
+[BlackElo "2652"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Nd7 10.d4 Bf6 11.a4 Bb7 12.Na3 exd4 13.cxd4
+Na5 14.Bc2 b4 15.Nb1 Re8 16.Bf4 c5 17.Nbd2 cxd4 18.Bxd6 Nc6 19.Nc4
+Nde5 20.Bxe5 Nxe5 21.Ncxe5 Bxe5 22.Qd2 Bf6 23.Qxb4 Rb8 24.Qd2
+g6 25.Bd3 a5 26.Re2 Qb6 27.Qf4 Rbc8 28.Rae1 Bg7 29.e5 Re7 30.Nh2
+Qc6 31.Be4 Qc4 32.Bxb7 Rxb7 33.Rd2 d3 34.Qxc4 Rxc4 35.Rxd3 Rxb2
+36.Rd8+ Bf8 37.Ng4 h5 38.Nf6+ Kg7 39.Ne8+ Kh6 40.Nd6 Bxd6 41.Rxd6
+Rxa4 42.Rf6 Kg7 1/2-1/2
+
+
+[Event "It (active)"]
+[Site "Leon (Spain)"]
+[Date "2006.06.09"]
+[Round "1"]
+[White "Anand Viswanathan (IND)"]
+[Black "Bruzon Lazaro (CUB)"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[WhiteElo "2803"]
+[BlackElo "2652"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O f6 6.d4 exd4 7.Nxd4
+c5 8.Ne2 Qxd1 9.Rxd1 Bd7 10.Nbc3 O-O-O 11.Bf4 Ne7 12.Bg3 Re8
+13.Nf4 Nc6 14.f3 Ne5 15.Nh5 Be6 16.Bf2 Bf7 17.Ng3 b6 18.a4 a5
+19.Nf5 g6 20.Ne3 1/2-1/2
+
+
+[Event "It (active)"]
+[Site "Leon (Spain)"]
+[Date "2006.06.09"]
+[Round "1"]
+[White "Bruzon Lazaro (CUB)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1-0"]
+[ECO "D05"]
+[WhiteElo "2652"]
+[BlackElo "2803"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.Nf3 e6 3.e3 d5 4.Bd3 c5 5.b3 Bd6 6.O-O O-O 7.Bb2 Nc6
+8.Nbd2 cxd4 9.exd4 b6 10.a3 Bb7 11.Ne5 Qc7 12.Qe2 Ne7 13.f4 b5
+14.Rf3 Rac8 15.Rc1 b4 16.a4 Ng6 17.Rcf1 Ne4 18.Rh3 f5 19.Bxe4
+dxe4 20.Qh5 Bxe5 21.fxe5 Qxc2 22.Qxh7+ Kf7 23.Rg3 Qxd2 24.Rxg6
+Rg8 25.Rxe6 Kxe6 26.Qxf5+ Ke7 27.Qf7+ Kd8 28.e6 e3 1-0
+
+
+[Event "It (active)"]
+[Site "Leon (Spain)"]
+[Date "2006.06.11"]
+[Round "2"]
+[White "Anand Viswanathan (IND)"]
+[Black "Topalov Veselin (BUL)"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2803"]
+[BlackElo "2804"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 Nbd7 7.O-O
+g6 8.Be3 b6 9.Nd5 Bb7 10.c4 e5 11.Nc2 Bxd5 12.exd5 Bg7 13.Nb4
+O-O 14.Nc6 Qc7 15.b4 h5 16.a4 a5 17.bxa5 bxa5 18.Rb1 Ne4 19.Qc2
+f5 20.Rb5 Kh7 21.Rfb1 Nec5 22.Bd2 e4 23.Bxa5 Qc8 24.Bb4 Qe8 25.a5
+f4 26.Re1 Qf7 27.Bxc5 Nxc5 28.Rxc5 dxc5 29.Qxe4 Rfe8 30.Qf3 Qf6
+31.Rd1 Qd6 32.Rb1 Qc7 33.Bd3 Kh6 34.h4 Bf8 35.g4 fxg3 36.Qf6
+gxf2+ 37.Kg2 Qg7 38.Qg5+ Kh7 39.Qxh5+ Kg8 40.Qxg6 Qxg6+ 41.Bxg6
+Re1 42.Kxf2 Rxb1 43.Bxb1 Bd6 44.Ke3 Kg7 45.h5 Bc7 46.Be4 Kh6
+47.Bg6 Kg5 48.Ke4 Ra6 49.Be8 Ra8 50.Bg6 Bd6 51.Ke3 Bf4+ 52.Kf3
+Bh2 53.Ke3 Bd6 54.Ke4 Bc7 55.Ke3 Kf6 56.Ke4 Bg3 57.Kf3 Bd6 58.Ke3
+Ra6 59.Ke4 Bc7 60.Be8 Ra8 61.Bg6 Kg5 1/2-1/2
+
+
+[Event "It (open) (active)"]
+[Site "Villarrobledo (Spain)"]
+[Date "2006.08.05"]
+[Round "5"]
+[White "Anand Viswanathan (IND)"]
+[Black "Milov Vadim (SUI)"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[WhiteElo "2779"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Ne7 6.O-O Nbc6 7.Nxc6
+Nxc6 8.c3 Bc5 9.Nd2 d6 10.Kh1 e5 11.Bc4 O-O 12.Nb3 Ba7 13.f4
+Be6 14.Bd5 Bxd5 15.Qxd5 Qc7 16.Bd2 Rac8 17.Rad1 Rfd8 18.Nc1 Qa5
+19.Nd3 Qxd5 20.exd5 Ne7 21.fxe5 dxe5 22.Nxe5 f6 23.Nf3 1/2-1/2
+
+
+[Event "Match (active)"]
+[Site "Mainz (Germany)"]
+[Date "2006.08.17"]
+[Round "1"]
+[White "Anand Viswanathan (IND)"]
+[Black "Radjabov Teimour (AZE)"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2779"]
+[BlackElo "2728"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5
+a6 8.Na3 b5 9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 Bg5 12.Nc2 O-O 13.a4
+bxa4 14.Rxa4 a5 15.Bc4 Bd7 16.O-O Ne7 17.Ra2 Rc8 18.Nxe7+ Qxe7
+19.Bd5 Rc5 20.b3 Rxc3 21.Rxa5 Be6 22.Nb4 Rfc8 23.Ra1 Qd7 24.Qe2
+Bxd5 25.Nxd5 Rxb3 26.Rab1 Rxb1 27.Rxb1 g6 28.g3 Kg7 29.Kg2 Bd8
+30.Qd3 h5 31.h3 Qc6 32.Rb3 Qc4 33.Qf3 Qc6 34.Rc3 1/2-1/2
+
+
+[Event "Match (active)"]
+[Site "Mainz (Germany)"]
+[Date "2006.08.17"]
+[Round "2"]
+[White "Radjabov Teimour (AZE)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2728"]
+[BlackElo "2779"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Qc2 Bd6 7.g4 h6
+8.Bd2 dxc4 9.Bxc4 b5 10.Be2 Bb7 11.Rg1 Rc8 12.g5 hxg5 13.Rxg5
+Kf8 14.Ne5 Qe7 15.Bf3 Bxe5 16.dxe5 Nd5 17.Rh5 Rxh5 18.Bxh5 Kg8
+19.O-O-O Qh4 20.Be2 Qxf2 21.Rf1 Qg2 22.Qe4 Qxe4 23.Nxe4 Nxe5
+24.Nc5 Ba8 25.Rd1 Nc4 26.Bxc4 bxc4 27.e4 Nf6 28.Bc3 Ng4 29.Rg1
+Nf2 30.Rxg7+ Kf8 31.Bf6 Nd3+ 32.Nxd3 cxd3 33.Kd2 c5 34.Rh7 Ke8
+35.Kxd3 Bb7 36.h4 Rc6 37.e5 Ra6 38.h5 Ra4 39.Rh8+ Kd7 40.h6 Be4+
+41.Ke3 Bf5 42.h7 Bxh7 43.Rxh7 Rxa2 44.Rxf7+ Kc6 45.Re7 Kd5 46.b3 1-0
+
+
+[Event "Match (active)"]
+[Site "Mainz (Germany)"]
+[Date "2006.08.18"]
+[Round "4"]
+[White "Anand Viswanathan (IND)"]
+[Black "Radjabov Teimour (AZE)"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2779"]
+[BlackElo "2728"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5
+a6 8.Na3 b5 9.Bxf6 gxf6 10.Nd5 Bg7 11.Bd3 Ne7 12.Nxe7 Qxe7 13.O-O
+O-O 14.c3 f5 15.Nc2 Rb8 16.Re1 fxe4 17.Bxe4 f5 18.Bd5+ Kh8 19.Nb4
+Qc7 20.Bb3 a5 21.Nd5 Qb7 22.a3 Be6 23.Ne3 Bxb3 24.Qxb3 f4 25.Nd5
+Rbc8 26.Rad1 Rc5 27.Rd3 f3 28.gxf3 Qf7 29.Qd1 Rc4 30.Ne3 Rh4
+31.Ng2 Rh3 32.f4 Rxd3 33.Qxd3 exf4 34.f3 Qb3 35.Re2 b4 36.axb4
+axb4 37.Qc2 Qd5 38.Ne1 bxc3 39.bxc3 Qc5+ 40.Kf1 Bxc3 41.Re7 Bg7
+42.Qxc5 dxc5 43.Rc7 Bd4 44.Nd3 Rf5 45.Nf2 Rh5 46.Nd3 Rxh2 47.Nxc5
+Rf2+ 48.Ke1 Bxc5 49.Rxc5 Rxf3 50.Rc4 1/2-1/2
+
+
+[Event "Ch World (blitz)"]
+[Site "Rishon le Zion (Israel)"]
+[Date "2006.09.07"]
+[Round "15"]
+[White "Anand Viswanathan (IND)"]
+[Black "Gelfand Boris (ISR)"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[WhiteElo "2779"]
+[BlackElo "2729"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bd7 5.Nf3 Bc6 6.Bd3 Nd7 7.O-O
+Ngf6 8.Ng3 Be7 9.b3 O-O 10.Bb2 Bxf3 11.Qxf3 c6 12.c4 Re8 13.Rad1
+Qa5 14.a3 Rad8 15.b4 Qc7 16.Bc3 Bf8 17.Rfe1 g6 18.Nf1 Bg7 19.Ne3
+e5 20.Bf1 exd4 21.Bxd4 Ne4 22.Bxg7 Kxg7 23.c5 f5 24.Nc4 Ne5 25.Nxe5
+Qxe5 26.Rxd8 Rxd8 27.Qe3 Qd4 28.f3 Nc3 29.Qxd4+ Rxd4 30.Re7+
+Kh6 31.Rxb7 Rd1 32.Rxa7 Nd5 33.Kf2 Rd2+ 34.Ke1 Rb2 35.g3 Ne3
+36.Bd3 Rxh2 37.b5 cxb5 38.c6 Nc2+ 39.Kf1 Nd4 40.c7 Rh1+ 41.Kf2
+Rc1 42.Ke3 Ne6 43.Bxb5 Nxc7 44.Bd3 Nd5+ 45.Kd4 Rd1 46.Rd7 Nf6
+47.Rd6 Nh5 48.g4 1/2-1/2
+
+
+[Event "Ch World (blitz)"]
+[Site "Rishon le Zion (Israel)"]
+[Date "2006.09.07"]
+[Round "12"]
+[White "Anand Viswanathan (IND)"]
+[Black "Sutovsky Emil (ISR)"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2779"]
+[BlackElo "2607"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3
+Be6 8.f3 Nbd7 9.Qd2 b5 10.O-O-O Be7 11.g4 b4 12.Nd5 Bxd5 13.exd5
+Nb6 14.Qxb4 Nfxd5 15.Bxb6 Nxb6 16.f4 O-O 17.fxe5 dxe5 18.Rxd8
+Bxb4 19.Rxa8 Rxa8 20.a3 Be7 21.Na5 Bg5+ 22.Kb1 e4 23.Be2 Nd5
+24.Rd1 Nf4 25.Bc4 e3 26.Re1 Re8 27.Bxa6 Ng2 28.Re2 Nf4 29.b4
+Nxe2 30.Bxe2 Re4 31.c3 Rf4 32.Kc2 Rf2 33.Kd3 Rxh2 34.a4 f5 35.gxf5
+h5 36.Nc6 h4 37.a5 h3 38.a6 Rxe2 39.Kxe2 h2 40.a7 h1Q 41.a8Q+
+Kh7 42.Qe8 Qg2+ 43.Kd3 Qd2+ 44.Kc4 e2 45.Qg6+ Kh8 46.Qe8+ 1/2-1/2
+
+
+[Event "Ch World (blitz)"]
+[Site "Rishon le Zion (Israel)"]
+[Date "2006.09.07"]
+[Round "11"]
+[White "Grischuk Alexander (RUS)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1-0"]
+[ECO "C78"]
+[WhiteElo "2709"]
+[BlackElo "2779"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.a4
+Rb8 8.c3 O-O 9.d4 Bb6 10.a5 Ba7 11.Re1 d6 12.h3 Re8 13.Bg5 h6
+14.Bh4 g5 15.Nxg5 hxg5 16.Bxg5 exd4 17.Bd5 Bd7 18.cxd4 Nxd4 19.Ra3
+Re5 20.Bh4 Be6 21.Rg3+ Kh7 22.Nd2 Bxd5 23.exd5 Rxe1+ 24.Qxe1
+Nf5 25.Qb1 Ne4 26.Qxe4 Qxh4 27.Qxf5+ Kh8 28.Rg4 Qh6 29.Nf3 1-0
+
+
+[Event "Ch World (blitz)"]
+[Site "Rishon le Zion (Israel)"]
+[Date "2006.09.07"]
+[Round "5"]
+[White "Radjabov Teimour (AZE)"]
+[Black "Anand Viswanathan (IND)"]
+[Result "1-0"]
+[ECO "B97"]
+[WhiteElo "2728"]
+[BlackElo "2779"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4
+Qb6 8.Qd2 Qxb2 9.Rb1 Qa3 10.e5 dxe5 11.fxe5 Nfd7 12.Ne4 h6 13.Bh4
+Qa4 14.Be2 Nc6 15.Nxe6 g5 16.Nf6+ 1-0
+
+
+[Event "Corus"]
+[Site "Wijk aan Zee"]
+[Date "2006.01.20"]
+[Round "6"]
+[White "Kamsky, Gata"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[ECO "D20"]
+[WhiteElo "2686"]
+[BlackElo "2792"]
+[Annotator "Ftacnik"]
+[PlyCount "93"]
+[EventDate "2006.01.14"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "19"]
+[Source "Mark Crowther"]
+[SourceDate "2010.02.01"]
+
+1. d4 {Huzman} d5 2. c4 dxc4 3. e4 Nf6 4. e5 Nd5 5. Bxc4 Nb6 6. Bd3 Nc6 7. Ne2
+Be6 8. Nbc3 Qd7 {Anand was not yet suspecting the outcome of the battle, so he
+is looking for a more challenging continuation than 8...Bc4.} (8... Bc4 9. Bxc4
+Nxc4 10. Qb3 Nb6 11. e6 fxe6 12. Qxe6 Qd7 13. Qe4 O-O-O 14. O-O e6 $11 {Van
+Wely,L-Shirov,A/Monte Carlo/2001/}) 9. Ne4 (9. Be4 O-O-O 10. Be3 Bf5 11. O-O
+Bxe4 12. Nxe4 e6 13. a3 Be7 14. b4 (14. Qc2 {Huzman} f5 15. exf6 gxf6 16. b4
+Rhg8 17. b5 Na5 18. a4 f5 19. Nc5 Bxc5 20. dxc5 Nbc4 21. Rad1 Qg7 22. Nf4 $1
+Qf7 23. b6 axb6 24. cxb6 e5 $11 {1/2-1/2 Volkov,S-David,A/Istanbul 2003/CBM 96/
+[Huzman] (57)}) 14... f5 15. exf6 (15. Nc5 {Huzman} Bxc5 16. bxc5 Nd5 17. Rb1
+Nce7 18. Qb3 $36 {1/2-1/2 Ramirez,C-Borges Mateos,J/Bogota 1997/EXT 98 (48)})
+15... Bxf6 $14 {Van Wely - Rustemov, Moscow 2004}) 9... Bd5 (9... Nb4 10. Bb1
+Bc4 11. Nc5 {'!?' Huzman.} Qg4 {'/\' Huzman.} 12. h3 $1 {'+/-!' Huzman.} Qxe2+
+(12... Qxg2 13. Be4 $1 Nd3+ 14. Qxd3 Qxh1+ 15. Bxh1 Bxd3 16. Nxd3 $18) (12...
+Bxe2 13. Qxe2 Qxd4 14. Be3 Qxe5 15. Qb5+ Nc6 16. Be4 $44) 13. Qxe2 Bxe2 14.
+Kxe2 O-O-O 15. e6 $1 $14 {Kortschnoj - Suetin, Budva 1967}) 10. Be3 $146 {
+Kamsky comes up with a novelty. The support of the center is a logical choice
+and the only problem was the calculation of the possible forray of the black
+queen to the square g4.} (10. O-O {Huzman} e6 11. a3 Be7 12. Qc2 f5 (12...
+O-O-O 13. Rd1 Nxe5 14. Nc5 Bxc5 15. dxc5 Na8 16. Bf4 Nxd3 17. Qxd3 f6 $17 {0-1
+Dijankov,O-Nikitin,A/Orel 1997/EXT 99 (47)}) 13. exf6 gxf6 14. Be3 f5 $6 15.
+Nc5 Bxc5 16. dxc5 $16 {1-0 Volkov,S-Nikitin,A/Orel 1997/EXT 99 (24)}) 10...
+O-O-O (10... Qg4 11. O-O Bxe4 12. f3 Bxf3 13. Rxf3 Qd7 (13... e6 14. Qc1 $18)
+14. Qb3 Qd5 15. Qc3 e6 16. Raf1 $16) (10... Nb4 11. Bb1 Qg4 12. O-O (12. Nf4
+Qxd1+ 13. Kxd1 e6 14. a3 Bb3+ $1) 12... Bxe4 13. f3 Bxf3 14. Rxf3 e6 15. Qc1 $1
+Nc6 (15... N4d5 16. h3 Qh4 17. Bg5 Qh5 18. Ng3 $18) 16. h3 Qh4 17. Rxf7 $1 (17.
+Bg5 Nxd4 18. Bxh4 Nxe2+ $19) 17... Kxf7 18. Bg5 Qh5 (18... Nxd4 19. Qf1+ $18)
+19. Ng3 $18) 11. a3 Qe8 {Huzman: '/\12...Ne5,12...f5' Huzman: 'Black is trying
+to do without e7-e6 to gain some time.'} (11... f6 12. Nc5 Qe8 (12... Qg4 13.
+Nf4 Qxd1+ 14. Rxd1 $16) 13. e6 $1 Bxg2 14. Rg1 Bf3 15. Rg3 Qh5 $2 16. Rxf3 $1
+Qxf3 17. Be4 Qg4 18. Bxc6 bxc6 19. Qd3 $18) (11... Qg4 12. O-O Bxe4 13. f3 Bxf3
+14. Rxf3 $16) (11... e6 12. Rc1 Kb8 13. O-O Bxe4 14. Bxe4 Ne7 $13) 12. Qc2 {
+'!' Huzman.} (12. O-O $2 Nxe5 $1) (12. Rc1 Nxe5 $2 (12... f5 $1 $15 {Huzman})
+13. dxe5 Bxe4 14. Qc2 Bc6 15. Nd4 $16) 12... f5 $5 {The logical conclusion of
+the Anand's play, black is trying to benefit from the attack against the g2
+square.} 13. N4c3 $1 Bxg2 $1 (13... e6 14. Nxd5 Nxd5 (14... Rxd5 15. Nf4 $1)
+15. Bb5 $16) 14. Rg1 Bf3 15. Bxf5+ e6 16. Bh3 $1 {A good move as pawn h7 was a
+tempting object, but the real target remains the pawn on e6. Huzman: 'By
+swapping the f-pawn for its "g" counterpart, Black has considerably weakened
+his "e6" pawn and landed in serious trouble. Even more so, since he has no
+real counterplay.'} (16. Bxh7 Qh5 (16... Nd5 $5 {Huzman} 17. Nxd5 Rxd5 18. Nf4
+Nxd4 19. Bxd4 Rxd4 20. Nxe6 Rd7 21. Bf5 g6 22. Rxg6 Rxh2 23. Rg1 Rh5 $44) 17.
+Be4 (17. Bg6 {Huzman} Qxh2 18. O-O-O $16) 17... Bxe4 (17... Kb8 $5) 18. Qxe4
+Qxh2 19. O-O-O $16) 16... Kb8 17. Rg3 (17. Qb3 Nd5) (17. Nf4 $2 Nxd4 18. Bxd4
+Rxd4 19. Nxe6 Rh4 $17) (17. O-O-O {Huzman} Qf7 18. Rg3 Bh5 19. Bg2 Bg6 $132)
+17... Bxe2 $2 {Anand for some reason disliked his position and with a serie of
+mediocre moves he kisses it goodbye. It is hard to explain, why he did not
+conclude his concept with the transfer of the bishop to f7 with only somewhat
+worse chances.} (17... Bh5 18. Qb3 Bf7 (18... Nd5 19. Nxd5 exd5 (19... Rxd5 $2
+20. Bg2 $16) 20. Nf4 $14) 19. O-O-O Na5 $13) 18. Nxe2 Nd5 $2 (18... Qf7 19. Bg2
+Nd5 20. Nc3 Nce7) (18... g6 $5) 19. Nc3 $1 Nxe3 $6 (19... g6) (19... Qd7 {
+Huzman} 20. Nxd5 Qxd5 21. O-O-O $16 {[%cal Gh3g2]}) 20. fxe3 {Kamsky is free
+of all the problems with the pawn strcuture, on the other hand black will not
+be able to cope with a weakness of e6 pawn.} Qh5 (20... g6 21. O-O-O Bh6 22.
+Ne4 $16) 21. Qe2 (21. Bxe6 Be7 22. Bg4 Qh6 23. O-O-O $2 Nxd4 $17) 21... Qxe2+ (
+21... Qh6 22. Qg4 g6 23. O-O-O $1 (23. Qxe6 $2 Be7 24. O-O-O Bh4 25. Rf3 Nxd4
+$19)) 22. Kxe2 Re8 23. Rf1 Nd8 {Black is condemned to a heroic defense of the
+seriously endangered position.} 24. Ne4 (24. Rgf3 Be7) 24... g6 (24... h6 $2
+25. Rg6 $18) 25. Ng5 Re7 26. Rgf3 Bh6 27. Nf7 {Gata is pulled by the prospect
+of getting the e6 pawn. Very unpleasant for Anand would have been also the
+continuation of the pressure with 27.Ne4.} (27. Ne4) 27... Nxf7 28. Rxf7 Rhe8
+29. R1f6 a5 (29... Kc8 $1 30. Rxe6 $1 Kd8 $1 (30... Rxe6 $2 31. Rxh7) 31. Ref6
+Rxf7 32. Rxf7 Re7 $16) 30. Rxe7 Rxe7 31. Rxe6 (31. Bxe6 Bg7 32. Bg8 $1 (32. e4
+c6 $1 (32... Bxf6 33. exf6 Re8 (33... Rxe6 34. e5 Re8 35. f7 Rf8 36. e6) 34. e5
+$18) 33. Rf7 Rxf7 34. Bxf7 Kc7 $16) 32... Re8 (32... Bxf6 33. exf6 Re8 34. f7
+Rf8 35. Kf3 Kc8 36. Kf4 Kd7 37. Kg5 Ke7 38. Kh6 Kf6 39. e4 $18) 33. Bf7 Bxf6
+34. Bxe8 $18) 31... Rxe6 32. Bxe6 {The bishop's ending is very difficult, but
+the defensive possibilities of the defender have not been exhausted.} Bg5 (
+32... Bg7 33. Bg8 h6 34. Bf7 g5 35. Kf3 Kc8 36. Ke4 Kd7 37. Kf5 Ke7 38. Bc4 Bf8
+39. Kg6 $18) 33. d5 $1 (33. Bg8 $142 {Huzman} h6 34. Bf7 $18) 33... Ka7 $2 {
+Probably the decisive mistake, Anand should have strived to get the king in
+front of the white pawns at any cost.} (33... Be7 34. Kf3 Bc5 35. Ke4 h6 36.
+Bd7 Bf8 37. Be8 Kc8 $1 (37... g5 38. Bd7) 38. Bxg6 Kd7 $16) 34. Bg8 h6 35. Bf7
+Kb6 36. Bxg6 Kc5 (36... c6 37. d6 Kc5 38. Bf7 a4 (38... b5 39. b4+ $1 axb4 40.
+axb4+ Kxb4 41. e6) 39. Kd3 $18) 37. Bf7 h5 38. Kd3 h4 39. h3 b5 40. Ke4 b4 {
+The drawback of this move is the fact, that white will get the control of the
+square c4, but the position was hopeless in any case.} (40... Kb6 41. Kf5 Bxe3
+42. d6 (42. e6 Bc5 43. Be8 Be7 44. Kg6 Kc5 45. Kf7 Bg5 46. Bc6 Kd6 47. Bxb5 Bd8
+48. Bc4 Bg5 49. a4 Bd8 50. b4 axb4 51. a5 $18) 42... cxd6 43. e6 $18) 41. axb4+
+axb4 42. b3 Bh6 43. Bh5 Bg5 44. Be2 Bh6 (44... Kb6 45. Kf5 Bxe3 46. e6 Bc5 47.
+Kf6 $18) 45. Bc4 Bg5 46. Kf5 Bxe3 47. d6 $1 {The witty tactical motive decides,
+black is not able to stop the advancing white pawn.} (47. d6 cxd6 (47... Kc6
+48. Bb5+ $1) 48. e6 Kc6 49. Kg6 $18 (49. Bb5+ $18)) 1-0

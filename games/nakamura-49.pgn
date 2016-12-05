@@ -1,0 +1,576 @@
+[Event "6th Gibtelecom Masters"]
+[Site "Gibraltar ENG"]
+[Date "2008.01.22"]
+[Round "1"]
+[White "Van Haastert, E."]
+[Black "Nakamura, H."]
+[Result "0-1"]
+[ECO "B80"]
+[WhiteElo "2416"]
+[BlackElo "2670"]
+[PlyCount "76"]
+[EventDate "2008.01.22"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f3 b5 8. Qd2
+h5 9. O-O-O Bb7 10. Bd3 Nbd7 11. Rhe1 Rc8 12. Kb1 Be7 13. h4 Ne5 14. Bg5 O-O
+15. Nce2 d5 16. exd5 Nxd3 17. Qxd3 Nxd5 18. Bxe7 Qxe7 19. g3 Rfd8 20. f4 Nf6
+21. Nc1 Bd5 22. Qe3 Qc5 23. Re2 b4 24. Ncb3 Qc7 25. Rc1 a5 26. c4 bxc3 27. Rxc3
+Qb6 28. Nc2 Qb5 29. Nbd4 Qd7 30. Re1 Be4 31. Rxc8 Rxc8 32. Rc1 Qd5 33. a3 Ng4
+34. Qg1 e5 35. fxe5 Nxe5 36. Ka1 Nd3 37. Rd1 Qc4 38. Qe3 Bd5 0-1
+
+
+[Event "6th Gibtelecom Masters"]
+[Site "Gibraltar ENG"]
+[Date "2008.01.26"]
+[Round "5"]
+[White "Zhao Zong Yuan"]
+[Black "Nakamura, H."]
+[Result "1-0"]
+[ECO "B03"]
+[WhiteElo "2487"]
+[BlackElo "2670"]
+[PlyCount "109"]
+[EventDate "2008.01.22"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 exd6 6. Nc3 Be7 7. Bd3 Nc6 8.
+Nge2 Bg4 9. h3 Bh5 10. Be3 O-O 11. d5 Ne5 12. b3 Bf6 13. Rc1 Bg5 14. f4 Bh4+
+15. Bf2 Bxe2 16. Bxe2 Bxf2+ 17. Kxf2 Qf6 18. g3 Rae8 19. Re1 Ned7 20. Bf3 Nc5
+21. Qd2 a6 22. Kg2 Qf5 23. Re3 Rxe3 24. Qxe3 Qd3 25. Qxd3 Nxd3 26. Rd1 Nc5 27.
+Re1 Rd8 28. Re7 Ncd7 29. Be2 Kf8 30. Re3 Nb8 31. Bd3 h6 32. g4 a5 33. Nb5 Na6
+34. a3 g5 35. Kf3 Nc5 36. Bc2 Na6 37. Bd3 Nc5 38. Bc2 gxf4 39. Kxf4 a4 40. Nxc7
+axb3 41. Bxb3 Nbd7 42. Nb5 Ne5 43. Ba2 Ncd3+ 44. Kf5 Nc1 45. Nxd6 Ng6 46. Nxb7
+Rb8 47. c5 Rxb7 48. Bc4 Rb2 49. Ke4 Ke7 50. Kd4+ Kd8 51. c6 Nf4 52. d6 Rd2+ 53.
+Kc5 Ncd3+ 54. Kb6 Rc2 55. Bxf7 1-0
+
+
+[Event "6th Gibtelecom Masters"]
+[Site "Gibraltar ENG"]
+[Date "2008.01.28"]
+[Round "7"]
+[White "Harika, D."]
+[Black "Nakamura, H."]
+[Result "0-1"]
+[ECO "D45"]
+[WhiteElo "2455"]
+[BlackElo "2670"]
+[PlyCount "76"]
+[EventDate "2008.01.22"]
+
+1. Nf3 d5 2. d4 c6 3. c4 e6 4. Qc2 Nf6 5. e3 Nbd7 6. Nc3 Bd6 7. g4 h6 8. Bd2
+dxc4 9. Bxc4 b5 10. Be2 Bb7 11. e4 Be7 12. e5 b4 13. exf6 bxc3 14. fxe7 cxd2+
+15. Nxd2 Qxe7 16. Bf3 Rb8 17. Nb3 O-O 18. O-O-O c5 19. Bxb7 Rxb7 20. dxc5 Rc7
+21. Kb1 Nxc5 22. Rc1 Rfc8 23. Nxc5 Rxc5 24. Qd2 Qf6 25. Rxc5 Rxc5 26. Rg1 Rd5
+27. Qe2 Qf4 28. Qe3 Qxh2 29. Rc1 Qg2 30. Qf4 f5 31. Qe3 fxg4 32. Qxe6+ Kh7 33.
+a3 Qf3 34. Ka2 Qf5 35. Qe3 a5 36. Rg1 Rd3 37. Qe7 Rd2 38. Rc1 Rxf2 0-1
+
+
+[Event "6th Gibtelecom Masters"]
+[Site "Gibraltar ENG"]
+[Date "2008.01.30"]
+[Round "9"]
+[White "Petrosian, TL."]
+[Black "Nakamura, H."]
+[Result "0-1"]
+[ECO "B02"]
+[WhiteElo "2606"]
+[BlackElo "2670"]
+[PlyCount "85"]
+[EventDate "2008.01.22"]
+
+1. e4 Nf6 2. e5 Nd5 3. g3 d6 4. exd6 Qxd6 5. Bg2 Nc6 6. Nc3 Nxc3 7. bxc3 e5 8.
+d3 Be7 9. Ne2 Be6 10. c4 Qd7 11. Rb1 O-O-O 12. O-O Bh3 13. Bh1 Bxf1 14. Qxf1 f5
+15. Nc3 Rdf8 16. Nd5 Bc5 17. Rb5 b6 18. c3 Nb8 19. Rb3 f4 20. d4 fxg3 21. hxg3
+exd4 22. Bg2 Qf7 23. cxd4 Bxd4 24. Rf3 Qe8 25. Bf4 Rf7 26. Rd3 Bc5 27. Nc3 Re7
+28. Rd1 c6 29. Bf3 Rf8 30. Qh3+ Kb7 31. Kg2 g5 32. Bxg5 Qf7 33. Rd3 Rd7 34.
+Rxd7+ Nxd7 35. Bf4 Ne5 36. Ne4 Nd3 37. Ng5 Nxf4+ 38. gxf4 Qxf4 39. Qh5 Rf5 40.
+Bxc6+ Ka6 41. Nh3 Qxf2+ 42. Nxf2 Rxh5 43. Ne4 0-1
+
+
+[Event "6th Gibtelecom Masters Rapid Playoff"]
+[Site "Gibraltar ENG"]
+[Date "2008.01.31"]
+[Round "2"]
+[White "Bu Xiangzhi"]
+[Black "Nakamura, H."]
+[Result "0-1"]
+[ECO "D36"]
+[WhiteElo "2691"]
+[BlackElo "2670"]
+[PlyCount "136"]
+[EventDate "2008.01.22"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. Qc2 Nf6 5. Bg5 Nbd7 6. cxd5 exd5 7. Nc3 Be7 8.
+e3 O-O 9. Bd3 Re8 10. O-O Nf8 11. Rae1 Ne4 12. Bxe7 Qxe7 13. Bxe4 dxe4 14. Nd2
+f5 15. f3 exf3 16. Nxf3 Be6 17. e4 fxe4 18. Rxe4 Rad8 19. Rfe1 Qf6 20. Re5 Ng6
+21. Ne4 Qf8 22. Neg5 Bf7 23. Nxf7 Qxf7 24. Ng5 Rxe5 25. Nxf7 Rxe1+ 26. Kf2 Rde8
+27. Ne5 Nxe5 28. Kxe1 Nf3+ 29. Kf2 Nxd4 30. Qa4 Rf8+ 31. Ke3 Nf5+ 32. Ke4 a6
+33. Ke5 Ne3 34. Kd6 Nd5 35. Qe4 g6 36. g4 g5 37. Qe6+ Kg7 38. Kc5 h6 39. a3 Rf7
+40. b4 Re7 41. Qc8 Rc7 42. Qd8 Rf7 43. Qd6 Re7 44. a4 Rf7 45. Qe5+ Kh7 46. h4
+gxh4 47. Qh5 Kg7 48. g5 hxg5 49. Qxg5+ Kf8 50. Qxh4 Ke8 51. Qh8+ Kd7 52. a5 Ke6
+53. Qe8+ Re7 54. Qg6+ Nf6 55. Kb6 Rd7 56. Ka7 Re7 57. Kb8 Rd7 58. Kc8 Re7 59.
+Qh6 Kf7 60. Qf4 Ke6 61. Qe3+ Kf7 62. Qh6 Ke6 63. Qg6 Rf7 64. Qd3 Re7 65. Qh3+
+Kf7 66. Kd8 Re8+ 67. Kc7 Re7+ 68. Kd6 Ne4# 0-1
+
+
+[Event "IX Dos Hermanas Internet"]
+[Site "ICC INT"]
+[Date "2008.04.04"]
+[Round "2.1"]
+[White "Gormally, D."]
+[Black "Nakamura, H."]
+[Result "0-1"]
+[ECO "C10"]
+[WhiteElo "2508"]
+[BlackElo "2686"]
+[PlyCount "104"]
+[EventDate "2008.04.04"]
+
+1. d4 e6 2. e4 d5 3. Nd2 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. O-O Ngf6 8.
+Re1 Bxe4 9. Bxe4 c6 10. Bd3 Qc7 11. c3 Bd6 12. Bg5 h6 13. Bh4 O-O-O 14. Qe2 g5
+15. Bg3 Nh5 16. Ne5 Nxg3 17. hxg3 Bxe5 18. dxe5 Nxe5 19. Be4 Nd7 20. b4 Nf6 21.
+Bf3 h5 22. b5 g4 23. Be4 Nxe4 24. Qxe4 cxb5 25. a4 h4 26. gxh4 Rxh4 27. g3 Rh5
+28. axb5 Rdh8 29. Rxa7 Rh1+ 30. Qxh1 Rxh1+ 31. Kxh1 Qxc3 32. Raa1 Qb2 33. Rab1
+Qxf2 34. b6 Qxg3 35. Red1 Qh4+ 36. Kg2 Qh3+ 37. Kg1 Qg3+ 38. Kh1 Qf3+ 39. Kg1
+Qe3+ 40. Kh1 Qe4+ 41. Kg1 Qe3+ 42. Kh1 Qh3+ 43. Kg1 Qg3+ 44. Kh1 Qh4+ 45. Kg2
+g3 46. Rh1 Qe4+ 47. Kxg3 Kd7 48. Rhd1+ Ke7 49. Rdc1 f5 50. Re1 Qd3+ 51. Kf2 Kf6
+52. Rb2 Qd4+ 0-1
+
+
+[Event "IX Dos Hermanas Internet"]
+[Site "ICC INT"]
+[Date "2008.04.04"]
+[Round "2.3"]
+[White "Gormally, D."]
+[Black "Nakamura, H."]
+[Result "0-1"]
+[ECO "E12"]
+[WhiteElo "2508"]
+[BlackElo "2686"]
+[PlyCount "96"]
+[EventDate "2008.04.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 d5 5. Nc3 Bb7 6. cxd5 Nxd5 7. e3 Nd7 8. Bd3
+c5 9. e4 Nxc3 10. bxc3 Qc8 11. O-O cxd4 12. cxd4 Ba6 13. Re1 Be7 14. Bc2 O-O
+15. Bb2 Rd8 16. Qd2 Qb7 17. Rad1 Rac8 18. Bb1 Qb8 19. h3 Bf8 20. d5 e5 21. d6
+Re8 22. Ba2 Bc4 23. Bxc4 Rxc4 24. Qd5 Rc5 25. Qb3 Bxd6 26. Ng5 Re7 27. Rd3 Rc8
+28. Rf3 Rf8 29. Rf5 h6 30. Qg3 hxg5 31. Qxg5 Re6 32. Re3 Rg6 33. Qh5 Nf6 34.
+Qf3 Re8 35. Rd3 Qc7 36. g4 Bc5 37. Kg2 Nh7 38. h4 Rd6 39. g5 g6 40. Rxe5 Rxe5
+41. Bxe5 Rxd3 42. Bxc7 Rxf3 43. Kxf3 Bxa3 44. Kg4 Bc5 45. f4 a5 46. f5 a4 47.
+h5 a3 48. Be5 b5 0-1
+
+
+[Event "IX Dos Hermanas Internet"]
+[Site "ICC INT"]
+[Date "2008.04.05"]
+[Round "3.3"]
+[White "Andriasian, Z."]
+[Black "Nakamura, H."]
+[Result "1-0"]
+[ECO "E09"]
+[WhiteElo "2533"]
+[BlackElo "2686"]
+[PlyCount "93"]
+[EventDate "2008.04.04"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. b3 d5 6. Bg2 c6 7. O-O Nbd7 8. Nbd2
+Be7 9. Qc2 O-O 10. Bb2 Rc8 11. e4 c5 12. exd5 exd5 13. Rfd1 b5 14. Rac1 cxd4
+15. Nxd4 bxc4 16. bxc4 Nb6 17. Nf5 Bxc4 18. Nxc4 Rxc4 19. Qe2 Re8 20. Rxc4 Nxc4
+21. Bxd5 Nd6 22. Bxf6 Bxf6 23. Qf3 Nxf5 24. Bxf7+ Kxf7 25. Rxd8 Rxd8 26. Qxf5
+g6 27. Qb5 Bd4 28. Kg2 Bb6 29. Qb4 Rd4 30. Qb3+ Kf8 31. a4 Rd7 32. a5 Bd4 33.
+Qb5 Ke7 34. h4 Kd8 35. h5 gxh5 36. Qxh5 Kc7 37. f4 Kc6 38. Qf5 Re7 39. Kh3 Bc5
+40. Qd3 Rd7 41. Qa6+ Kd5 42. Qb5 Re7 43. f5 Kd4 44. f6 Rf7 45. Qc6 Bb4 46. Qe6
+Rf8 47. f7 1-0
+
+
+[Event "TCh-FRA Top 16 Gp A"]
+[Site "Noyon FRA"]
+[Date "2008.04.11"]
+[Round "5"]
+[White "Shoker, S."]
+[Black "Nakamura, H."]
+[Result "0-1"]
+[ECO "A21"]
+[WhiteElo "2381"]
+[BlackElo "2670"]
+[PlyCount "80"]
+[EventDate "2008.04.10"]
+
+1. g3 f5 2. Bg2 Nf6 3. c4 g6 4. Nc3 Bg7 5. Nf3 d6 6. O-O e5 7. d3 O-O 8. Rb1
+Re8 9. b4 c6 10. Qb3 h6 11. b5 c5 12. e4 fxe4 13. dxe4 Nbd7 14. Ne1 Nf8 15. Nc2
+Ne6 16. Ne3 Nd4 17. Qd1 Be6 18. a4 Qd7 19. Bb2 Rf8 20. Ncd5 Rae8 21. Bc3 b6 22.
+Rb2 h5 23. h4 Bh6 24. Nxf6+ Rxf6 25. Nd5 Rf7 26. a5 Bxd5 27. exd5 e4 28. Bxd4
+cxd4 29. Re2 Qg4 30. Kh2 d3 31. Rxe4 Rxe4 32. f3 Rxf3 33. Rxf3 Re3 34. axb6
+axb6 35. c5 dxc5 36. d6 Qd4 37. Qb3+ c4 38. Qa4 d2 39. Qa8+ Kh7 40. Rf7+ Bg7
+0-1
+
+
+[Event "17th Open"]
+[Site "Chicago USA"]
+[Date "2008.05.24"]
+[Round "2"]
+[White "Friedel, J."]
+[Black "Nakamura, H."]
+[Result "1-0"]
+[ECO "B43"]
+[WhiteElo "2484"]
+[BlackElo "2686"]
+[PlyCount "103"]
+[EventDate "2008.05.23"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Ne7 6. Bg5 Nbc6 7. Nxc6 bxc6 8.
+Qd2 Qa5 9. Be2 Rb8 10. O-O f6 11. Be3 Ng6 12. Rab1 d5 13. f4 Bc5 14. a3 Qb6 15.
+Bxc5 Qxc5+ 16. Kh1 O-O 17. b4 Qa7 18. exd5 cxd5 19. f5 exf5 20. Nxd5 Ne5 21. c4
+Be6 22. Rbd1 Rfd8 23. Qd4 Qb7 24. Rd2 Rd7 25. Rfd1 Rbd8 26. Qc3 Rc8 27. Qe3 Re8
+28. h3 Kh8 29. Qb6 a5 30. Qxb7 Rxb7 31. b5 Rc8 32. Nf4 Bg8 33. Rd8 Rbb8 34.
+Rxc8 Rxc8 35. b6 Nxc4 36. Bxc4 Bxc4 37. Rc1 g5 38. Nd5 Kg7 39. Rxc4 Rxc4 40. b7
+Rc1+ 41. Kh2 Rb1 42. Nb4 axb4 43. b8=Q b3 44. Qb4 h5 45. Qe7+ Kg6 46. Qf8 g4
+47. Qg8+ Kh6 48. Kg3 f4+ 49. Kh4 gxh3 50. Qf7 Re1 51. Qxf6+ Kh7 52. gxh3 1-0
+
+
+[Event "17th Open"]
+[Site "Chicago USA"]
+[Date "2008.05.24"]
+[Round "3"]
+[White "Bady, G."]
+[Black "Nakamura, H."]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "2229"]
+[BlackElo "2686"]
+[PlyCount "56"]
+[EventDate "2008.05.23"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Bc4 c6 5. d4 Bf5 6. Nge2 e6 7. f3 Bd6 8. g4
+Bg6 9. Bd2 Qc7 10. Be3 h5 11. Qd2 hxg4 12. fxg4 Nf6 13. Bd3 Bxd3 14. Qxd3 Rh3
+15. Rg1 Nbd7 16. g5 Nd5 17. Nxd5 cxd5 18. g6 f5 19. Qd2 Nf6 20. Bf4 Ne4 21.
+Bxd6 Qxd6 22. Qa5 Rxh2 23. O-O-O Ke7 24. Rh1 Rxe2 25. Rh7 Kf6 26. Qb5 Qf4+ 27.
+Kb1 Qd2 28. Rc1 Qxc1+ 0-1
+
+
+[Event "TCh-FRA Top 16 Poule Basse"]
+[Site "Evry FRA"]
+[Date "2008.05.30"]
+[Round "9"]
+[White "Schlosser, P."]
+[Black "Nakamura, H."]
+[Result "0-1"]
+[ECO "B37"]
+[WhiteElo "2563"]
+[BlackElo "2686"]
+[PlyCount "100"]
+[EventDate "2008.05.29"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 g6 4. Nc3 Bg7 5. e4 cxd4 6. Nxd4 Nc6 7. Nc2 d6 8. Be2
+Nd7 9. Bd2 Nc5 10. O-O O-O 11. f3 Bxc3 12. Bxc3 Na4 13. Qd2 f5 14. exf5 Bxf5
+15. Kh1 Nxc3 16. Qxc3 Bxc2 17. Qxc2 Qb6 18. Qd2 Qd4 19. Rad1 Qxd2 20. Rxd2 Rac8
+21. Kg1 Rf5 22. Rc1 a5 23. Kf2 a4 24. Rc3 Rc5 25. Rd5 Nb4 26. Rxc5 dxc5 27. a3
+Nc6 28. Bd1 Ra8 29. Ke3 Nd4 30. Kd2 Kf7 31. Re3 Kf6 32. f4 Nf5 33. Re5 Rd8+ 34.
+Ke1 b6 35. Bxa4 Rd4 36. g3 Rxc4 37. Bb3 Rc1+ 38. Kd2 Rh1 39. Re6+ Kg7 40. Rxb6
+Rxh2+ 41. Kc3 Nxg3 42. Bd5 Ne2+ 43. Kc4 Nxf4 44. Bb7 Rc2+ 45. Kb3 Rc1 46. a4
+Ra1 47. Rc6 h5 48. Rxc5 h4 49. a5 Ne6 50. Rd5 h3 0-1
+
+
+[Event "15th Ordix Open"]
+[Site "Mainz GER"]
+[Date "2008.08.02"]
+[Round "2"]
+[White "Christ, R."]
+[Black "Nakamura, H."]
+[Result "0-1"]
+[ECO "A41"]
+[WhiteElo "2244"]
+[BlackElo "2697"]
+[PlyCount "110"]
+[EventDate "2008.08.02"]
+
+1. Nf3 d6 2. d4 g6 3. c4 Bg7 4. Nc3 Bg4 5. e3 Nc6 6. Be2 e5 7. dxe5 dxe5 8. Qa4
+Qc8 9. Bd2 Nge7 10. Rd1 O-O 11. b4 a6 12. a3 h6 13. Qb3 Rd8 14. O-O Be6 15. Bc1
+Rd6 16. Qc2 Bf5 17. Qb3 Be6 18. Qc2 f5 19. c5 Rxd1 20. Rxd1 e4 21. Nd2 Qe8 22.
+Bc4 Qf7 23. Ne2 Rd8 24. Bxe6 Qxe6 25. Nb3 Rxd1+ 26. Qxd1 Ne5 27. Ned4 Qd5 28.
+Qc2 Nd3 29. Bb2 f4 30. Bc3 fxe3 31. fxe3 Qg5 32. Qe2 Nd5 33. Bd2 Be5 34. Nc2
+Nf6 35. Ne1 Qf5 36. Nd4 Bxd4 37. exd4 Nxe1 38. Bxe1 Nd5 39. Bg3 c6 40. Be5 e3
+41. h3 Qb1+ 42. Kh2 Qe4 43. Kg1 h5 44. Qf3 Qxf3 45. gxf3 Kf7 46. Kf1 Nc3 47.
+Bf4 Nb5 48. Bxe3 Nxa3 49. Bd2 Nb5 50. Be3 Ke6 51. Ke2 Kf5 52. Kd3 Nc7 53. Bd2
+g5 54. Kc4 Nd5 55. Be1 Nf4 0-1
+
+
+[Event "15th Ordix Open"]
+[Site "Mainz GER"]
+[Date "2008.08.03"]
+[Round "6"]
+[White "Andersson, U."]
+[Black "Nakamura, H."]
+[Result "0-1"]
+[WhiteElo "2562"]
+[BlackElo "2697"]
+[PlyCount "0"]
+[EventDate "2008.08.02"]
+
+ 0-1
+
+
+[Event "15th Ordix Open"]
+[Site "Mainz GER"]
+[Date "2008.08.03"]
+[Round "9"]
+[White "Almasi, Z."]
+[Black "Nakamura, H."]
+[Result "1-0"]
+[ECO "B81"]
+[WhiteElo "2668"]
+[BlackElo "2697"]
+[PlyCount "143"]
+[EventDate "2008.08.02"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 h6 8. Bg2
+g5 9. Qe2 Nbd7 10. O-O-O Ne5 11. h3 Ng6 12. Rhe1 Qc7 13. Nf5 Bd7 14. Qd2 exf5
+15. exf5 Ne5 16. h4 Bc6 17. Bxc6+ Qxc6 18. hxg5 Nfxg4 19. f4 Nf3 20. Bd4+ Nge5
+21. Qe3 O-O-O 22. fxe5 Nxe1 23. e6 Ng2 24. Qg3 Rg8 25. g6 fxe6 26. f6 e5 27.
+Qg4+ Kb8 28. f7 Rxg6 29. Qxg6 exd4 30. Rxd4 Qf3 31. Re4 Qf1+ 32. Nd1 Nf4 33.
+Qg4 h5 34. Qg5 Rc8 35. Rxf4 Qe2 36. c3 Qe6 37. Qf5 Qe2 38. Qf6 d5 39. Rf2 Qe4
+40. Rf4 Qe2 41. Rf2 Qe4 42. Rf4 Qe1 43. Kc2 Qe2+ 44. Kc1 Ka7 45. Qd4+ Bc5 46.
+Qxc5+ Rxc5 47. f8=Q Rc6 48. Qg7 Rc8 49. Qd4+ Ka8 50. Rf2 Qe7 51. Ne3 h4 52.
+Nxd5 Qg5+ 53. Kc2 Rd8 54. Rd2 Rg8 55. Nb6+ Kb8 56. Nd7+ Ka8 57. Nb6+ Kb8 58.
+Qd6+ Ka7 59. Nd7 h3 60. Qd4+ Ka8 61. Qe5 Qg6+ 62. Kb3 Rd8 63. Qd4 Qe6+ 64. c4
+Rg8 65. Nb6+ Ka7 66. Nd5+ Kb8 67. Qf4+ Ka7 68. Rf2 Rg4 69. Qc7 Rg8 70. Rf7 Qc8
+71. Qxc8 Rxc8 72. Rh7 1-0
+
+
+[Event "9th TIM"]
+[Site "Montreal CAN"]
+[Date "2008.08.28"]
+[Round "5"]
+[White "Zugic, I."]
+[Black "Nakamura, H."]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2457"]
+[BlackElo "2697"]
+[PlyCount "77"]
+[EventDate "2008.08.24"]
+
+1. Nf3 d5 2. d4 c6 3. Bf4 Nf6 4. c3 Nh5 5. Bg3 g6 6. Nbd2 Bg7 7. e3 Nd7 8. Bh4
+h6 9. g4 Nhf6 10. h3 Qb6 11. Qc2 g5 12. Bg3 h5 13. Rg1 hxg4 14. hxg4 Nf8 15.
+Nxg5 Bxg4 16. Be5 Bh5 17. Bd3 Rg8 18. Nh3 Bg4 19. Bxf6 Bxf6 20. Be2 Bxe2 21.
+Rxg8 Ba6 22. Ng5 Qb5 23. O-O-O Bxg5 24. Rxg5 Qe2 25. Nb3 Qxc2+ 26. Kxc2 b6 27.
+Rg8 Bc8 28. Rh1 f6 29. Kd2 Kf7 30. Rhh8 Bf5 31. Nc1 c5 32. Nd3 cxd4 33. exd4
+Bxd3 34. Kxd3 Rc8 35. f4 e6 36. a4 a5 37. b3 Rd8 38. c4 Re8 39. c5 1-0
+
+
+[Event "USCL 2008"]
+[Site "ICC INT"]
+[Date "2008.10.08"]
+[Round "7"]
+[White "Bhat, V."]
+[Black "Nakamura, H."]
+[Result "1-0"]
+[ECO "E91"]
+[WhiteElo "2498"]
+[BlackElo "2704"]
+[PlyCount "93"]
+[EventDate "2008.08.27"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Nc6 7. d5 Nb8 8. O-O
+Bg4 9. Be3 Nbd7 10. Nd4 Bxe2 11. Qxe2 Rc8 12. f4 c6 13. Rac1 Re8 14. Kh1 Qa5
+15. Bg1 cxd5 16. cxd5 Nb6 17. a3 Na4 18. Nb1 Rxc1 19. Rxc1 Qa6 20. Qc2 Nc5 21.
+Nd2 Nd3 22. Rf1 Nd7 23. b4 Bxd4 24. Bxd4 Nb6 25. Qb3 Nxf4 26. Rxf4 Rc8 27. Rf1
+Qe2 28. Qf3 Qxf3 29. Nxf3 Rc2 30. Bxb6 axb6 31. Kg1 Ra2 32. Rc1 Rxa3 33. Rc7
+Kf8 34. Rxb7 Re3 35. Rxb6 Rxe4 36. Kf2 h6 37. Rb5 e5 38. Nd2 Rd4 39. Nb3 Rc4
+40. Na5 Rc2+ 41. Kf1 Rc1+ 42. Ke2 Rc2+ 43. Kd1 Rxg2 44. Rb8+ Kg7 45. b5 e4 46.
+b6 Rg5 47. Ra8 1-0
+
+
+[Event "Trophee CCAS GpB"]
+[Site "Cap d'Agde FRA"]
+[Date "2008.10.26"]
+[Round "3"]
+[White "Nakamura, Hi"]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2704"]
+[BlackElo "2786"]
+[PlyCount "114"]
+[EventDate "2008.10.26"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 b6 4. Bg2 Bb7 5. O-O e6 6. Nc3 Be7 7. d4 cxd4 8. Qxd4
+d6 9. b3 Nbd7 10. Nb5 d5 11. Bf4 O-O 12. Bc7 Qc8 13. Bd6 Qd8 14. cxd5 Bxd5 15.
+Bxe7 Qxe7 16. Nc7 Rac8 17. Nxd5 Nxd5 18. Qb2 Qf6 19. Qxf6 N7xf6 20. Rfc1 Nc3
+21. Kf1 Rc7 22. Rc2 Rfc8 23. Nd4 Nfd5 24. Bxd5 Nxd5 25. Rxc7 Rxc7 26. Nb5 Rd7
+27. Rc1 g5 28. Rc4 Kg7 29. e4 Ne7 30. h3 a6 31. Nc7 Rd1+ 32. Ke2 Ra1 33. Rc2 a5
+34. a4 Rh1 35. Na8 Rxh3 36. Nxb6 Rh1 37. Rc5 f5 38. Rc7 Kf8 39. Nc8 Ng6 40.
+exf5 exf5 41. Rc5 f4 42. Rxa5 Rb1 43. Rb5 g4 44. gxf4 Nxf4+ 45. Ke3 Ng2+ 46.
+Kd3 h5 47. Kc2 Rf1 48. Rf5+ Kg7 49. Rxh5 Rxf2+ 50. Kc3 Rf3+ 51. Kb4 g3 52. a5
+Nf4 53. Rg5+ Kf6 54. Rg4 Nd3+ 55. Ka3 Nc5 56. Kb4 Nd3+ 57. Ka3 Nc5 1/2-1/2
+
+
+[Event "Trophee CCAS GpB"]
+[Site "Cap d'Agde FRA"]
+[Date "2008.10.27"]
+[Round "3"]
+[White "Nakamura, Hi"]
+[Black "Carlsen, M."]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2704"]
+[BlackElo "2786"]
+[PlyCount "114"]
+[EventDate "2008.10.26"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 b6 4. Bg2 Bb7 5. O-O e6 6. Nc3 Be7 7. d4 cxd4 8. Qxd4
+d6 9. b3 Nbd7 10. Nb5 d5 11. Bf4 O-O 12. Bc7 Qc8 13. Bd6 Qd8 14. cxd5 Bxd5 15.
+Bxe7 Qxe7 16. Nc7 Rac8 17. Nxd5 Nxd5 18. Qb2 Qf6 19. Qxf6 N7xf6 20. Rfc1 Nc3
+21. Kf1 Rc7 22. Rc2 Rfc8 23. Nd4 Nfd5 24. Bxd5 Nxd5 25. Rxc7 Rxc7 26. Nb5 Rd7
+27. Rc1 g5 28. Rc4 Kg7 29. e4 Ne7 30. h3 a6 31. Nc7 Rd1+ 32. Ke2 Ra1 33. Rc2 a5
+34. a4 Rh1 35. Na8 Rxh3 36. Nxb6 Rh1 37. Rc5 f5 38. Rc7 Kf8 39. Nc8 Ng6 40.
+exf5 exf5 41. Rc5 f4 42. Rxa5 Rb1 43. Rb5 g4 44. gxf4 Nxf4+ 45. Ke3 Ng2+ 46.
+Kd3 h5 47. Kc2 Rf1 48. Rf5+ Kg7 49. Rxh5 Rxf2+ 50. Kc3 Rf3+ 51. Kb4 g3 52. a5
+Nf4 53. Rg5+ Kf6 54. Rg4 Nd3+ 55. Ka3 Nc5 56. Kb4 Nd3+ 57. Ka3 Nc5 1/2-1/2
+
+
+[Event "Trophee CCAS KO"]
+[Site "Cap d'Agde FRA"]
+[Date "2008.10.30"]
+[Round "1.1"]
+[White "Nakamura, Hi"]
+[Black "Vachier Lagrave, M."]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2704"]
+[BlackElo "2716"]
+[PlyCount "90"]
+[EventDate "2008.10.29"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
+Rb1 O-O 9. Be2 Nc6 10. d5 Bxc3+ 11. Bd2 Bxd2+ 12. Qxd2 Na5 13. h4 Bg4 14. h5
+Bxf3 15. gxf3 e5 16. Qc3 Re8 17. Qxc5 b6 18. Qa3 Rc8 19. Bb5 Rf8 20. d6 Rc5 21.
+Qd3 Qg5 22. hxg6 hxg6 23. d7 Rd8 24. Rd1 a6 25. Bxa6 Nc6 26. Qe3 Nd4 27. Qxg5
+Nxf3+ 28. Kf1 Nxg5 29. Kg2 Nxe4 30. Bb7 Nf6 31. Bc8 Kf8 32. Rd6 Ke7 33. Rxb6
+Nxd7 34. Bxd7 Rxd7 35. Rh7 Rc2 36. a4 Ra2 37. a5 Rxa5 38. Rxg6 Ra4 39. Rg3 Ke6
+40. Rh6+ f6 41. Rf3 Rg7+ 42. Kh3 Rf7 43. Rg6 e4 44. Rb3 Ra5 45. f3 Kd5 1/2-1/2
+
+
+[Event "Trophee CCAS KO"]
+[Site "Cap d'Agde FRA"]
+[Date "2008.10.31"]
+[Round "2.2"]
+[White "Nakamura, Hi"]
+[Black "Karpov, Ana"]
+[Result "1/2-1/2"]
+[ECO "E05"]
+[WhiteElo "2704"]
+[BlackElo "2651"]
+[PlyCount "25"]
+[EventDate "2008.10.29"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 Bb7 12. Qc2 Be4 13. Qc1 1/2-1/2
+
+
+[Event "USCL KO 2008"]
+[Site "ICC INT"]
+[Date "2008.11.10"]
+[Round "1"]
+[White "Becerra Rivero, J."]
+[Black "Nakamura, Hi"]
+[Result "1-0"]
+[ECO "C95"]
+[WhiteElo "2602"]
+[BlackElo "2704"]
+[PlyCount "99"]
+[EventDate "2008.11.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15.
+Bg5 h6 16. Bd2 c5 17. d5 c4 18. b4 a5 19. a4 Qc7 20. Be3 axb4 21. cxb4 bxa4 22.
+Bxa4 c3 23. Qd3 Rec8 24. Bb5 Rxa1 25. Rxa1 Nb6 26. Ne1 Nbxd5 27. exd5 Nxd5 28.
+Nc2 Ra8 29. Rxa8 Bxa8 30. Bc4 Qb7 31. f3 Kg7 32. Bxd5 Qxd5 33. Qxd5 Bxd5 34.
+Ne2 Bb3 35. Na1 Bc4 36. Nxc3 d5 37. Bc5 Bxc5+ 38. bxc5 Kf6 39. Nc2 Ke6 40. Nb4
+d4 41. Nb1 f5 42. Na3 Bb3 43. Kf2 Ba4 44. Nc4 e4 45. f4 g5 46. g3 Bb5 47. Ne5
+h5 48. h4 gxf4 49. gxf4 Ba4 50. Ke1 1-0
+
+
+[Event "38th Olympiad"]
+[Site "Dresden GER"]
+[Date "2008.11.21"]
+[Round "8"]
+[White "Grischuk, A."]
+[Black "Nakamura, Hi"]
+[Result "1-0"]
+[ECO "E32"]
+[WhiteElo "2719"]
+[BlackElo "2704"]
+[PlyCount "151"]
+[EventDate "2008.11.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7 8.
+e3 d6 9. Ne2 Nbd7 10. Qc2 c5 11. Rd1 Qe7 12. Nc3 Rac8 13. d5 h6 14. Bh4 exd5
+15. cxd5 a6 16. a4 c4 17. Rd4 Ne5 18. Qd1 Rc5 19. Be2 g5 20. Bg3 b5 21. axb5
+axb5 22. O-O b4 23. Na4 Ra5 24. Nb6 c3 25. Bxe5 dxe5 26. d6 Qe8 27. d7 Qd8 28.
+Rxb4 cxb2 29. Rxb2 Qc7 30. Qb3 Be4 31. Rd1 Rd8 32. Bc4 Bg6 33. Rbd2 Kg7 34. h3
+Rc5 35. Qb4 Ne4 36. Rb2 Rc6 37. Nd5 Qd6 38. Bb5 Rxd7 39. Bxc6 Qxc6 40. Qb5 Qxb5
+41. Rxb5 h5 42. f3 Ng3 43. e4 Ne2+ 44. Kf2 Nf4 45. Ne3 Rxd1 46. Nxd1 g4 47.
+hxg4 hxg4 48. Ne3 gxf3 49. gxf3 f6 50. Nd5 Nh5 51. Ke3 Bf7 52. Rb1 Be6 53. Kd3
+f5 54. Rb7+ Kf8 55. Ke3 Ng3 56. Nf6 fxe4 57. fxe4 Nf1+ 58. Ke2 Bc4+ 59. Ke1 Ne3
+60. Kd2 Nf1+ 61. Ke1 Ne3 62. Nd7+ Ke8 63. Nxe5 Ba6 64. Ra7 Bc8 65. Kf2 Nd1+ 66.
+Kf3 Be6 67. Nc6 Kf8 68. Nd4 Bf7 69. Nf5 Bb3 70. Kf4 Nf2 71. Nd4 Bf7 72. e5 Nd3+
+73. Kf5 Nb4 74. Ne6+ Ke8 75. Nc7+ Kd8 76. Na6 1-0
+
+
+[Event "TCh-AUT 1st Bundesliga 2008-9"]
+[Site "St Veit AUT"]
+[Date "2008.11.08"]
+[Round "2"]
+[White "Nakamura, Hi"]
+[Black "Baklan, V."]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2704"]
+[BlackElo "2625"]
+[PlyCount "245"]
+[EventDate "2008.11.07"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 Bb7 6. Bg2 c5 7. d5 exd5 8. cxd5
+Nxd5 9. O-O Be7 10. Ne5 Qc7 11. Qe4 Nc6 12. Qxd5 Nd8 13. Qxd7+ Qxd7 14. Nxd7
+Bxg2 15. Kxg2 Kxd7 16. Rd1+ Kc6 17. Nc3 Re8 18. e4 Bf6 19. Bd2 Nb7 20. Rac1 Nd6
+21. f3 Nc4 22. Bf4 Rad8 23. Rxd8 Rxd8 24. b3 Bxc3 25. Rxc3 Na3 26. Rc1 a5 27.
+Kf2 Rd7 28. Ke3 f6 29. g4 b5 30. g5 b4 31. gxf6 gxf6 32. Bh6 Nb5 33. Rc2 Nc3
+34. Kf4 a4 35. bxa4 Nxa4 36. Kf5 Rd3 37. Rf2 c4 38. Kxf6 b3 39. axb3 cxb3 40.
+Bc1 Rd1 41. Bb2 Nc5 42. e5 Kd5 43. h4 h5 44. Re2 Rf1 45. Rd2+ Kc6 46. Kg6 Rxf3
+47. Kxh5 Nd3 48. Kg4 Re3 49. h5 Nxe5+ 50. Kf4 Rh3 51. Bxe5 Rxh5 52. Rd3 Rh4+
+53. Kf5 Rb4 54. Bb2 Rb8 55. Ke4 Kc5 56. Rd7 Rg8 57. Ba3+ Kc4 58. Rc7+ Kb5 59.
+Kd4 Rg2 60. Rb7+ Ka4 61. Ra7+ Kb5 62. Kc3 Rg3+ 63. Kb2 Re3 64. Bf8 Kc4 65. Rc7+
+Kd5 66. Bg7 Kd6 67. Ra7 Kc5 68. Bc3 Kc4 69. Ra4+ Kd5 70. Rd4+ Ke5 71. Rd8+ Ke4
+72. Kxb3 Rd3 73. Re8+ Kd5 74. Kb4 Rh3 75. Rd8+ Ke4 76. Kc4 Rh7 77. Bd4 Re7 78.
+Bc5 Re6 79. Rd1 Kf5 80. Bd6 Ke4 81. Re1+ Kf5 82. Rf1+ Ke4 83. Kc5 Rg6 84. Re1+
+Kf3 85. Kd5 Rg2 86. Be5 Rg4 87. Ra1 Re4 88. Rf1+ Ke2 89. Rh1 Rg4 90. Rh3 Kf2
+91. Bd4+ Kg2 92. Ra3 Rf4 93. Ke5 Rh4 94. Be3 Rc4 95. Bd4 Rc2 96. Ke4 Re2+ 97.
+Be3 Kf1 98. Ra8 Rg2 99. Kd3 Rg4 100. Ra2 Rg3 101. Rb2 Rf3 102. Rb8 Kg2 103. Ke2
+Rg3 104. Bf4 Rg6 105. Be5 Rg5 106. Re8 Kh3 107. Kf3 Rg3+ 108. Kf4 Kg2 109. Ra8
+Rf3+ 110. Ke4 Rf2 111. Bd4 Rf7 112. Rg8+ Kh3 113. Rg6 Rf8 114. Be3 Rf1 115. Rg7
+Kh4 116. Bf4 Kh3 117. Bg3 Kg2 118. Rg8 Kh1 119. Ke3 Rf7 120. Bf4 Rg7 121. Rh8+
+Kg2 122. Rh2+ Kg1 123. Kf3 1/2-1/2
+
+
+[Event "TCh-AUT 1st Bundesliga 2008-9"]
+[Site "St Veit AUT"]
+[Date "2008.11.09"]
+[Round "3"]
+[White "Pavasovic, D."]
+[Black "Nakamura, Hi"]
+[Result "1-0"]
+[ECO "B03"]
+[WhiteElo "2597"]
+[BlackElo "2704"]
+[PlyCount "107"]
+[EventDate "2008.11.07"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nc3
+e6 9. Nf3 Bg4 10. Be2 Bxf3 11. gxf3 Qh4+ 12. Bf2 Qf4 13. c5 Nd5 14. Nxd5 exd5
+15. Qd2 Qxd2+ 16. Kxd2 g6 17. Be3 h5 18. Bb5 Ke7 19. Bg5+ Ke6 20. Kc3 h4 21. h3
+Ne7 22. f4 Nf5 23. Be2 b6 24. b4 a5 25. a3 Be7 26. Bg4 Bxg5 27. fxg5 Ke7 28.
+Bf3 Rhd8 29. Rhb1 Ra7 30. Kd3 Rb8 31. b5 bxc5 32. dxc5 a4 33. Rb4 Ra5 34. Rab1
+Rd8 35. Bd1 c6 36. b6 Rxc5 37. Rxa4 Rb8 38. Ra7+ Ke6 39. a4 Kxe5 40. a5 d4 41.
+a6 Rc3+ 42. Kd2 Ra3 43. Rb7 Ra2+ 44. Kd3 Rc8 45. a7 c5 46. Bb3 Rh2 47. Rb8 c4+
+48. Bxc4 Rxh3+ 49. Kd2 Rxc4 50. Re8+ Kf4 51. a8=Q d3 52. Rf1+ Kxg5 53. Qd8+ f6
+54. Rxf5+ 1-0

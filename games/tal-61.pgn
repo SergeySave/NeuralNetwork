@@ -1,0 +1,594 @@
+[Event "Ch URS"]
+[Site "Leningrad (Russia)"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Dzindzichashvili Roman (USA)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1/2-1/2"]
+[ECO "A11"]
+[WhiteElo "2480"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "39 Ch"]
+
+1.c4 Nf6 2.g3 c6 3.Nf3 d5 4.Qc2 g6 5.Bg2 Bg7 6.O-O O-O 7.d3 Re8
+8.Bf4 Na6 9.Be5 Bd7 10.Nbd2 Rc8 11.a3 dxc4 12.Nxc4 c5 13.Bc3
+Qc7 14.Be5 Qd8 15.Bc3 Qc7 16.Ng5 Bc6 17.Bxc6 bxc6 18.Be5 Qb7
+19.e4 Nc7 20.f4 Red8 21.Bxc7 Rxc7 22.Ne5 e6 23.Nc4 h6 24.Nf3
+Rcd7 25.Nfe5 Rc7 26.Rad1 Qb8 27.Rd2 Nd7 28.Nf3 Nb6 29.e5 Nxc4
+30.dxc4 Rxd2 31.Qxd2 Rb7 32.Rf2 Bf8 33.h4 Qe8 34.Kf1 Rd7 35.Qc2
+Qd8 36.Rd2 Rxd2 37.Qxd2 Qb6 38.Qc3 Be7 39.Ke2 Qd8 40.Qd2 Qb8
+41.Qc2 h5 42.Nd2 Kf8 43.Qc3 Qd8 44.Qd3 Qc7 45.Kd1 Qb6 46.Kc2
+Qc7 47.Ne4 Kg7 48.Kb3 Qb6+ 49.Ka2 Qc7 50.Qd1 Kf8 51.Qd2 Kg7 52.Qe3
+Qb6 53.Nd6 Kg8 54.Qf2 Kf8 55.Qe3 Kg8 56.Kb1 Qa5 57.Ne4 Qd8 58.Qd2
+Qc7 59.Nf6+ Bxf6 60.exf6 Kf8 61.Ka2 Ke8 62.Kb3 Qd8 63.Qe3 Qd6
+64.Kc2 a6 65.Qb3 e5 66.Qe3 Qxf6 67.fxe5 Qe7 68.Kb3 Kd7 69.Ka4
+Kc8 70.Qe4 Qd7 71.b3 Kb7 72.Qf4 Kb6 73.Qh6 Qd8 74.Qe3 1/2-1/2
+
+
+[Event "Ch URS"]
+[Site "Leningrad (Russia)"]
+[Date "1971.??.??"]
+[Round "18"]
+[White "Geller Efim P (RUS)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "0-1"]
+[ECO "B49"]
+[WhiteElo "2455"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "39 Ch"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be2 Nf6 7.Be3
+a6 8.O-O Bb4 9.Na4 O-O 10.Nxc6 bxc6 11.Nb6 Rb8 12.Nxc8 Rfxc8
+13.Bxa6 Re8 14.Bd3 Bd6 15.g4 h6 16.Kh1 Be5 17.Rb1 Bxb2 18.Rg1
+Be5 19.Rxb8 Rxb8 20.h4 Bh2 21.Rg2 Bf4 22.g5 hxg5 23.hxg5 Nh7
+24.Qc1 Bxe3 25.Qxe3 Rb1+ 26.Rg1 Rxg1+ 27.Kxg1 Qa5 28.e5 Qxa2
+29.f4 Nf8 30.Kf2 Qa1 31.Qc5 Qc1 32.Qd4 Qd2+ 33.Kg1 Ng6 34.Qxd7
+Qc1+ 35.Kg2 Qxf4 36.Qe8+ Kh7 37.Qxc6 Qxg5+ 38.Kf1 Qf4+ 39.Kg1
+Qxe5 40.Bxg6+ Kxg6 41.c4 Qd4+ 42.Kf1 Qd1+ 43.Kf2 Kf6 44.c5 g5
+45.Qc8 Qd2+ 46.Kf1 Qd3+ 47.Kf2 g4 48.c6 Qf3+ 49.Kg1 Qe3+ 50.Kg2
+Qe2+ 51.Kg1 g3 52.Qh8+ Ke7 53.Qh4+ Kd6 54.Qd8+ Kxc6 55.Qc8+ Kd5
+56.Qd8+ Ke4 57.Qh4+ Kf5 58.Qh7+ Ke5 0-1
+
+
+[Event "Ch URS"]
+[Site "Leningrad (Russia)"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Nikolaevsky Yuri V (RUS)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "0-1"]
+[ECO "A16"]
+[WhiteElo "2490"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "39 Ch"]
+
+1.c4 g6 2.Nc3 Bg7 3.g3 Nf6 4.Bg2 O-O 5.d3 d6 6.Rb1 e5 7.e4 Nc6
+8.Nge2 Nh5 9.O-O f5 10.exf5 gxf5 11.f4 Ne7 12.d4 e4 13.d5 c5
+14.dxc6 bxc6 15.Nd4 Nf6 16.h3 c5 17.Nde2 d5 18.cxd5 Nexd5 19.Qa4
+Qb6 20.g4 Nxc3 21.Nxc3 fxg4 22.Nxe4 Nxe4 23.Bxe4 Bd4+ 24.Kh2
+g3+ 25.Kxg3 Kh8 26.b4 Qe6 0-1
+
+
+[Event "Ch URS"]
+[Site "Leningrad (Russia)"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Polugaevsky Lev A (RUS)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1-0"]
+[ECO "A49"]
+[WhiteElo "2640"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "39 Ch"]
+
+1.Nf3 Nf6 2.g3 g6 3.b3 Bg7 4.Bb2 d6 5.d4 O-O 6.Bg2 e5 7.dxe5
+Ng4 8.h3 Nxe5 9.Nxe5 Bxe5 10.Bxe5 dxe5 11.Qxd8 Rxd8 12.Nd2 Nd7
+13.O-O-O Re8 14.Ne4 Kg7 15.g4 h6 16.Rd3 Nf6 17.Nxf6 Kxf6 18.Rhd1
+c6 19.Rf3+ Kg7 20.Re3 g5 21.a4 Kf6 22.a5 a6 23.Kb2 Be6 24.Kc3
+Rac8 25.Kb4 h5 26.Bf3 hxg4 27.hxg4 Rcd8 28.Rxd8 Rxd8 29.Kc5 Rd4
+30.c4 Bxg4 31.Bxg4 Rxg4 32.Kb6 Rf4 33.f3 e4 34.Kxb7 Ke5 35.Kxa6
+Kd4 36.Rxe4+ Rxe4 37.fxe4 g4 38.Kb7 g3 39.a6 g2 40.a7 g1Q 41.a8Q
+c5 42.Kb6 Kc3 43.Qd5 Qg8 44.Kxc5 Kxb3 45.Qd3+ Kb2 46.Qd6 Kb3
+47.Qb6+ Kc2 48.Kb5 Qg4 49.Qd4 Qxe2 50.Kb6 Qh2 51.e5 Kb3 52.c5
+f6 53.c6 fxe5 54.Qd5+ Ka4 55.Qb5+ Ka3 56.c7 1-0
+
+
+[Event "Ch URS"]
+[Site "Leningrad (Russia)"]
+[Date "1971.??.??"]
+[Round "20"]
+[White "Stein Leonid Z (UKR)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1-0"]
+[ECO "E06"]
+[WhiteElo "2605"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "39 Ch"]
+
+1.c4 Nf6 2.g3 e6 3.Bg2 d5 4.Nf3 Be7 5.O-O O-O 6.d4 c6 7.Qc2 b6
+8.Rd1 Bb7 9.Nc3 Nbd7 10.b3 Rc8 11.e4 c5 12.exd5 exd5 13.dxc5
+dxc4 14.b4 bxc5 15.b5 Qb6 16.Bf4 Rfd8 17.a4 Qa5 18.Nd2 Bxg2 19.Nxc4
+Qb4 20.Na2 Be4 21.Nxb4 Bxc2 22.Nxc2 Nb6 23.Rxd8+ Bxd8 24.N2e3
+Nxc4 25.Nxc4 Nd5 26.Rd1 Nb6 27.Nd6 Ra8 28.a5 Na4 29.Nc4 Nc3 30.Re1
+Bxa5 31.Nxa5 Nxb5 32.Re5 Nd4 33.Rxc5 1-0
+
+
+[Event "Ch URS"]
+[Site "Leningrad (Russia)"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Tseitlin Mark D (ISR)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "0-1"]
+[ECO "B48"]
+[WhiteElo "2475"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "39 Ch"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 Nf6 7.Bd3
+a6 8.O-O b5 9.Nxc6 Qxc6 10.a3 Bb7 11.f4 Be7 12.Qf3 O-O 13.Qh3
+d5 14.e5 Ne4 15.Ne2 Bc5 16.Nd4 Qc7 17.c3 Qe7 18.Rae1 Rae8 19.f5
+exf5 20.Nxf5 Bxe3+ 21.Rxe3 Qxe5 22.Qh5 Bc8 23.Bxe4 dxe4 24.Rh3
+h6 25.Nxh6+ gxh6 26.Rg3+ Kh7 27.Rxf7+ Rxf7 28.Qxf7+ Kh8 29.Rg6
+Qc5+ 30.Kf1 Qf5+ 31.Qxf5 Bxf5 32.Rxh6+ Kg7 33.Rxa6 e3 34.Ke1
+Bd3 35.Rd6 Bc4 36.Rd7+ Kg8 37.Rd4 Rf8 38.Rxc4 bxc4 39.Ke2 Re8
+40.a4 Kf7 0-1
+
+
+[Event "Ch URS"]
+[Site "Leningrad (Russia)"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Tukmakov Vladimir B (UKR)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "0-1"]
+[ECO "A75"]
+[WhiteElo "2565"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "39 Ch"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.e4 Bg7
+8.Be2 O-O 9.O-O a6 10.a4 Bg4 11.Bf4 Re8 12.Qc2 Qc7 13.b3 Nbd7
+14.Rfe1 Rab8 15.a5 Rbc8 16.Bd2 c4 17.bxc4 Nc5 18.h3 Bd7 19.Be3
+Nfxe4 20.Bd4 Bxd4 21.Nxd4 Qd8 22.Bg4 Nxc3 23.Qxc3 Qf6 24.Bxd7
+Nxd7 25.Rxe8+ Rxe8 26.Rd1 Re7 27.Qd2 h5 28.f3 Re8 29.Nb3 Qe7
+30.Rb1 Qe5 31.Qf2 Qf5 32.Nd2 Qc2 33.Re1 Rxe1+ 34.Qxe1 Ne5 35.Qe2
+Kg7 36.Qe3 Nxc4 37.Qd4+ Ne5 38.f4 Qd3 39.Qb2 Qe3+ 0-1
+
+
+[Event "Ch URS"]
+[Site "Leningrad (Russia)"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Vaganian Rafael A (ARM)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "0-1"]
+[ECO "A72"]
+[WhiteElo "2510"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "39 Ch"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 exd5 5.cxd5 g6 6.Nc3 Bg7 7.Bf4
+a6 8.e4 O-O 9.Be2 d6 10.a4 Bg4 11.h3 Bxf3 12.Bxf3 Qc7 13.O-O
+Nbd7 14.a5 Rfe8 15.Qd2 Rac8 16.g4 Re7 17.Rfe1 Ne8 18.Bg2 Rb8
+19.Bg5 Bf6 20.Bxf6 Nexf6 21.f4 c4 22.Kh1 Ne8 23.Ra4 b5 24.axb6
+Rxb6 25.Rea1 Qb8 26.R1a2 Nc5 27.Rxc4 Reb7 28.e5 Rxb2 29.Rxb2
+Rxb2 30.Qd4 Rc2 31.exd6 Qb2 32.d7 Nxd7 33.Rc8 Rxg2 0-1
+
+
+[Event "Memorial A.Alekhine"]
+[Site "Moscow (Russia)"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Olafsson Fridrik (ISL)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1-0"]
+[ECO "A32"]
+[WhiteElo "2570"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 c5 3.Nf3 cxd4 4.Nxd4 e6 5.Nc3 Bb4 6.Ndb5 O-O 7.a3
+Bxc3+ 8.Nxc3 d5 9.Bg5 h6 10.Bxf6 Qxf6 11.e3 Rd8 12.cxd5 exd5
+13.Qd4 Qg5 14.h4 Qf5 15.Bd3 Qe6 16.O-O-O Nc6 17.Qf4 d4 18.exd4
+Rxd4 19.Qc7 Bd7 20.Rhe1 Qf6 21.Re4 Rc8 22.Qxc8+ 1-0
+
+
+[Event "Memorial A.Alekhine"]
+[Site "Moscow (Russia)"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Tal Mikhail (LAT)"]
+[Black "Karpov Anatoly (RUS)"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[WhiteElo "0"]
+[BlackElo "2540"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Be7 5.Bg2 Bb7 6.O-O O-O 7.Nc3
+Ne4 8.Bd2 d5 9.cxd5 exd5 10.Ne5 Nd7 11.Nd3 a5 12.Rc1 Ndf6 13.Bf4
+c6 14.Ne5 c5 15.dxc5 Nxc3 16.bxc3 Bxc5 17.Bg5 Re8 18.Ng4 Be7
+19.Bxf6 Bxf6 20.c4 Be7 21.Ne3 Bg5 22.Qd3 d4 23.Bxb7 dxe3 24.Bxa8
+exf2+ 25.Kxf2 Be3+ 26.Qxe3 Rxe3 27.Kxe3 Qxa8 28.Rfd1 Qc8 29.Rd5
+h6 30.h4 Qg4 31.Kf2 Qe6 32.Rc3 Qh3 33.Kg1 Qg4 34.Kf2 Qh3 35.a3
+Qh2+ 36.Ke1 Qh1+ 37.Kd2 Qe4 38.Ke1 g6 39.Kf2 Kg7 40.Ke1 Qb1+
+41.Kf2 Qe4 42.Ke1 Qb1+ 43.Rd1 Qe4 44.Rdd3 Qc6 45.Kd2 g5 46.hxg5
+hxg5 47.Rb3 Kg6 48.Rb5 f6 49.Rd4 Kh5 50.Rh4+ Kg6 51.Rd4 Kh5 52.Rb3
+Qc5 53.Rbd3 b5 54.cxb5 Qxb5 55.Rd5 Qb6 56.Rd6 Qb1 57.R6d5 Qb6
+58.R5d4 Qb1 59.Rd6 Kg4 60.Rf3 Qb2+ 61.Ke1 Qc1+ 62.Rd1 Qc5 63.Kf1
+Qe5 64.Rd8 Qa1+ 65.Kf2 Qe5 66.Rfd3 Qf5+ 67.Kg1 Qe5 68.R8d4+ Kh3
+69.Kf1 Qf5+ 70.Kg1 Qe5 71.Kf2 Qf5+ 72.Rf3 Qe5 73.Rc4 Qd5 74.Rfc3
+Qf5+ 75.Rf3 Qd5 76.g4+ Kh4 77.Rfc3 Qe5 78.Rd3 Qh2+ 79.Kf1 Qh1+
+80.Kf2 Qh2+ 81.Ke1 Qe5 82.Rf3 Qd5 83.Rfc3 Qe5 84.Rd3 Qe6 85.Ra4
+Qe5 86.Rad4 Qe7 87.Kf2 Qe5 88.Kf1 Qh2 89.Re3 Qh1+ 90.Kf2 Qa1
+91.Rde4 Qb1 92.Rd3 Qb2 93.Ke1 Qc1+ 94.Kf2 Qh1 95.Rde3 Qh2+ 96.Ke1
+Qh1+ 97.Kd2 Qb1 98.Kc3 Qb6 99.Kc2 Qc6+ 100.Kd1 Qb7 101.Ke1 Qb1+
+102.Kf2 Qh1 103.Rc4 1/2-1/2
+
+
+[Event "Memorial A.Alekhine"]
+[Site "Moscow (Russia)"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Tal Mikhail (LAT)"]
+[Black "Smyslov Vassily (RUS)"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "0"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.Qe2 Nd6 7.Bxc6
+bxc6 8.dxe5 Nb7 9.c4 O-O 10.Nc3 Nc5 11.b3 f6 12.Bb2 fxe5 13.Nxe5
+Qe8 14.Rae1 Ne6 15.Nd3 Qg6 16.f4 d6 17.Kh1 Bh4 18.g3 Nd4 19.Qe4
+Bf6 20.Qxg6 hxg6 21.Ne4 c5 22.Nxf6+ gxf6 1/2-1/2
+
+
+[Event "Memorial A.Alekhine"]
+[Site "Moscow (Russia)"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Tal Mikhail (LAT)"]
+[Black "Tukmakov Vladimir B (UKR)"]
+[Result "1/2-1/2"]
+[ECO "C94"]
+[WhiteElo "0"]
+[BlackElo "2565"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.c3 d6 9.h3 Nb8 10.d3 c5 11.Nbd2 Nc6 12.Nf1 h6 13.d4 Bd7
+14.dxc5 dxc5 15.Ne3 c4 16.Bc2 Be6 17.Qe2 Qc7 18.g4 Bc5 19.g5
+hxg5 20.Nxg5 Rad8 21.Kh1 Bxe3 22.Qxe3 Bc8 23.b3 cxb3 24.Bxb3
+Na5 25.Bd1 Nc4 26.Qg3 g6 27.a4 Kg7 28.axb5 axb5 29.f4 Bb7 30.fxe5
+Qxe5 31.Qxe5 Nxe5 32.Ra7 Rd7 33.Be3 Rc8 34.Bd4 Nc6 35.Bg4 Nxa7
+36.Bxd7 Rc7 37.Bxa7 Nxd7 38.Bd4+ Kg8 39.Rf1 Nc5 40.Kh2 Nxe4 41.Re1
+f5 42.Nxe4 Bxe4 43.Kg3 1/2-1/2
+
+
+[Event "It"]
+[Site "Parnu (Estonia)"]
+[Date "1971.??.??"]
+[Round "8"]
+[White "Oim Tonu (EST)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "0-1"]
+[ECO "A56"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 c5 3.d5 g6 4.Nc3 Bg7 5.Nf3 O-O 6.Bg5 h6 7.Bh4 d6
+8.e3 a6 9.a4 Qb6 10.Ra3 g5 11.Bg3 Nh5 12.Nd2 Nxg3 13.hxg3 Nd7
+14.Bd3 Ne5 15.Bb1 f5 16.Qc2 Bd7 17.Nd1 Qb4 18.a5 b5 19.axb6 Qxb6
+20.f3 Rab8 21.g4 Rf6 22.Rb3 Qc7 23.gxf5 Bxf5 24.Ne4 Rf7 25.O-O
+Bg6 26.Ndf2 Rbf8 27.Qe2 Qd7 28.Nd2 Bxb1 29.Rxb1 h5 30.Ra1 Ra8
+31.Nde4 Bh6 32.Rb6 a5 33.Nxc5 Qc7 34.Na4 Qxc4 35.Qxc4 Nxc4 36.Rb3
+Rff8 37.Rc1 Ne5 38.Rb7 Rfc8 39.Rcc7 Rxc7 40.Rxc7 Kf8 41.Ne4 h4
+42.Nac3 Rb8 43.Ne2 g4 44.f4 Rxb2 45.Nd4 g3 46.Kf1 Ng4 47.Nf5
+Rb4 48.Ng5 Nxe3+ 49.Nxe3 Rxf4+ 50.Nf3 h3 51.Rc8+ Kg7 0-1
+
+
+[Event "It"]
+[Site "Parnu (Estonia)"]
+[Date "1971.??.??"]
+[Round "2"]
+[White "Tal Mikhail (LAT)"]
+[Black "Lutikov Anatoly S (RUS)"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[WhiteElo "0"]
+[BlackElo "2540"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Bg5 Bb7 5.e3 h6 6.Bh4 Be7 7.Bd3 Ne4
+8.Bxe7 Qxe7 9.Qc2 Ng5 10.Nbd2 c5 11.O-O-O cxd4 12.Nxd4 Na6 13.f4
+Nb4 14.Qb1 Nxd3+ 15.Qxd3 Nh7 16.Nb5 d5 17.cxd5 exd5 18.e4 O-O
+19.e5 f6 20.Qe3 fxe5 21.fxe5 Nf6 22.Qd4 Nd7 23.Rhe1 Nc5 24.Kb1
+Ne6 1/2-1/2
+
+
+[Event "It"]
+[Site "Parnu (Estonia)"]
+[Date "1971.??.??"]
+[Round "13"]
+[White "Tal Mikhail (LAT)"]
+[Black "Nei Iivo (EST)"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[WhiteElo "0"]
+[BlackElo "2495"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 c6 2.e4 e5 3.d4 Bb4+ 4.Bd2 Bxd2+ 5.Qxd2 d6 6.Nc3 Nf6 7.f4
+O-O 8.Nf3 exd4 9.Qxd4 c5 10.Qd2 Nc6 11.O-O-O Bg4 12.h3 Bxf3 13.gxf3
+Nd4 14.Nb5 Nxf3 15.Qe3 Nd4 16.e5 dxe5 17.fxe5 Re8 18.Rg1 Nd7
+19.Nxd4 cxd4 20.Rxd4 Qe7 21.e6 Nf6 22.exf7+ Qxf7 23.Qf2 Rad8
+24.Bd3 b6 25.Bc2 Rxd4 26.Qxd4 Qe7 27.Rd1 Qe3+ 28.Qxe3 Rxe3 29.Rd8+
+Re8 30.Rxe8+ Nxe8 31.Kd2 Kf7 32.Kc3 h6 33.c5 Nc7 34.Kc4 Ke6 35.a4
+Ke5 36.Bd1 g6 37.b4 g5 38.Bg4 Ke4 39.cxb6 axb6 40.a5 bxa5 41.bxa5
+Ke5 1/2-1/2
+
+
+[Event "It"]
+[Site "Parnu (Estonia)"]
+[Date "1971.??.??"]
+[Round "4"]
+[White "Tarve Udo (EST)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "0-1"]
+[ECO "B24"]
+[WhiteElo "2380"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 Rb8 6.f4 b5 7.a3 a5
+8.Nf3 b4 9.axb4 axb4 10.Ne2 d6 11.O-O Nh6 12.h3 f5 13.Ng5 Qd7
+14.Kh2 O-O 15.exf5 Nxf5 16.Bd5+ Kh8 17.g4 Nfd4 18.Nxd4 Nxd4 19.Be3
+Bb7 20.Ra7 Nc6 21.Rxb7 Rxb7 22.Qf3 Nd8 23.Bxb7 Qxb7 24.Qxb7 Nxb7
+25.Ne6 Ra8 26.Nxg7 Kxg7 27.b3 Ra2 28.Rf2 Na5 29.Kg3 Nc6 30.Kf3
+Kf6 31.Ke4 e6 32.Kf3 Ra1 33.Re2 Rb1 34.Bf2 Rd1 35.Bh4+ Kf7 36.Bf2
+h6 37.Kg2 Na7 38.Be3 Nb5 39.Kf2 Ra1 40.Kf3 Rb1 41.Rf2 Rb2 42.Ke4
+Na3 43.f5 Rxc2 44.Rxc2 Nxc2 45.Bxh6 gxf5+ 46.gxf5 Nd4 47.fxe6+
+Kxe6 48.h4 d5+ 49.Kf4 Nxb3 50.Ke3 Nd4 51.Kd2 Nf3+ 52.Kc2 Ne1+
+53.Kd2 Nf3+ 54.Kc2 d4 55.h5 Ne1+ 56.Kb1 Nxd3 57.Bg7 b3 58.h6
+Kf7 59.Ka1 Kg6 60.Kb1 c4 61.Bxd4 Kxh6 62.Bc3 Kg5 0-1
+
+
+[Event "It"]
+[Site "Parnu (Estonia)"]
+[Date "1971.??.??"]
+[Round "1"]
+[White "Vark K"]
+[Black "Tal Mikhail (LAT)"]
+[Result "0-1"]
+[ECO "A67"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7
+8.Bb5+ Nfd7 9.Bd3 Qh4+ 10.g3 Qe7 11.Qe2 Na6 12.Nf3 O-O 13.Kf2
+Re8 14.Be3 Nb4 15.Bc4 f5 16.a3 fxe4 17.Ng5 Nd3+ 18.Kg2 Nf6 19.Ba2
+Bg4 20.Qd2 h6 21.h3 hxg5 22.hxg4 Nxg4 23.Bg1 gxf4 24.gxf4 Rf8
+25.Rf1 Bh6 26.Ne2 Bxf4 27.Nxf4 Qg5 28.Rh3 Rxf4 29.Rg3 Raf8 30.Bc4
+Rf2+ 31.Rxf2 Rxf2+ 32.Qxf2 Ndxf2 33.Bxf2 Qf4 34.Bg1 Qd2+ 35.Kh3
+Ne5 36.b3 Qc1 37.Be2 Kg7 38.Kg2 Qd2 39.Re3 b5 40.Kg3 c4 41.bxc4
+bxc4 42.Rxe4 c3 43.Be3 Qe1+ 44.Bf2 Qxf2+ 0-1
+
+
+[Event "Ch URS (team)"]
+[Site "Rostov on Don (Russia)"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Reshko Aron G (RUS)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "0-1"]
+[ECO "A54"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 d6 4.d4 Qe7 5.Bg5 c6 6.e3 Nbd7 7.Be2
+g6 8.Ne4 h6 9.c5 dxc5 10.dxe5 hxg5 11.Nd6+ Kd8 12.Nxg5 Nxe5 13.Ndxf7+
+Kc7 14.Nxe5 Qxe5 15.Nf7 Qe8 16.Nxh8 Bd6 17.Qb3 Qxh8 18.O-O-O
+Qe8 19.Bc4 Qe7 20.Qc2 Bd7 21.Qxg6 b5 22.Bb3 c4 23.Rxd6 Qxd6 24.Rd1
+Qe5 25.Bc2 Rg8 26.Qf7 Rxg2 27.h4 c3 28.Kb1 cxb2 29.e4 Kb6 30.Rxd7
+Rg1+ 31.Bd1 Nxd7 32.Qxd7 Qc3 33.Qd8+ Ka6 34.Qc8+ Ka5 35.Qd8+
+Kb4 36.Qe7+ c5 37.a3+ Qxa3 0-1
+
+
+[Event "It"]
+[Site "Tallinn (Estonia)"]
+[Date "1971.??.??"]
+[Round "4"]
+[White "Barcza Gedeon (HUN)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2490"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.Nf3 g6 2.g3 Bg7 3.Bg2 d6 4.d3 e5 5.e4 Nc6 6.Nc3 Nge7 7.Be3
+O-O 8.Qd2 Nd4 9.Ne2 Bh3 10.Nfxd4 Bxg2 11.Rg1 exd4 12.Nxd4 c5
+13.Nb5 Bf3 14.g4 d5 15.Bxc5 Rc8 16.Ba3 dxe4 17.dxe4 Qb6 18.Bxe7
+Qxb5 19.Bxf8 Qxb2 20.Bxg7 Kxg7 21.Rc1 Rd8 22.Qe3 Qxc2 23.Kf1
+Rd1+ 0-1
+
+
+[Event "It"]
+[Site "Tallinn (Estonia)"]
+[Date "1971.??.??"]
+[Round "15"]
+[White "Daskalov Georgi (BUL)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "2355"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 g6 2.d4 d6 3.Nc3 Bg7 4.Be3 Nd7 5.Qd2 c6 6.h4 Qa5 7.Nh3 b5
+8.Bd3 Rb8 9.Nf4 Ngf6 10.f3 e5 11.dxe5 dxe5 12.Nh3 O-O 13.O-O
+Nb6 14.Kh2 Qb4 15.a3 Qe7 16.Bg5 Rd8 17.Rad1 h6 18.Bxh6 Nc4 19.Qc1
+Bxh6 20.Qxh6 Nxb2 21.Rd2 Bxh3 22.gxh3 Qf8 23.Qg5 Nh7 24.Qxe5
+Nc4 25.Qf4 Nxd2 26.Qxd2 c5 27.Nd5 Qd6+ 28.f4 c4 29.Be2 Nf6 30.Bf3
+Nxd5 31.exd5 Qf6 32.h5 c3 33.Qc1 Re8 34.Rg1 Kh7 35.Rg5 Qd4 36.hxg6+
+fxg6 37.f5 Qf2+ 38.Bg2 Re1 0-1
+
+
+[Event "It"]
+[Site "Tallinn (Estonia)"]
+[Date "1971.??.??"]
+[Round "9"]
+[White "Furman Semen (RUS)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "1-0"]
+[ECO "A61"]
+[WhiteElo "2550"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.Bg5
+h6 8.Bh4 g5 9.Bg3 Nh5 10.e3 Nxg3 11.hxg3 Bg7 12.Bd3 Nd7 13.Qc2
+a6 14.a4 Rb8 15.O-O O-O 16.Rab1 Qc7 17.Rfc1 Re8 18.b4 cxb4 19.Rxb4
+Nc5 20.Bh7+ Kf8 21.Nd4 Bd7 22.Bf5 Rbc8 23.Rc4 Kg8 24.g4 Qa5 25.Nce2
+Rcd8 26.Bxd7 Nxd7 27.Nf5 Nf6 28.Rc7 Qxd5 29.Ne7+ Rxe7 30.Rxe7
+Bf8 31.Rc7 Nxg4 32.Nd4 b5 33.axb5 axb5 34.Qe2 Qe4 35.Nxb5 h5
+36.Qf3 Qxf3 37.gxf3 Ne5 38.Nd4 Rb8 39.Rc8 Rxc8 40.Rxc8 Kg7 41.Kg2
+Ng6 42.Ra8 Kf6 43.Ra5 Be7 44.Rf5+ Kg7 45.Rd5 Kf6 46.Kg3 h4+ 47.Kg2
+Nf8 48.f4 gxf4 49.Rf5+ Kg6 50.Rxf4 Ne6 51.Rg4+ Kf6 52.Rxh4 Nxd4
+53.Rxd4 Ke5 54.Kf3 d5 55.Ke2 Ke6 56.Kd3 Bf6 57.Ra4 Be5 58.Ra6+
+Ke7 59.Kc2 Bf6 60.Kd2 Be5 61.Kd3 Bf6 62.Ke2 Be5 63.Kf3 Bc3 64.Rc6
+Bb4 65.Kf4 Be1 66.f3 Kd7 67.Rc1 Bb4 68.Kf5 1-0
+
+
+[Event "It"]
+[Site "Tallinn (Estonia)"]
+[Date "1971.??.??"]
+[Round "13"]
+[White "Nei Iivo (EST)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "0-1"]
+[ECO "E74"]
+[WhiteElo "2495"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 c5 3.d5 g6 4.Nc3 Bg7 5.Nf3 O-O 6.e4 d6 7.Bf4 a6
+8.a4 Qa5 9.Bd2 e6 10.Be2 exd5 11.cxd5 Re8 12.O-O Bg4 13.Re1 Qc7
+14.Qc2 Nbd7 15.Rad1 Rab8 16.b3 Bxf3 17.gxf3 c4 18.bxc4 Ne5 19.Nb1
+Rbc8 20.Na3 Qd7 21.f4 Neg4 22.f3 Nxe4 23.fxg4 Bd4+ 24.Kg2 Nf2
+25.Bc1 Bc5 26.h3 Qe7 27.Bf3 Qh4 28.Rh1 Nxh1 29.Rxh1 Re1 30.Rxe1
+Qxe1 31.h4 Re8 0-1
+
+
+[Event "It"]
+[Site "Tallinn (Estonia)"]
+[Date "1971.??.??"]
+[Round "8"]
+[White "Tal Mikhail (LAT)"]
+[Black "Bronstein David I (RUS)"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[WhiteElo "0"]
+[BlackElo "2590"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.e3 Bb4+ 5.Nbd2 O-O 6.Bd3 d5 7.O-O
+Bb7 8.Qc2 Be7 9.b3 c5 10.dxc5 Na6 11.cxb6 Nb4 12.Qb1 Nxd3 13.Qxd3
+axb6 14.Qe2 dxc4 15.Nxc4 b5 16.Nce5 Nd5 17.Bb2 f6 18.Qxb5 Ba6
+19.Qc6 Qc8 20.Qxc8 Rfxc8 1/2-1/2
+
+
+[Event "It"]
+[Site "Tallinn (Estonia)"]
+[Date "1971.??.??"]
+[Round "12"]
+[White "Tal Mikhail (LAT)"]
+[Black "Stein Leonid Z (UKR)"]
+[Result "1/2-1/2"]
+[ECO "C95"]
+[WhiteElo "0"]
+[BlackElo "2605"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Nb8 10.d4 Nbd7 11.Bg5 h6 12.Bh4 Bb7 13.Nbd2
+Re8 14.a4 c5 15.dxe5 Nxe5 16.Qe2 Nxf3+ 17.Qxf3 c4 18.Bc2 Nd7
+19.Bxe7 Qxe7 20.Qe3 Nc5 21.axb5 axb5 22.Rxa8 Rxa8 23.e5 Rd8 24.exd6 1/2-1/2
+
+
+[Event ""]
+[Site "URS"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Tal Mikhail (LAT)"]
+[Black "Stein Leonid Z (UKR)"]
+[Result "1/2-1/2"]
+[ECO "A75"]
+[WhiteElo "0"]
+[BlackElo "2605"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 g6 2.Nc3 Bg7 3.d4 c5 4.d5 d6 5.Nf3 Nf6 6.e4 O-O 7.Be2 e6
+8.O-O exd5 9.cxd5 a6 10.a4 Bg4 11.Bf4 Re8 12.Qc2 Qc7 13.Rfe1
+Nbd7 14.a5 Rab8 15.h3 Bxf3 16.Bxf3 b5 17.axb6 Rxb6 18.Ra2 Reb8
+19.Be2 a5 20.Rea1 Rb4 21.Bc1 Re8 22.Rxa5 Nxe4 23.Ra8 Nef6 24.R1a7
+Rb7 25.Qa4 Rxa7 26.Rxa7 Qb8 27.Qa6 Qb3 28.Rb7 Qc2 29.Bf4 Bf8
+30.Bxd6 Bxd6 31.Qxd6 Rxe2 32.Nxe2 Qxe2 33.Rxd7 Nxd7 34.Qxd7 Qe1+
+35.Kh2 Qxf2 36.Qe8+ Kg7 37.Qe5+ Qf6 38.Qc3 Qxc3 39.bxc3 c4 40.Kg3
+f5 41.Kf4 Kf6 42.d6 Ke6 43.Ke3 Kxd6 44.Kd4 g5 45.Kxc4 h5 46.Kd4
+h4 1/2-1/2

@@ -1,0 +1,110 @@
+[Event "It"]
+[Site "Riga (Latvia)"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Parnas A"]
+[Black "Tal Mikhail (LAT)"]
+[Result "0-1"]
+[ECO "C91"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.d4 d6 9.c3 Bg4 10.Be3 Qe8 11.Nbd2 Na5 12.Bc2 c5 13.h3 Bxf3
+14.Qxf3 exd4 15.cxd4 Nc6 16.Rad1 cxd4 17.Bg5 Ne5 18.Qg3 Nh5 19.Qh4
+f6 20.g4 fxg5 21.Qxh5 g6 22.Qh6 Nf7 23.Bb3 Kh8 24.Bxf7 Qxf7 25.Rf1
+Qf4 26.Nb3 Bf6 27.Nxd4 Be5 28.Nf3 Qxf3 29.Qxg5 Qxh3 0-1
+
+
+[Event "Tournament"]
+[Site "Riga (Latvia)"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Kholmov Ratmir D (RUS)"]
+[Black "Tal Mikhail (LAT)"]
+[Result "0-1"]
+[ECO "D44"]
+[WhiteElo "2422"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 e6 2.Nc3 d5 3.d4 c6 4.Nf3 Nf6 5.Bg5 dxc4 6.e4 b5 7.e5 h6
+8.Bxf6 gxf6 9.exf6 Bb4 10.Be2 Qxf6 11.O-O Bxc3 12.bxc3 Nd7 13.a4
+Bb7 14.Ne5 Nxe5 15.dxe5 Qxe5 16.Bf3 Rd8 17.Qc2 Rd3 18.axb5 Rxf3
+19.Rxa7 Qxb5 20.gxf3 Qg5+ 21.Kh1 Rg8 0-1
+
+
+[Event "Tournament"]
+[Site "Riga (Latvia)"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Tal Mikhail (LAT)"]
+[Black "Ripatti"]
+[Result "1/2-1/2"]
+[ECO "B74"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 g6 7.Be3
+Bg7 8.O-O O-O 9.Nb3 Be6 10.f4 Na5 11.Nd4 Bc4 12.Bd3 Rc8 13.h3
+a6 14.Qd2 Re8 15.f5 d5 16.fxg6 hxg6 17.e5 Ne4 18.Nxe4 dxe4 19.Bxc4
+Nxc4 20.Qf2 Nxe5 21.Rad1 Qc7 22.Qh4 Nc6 23.Rxf7 Kxf7 24.Rf1+
+Kg8 25.Ne6 Qe5 26.Ng5 Bh6 27.Qxh6 Qg7 28.Qh4 Nd8 29.Bb6 e6 30.Bxd8
+Rcxd8 31.Nxe6 Rxe6 32.Qxd8+ Kh7 33.Qh4+ Kg8 34.Rd1 Re8 35.Rd8
+Qf7 36.b3 e3 37.Rxe8+ Qxe8 38.Kf1 Qe5 39.Qd8+ Kg7 40.Qd7+ Kh6
+41.Qxb7 1/2-1/2
+
+
+[Event "Tournament"]
+[Site "Riga (Latvia)"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Tal Mikhail (LAT)"]
+[Black "Strelkov M"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Ng3 c5 7.c3
+cxd4 8.Nxd4 a6 9.Bd3 Nc5 10.Bc2 e5 11.Qe2 Bd6 12.Ndf5 O-O 13.Bg5
+Bc7 14.Rd1 Ncd7 15.Nh5 Bb6 16.Bxf6 1-0
+
+
+[Event "Tournament"]
+[Site "Vilnius (Lithuania)"]
+[Date "1949.??.??"]
+[Round "?"]
+[White "Tal Mikhail (LAT)"]
+[Black "Weldrou"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.e5 Nd5 7.Bd2
+Bxc3 8.bxc3 Qc7 9.f4 a6 10.Qf3 Nc6 11.Nxc6 dxc6 12.c4 Ne7 13.Bd3
+c5 14.Qg3 g6 15.O-O Bd7 16.Be4 Bc6 17.Bf3 O-O-O 18.Bc3 Nf5 19.Qf2
+Nd4 20.Rad1 Bxf3 21.gxf3 Nf5 22.Rb1 Rd7 23.Qe2 Rhd8 24.Rb2 Nd4
+25.Qf2 Qc6 26.Ba5 Re8 27.c3 Qa4 28.cxd4 Qxa5 29.dxc5 Red8 30.Rfb1
+Rd2 31.Qe3 R8d3 32.Qe4 Qxc5+ 33.Kh1 Rd1+ 34.Rxd1 Rxd1+ 35.Kg2
+Qg1+ 36.Kh3 Qf1+ 37.Kh4 Qe1+ 38.Qxe1 Rxe1 39.Kg5 Rd1 40.Kf6 Rd7
+41.Rb6 Rc7 42.Rb2 Rxc4 43.Kxf7 Rxf4+ 44.Kxe6 Rxf3 45.Rd2 b5 46.Ke7
+b4 47.e6 a5 48.Ke8 a4 49.Rd4 b3 50.Rc4+ Kb7 51.Rxa4 bxa2 52.Rxa2
+g5 53.Rc2 g4 54.Rc5 Rh3 55.Rg5 Rxh2 56.Rxg4 Rf2 57.Rh4 Rf6 58.Rxh7+
+Kc8 59.e7 Rf1 60.Rf7 Rh1 61.Kf8 Rh8+ 62.Kg7 Re8 63.Rf8 Kd7 64.Rxe8
+Kxe8 65.Kf6 1-0

@@ -1,0 +1,554 @@
+[Event "corr."]
+[Site "Russia"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Duhm"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.e3 e6 3.Bd3 Nf6 4.Nd2 c5 5.c3 Nc6 6.f4 cxd4 7.exd4
+Bd6 8.Nh3 O-O 9.O-O Bd7 10.Qe2 a6 11.Nf3 b5 12.Ne5 g6 13.Ng5
+Qe7 14.Rf3 Be8 15.Rh3 Kg7 16.Bd2 Nd8 17.Rf1 Rh8 18.f5 exf5 19.Bxf5
+gxf5 20.Rg3 Kf8 21.Rxf5 h6 22.Qe3 Qc7 23.Rxf6 Ke7 24.Rf5 f6 25.Ng4+ 1-0
+
+
+[Event "corr."]
+[Site "Russia"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Goncharov Alexey"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Bd3 Bd6 7.O-O
+O-O 8.e4 dxc4 9.Bxc4 e5 10.Bg5 Qe7 11.Re1 Rd8 12.Qe2 Nf8 13.h3
+h6 14.Be3 Ng6 15.Rad1 Be6 16.dxe5 Nxe5 17.Nxe5 Bxe5 18.Rxd8+
+Rxd8 19.Bxa7 b5 20.Bxe6 Qxe6 21.a3 Ra8 22.Bc5 Bxc3 23.bxc3 Ra4
+24.f3 Rc4 25.Bd4 Nd7 26.Rd1 f5 27.Qd3 fxe4 28.fxe4 Nf6 29.Qg3
+Nh5 30.Qf3 Nf6 31.e5 Nd5 32.Rf1 Kh7 33.a4 Rxa4 34.Qf8 Ra2 35.Rf3
+Rd2 36.Rg3 g5 37.Qd6 Nf4 38.Rg4 Qd5 39.Qe7+ Kg8 40.Qe8+ Kh7 1/2-1/2
+
+
+[Event "corr."]
+[Site "Russia"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Vinogradov"]
+[Result "1-0"]
+[ECO "C32"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.dxe4 Nxe4 6.Nf3 Bc5 7.Qe2
+f5 8.Nc3 O-O 9.Nxe4 fxe4 10.Qxe4 Bf5 11.Qc4 Nd7 12.Be2 b5 13.Qxb5
+Rb8 14.Qa4 Rb4 15.Qa5 Re4 16.Kd1 Qe7 17.Bd3 Bb4 18.Qxa7 Nb6 19.a3
+Ra8 20.Qb7 Bg4 21.Bd2 Bd6 22.Bxe4 Qxe4 23.Re1 Bxf3+ 24.gxf3 Qxf3+
+25.Kc1 Qf2 26.Qc6 h6 27.Bc3 Qf3 28.b3 Rxa3 29.Rxa3 Bxa3+ 30.Kb1
+Bf8 31.Qe6+ 1-0
+
+
+[Event ""]
+[Site "Russia"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Kupriyanov V"]
+[Result "1-0"]
+[ECO "C33"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Nf6 4.Nc3 Nc6 5.Nf3 Bb4 6.O-O d6 7.Nd5
+Nxd5 8.exd5 Ne7 9.d4 O-O 10.c3 Ba5 11.Bxf4 h6 12.Qd2 Kh7 13.Rae1
+c6 14.dxc6 bxc6 15.Bd3+ f5 16.Ng5+ Kg8 17.Ne6 Bxe6 18.Rxe6 Bc7
+19.Bxh6 gxh6 20.Qxh6 Rf7 21.Bxf5 Rg7 22.Rxe7 Qxe7 23.Be6+ 1-0
+
+
+[Event ""]
+[Site "Russia"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Aleksandrov N (RUS)"]
+[Black "Alekhine Alexander A (RUS)"]
+[Result "0-1"]
+[ECO "C41"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 c6 5.Ng5 Nh6 6.f4 Be7 7.O-O O-O
+8.Nf3 exd4 9.Nxd4 d5 10.exd5 Nb6 11.Bd3 Bc5 12.c3 Qxd5 13.Be3
+Ng4 14.Qf3 Re8 15.Qxd5 Nxd5 16.Bc1 Nb4 0-1
+
+
+[Event ""]
+[Site "Russia"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Goncharov Alexey"]
+[Black "Alekhine Alexander A (RUS)"]
+[Result "1/2-1/2"]
+[ECO "C13"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.Bxf6 Bxf6 6.Nf3 Nc6 7.e5
+Be7 8.a3 b6 9.Bd3 Na5 10.Ne2 Qd7 11.c3 Nc4 12.Qc2 c5 13.Nd2 Bb7
+14.Nxc4 dxc4 15.Be4 Rd8 16.Rd1 Bxe4 17.Qxe4 O-O 18.f4 Qb5 19.Rd2
+Rd5 20.O-O Rfd8 21.f5 cxd4 22.fxe6 fxe6 23.Nxd4 Bc5 24.Qe2 h6
+25.Rfd1 Qb3 26.h3 Bxd4+ 27.cxd4 c3 28.bxc3 Qxc3 29.Rd3 Qc6 30.Kh2
+Qd7 31.Qg4 Rf8 32.Rg3 Rf5 33.Qg6 Rfxe5 34.Qxh6 Rh5 35.Qg6 Qf7
+36.Qg4 Qf6 37.Re1 Rhg5 38.Qxe6+ Qxe6 39.Rxe6 Rxg3 40.Kxg3 Rxd4 1/2-1/2
+
+
+[Event ""]
+[Site "Russia"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Shulga A"]
+[Black "Alekhine Alexander A (RUS)"]
+[Result "0-1"]
+[ECO "C41"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 c6 5.Ng5 Nh6 6.f4 Be7 7.O-O O-O
+8.Nf3 exd4 9.Nxd4 d5 10.exd5 Nb6 11.Be2 Bc5 12.Kh1 Nxd5 13.Nc3
+Re8 14.Nxd5 Qxd5 15.Nb3 Qxd1 16.Bxd1 Bb6 17.Bf3 Bf5 18.c3 Bd3
+19.Rd1 Bc2 20.Rf1 Rad8 21.Nd2 Nf5 22.Nb3 Rd6 23.g3 Bd3 24.Bd2
+Bxf1 25.Rxf1 g6 26.Kg2 Rd3 27.Kh3 a5 28.a4 h5 29.g4 hxg4+ 30.Kxg4
+Re2 31.Kh3 Rexd2 32.Nxd2 Rxd2 0-1
+
+
+[Event "Tournament"]
+[Site "St. Petersburg (Russia)"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Verlinsky Boris (UKR)"]
+[Black "Alekhine Alexander A (RUS)"]
+[Result "0-1"]
+[ECO "C68"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.d4 exd4 6.Qxd4 Qxd4
+7.Nxd4 c5 8.Ne2 Bd7 9.b3 c4 10.bxc4 Ba4 11.c3 O-O-O 12.Nd2 Bc2
+13.f3 Bc5 14.a4 Nf6 15.Ba3 Be3 16.Nf1 Ba7 17.a5 Rd3 18.c5 Rhd8
+19.Kf2 Nd7 20.Ne3 Nxc5 21.Nd4 Bb3 22.Ke2 Rxc3 23.Bb2 Rxe3+ 24.Kxe3
+Ne6 25.Ra3 Nxd4 26.Kf4 Bc5 27.Raa1 Ne2+ 28.Kg4 Be6+ 0-1
+
+
+[Event ""]
+[Site "St. Petersburg (Russia)"]
+[Date "1909.??.??"]
+[Round "5"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Evtifiev P"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.e3 e6 3.Bd3 Nf6 4.Nd2 c5 5.c3 Nc6 6.f4 Bd6 7.Qf3 cxd4
+8.exd4 Qc7 9.Nh3 Bd7 10.Nb3 Ne7 11.Be3 Nf5 12.Bf2 g6 13.g4 Ng7
+14.Bh4 Ne4 15.Bxe4 dxe4 16.Qe3 h5 17.Bf6 hxg4 18.Nf2 Bxf4 19.Qe2
+Kf8 20.Nxg4 Bc6 21.Rf1 Rh5 22.Be5 Bxe5 23.Nxe5 Nf5 24.Nc5 Kg7
+25.Rg1 Qe7 26.Qxh5 1-0
+
+
+[Event ""]
+[Site "St. Petersburg (Russia)"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Gregory Bernhard"]
+[Result "1-0"]
+[ECO "C28"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nc3 Nf6 3.Bc4 Nc6 4.d3 Bb4 5.Bg5 Nd4 6.a3 Bxc3+ 7.bxc3
+Ne6 8.h4 h6 9.Bd2 d6 10.Qf3 Bd7 11.g4 Qe7 12.g5 Ng8 13.Rb1 Bc6
+14.Nh3 Kd7 15.Qg4 Rf8 16.f4 f5 17.exf5 Bxh1 18.fxe6+ Kc8 19.Qg1
+c6 20.Qxa7 c5 21.d4 Qc7 22.d5 Ne7 23.Rxb7 Qxb7 24.Ba6 Bxd5 25.c4
+Qxa6 26.Qxa6+ Bb7 27.Qxd6 Nc6 28.gxh6 gxh6 29.f5 Rxf5 30.Qd7+
+Kb8 31.e7 Nxe7 32.Qxe7 Rhf8 33.Qd6+ Ka8 34.Bxh6 R8f6 35.Qd8+
+Ka7 36.Be3 Rf3 37.Bxc5+ Ka6 38.Qb8 1-0
+
+
+[Event ""]
+[Site "St. Petersburg (Russia)"]
+[Date "1909.??.??"]
+[Round "12"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Nikolaev Victor (RUS)"]
+[Result "1-0"]
+[ECO "C28"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nc3 Nf6 3.Bc4 Nc6 4.d3 Bb4 5.Bg5 h6 6.Bxf6 Qxf6 7.Nge2
+d6 8.O-O Bc5 9.Nd5 Qd8 10.c3 Na5 11.b4 Nxc4 12.bxc5 Na5 13.f4
+exf4 14.cxd6 Qxd6 15.Nexf4 O-O 16.d4 c6 17.e5 Qd8 18.Ne3 Qe7
+19.Rf3 Kh7 20.Qd3+ Kh8 21.Raf1 Be6 22.c4 Rad8 23.d5 cxd5 24.cxd5
+Qc5 25.Qe4 Bc8 26.e6 Bxe6 27.dxe6 Rd4 28.Ng6+ Kg8 29.exf7+ 1-0
+
+
+[Event ""]
+[Site "St. Petersburg (Russia)"]
+[Date "1909.??.??"]
+[Round "3"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Rosanov"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 b6 2.c4 Bb7 3.Nc3 f5 4.Bg5 Nf6 5.d5 h6 6.Bxf6 exf6 7.e4
+fxe4 8.Qh5+ Ke7 9.d6+ Kxd6 10.O-O-O+ Ke7 11.Nd5+ Bxd5 12.Qxd5
+c6 13.Qxe4+ Kf7 14.Bd3 d5 15.Qg6+ Kg8 16.Bf5 Qe7 17.Nf3 Qf7 18.Qg4
+Qc7 19.Be6+ Kh7 20.Nh4 Rg8 21.Qg6+ Kh8 22.Nf5 1-0
+
+
+[Event ""]
+[Site "St. Petersburg (Russia)"]
+[Date "1909.??.??"]
+[Round "17"]
+[White "Rotlewi Georg (POL)"]
+[Black "Alekhine Alexander A (RUS)"]
+[Result "0-1"]
+[ECO "A40"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 e6 2.c4 c5 3.e3 f5 4.Nc3 Nf6 5.Nf3 a6 6.a3 Qc7 7.dxc5 Bxc5
+8.b4 Be7 9.Bb2 b6 10.Na4 d6 11.Rc1 O-O 12.Be2 Nbd7 13.O-O e5
+14.Qb3 Kh8 15.Ng5 Qc6 16.Ne6 Re8 17.Bf3 Ne4 18.Bxe4 fxe4 19.Rfd1
+Nb8 20.c5 dxc5 21.Nf4 exf4 22.Qf7 Bf8 23.Nxc5 bxc5 24.Rxc5 Be6
+25.Qxf4 Bxc5 26.Bxg7+ Kg8 27.Bb2 Bf7 28.bxc5 Qg6 29.Rd6 Be6 30.Qe5
+Nd7 31.Qd4 Kf7 32.c6 Nf6 33.h3 Re7 34.h4 Rg8 35.g3 Qf5 36.Qb6
+Ng4 37.Rd2 Nxf2 0-1
+
+
+[Event ""]
+[Site "St. Petersburg (Russia)"]
+[Date "1909.??.??"]
+[Round "15"]
+[White "Rozenkrantz Karl Viliamovich (RUS)"]
+[Black "Alekhine Alexander A (RUS)"]
+[Result "0-1"]
+[ECO "C14"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.Nb5
+Qd8 8.f4 a6 9.Na3 c5 10.c3 Nc6 11.Nf3 b5 12.Nc2 Qb6 13.Qd2 a5
+14.b3 b4 15.c4 a4 16.cxd5 exd5 17.dxc5 Nxc5 18.Nfd4 axb3 19.Nxb3
+Nxb3 20.axb3 Rxa1+ 21.Nxa1 O-O 22.Nc2 Qc5 23.Bd3 f6 24.exf6 Rxf6
+25.h3 g6 26.Kd1 Be6 27.Re1 Bf7 28.g4 d4 29.f5 Ne5 30.fxg6 hxg6
+31.Qg5 Nxd3 32.Qxf6 Nxe1 33.Nxe1 Bxb3+ 34.Ke2 Bf7 35.Nf3 Qc4+
+36.Kf2 b3 37.Ne5 Qc7 38.Kf3 b2 39.Nxg6 Qc3+ 40.Kf2 Qc2+ 41.Kf3
+Qxg6 42.Qd8+ Kh7 43.Qh4+ Kg7 44.g5 Qd3+ 0-1
+
+
+[Event "It"]
+[Site "Hamburg (Germany)"]
+[Date "1910.??.??"]
+[Round "10"]
+[White "Alekhine Alexander A (RUS)"]
+[Black "Teichmann Richard (GER)"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Qe2 b5 6.Bb3 Bc5 7.a4
+Rb8 8.axb5 axb5 9.Nc3 O-O 10.Nxb5 d6 11.h3 Bd7 12.Bc4 Nb4 13.Na3
+d5 14.c3 dxc4 15.cxb4 Bxb4 16.Nxc4 Bc6 17.O-O Bxe4 18.Ncxe5 Re8
+19.d4 c5 20.Bg5 Ba8 21.Rfd1 cxd4 22.Qc4 Qd5 23.Bxf6 Rxe5 24.Qxd5
+Rxd5 25.Bxd4 Rbd8 26.Rdc1 Rb5 27.Be3 Bxf3 28.gxf3 h6 29.Rd1 Re8
+30.Rac1 Bf8 31.Rc2 g6 1/2-1/2
+
+
+[Event "It"]
+[Site "Hamburg (Germany)"]
+[Date "1910.??.??"]
+[Round "5"]
+[White "Duz-Hotimirsky F I (RUS)"]
+[Black "Alekhine Alexander A (RUS)"]
+[Result "1/2-1/2"]
+[ECO "A85"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 e6 2.c4 f5 3.Nc3 Nf6 4.e3 b6 5.Bd3 Bb7 6.f3 Nh5 7.Nh3 Bd6
+8.Qe2 Nc6 9.Bd2 Qh4+ 10.Qf2 Qxf2+ 11.Nxf2 a6 12.a3 Na5 13.b4
+Nb3 14.Rb1 Nxd2 15.Kxd2 Be7 16.Rhg1 O-O 17.g4 fxg4 18.f4 a5 19.Rb2
+Kh8 20.Nxg4 axb4 21.axb4 g5 22.fxg5 Bxg5 23.Ne5 Rf2+ 24.Be2 Rg8
+25.Nd1 Bxe3+ 26.Kxe3 Rxe2+ 27.Rxe2 Rxg1 28.Nc3 d6 29.Nd3 Ng7
+30.d5 Rg4 31.dxe6 Nxe6 32.Kd2 Bc8 33.Re4 Rxe4 34.Nxe4 Kg7 35.Ke3
+Bb7 36.Nc3 Kf6 37.Nf4 Nxf4 38.Kxf4 Ke6 39.Nb5 1/2-1/2
+
+
+[Event "It"]
+[Site "Hamburg (Germany)"]
+[Date "1910.??.??"]
+[Round "14"]
+[White "Forgacs Leo (HUN)"]
+[Black "Alekhine Alexander A (RUS)"]
+[Result "1-0"]
+[ECO "C78"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nc3 b5 7.Bb3
+d6 8.Ne2 Bg4 9.c3 d5 10.exd5 e4 11.Ne1 Na5 12.d4 Nxb3 13.axb3
+Qxd5 14.f3 exf3 15.Nxf3 Be7 16.Nf4 Qd7 17.h3 Bxf3 18.Qxf3 O-O
+19.b4 c6 20.Nd3 Nd5 21.Bf4 f6 22.Ra2 Rfe8 23.Rfa1 Qb7 24.Qg4
+Bf8 25.Bd2 Bd6 26.Nc5 Bxc5 27.bxc5 f5 28.Qf3 Re4 29.Qxf5 Re2
+30.Qd3 Rae8 31.Rf1 h6 32.Raa1 R8e6 33.Rf3 Nf6 34.b4 Kh8 35.Raf1
+Ng8 36.Bf4 Nf6 37.Be5 Ra2 38.Qg6 Qe7 39.Rxf6 gxf6 40.Bxf6+ Rxf6
+41.Qxf6+ Qg7 42.Qf8+ Kh7 43.Rf7 Rxg2+ 44.Kf1 1-0
+
+
+[Event "It"]
+[Site "Hamburg (Germany)"]
+[Date "1910.??.??"]
+[Round "11"]
+[White "John Walter (GER)"]
+[Black "Alekhine Alexander A (RUS)"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.Nf3 c5 3.e3 Nc6 4.b3 Bg4 5.Be2 e6 6.Bb2 Nf6 7.O-O Qc7
+8.a3 Bd6 9.h3 h5 10.Nbd2 cxd4 11.exd4 Bf4 12.Re1 Bxf3 13.Nxf3
+g5 14.Ne5 O-O-O 15.g3 Nxe5 16.gxf4 Ng6 17.fxg5 Ne4 18.Bc1 Nf4
+19.Bf1 Nxg5 20.Re3 Rhg8 21.Kh1 f6 22.Qd2 Ne4 23.Rxe4 dxe4 24.Qxf4
+Qc3 25.Rb1 Qe1 26.Qc7+ Kxc7 27.Bf4+ e5 28.Rxe1 exf4 29.Rxe4 f3
+30.Kh2 Rg7 31.Rf4 Rdg8 32.h4 Rg4 33.Rxf3 Rxh4+ 34.Bh3 Rxd4 35.Rxf6
+Rd2 36.c4 Rg7 37.c5 Rb2 38.b4 Rb3 39.Rf8 Kc6 40.Bg2+ Kb5 41.Rb8
+Ka4 42.Ra8 Kxa3 43.Rxa7+ Kxb4 44.c6 Rxg2+ 45.Kxg2 bxc6 46.f4
+Kc4 47.f5 Rb5 48.Rc7 Kd5 49.Rh7 Ke4 50.Rh6 c5 51.Rxh5 c4 52.Rh4+
+Kd3 53.Rh3+ Kd2 54.Rf3 c3 55.Rf2+ Kd3 56.Rf3+ Kd4 57.f6 c2 58.f7
+c1Q 59.f8Q Qd2+ 60.Rf2 Qg5+ 61.Kh3 Qh5+ 62.Kg3 Rg5+ 0-1
+
+
+[Event "It"]
+[Site "Hamburg (Germany)"]
+[Date "1910.??.??"]
+[Round "16"]
+[White "Marshall Frank J (USA)"]
+[Black "Alekhine Alexander A (RUS)"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Bd3 Nbd7 6.Nf3 Bd6 7.O-O
+O-O 8.e4 dxc4 9.Bxc4 e5 10.Be3 Qe7 11.Qc2 exd4 12.Bxd4 Ne5 13.Nxe5
+Bxe5 14.Bxe5 Qxe5 15.Be2 Be6 16.Rad1 Rad8 17.h3 Qc5 18.Rxd8 Rxd8
+19.Rd1 Rd4 20.Rxd4 Qxd4 21.Qd3 Qxd3 22.Bxd3 Kf8 23.Kf1 1/2-1/2
+
+
+[Event "It"]
+[Site "Hamburg (Germany)"]
+[Date "1910.??.??"]
+[Round "9"]
+[White "Nimzowitsch Aaron"]
+[Black "Alekhine Alexander A (RUS)"]
+[Result "1/2-1/2"]
+[ECO "A84"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 e6 2.Nf3 f5 3.e3 Nf6 4.Bd3 b6 5.O-O Bb7 6.c4 Bd6 7.Nc3 O-O
+8.a3 a6 9.b4 Qe8 10.c5 Be7 11.Bc4 Kh8 12.Bb2 d5 13.Bd3 Nbd7 14.Ne2
+Ne4 15.Rc1 c6 16.Bxe4 fxe4 17.Ne5 b5 18.Bc3 Bf6 19.Nxd7 Qxd7
+20.a4 Bd8 21.Ra1 Bc7 22.axb5 axb5 23.Rxa8 Rxa8 24.Nc1 Qe7 25.Nb3
+Bc8 26.Qe2 Ra3 27.Qb2 Ra4 28.f4 Bd7 29.Nc1 Qe8 30.Ne2 Qa8 1/2-1/2
+
+
+[Event "It"]
+[Site "Hamburg (Germany)"]
+[Date "1910.??.??"]
+[Round "1"]
+[White "Schlechter Carl (AUT)"]
+[Black "Alekhine Alexander A (RUS)"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 c6 5.Nc3 Be7 6.dxe5 dxe5 7.Ng5
+Bxg5 8.Qh5 Qf6 9.Bxg5 Qg6 10.Qh4 Nc5 11.Be3 Be6 12.Be2 Nd7 13.O-O
+Ngf6 14.Rad1 O-O 15.Rd6 h6 16.Rfd1 Nb6 17.b3 Ne8 18.R6d3 f5 19.Bc5
+fxe4 20.Rd8 Rf4 21.Qh5 Qxh5 22.Bxh5 Rxd8 23.Rxd8 Bf7 24.Rxe8+
+Bxe8 25.Bxe8 Nd5 26.g3 Rf5 27.Nxe4 Nf6 28.Nxf6+ Rxf6 29.Bxa7
+Rf8 30.Bg6 Ra8 31.Bb6 Rxa2 32.Kf1 Ra6 33.Bc7 c5 34.Bd3 1-0
+
+
+[Event "It"]
+[Site "Hamburg (Germany)"]
+[Date "1910.??.??"]
+[Round "3"]
+[White "Speijer Abraham"]
+[Black "Alekhine Alexander A (RUS)"]
+[Result "0-1"]
+[ECO "C15"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Bd2 Ne7 5.exd5 exd5 6.Qf3 Nbc6 7.Bb5
+O-O 8.Nge2 Bf5 9.O-O-O a6 10.Bd3 Bxd3 11.Qxd3 Na5 12.a3 Bxc3
+13.Bxc3 Nc4 14.Rde1 Nc6 15.Nf4 Qd6 16.Qf3 Rad8 17.Nd3 a5 18.Qf4
+Qxf4+ 19.Nxf4 b5 20.Nd3 Rb8 21.Ne5 N6xe5 22.dxe5 c5 23.b3 d4
+24.bxc4 dxc3 25.Re3 b4 26.a4 Rbd8 27.Rhe1 Rd4 28.Re4 Rxe4 29.Rxe4
+Rd8 30.e6 fxe6 31.Rxe6 Rd2 32.Re5 Rxf2 33.Kb1 Rf1+ 34.Ka2 Rc1
+35.Rxc5 Rxc2+ 36.Kb1 Rb2+ 37.Kc1 Rxg2 38.Rb5 Kf7 39.c5 Ke6 40.c6
+Kd6 41.c7 Kxc7 42.Rxa5 Rxh2 43.Rb5 Rb2 44.a5 Kc6 45.Rb8 Kc5 46.a6
+Ra2 47.Rc8+ Kb5 48.Rb8+ Kc4 0-1
+
+
+[Event "It"]
+[Site "Hamburg (Germany)"]
+[Date "1910.??.??"]
+[Round "7"]
+[White "Spielmann Rudolf (AUT)"]
+[Black "Alekhine Alexander A (RUS)"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Qe2 Be7 6.c3 d6 7.h3 O-O
+8.d4 Bd7 9.Bc2 Rc8 10.Be3 exd4 11.Nxd4 Nxd4 12.cxd4 c5 13.dxc5
+dxc5 14.Nc3 Bc6 15.O-O Qc7 16.a4 b5 17.axb5 axb5 18.Nxb5 Bxb5
+19.Qxb5 Rb8 20.Qe2 Rxb2 21.Bc1 Rb6 22.e5 Nd7 23.Re1 c4 24.Qe4
+g6 25.Be3 Bc5 26.Qxc4 Rc8 27.Bb3 Nxe5 28.Qd5 Bxe3 29.Rxe3 Re6
+30.Qa5 Rb6 31.Rae1 Rbb8 32.Qd5 Rd8 33.Qe4 Re8 34.Ba4 Re6 35.Qf4
+f6 36.Qe4 Qc5 37.Kh1 Reb6 1/2-1/2
+
+
+[Event "It"]
+[Site "Hamburg (Germany)"]
+[Date "1910.??.??"]
+[Round "12"]
+[White "Tarrasch Siegbert (GER)"]
+[Black "Alekhine Alexander A (RUS)"]
+[Result "1-0"]
+[ECO "D40"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.Nf3 e6 3.e3 c5 4.c4 Nf6 5.Nc3 a6 6.Ne5 Nc6 7.Nxc6 bxc6
+8.Bd3 Be7 9.O-O O-O 10.Na4 cxd4 11.exd4 Qc7 12.c5 e5 13.Nb6 Ra7
+14.dxe5 Qxe5 15.Re1 Qb8 16.Qc2 h6 17.Nxc8 Rxc8 18.Bd2 Re8 19.Re2
+Ng4 20.g3 Ne5 21.Bf4 Bg5 22.Bxe5 Rxe5 23.Rae1 Rxe2 24.Rxe2 a5
+25.Qa4 Qa8 26.b4 Be7 27.b5 cxb5 28.Bxb5 Kh7 29.c6 Bf6 30.Qc2+
+g6 31.Qc5 Qb8 32.Re8 Qxe8 33.Qxa7 Be5 34.Qxa5 Qe7 35.Qe1 Qf6
+36.a4 Bc7 37.a5 Kg7 38.a6 Qd4 39.Kg2 Qc5 40.Qa1+ f6 41.Qb2 Bb6
+42.Qe2 Kf7 43.Ba4 Kf8 44.Qe3 Qb4 45.Qxh6+ Ke7 46.Qg7+ Ke6 47.Qd7+
+Ke5 48.Qe8+ Kd4 49.Qe3+ Kc4 50.Qb3+ Qxb3 51.Bxb3+ 1-0
+
+
+[Event "corr."]
+[Site "Russia"]
+[Date "1910.??.??"]
+[Round "?"]
+[White "Vygodchikov K"]
+[Black "Alekhine Alexander A (RUS)"]
+[Result "0-1"]
+[ECO "C78"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.Nxe5 Nxe5 7.d4
+Nxe4 8.Re1 Be7 9.Rxe4 Ng6 10.Nc3 O-O 11.Nd5 Bd6 12.Qf3 f5 13.Bb3
+Kh8 14.Re2 f4 15.c4 c6 16.c5 Bb8 17.Nb6 d5 18.Nxa8 Nh4 19.Qc3
+f3 20.Re5 Bxe5 21.dxe5 Nxg2 22.Qd4 Qd7 23.e6 Qxe6 24.Bd2 Qg6
+25.Bc2 Qxc2 26.Kh1 Qg6 27.Rg1 Bh3 28.Nb6 Nf4 29.Rxg6 Bg2+ 30.Rxg2
+fxg2+ 31.Kg1 Ne2+ 32.Kxg2 Nxd4 0-1

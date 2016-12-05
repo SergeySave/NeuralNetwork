@@ -1,0 +1,685 @@
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.21"]
+[Round "6"]
+[White "L'Ami, E."]
+[Black "Nakamura, Hi"]
+[Result "0-1"]
+[ECO "E32"]
+[WhiteElo "2628"]
+[BlackElo "2751"]
+[PlyCount "86"]
+[EventDate "2011.01.14"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b5 7. cxb5 c6 8.
+Bg5 cxb5 9. e3 Bb7 10. Nf3 h6 11. Bh4 a6 12. Bd3 d6 13. O-O Nbd7 14. Rfc1 Qb6
+15. Qc7 Rfc8 16. Qxb6 Nxb6 17. Bg3 Rxc1+ 18. Rxc1 Rc8 19. Rxc8+ Nxc8 20. h3 Ne4
+21. Bh2 Kf8 22. Ne1 Nd2 23. f3 f5 24. Nc2 Ke7 25. Kf2 Nb6 26. Ke2 Nb3 27. Nb4
+Na5 28. Bc2 Nac4 29. Nd3 a5 30. Bg3 Nd5 31. Bf2 g5 32. g4 a4 33. e4 fxe4 34.
+fxe4 Ndb6 35. e5 Be4 36. exd6+ Kxd6 37. Bg3+ Ke7 38. Kd1 Bxd3 39. Bxd3 Nxb2+
+40. Ke2 Nd5 41. Be4 Nc3+ 42. Kf3 b4 43. Be1 Nbd1 0-1
+
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.23"]
+[Round "8"]
+[White "Carlsen, M."]
+[Black "Nakamura, Hi"]
+[Result "1-0"]
+[ECO "B92"]
+[WhiteElo "2814"]
+[BlackElo "2751"]
+[PlyCount "73"]
+[EventDate "2011.01.14"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+O-O 9. g4 Be6 10. g5 Nfd7 11. h4 Nb6 12. Qd2 N8d7 13. f4 exf4 14. Bxf4 Ne5 15.
+O-O-O Rc8 16. Kb1 Qc7 17. h5 Rfe8 18. Ka1 Bf8 19. Nd4 Qc5 20. g6 Nec4 21. Bxc4
+Nxc4 22. Qd3 fxg6 23. hxg6 h6 24. Qg3 Qb6 25. Bc1 Qa5 26. Rdf1 Ne5 27. Nd5 Bxd5
+28. exd5 Qxd5 29. Bxh6 gxh6 30. g7 Be7 31. Rxh6 Nf7 32. Qg6 Nxh6 33. Qxh6 Bf6
+34. Qh8+ Kf7 35. g8=Q+ Rxg8 36. Qxf6+ Ke8 37. Re1+ 1-0
+
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.28"]
+[Round "11"]
+[White "Nepomniachtchi, I."]
+[Black "Nakamura, Hi"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2733"]
+[BlackElo "2751"]
+[PlyCount "88"]
+[EventDate "2011.01.14"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Bg4 8. f3 Bf5
+9. Ng3 Bg6 10. Bg5 Qb6 11. Qd2 Nd7 12. a3 f6 13. Be3 Qb3 14. cxd5 Nxd5 15. Nxd5
+Qxd5 16. Rc1 Nb6 17. Ne2 fxe5 18. dxe5 Qxe5 19. Bd4 Qc7 20. Qg5 Bf5 21. g4 hxg4
+22. fxg4 Be4 23. Rh3 Be7 24. Qxg7 Rh7 25. Qe5 Qxe5 26. Bxe5 Bxh4+ 27. Ng3 Nd7
+28. Bd4 Bf3 29. g5 Bg4 30. g6 Rh6 31. Rxh4 Rxh4 32. Rc3 Bf3 33. Rxf3 Rxd4 34.
+Bh3 Ne5 35. Rf6 Nd3+ 36. Ke2 Nf4+ 37. Ke3 e5 38. Rf7 Rd3+ 39. Ke4 Rxg3 40. Bd7+
+Kd8 41. Bf5 Nxg6 42. Rg7 Rb8 43. b4 b5 44. Bxg6 Rg5 0-1
+
+
+[Event "20th Amber Blindfold"]
+[Site "Monaco MNC"]
+[Date "2011.03.14"]
+[Round "3"]
+[White "Ivanchuk, V."]
+[Black "Nakamura, Hi"]
+[Result "0-1"]
+[ECO "C65"]
+[WhiteElo "2779"]
+[BlackElo "2774"]
+[PlyCount "54"]
+[EventDate "2011.03.12"]
+[EventType "rapid"]
+[EventRounds "11"]
+[EventCountry "MNC"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d5 7. Qc2 Re8 8. Bg5
+dxe4 9. dxe4 h6 10. Bh4 g5 11. Bg3 Nh5 12. Nbd2 Qf6 13. Nc4 Nf4 14. b4 Bb6 15.
+Nxb6 axb6 16. Nd2 Be6 17. f3 h5 18. a4 Red8 19. Rae1 Ne7 20. Bf2 h4 21. Be3 h3
+22. g3 Ng2 23. Re2 c6 24. Bd3 b5 25. a5 Rd7 26. Bb6 Nc8 27. Bc5 Qd8 0-1
+
+
+[Event "20th Amber Rapid"]
+[Site "Monaco MNC"]
+[Date "2011.03.12"]
+[Round "1"]
+[White "Carlsen, M."]
+[Black "Nakamura, Hi"]
+[Result "1-0"]
+[ECO "D10"]
+[WhiteElo "2815"]
+[BlackElo "2774"]
+[PlyCount "79"]
+[EventDate "2011.03.12"]
+[EventRounds "11"]
+[EventCountry "MNC"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Qc2 e6 6. Nf3 Nbd7 7. Bd2 dxc4 8. a4
+c5 9. Bxc4 cxd4 10. exd4 Nb6 11. Bd3 Nbd5 12. Nxd5 Nxd5 13. O-O Nb4 14. Bxb4
+Bxb4 15. Bxh7 g6 16. Bxg6 fxg6 17. Qxg6+ Kf8 18. Ne5 Qe7 19. Rac1 Qh7 20. Qg3
+Ke8 21. d5 Bd6 22. Rfe1 Bd7 23. h3 Bxe5 24. Rxe5 Rg8 25. Qe3 Rg6 26. dxe6 Bc6
+27. Rxc6 bxc6 28. Qe4 Qg7 29. Qxc6+ Ke7 30. Qc5+ Ke8 31. Qc6+ Ke7 32. Re3 Ra7
+33. Qc5+ Ke8 34. Qc6+ Ke7 35. Qb6 Rxg2+ 36. Kf1 Rg1+ 37. Ke2 Ra8 38. Qb7+ Kd6
+39. Rd3+ Kxe6 40. Qc6+ 1-0
+
+
+[Event "20th Amber Blindfold"]
+[Site "Monaco MNC"]
+[Date "2011.03.17"]
+[Round "5"]
+[White "Giri, A."]
+[Black "Nakamura, Hi"]
+[Result "1-0"]
+[ECO "C96"]
+[WhiteElo "2690"]
+[BlackElo "2774"]
+[PlyCount "107"]
+[EventDate "2011.03.12"]
+[EventType "rapid"]
+[EventRounds "11"]
+[EventCountry "MNC"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+d6 9. c3 Na5 10. Bc2 c5 11. d4 Nd7 12. Nbd2 exd4 13. cxd4 Nc6 14. Nf1 Bf6 15.
+Be3 Bb7 16. Ng3 g6 17. Rc1 Rc8 18. Bb1 Re8 19. Qd2 Qa5 20. e5 cxd4 21. Rxc6
+Qxd2 22. Bxd2 Bxc6 23. exf6 Bxf3 24. Rxe8+ Rxe8 25. gxf3 d5 26. b3 Ne5 27. Kf1
+Nxf3 28. Bb4 Re6 29. Ne2 Rxf6 30. Kg2 Kg7 31. Kg3 g5 32. Kg2 Nh4+ 33. Kf1 Rc6
+34. Ba3 Nf3 35. Bb4 Kf6 36. Kg2 Nh4+ 37. Kg3 Ke5 38. Bd2 Rf6 39. f4+ gxf4+ 40.
+Bxf4+ Rxf4 41. Nxf4 Ng6 42. Nxg6+ fxg6 43. Bd3 b4 44. Kg4 a5 45. h4 Kf6 46. Kf4
+h6 47. Kg4 Kf7 48. Kf3 Kg7 49. Kg3 Kf7 50. Kg4 Kg7 51. h5 g5 52. Kf5 Kf7 53.
+Be2 Ke7 54. Ke5 1-0
+
+
+[Event "20th Amber Rapid"]
+[Site "Monaco MNC"]
+[Date "2011.03.15"]
+[Round "4"]
+[White "Gashimov, V."]
+[Black "Nakamura, Hi"]
+[Result "0-1"]
+[ECO "C12"]
+[WhiteElo "2746"]
+[BlackElo "2774"]
+[PlyCount "152"]
+[EventDate "2011.03.12"]
+[EventRounds "11"]
+[EventCountry "MNC"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Be3 Ne4 7. Qg4 g6 8. a3
+Bxc3+ 9. bxc3 Nxc3 10. Bd3 b6 11. h4 Ba6 12. h5 g5 13. f4 gxf4 14. Bxf4 Kd7 15.
+Bd2 Ne4 16. Bxe4 dxe4 17. Qxe4 Kc8 18. Nf3 Bb7 19. Qf4 Rh7 20. O-O-O Qd5 21.
+Qg4 Kd7 22. Qg8 Qa2 23. Bc3 Be4 24. Bb2 Qc4 25. Rd2 Na6 26. Qg4 Bd5 27. Rd3 Qc6
+28. Nd2 Rf8 29. Rc3 Qb7 30. Re3 b5 31. Ne4 Bxe4 32. Rxe4 c6 33. Bc3 Qc8 34. Rf1
+Rg8 35. Qh3 Nc7 36. Ref4 Rgg7 37. Bb4 Nd5 38. R4f2 Qg8 39. Bc5 a5 40. Qd3 a4
+41. g4 Qd8 42. c4 Qg5+ 43. Rd2 bxc4 44. Qxc4 Qe3 45. Qa6 Nc7 46. Qxa4 Rxg4 47.
+Qc2 Rg2 48. d5 Qxd2+ 49. Qxd2 Rxd2 50. Kxd2 exd5 51. Be3 Ne6 52. Rf6 Rg7 53.
+Bxh6 Rg2+ 54. Ke1 Ke7 55. Rf2 Rg1+ 56. Rf1 Rg3 57. Rh1 Rxa3 58. Bc1 Ra1 59. Kf2
+Ra2+ 60. Kg3 Kf8 61. h6 Kg8 62. Rf1 Ra7 63. Rd1 Rd7 64. Kg4 c5 65. Kf5 Kh7 66.
+Be3 d4 67. Bf2 c4 68. Ke4 c3 69. Kd3 Nc5+ 70. Kc4 c2 71. Rc1 d3 72. Be3 Ne4 73.
+Kb3 d2 74. Bxd2 Rxd2 75. Rxc2 Rxc2 76. Kxc2 Kxh6 0-1
+
+
+[Event "20th Amber Rapid"]
+[Site "Monaco MNC"]
+[Date "2011.03.22"]
+[Round "9"]
+[White "Topalov, V."]
+[Black "Nakamura, Hi"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2775"]
+[BlackElo "2774"]
+[PlyCount "83"]
+[EventDate "2011.03.12"]
+[EventRounds "11"]
+[EventCountry "MNC"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. Bb5 Nxd4 12. Bxd4 a6 13. Rb3 Qe7 14. Ba4 b5 15.
+Bxb5 axb5 16. Nxb5 Qd8 17. Qc3 Qa5 18. Nc7+ Kd8 19. Nxa8 Qxa8 20. O-O Qa4 21.
+Kh1 Be7 22. Rfb1 f6 23. exf6 gxf6 24. Rb6 Qxa2 25. Re1 Qc4 26. Rbxe6 Bb4 27.
+Bxf6+ Nxf6 28. Qxf6+ Kc7 29. Re7+ Bd7 30. Qe5+ Kc6 31. Qxh8 Bxe7 32. Qa8+ Kc7
+33. Qa7+ Kd8 34. Qb8+ Bc8 35. Qe5 Bc5 36. f5 Qxc2 37. f6 Qf5 38. Qe8+ Kc7 39.
+Rc1 Kb6 40. f7 d4 41. Qd8+ Kb5 42. Qc7 1-0
+
+
+[Event "20th Amber Rapid"]
+[Site "Monaco MNC"]
+[Date "2011.03.24"]
+[Round "11"]
+[White "Kramnik, V."]
+[Black "Nakamura, Hi"]
+[Result "0-1"]
+[ECO "E97"]
+[WhiteElo "2785"]
+[BlackElo "2774"]
+[PlyCount "90"]
+[EventDate "2011.03.12"]
+[EventRounds "11"]
+[EventCountry "MNC"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 a5 10. a3 Kh8 11. Rb1 Nd7 12. b4 f5 13. f3 f4 14. Nb5 b6 15. Qc2 a4
+16. Rd1 g5 17. g4 h5 18. h3 Rf6 19. Bb2 Rh6 20. Kg2 Ng6 21. Rh1 Bf8 22. Kf2 Nf6
+23. c5 dxc5 24. Nc4 Bd6 25. Bc3 Kg7 26. Qb2 cxb4 27. axb4 Qe7 28. Rbg1 Bd7 29.
+Nbxd6 cxd6 30. h4 hxg4 31. hxg5 Nxe4+ 32. fxe4 Rxh1 33. Rxh1 f3 34. Nxb6 g3+
+35. Kxf3 Rf8+ 36. Ke3 Qxg5+ 37. Kd3 Bb5+ 38. Kc2 Rf2 39. Bd2 Rxe2 40. Qc3 g2
+41. Rg1 a3 42. Kc1 Rxd2 43. Qxd2 a2 44. Kc2 Qxd2+ 45. Kxd2 Bf1 0-1
+
+
+[Event "Nakamura-Ponomariov Classical Match"]
+[Site "Saint Louis USA"]
+[Date "2011.05.17"]
+[Round "1"]
+[White "Ponomariov, R."]
+[Black "Nakamura, Hi"]
+[Result "1-0"]
+[ECO "E98"]
+[WhiteElo "2754"]
+[BlackElo "2774"]
+[PlyCount "185"]
+[EventDate "2011.05.16"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Be3 f5 11. f3 f4 12. Bf2 g5 13. g4 h5 14. h3 Rf6 15. Nd3 Rh6
+16. Kg2 c5 17. dxc6 Nxc6 18. c5 dxc5 19. Nxc5 Nd4 20. Bc4+ Kh7 21. Nb3 Nf6 22.
+Nxd4 exd4 23. e5 hxg4 24. hxg4 Nxg4 25. fxg4 Bxe5 26. Rh1 Qd7 27. Ne4 Rxh1 28.
+Qxh1+ Kg7 29. Qh5 Qxg4+ 30. Qxg4 Bxg4 31. Nxg5 d3 32. Bxd3 Rd8 33. Be2 Bf5 34.
+Rd1 Rxd1 35. Bxd1 Bxb2 36. Bxa7 Kf6 37. Nf3 Bd3 38. Kf2 Bc1 39. Bb3 Be4 40. Ke2
+Ke7 41. Bb8 Be3 42. Be5 Kd7 43. Ng5 Bc6 44. Bc4 Bc1 45. Nf3 Be3 46. Bc3 Kd6 47.
+Bb4+ Kc7 48. Ne5 Be8 49. Bd5 Bh5+ 50. Kd3 Bc1 51. Bc5 b5 52. Ke4 Bd2 53. Nf3
+Bg6+ 54. Ke5 Be3 55. Bxe3 fxe3 56. Kd4 e2 57. Ke3 Kd6 58. Bg8 Kc5 59. Kxe2 Bh5
+60. Ke3 Kb4 61. Nd4 Bg6 62. Kd2 Kc5 63. Nc2 Bf5 64. Kc3 Be4 65. a3 Kb6 66. Nd4
+Ka5 67. Bb3 Bg2 68. Bc2 Bf1 69. Nb3+ Ka4 70. Nd2+ Kxa3 71. Bb3 Bd3 72. Kxd3 Kb2
+73. Be6 Kc1 74. Nb3+ Kb2 75. Kd2 b4 76. Kd3 Ka3 77. Kc4 Ka4 78. Bf5 Ka3 79. Nc5
+Kb2 80. Kxb4 Ka2 81. Kc3 Ka1 82. Nb3+ Ka2 83. Be4 Ka3 84. Bb1 Ka4 85. Nd4 Ka5
+86. Kc4 Kb6 87. Nb5 Kb7 88. Bf5 Kc6 89. Bc8 Kb6 90. Bd7 Kb7 91. Kc5 Ka6 92. Nd6
+Ka5 93. Nb7+ 1-0
+
+
+[Event "Nakamura-Ponomariov Classical Match"]
+[Site "Saint Louis USA"]
+[Date "2011.05.19"]
+[Round "3"]
+[White "Ponomariov, R."]
+[Black "Nakamura, Hi"]
+[Result "0-1"]
+[ECO "E94"]
+[WhiteElo "2754"]
+[BlackElo "2774"]
+[PlyCount "86"]
+[EventDate "2011.05.16"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Na6 8. Re1
+c6 9. Be3 Ng4 10. Bg5 f6 11. Bh4 Qe8 12. c5 dxc5 13. dxe5 Nxe5 14. Nxe5 fxe5
+15. Bxa6 bxa6 16. Qd6 c4 17. Rad1 Be6 18. Bg3 Rf7 19. Bxe5 Bg4 20. Bxg7 Bxd1
+21. Bf6 Bg4 22. e5 Qd7 23. Ne4 Bf5 24. Qb4 Bxe4 25. Rxe4 Re8 26. f3 Rxf6 27.
+exf6 Rxe4 28. fxe4 Qd4+ 29. Kf1 Qxe4 30. Qb7 Qf5+ 31. Ke2 Qxf6 32. Qb8+ Kf7 33.
+Qxa7+ Ke6 34. Qb7 Qe5+ 35. Kf3 Qf5+ 36. Ke3 Qc5+ 37. Kf3 c3 38. Qc8+ Kd5 39.
+bxc3 Qxc3+ 40. Kg4 Qd4+ 41. Kh3 Qe3+ 42. Kh4 Qe7+ 43. Kg3 Qg5+ 0-1
+
+
+[Event "Nakamura-Ponomariov Rapid Match"]
+[Site "Saint Louis USA"]
+[Date "2011.05.25"]
+[Round "3"]
+[White "Ponomariov, R."]
+[Black "Nakamura, Hi"]
+[Result "0-1"]
+[ECO "D11"]
+[WhiteElo "2754"]
+[BlackElo "2774"]
+[PlyCount "54"]
+[EventDate "2011.05.24"]
+[EventType "rapid"]
+[EventRounds "4"]
+[EventCountry "USA"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qb3 e6 5. Bf4 dxc4 6. Qxc4 b5 7. Qc2 Bb7 8. e4
+Nbd7 9. Nbd2 a6 10. a4 Bb4 11. Bd3 c5 12. axb5 axb5 13. O-O c4 14. Be2 Rc8 15.
+d5 Qb6 16. dxe6 fxe6 17. e5 Nd5 18. Bg3 O-O 19. Ng5 Rf5 20. Nxe6 Qxe6 21. Bg4
+Ne3 22. Bxf5 Nxf5 23. Nf3 Bxf3 24. gxf3 Nc5 25. Rfd1 h5 26. Ra7 h4 27. Bf4 Qg6+
+0-1
+
+
+[Event "1st ICC Open Final"]
+[Site "ICC INT"]
+[Date "2011.06.05"]
+[Round "1.1"]
+[White "Altounian, L."]
+[Black "Nakamura, Hi"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2428"]
+[BlackElo "2774"]
+[PlyCount "148"]
+[EventDate "2011.06.05"]
+[EventType "blitz"]
+[EventRounds "3"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. h3 Bh5 8. O-O
+cxd4 9. cxd4 Bb4 10. a3 Ba5 11. b4 Bc7 12. Nc3 Qd8 13. Bg5 Nbd7 14. d5 O-O 15.
+dxe6 fxe6 16. Nd4 Bf7 17. Bc4 Re8 18. Re1 Ne5 19. Bb5 Re7 20. Ne4 Bb6 21. Nxf6+
+gxf6 22. Bxf6 Bxd4 23. Bxe7 Qb6 24. Bc5 Bxc5 25. bxc5 Qxc5 26. Qe2 Ng6 27. Rac1
+Qxa3 28. Rc7 Rb8 29. Bc4 Qd6 30. Rxf7 Kxf7 31. Qf3+ Kg7 32. Rxe6 Qb4 33. Rxg6+
+hxg6 34. Qf7+ Kh6 35. Qf4+ g5 36. Qf6+ Kh7 37. Bd3+ Kg8 38. Qe6+ Kf8 39. Qf6+
+Kg8 40. Qxg5+ Kf7 41. Qg6+ Ke7 42. Qg7+ Ke6 43. Qg6+ Kd7 44. Bf5+ Kc7 45. Qf7+
+Kb6 46. Qe6+ Kc7 47. Qf7+ Kc6 48. Qe6+ Qd6 49. Qc4+ Kb6 50. Qb3+ Kc6 51. Qc4+
+Qc5 52. Qe6+ Kc7 53. Qf7+ Kb6 54. Qb3+ Qb5 55. Qe6+ Ka5 56. Qa2+ Qa4 57. Qd5+
+b5 58. Qc5 Rb6 59. g4 Qb4 60. Qc7 a6 61. h4 Qe1+ 62. Kg2 b4 63. Qc5+ Rb5 64.
+Qc7+ Ka4 65. Bd7 Qe4+ 66. Kg3 b3 67. Bxb5+ Kxb5 68. Qb8+ Ka4 69. Qa7 Qd3+ 70.
+f3 b2 71. Qb6 b1=Q 72. Qc6+ Qbb5 73. Qf6 Qd6+ 74. Qf4+ Qbb4 0-1
+
+
+[Event "1st ICC Open Final"]
+[Site "ICC INT"]
+[Date "2011.06.05"]
+[Round "1.3"]
+[White "Altounian, L."]
+[Black "Nakamura, Hi"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2428"]
+[BlackElo "2774"]
+[PlyCount "41"]
+[EventDate "2011.06.05"]
+[EventType "blitz"]
+[EventRounds "3"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nc4 Nxe4 5. d4 d5 6. Ne3 Be7 7. Nd2 O-O 8.
+Bd3 Nxd2 9. Bxd2 g6 10. h4 Bxh4 11. Qf3 c6 12. O-O-O Bg5 13. Rh2 Nd7 14. Rdh1
+h6 15. Rxh6 Bxh6 16. Rxh6 Nf6 17. Qg3 Ne4 18. Bxe4 dxe4 19. Bc3 Kg7 20. Qh2 Kf6
+21. Qe5# 1-0
+
+
+[Event "1st ICC Open Final"]
+[Site "ICC INT"]
+[Date "2011.06.05"]
+[Round "2.1"]
+[White "Hovhannisyan, R."]
+[Black "Nakamura, Hi"]
+[Result "0-1"]
+[ECO "B00"]
+[WhiteElo "2553"]
+[BlackElo "2774"]
+[PlyCount "68"]
+[EventDate "2011.06.05"]
+[EventType "blitz"]
+[EventRounds "3"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. Nf3 d5 5. exd5 Qxd5 6. O-O Nf6 7. c4 Qd8 8. Nc3
+Be7 9. Bg5 Nbd7 10. Re1 O-O 11. Ne5 Nxe5 12. dxe5 Nd7 13. Bxe7 Qxe7 14. Qh5 h6
+15. Re3 Qg5 16. Qxg5 hxg5 17. b4 a5 18. b5 Rad8 19. Rae1 Nc5 20. Bc2 Rd4 21.
+Rh3 g6 22. Bb3 Rfd8 23. Rhe3 Rg4 24. Rg3 Rxg3 25. hxg3 Rd3 26. Re3 Rxe3 27.
+fxe3 Nd3 28. Na4 Kf8 29. Kf1 Ke7 30. Ke2 Nxe5 31. c5 bxc5 32. Nxc5 Bxg2 33. Bc2
+Bd5 34. a4 Kd6 0-1
+
+
+[Event "1st ICC Open Final"]
+[Site "ICC INT"]
+[Date "2011.06.05"]
+[Round "3.3"]
+[White "Simonian, H."]
+[Black "Nakamura, Hi"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2468"]
+[BlackElo "2774"]
+[PlyCount "47"]
+[EventDate "2011.06.05"]
+[EventType "blitz"]
+[EventRounds "3"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. e4 b6 2. d4 Bb7 3. Nc3 e6 4. Nf3 Bb4 5. Bd3 Nf6 6. e5 Ne4 7. O-O Nxc3 8.
+bxc3 Bxc3 9. Rb1 d6 10. Rb3 Ba5 11. Bg5 Qd7 12. Qe2 Nc6 13. d5 Nxe5 14. Nxe5
+dxe5 15. Bb5 c6 16. dxe6 Qxe6 17. Bc4 Qf5 18. Bxf7+ Kd7 19. Qh5 g6 20. Rf3 gxh5
+21. Rxf5 Raf8 22. Rd1+ Kc8 23. Be7 Kc7 24. Bd6+ 1-0
+
+
+[Event "1st ICC Open Final"]
+[Site "ICC INT"]
+[Date "2011.06.05"]
+[Round "3.5"]
+[White "Simonian, H."]
+[Black "Nakamura, Hi"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "2468"]
+[BlackElo "2774"]
+[PlyCount "98"]
+[EventDate "2011.06.05"]
+[EventType "blitz"]
+[EventRounds "3"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. e4 c5 2. Nc3 d6 3. f4 g6 4. Nf3 Bg7 5. Bc4 Nc6 6. O-O e6 7. d3 Nge7 8. Qe1
+O-O 9. f5 d5 10. Bb3 dxe4 11. f6 exf3 12. fxg7 Qd4+ 13. Rf2 Qxg7 14. Rxf3 Nd4
+15. Rf2 b6 16. Bf4 f6 17. Bd6 Re8 18. Ba4 Rd8 19. Ne4 Nef5 20. c3 Bb7 21. cxd4
+Bxe4 22. Qxe4 Nxd6 23. Qxe6+ Qf7 24. Rxf6 Qxe6 25. Rxe6 cxd4 26. Rc1 Rac8 27.
+Rxc8 Nxc8 28. Rc6 Nd6 29. Rc7 a5 30. Bb3+ Kh8 31. g4 g5 32. Kg2 b5 33. Kg3 Re8
+34. Rd7 a4 35. Bd5 Nc8 36. Be4 h6 37. Rh7+ Kg8 38. Rxh6 Re5 39. Rc6 Ne7 40. Rd6
+Rc5 41. Rxd4 Kf7 42. Rb4 Nc8 43. d4 Rc7 44. Rxb5 Nd6 45. Re5 Rc1 46. Bd5+ Kf8
+47. Rxg5 Rc2 48. h4 Rxb2 49. h5 Rb5 1-0
+
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.11"]
+[Round "1"]
+[White "Carlsen, M."]
+[Black "Nakamura, Hi"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "2815"]
+[BlackElo "2774"]
+[PlyCount "76"]
+[EventDate "2011.06.11"]
+[EventRounds "10"]
+[EventCountry "ROU"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 c6 6. Qc2 Bg4 7. e3 Bh5 8. Bd3
+Bg6 9. Bxg6 hxg6 10. O-O-O Nf6 11. f3 Nbd7 12. Nge2 b5 13. e4 b4 14. Na4 dxe4
+15. fxe4 Qa5 16. Kb1 O-O 17. h4 Rfe8 18. e5 Nd5 19. h5 g5 20. h6 g6 21. Bc1
+N7b6 22. Nc5 Bxc5 23. dxc5 b3 24. Qxb3 Qxc5 25. Nd4 Rxe5 26. Nf3 Re2 27. Nxg5
+Qe7 28. Qd3 Rf8 29. Rdf1 f5 30. g4 Na4 31. Qd4 Qe5 32. Qxe5 Rxe5 33. gxf5 gxf5
+34. Nf3 Re7 35. Rfg1+ Kh7 36. Rg7+ Kh8 37. Rhg1 Rfe8 38. Nh4 Rxg7 1-0
+
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.21"]
+[Round "10"]
+[White "Ivanchuk, V."]
+[Black "Nakamura, Hi"]
+[Result "1-0"]
+[ECO "D14"]
+[WhiteElo "2776"]
+[BlackElo "2774"]
+[PlyCount "119"]
+[EventDate "2011.06.11"]
+[EventRounds "10"]
+[EventCountry "ROU"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 Bf5 7. Qb3 Qb6 8.
+Qxb6 axb6 9. e3 e6 10. a3 Be7 11. Be2 O-O 12. O-O Rfc8 13. Rfc1 Nh5 14. Bg5
+Bxg5 15. Nxg5 Nf6 16. Nf3 Bg4 17. Nb5 Bxf3 18. Bxf3 Rd8 19. Kf1 Kf8 20. Rc3 Ke7
+21. Rac1 Rdc8 22. Ke1 Kd7 23. h3 h5 24. h4 g6 25. g3 Ra5 26. Be2 Ne8 27. Rb3
+Rd8 28. f3 Nf6 29. Nc3 Kc7 30. Na2 Ng8 31. Nb4 Nge7 32. Nd3 Raa8 33. Ne5 Rf8
+34. Bd3 f5 35. Bb5 Rac8 36. Kf2 Rg8 37. Ba4 Rgf8 38. Rc2 Rfd8 39. Rbc3 Rd6 40.
+b4 Kb8 41. Bxc6 bxc6 42. b5 Kb7 43. bxc6+ Kc7 44. a4 Rdd8 45. Rb2 Ra8 46. Rcb3
+Nc8 47. Ra2 Rg8 48. a5 b5 49. Rxb5 Nd6 50. Rb4 Ra6 51. Kg2 g5 52. hxg5 Rxg5 53.
+Kh3 Rg8 54. Kh4 Rh8 55. Rab2 Ra7 56. Rb6 Rha8 57. Kxh5 Rg8 58. a6 Rga8 59. Rb7+
+Nxb7 60. axb7 1-0
+
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.29"]
+[Round "8"]
+[White "Ponomariov, R."]
+[Black "Nakamura, Hi"]
+[Result "1-0"]
+[ECO "E97"]
+[WhiteElo "2764"]
+[BlackElo "2770"]
+[PlyCount "129"]
+[EventDate "2011.07.21"]
+[EventRounds "10"]
+[EventCountry "GER"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2011.06.27"]
+[BlackTeam "Poland"]
+[BlackTeamCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. dxe5
+dxe5 9. Bg5 Qxd1 10. Rfxd1 Bg4 11. h3 Bxf3 12. Bxf3 Nd4 13. Nd5 Nxd5 14. cxd5
+f5 15. Kf1 Rf7 16. Rac1 fxe4 17. Bxe4 Bf8 18. Rd3 Bd6 19. Be3 Nf5 20. Bd2 a5
+21. Rf3 b6 22. g4 Ne7 23. Rfc3 Rd8 24. Bg5 Rd7 25. h4 Rf8 26. Bh6 Rf7 27. Ke2
+Kh8 28. Bg5 Rf8 29. f3 Ng8 30. Rh1 Nf6 31. Bxf6+ Rxf6 32. g5 Rf4 33. h5 Kg8 34.
+hxg6 hxg6 35. Rh6 Rg7 36. Bxg6 Rb4 37. b3 a4 38. Rc1 axb3 39. axb3 Rxb3 40.
+Rch1 Kf8 41. Rh8+ Rg8 42. Be4 Rb2+ 43. Kf1 Be7 44. g6 Bf6 45. R8h7 Bg7 46. R1h5
+Ke7 47. Rxe5+ Kd6 48. Re6+ Kc5 49. Re7 Ra8 50. Rxc7+ Kd6 51. Rc1 Bd4 52. f4 Bc5
+53. Rc2 Rb1+ 54. Kg2 Rg1+ 55. Kh2 Rg4 56. Bf5 Rxf4 57. Be6 Rf6 58. g7 Rxe6 59.
+dxe6 Rg8 60. Re2 Ke7 61. Re4 b5 62. Kh3 b4 63. Rh5 Bd6 64. Rb5 Kf6 65. e7 1-0
+
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.10.06"]
+[Round "6"]
+[White "Ivanchuk, V."]
+[Black "Nakamura, Hi"]
+[Result "1-0"]
+[ECO "B43"]
+[WhiteElo "2765"]
+[BlackElo "2753"]
+[PlyCount "77"]
+[EventDate "2011.09.26"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCategory "22"]
+[Source "Mark Crowther"]
+[SourceDate "2011.10.10"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nf6 7. f4 Bb4 8. Nb3
+Bxc3+ 9. bxc3 d6 10. Ba3 O-O 11. Qd2 Rd8 12. O-O Nc6 13. Rf3 b5 14. Rg3 Kh8 15.
+Rf1 Bb7 16. f5 Rg8 17. Qg5 e5 18. Qh4 Ne7 19. Rh3 d5 20. Nc5 dxe4 21. Bxe4 Bd5
+22. g4 h6 23. g5 Nh7 24. f6 Ng6 25. fxg7+ Rxg7 26. Qxh6 Rd8 27. Bxg6 fxg6 28.
+Rf6 Qc8 29. Rh4 Bf7 30. Nd3 Kg8 31. Bd6 e4 32. Be5 Rd5 33. Rc6 Qf8 34. Bxg7
+Qxg7 35. Rxe4 Rxg5+ 36. Qxg5 Nxg5 37. Rc8+ Be8 38. Rcxe8+ Kh7 39. Rh4+ 1-0
+
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.10.10"]
+[Round "9"]
+[White "Vallejo Pons, F."]
+[Black "Nakamura, Hi"]
+[Result "1-0"]
+[ECO "E91"]
+[WhiteElo "2716"]
+[BlackElo "2753"]
+[PlyCount "79"]
+[EventDate "2011.09.26"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCategory "22"]
+[Source "Mark Crowther"]
+[SourceDate "2011.10.10"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 Nbd7 7. Be3 e5 8. O-O
+Re8 9. dxe5 dxe5 10. b4 c6 11. c5 Nh5 12. Nd2 Nf4 13. Nc4 Nxe2+ 14. Qxe2 Qe7
+15. Rab1 Nf8 16. Nd6 Rd8 17. Na4 Ne6 18. Nb2 b5 19. a4 a6 20. Ra1 Rb8 21. axb5
+axb5 22. Ra3 Nf4 23. Qd2 Be6 24. g3 Nh5 25. Rfa1 Nf6 26. Bg5 Qf8 27. Bxf6 Bxf6
+28. Nd3 Be7 29. Nxe5 Bxd6 30. cxd6 Rxd6 31. Qc3 Rbd8 32. h4 Qe8 33. Ra6 f6 34.
+Nf3 Bg4 35. Qb3+ Kh8 36. Nh2 Qxe4 37. Nxg4 Qxg4 38. Qf7 Qf3 39. Rf1 Rd1 40. Ra1
+1-0
+
+
+[Event "3rd London Chess Classic"]
+[Site "London ENG"]
+[Date "2011.12.05"]
+[Round "3"]
+[White "Carlsen, M."]
+[Black "Nakamura, Hi"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "2826"]
+[BlackElo "2758"]
+[PlyCount "81"]
+[EventDate "2011.12.03"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2011.12.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 d6 6. Bb3 a6 7. Nbd2 Ba7 8. Nf1
+h6 9. Ng3 O-O 10. O-O Be6 11. h3 Qd7 12. Be3 Ne7 13. Nh4 Ng6 14. Nhf5 Ne7 15.
+Nxe7+ Qxe7 16. Bxa7 Rxa7 17. f4 c5 18. Bc2 b5 19. Qd2 Rb7 20. a3 a5 21. Rf2 b4
+22. axb4 axb4 23. Raf1 bxc3 24. bxc3 exf4 25. Rxf4 Nh7 26. d4 cxd4 27. cxd4 Qg5
+28. Kh2 Nf6 29. Bd1 Rfb8 30. h4 Qg6 31. Rxf6 gxf6 32. Qf4 Rb2 33. Bh5 Qg7 34.
+Bf3 Ra8 35. d5 Bc8 36. Nh5 Qf8 37. Nxf6+ Kh8 38. Rc1 Kg7 39. e5 dxe5 40. Nh5+
+Kh7 41. Be4+ 1-0
+
+
+[Event "3rd London Chess Classic"]
+[Site "London ENG"]
+[Date "2011.12.11"]
+[Round "8"]
+[White "Nakamura, Hi"]
+[Black "Short, N."]
+[Result "1/2-1/2"]
+[ECO "A21"]
+[WhiteElo "2758"]
+[BlackElo "2698"]
+[PlyCount "179"]
+[EventDate "2011.12.03"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2011.12.12"]
+
+1. c4 e5 2. Nc3 d6 3. g3 g6 4. Bg2 Bg7 5. d3 f5 6. e3 Nf6 7. Nge2 a5 8. b3 c6
+9. Bb2 Na6 10. Qd2 O-O 11. O-O Re8 12. h3 Be6 13. Rad1 Qc7 14. d4 Rad8 15. Na4
+b6 16. Qc1 Bf7 17. Qa1 Rd7 18. Nac3 g5 19. d5 c5 20. e4 f4 21. g4 h5 22. f3 Bg6
+23. Kf2 Bf8 24. Ke1 Rh7 25. Kd2 Qd7 26. Rh1 Nc7 27. Rdg1 Kf7 28. Qf1 Bh6 29.
+Nc1 Rb8 30. Nb5 Nxb5 31. cxb5 hxg4 32. hxg4 Bg7 33. Rxh7 Bxh7 34. a4 Rh8 35.
+Nd3 Qc7 36. Nf2 Nd7 37. Rh1 Bg6 38. Nh3 Qd8 39. Bc3 Bf6 40. Kc1 Kg7 41. Kb2 Bf7
+42. Ka2 Nf8 43. Rg1 Ng6 44. Qd3 Rh6 45. Ka3 Qh8 46. Qf1 Bd8 47. Nf2 Bc7 48. Nd3
+Rh2 49. Nb2 Nf8 50. Nc4 Nd7 51. Be1 Kf6 52. Qf2 Ke7 53. Rf1 Rh6 54. Qg1 Bg6 55.
+Ka2 Bf7 56. Rf2 Bg6 57. Rd2 Bf7 58. Bf2 Qb8 59. Qc1 Qa7 60. Rc2 Kf6 61. Bg1 Qa8
+62. Nb2 Bd8 63. Bf1 Kg7 64. Nc4 Qb8 65. Bg2 Rh8 66. Bf2 Rh6 67. Be1 Rh8 68. Bc3
+Rh6 69. Qe1 Qa7 70. Qg1 Qb8 71. Bf1 Bc7 72. Rh2 Rxh2+ 73. Qxh2 Qd8 74. Kb2 Bg6
+75. Kc1 Bf7 76. Nb2 Qh8 77. Qg2 Qd8 78. Kd1 Qh8 79. Bd3 Qd8 80. Ke1 Bg6 81. Kf1
+Kf7 82. Kg1 Kg7 83. Nc4 Bf7 84. Qh2 Bg6 85. Kf2 Bf7 86. Ke2 Bg6 87. Qh1 Bf7 88.
+Qh2 Bg6 89. Qh1 Bf7 90. Qh2 1/2-1/2
+
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2011.12.28"]
+[Round "2"]
+[White "Nakamura, Hi"]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "A22"]
+[WhiteElo "2758"]
+[BlackElo "2727"]
+[PlyCount "85"]
+[EventDate "2011.12.27"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "ITA"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2012.01.02"]
+[WhiteTeamCountry "QAT"]
+[BlackTeamCountry "JOR"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 Bb4 4. Nf3 Qe7 5. Bg2 O-O 6. O-O c6 7. e4 d6 8. d3 a6
+9. Qb3 Bc5 10. Na4 Ba7 11. Nb6 Bxb6 12. Qxb6 c5 13. Ne1 Bg4 14. f3 Be6 15. Bg5
+Nbd7 16. Qa5 h6 17. Bd2 Nb8 18. Nc2 Nc6 19. Qc3 b5 20. Ne3 Nd4 21. Rae1 Rab8
+22. Qc1 bxc4 23. dxc4 Qd7 24. Rf2 Rfe8 25. Bc3 a5 26. Qd1 a4 27. Bf1 Ra8 28.
+Bd3 Kh8 29. Kh1 Qb7 30. h4 Rf8 31. Kh2 Qd7 32. Ref1 Rae8 33. a3 Ra8 34. Qd2 Nb3
+35. Qd1 Nd4 36. Rg1 Rae8 37. Qf1 Qd8 38. Qd1 Qd7 39. Nd5 Bxd5 40. cxd5 Rc8 41.
+Re1 Ra8 42. Bf1 Qe7 43. Bd3 1/2-1/2

@@ -1,0 +1,714 @@
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.21"]
+[Round "7"]
+[White "Gashimov, V."]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[WhiteElo "2761"]
+[BlackElo "2736"]
+[PlyCount "100"]
+[EventDate "2012.01.14"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2012.01.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. c3
+d6 9. d4 Bb6 10. a5 Ba7 11. h3 O-O 12. Re1 h6 13. Be3 Ra8 14. Nbd2 Re8 15. Bc2
+Bb7 16. Bb1 Nb8 17. c4 exd4 18. Bxd4 bxc4 19. Bxa7 Rxa7 20. Ra3 Nbd7 21. Nd4
+Ne5 22. Rg3 g6 23. f4 Nd3 24. Bxd3 cxd3 25. f5 g5 26. h4 g4 27. Rxd3 Ra8 28.
+Rde3 h5 29. Qc1 Kh7 30. Ne2 Re5 31. Ng3 d5 32. Nb3 dxe4 33. Nc5 Bc6 34. b4 Qd6
+35. Qa1 Bd5 36. Nd3 exd3 37. Qxe5 Qxe5 38. Rxe5 c6 39. Rd1 Rb8 40. Rxd3 Rxb4
+41. Ra3 Kg7 42. Re2 Bc4 43. Rd2 Bd5 44. Ra1 Ne4 45. Nxe4 Bxe4 46. Rf1 Kf6 47.
+Rd6+ Ke5 48. Rd8 Kf6 49. Rd6+ Ke5 50. Rd8 Kf6 1/2-1/2
+
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.28"]
+[Round "12"]
+[White "Navara, D."]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[WhiteElo "2712"]
+[BlackElo "2736"]
+[PlyCount "128"]
+[EventDate "2012.01.14"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2012.01.30"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8. d4
+Bb6 9. Be3 O-O 10. Nbd2 h6 11. h3 Re8 12. Re1 Bd7 13. Bc2 Qb8 14. a3 a5 15. Bd3
+Qa7 16. Bxb5 exd4 17. cxd4 Nxd4 18. Bxd7 Nxd7 19. Nxd4 Bxd4 20. Rc1 Bxe3 21.
+Rxe3 a4 22. Nf3 Rab8 23. Rc2 Nc5 24. Nd4 Qb7 25. Nf5 g6 26. Nxh6+ Kg7 27. Ng4
+Nb3 28. Rc4 Re6 29. Rxa4 c5 30. Rc4 Nd4 31. b4 Rxe4 32. bxc5 dxc5 33. Rxc5 Rf4
+34. Rd3 Rd8 35. Qa1 Kh7 36. Nf6+ Kg7 37. Ng4 Kh7 38. Qf1 Ne2+ 39. Qxe2 Qb1+ 40.
+Kh2 Qxd3 41. Qe7 Qd6 42. Qh4+ Kg7 43. Rc6 Qxc6 44. Qxd8 Qc5 45. Qd2 Qd4 46. Qc1
+Rf5 47. Kg1 Rc5 48. Qh6+ Kg8 49. Qe3 Qxe3 50. Nxe3 Rc3 51. h4 Rxa3 52. g3 Kg7
+53. Kg2 Kf6 54. Nd5+ Ke5 55. Nf4 Kf5 56. Nh3 Ra2 57. Kf3 f6 58. Nf4 Ra3+ 59.
+Kg2 g5 60. hxg5 fxg5 61. Nd5 Ke5 62. Ne3 Ke4 63. Ng4 Ra2 64. Nf6+ Kf5 1/2-1/2
+
+
+[Event "11th Aeroflot Open A"]
+[Site "Moscow RUS"]
+[Date "2012.02.08"]
+[Round "2"]
+[White "Iordachescu, V."]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[WhiteElo "2651"]
+[BlackElo "2736"]
+[PlyCount "69"]
+[EventDate "2012.02.07"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2012.02.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. d3
+d6 9. axb5 axb5 10. c3 O-O 11. Re1 Bb6 12. h3 Ne7 13. Nbd2 Ng6 14. Nf1 h6 15.
+Ng3 Nh7 16. d4 Qf6 17. Nh5 Qe7 18. Bc2 Ng5 19. Be3 c5 20. d5 c4 21. Ng3 Qf6 22.
+Nh2 Nf4 23. Kh1 g6 24. Bxb6 Rxb6 25. Qd2 h5 26. Qe3 Rb8 27. Ne2 Nxe2 28. Rxe2
+h4 29. Ree1 Re8 30. Ra7 Qf4 31. Rea1 b4 32. Nf1 bxc3 33. bxc3 Rb2 34. R1a2 Rxa2
+35. Rxa2 1/2-1/2
+
+
+[Event "11th Aeroflot Open A"]
+[Site "Moscow RUS"]
+[Date "2012.02.15"]
+[Round "9"]
+[White "Jobava, Ba"]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "D70"]
+[WhiteElo "2704"]
+[BlackElo "2736"]
+[PlyCount "74"]
+[EventDate "2012.02.07"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2012.02.21"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2
+Qd6 9. f4 Rd8 10. Nf3 Qb4 11. Qc2 Nc4 12. Bf2 c5 13. O-O-O cxd4 14. Nxd4 Bg4
+15. Be2 Bxe2 16. Ndxe2 Nc6 17. a3 Qa5 18. e5 Rac8 19. Kb1 b5 20. Nc1 Qa6 21.
+Nb3 b4 22. Nc5 Qxa3 23. Nb5 b3 24. Nxa3 Nxa3+ 25. bxa3 bxc2+ 26. Kxc2 g5 27. g3
+Bh6 28. Rxd8+ Nxd8 29. fxg5 Bxg5 30. Kd3 e6 31. Ne4 Be7 32. Nd6 Rc7 33. g4 f6
+34. Bh4 Rd7 35. Ke2 Nc6 36. Ne4 fxe5 37. Bxe7 Rxe7 1/2-1/2
+
+
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2012.03.10"]
+[Round "5.1"]
+[White "Jones, G."]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[WhiteElo "2635"]
+[BlackElo "2767"]
+[PlyCount "58"]
+[EventDate "2012.03.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "Mark Crowther"]
+[SourceDate "2012.03.12"]
+
+1. e4 c5 2. Nf3 e6 3. g3 Nc6 4. Bg2 d5 5. exd5 exd5 6. d4 Nf6 7. O-O Be7 8. Be3
+cxd4 9. Nxd4 O-O 10. Nc3 Bg4 11. Qd3 a6 12. Rfe1 Qd7 13. Nxc6 bxc6 14. Na4 Qf5
+15. Bf4 Bb4 16. Qxf5 Bxf5 17. c3 Ba5 18. Bf1 Bd8 19. b3 Ne4 20. h4 Bf6 21. Rac1
+g5 22. hxg5 Nxg5 23. Bg2 Nh3+ 24. Bxh3 Bxh3 25. Be5 Bg5 26. f4 Be7 27. Bd4 Rfe8
+28. Re3 Bf5 29. Nc5 Bxc5 1/2-1/2
+
+
+[Event "Reykjavik Open"]
+[Site "Reykjavik ISL"]
+[Date "2012.03.13"]
+[Round "9.1"]
+[White "Hou Yifan"]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[WhiteElo "2639"]
+[BlackElo "2767"]
+[PlyCount "94"]
+[EventDate "2012.03.06"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "Mark Crowther"]
+[SourceDate "2012.03.19"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8. d4
+Bb6 9. h3 O-O 10. Be3 h6 11. Nbd2 Re8 12. Re1 Bd7 13. Qb1 Na5 14. Bc2 c5 15. d5
+c4 16. b4 cxb3 17. axb3 Bxe3 18. Rxe3 Nb7 19. b4 Nh5 20. Bd3 Nf4 21. Bf1 Rf8
+22. c4 bxc4 23. Bxc4 a5 24. bxa5 Nxa5 25. Qb4 Nxc4 26. Rxa8 Qxa8 27. Nxc4 Qa1+
+28. Re1 Qa2 29. Nfd2 Rc8 30. Re3 Qc2 31. Kh2 Nd3 32. Qb7 Nc5 33. Qb6 Nd3 34.
+Nxd6 Rf8 35. N6c4 Nxf2 36. Qb1 Qxb1 37. Nxb1 Bb5 38. Nba3 Ba6 39. Nxe5 Re8 40.
+d6 Bb7 41. Nxf7 Kxf7 42. Rf3+ Ke6 43. Nb5 Rb8 44. Rxf2 Bxe4 45. Re2 Rxb5 46.
+Rxe4+ Kxd6 47. Kg3 Kd5 1/2-1/2
+
+
+[Event "13th EICC"]
+[Site "Plovdiv BUL"]
+[Date "2012.03.22"]
+[Round "3.1"]
+[White "Popov, Iv RUS"]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2605"]
+[BlackElo "2767"]
+[PlyCount "81"]
+[EventDate "2012.03.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "Mark Crowther"]
+[SourceDate "2012.03.26"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 cxd4 5. Nxd4 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c4 b4 12. Nc2 O-O 13. g3 Bg5 14. h4 Bh6 15.
+Bh3 Be6 16. Kf1 Qa5 17. Kg2 Qc5 18. Qd3 a5 19. Rhf1 Ra7 20. b3 Bxd5 21. Qxd5
+Rd8 22. Rfd1 Qb6 23. Qb5 Qc7 24. Qa4 g6 25. Rd3 Nd4 26. Nxd4 exd4 27. Qb5 Qc5
+28. f4 Bg7 29. Qxc5 dxc5 30. a4 Re7 31. Kf3 Rde8 32. Re1 f5 33. e5 h5 34. Bg2
+Kf8 35. Kf2 Re6 36. Bd5 Ke7 37. Rdd1 Rf8 38. Kf3 Bh6 39. Rd3 Kd7 40. Re2 Ke7
+41. Rd1 1/2-1/2
+
+
+[Event "13th EICC"]
+[Site "Plovdiv BUL"]
+[Date "2012.03.24"]
+[Round "5.12"]
+[White "Zhigalko, S."]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "C92"]
+[WhiteElo "2649"]
+[BlackElo "2767"]
+[PlyCount "71"]
+[EventDate "2012.03.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "Mark Crowther"]
+[SourceDate "2012.03.26"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Re8 10. Ng5 Rf8 11. Nf3 Re8 12. Ng5 Rf8 13. d4 Bb7 14. Nf3 Re8 15.
+Nbd2 Bf8 16. d5 Nb8 17. Nf1 Nbd7 18. N3h2 Nc5 19. Bc2 c6 20. b4 Ncd7 21. dxc6
+Bxc6 22. Bg5 Qc7 23. Qd3 Rac8 24. Bb3 Qb7 25. Ng3 h6 26. Bxf6 Nxf6 27. Ng4 Nxg4
+28. hxg4 g6 29. Qf3 Qe7 30. Rad1 Bg7 31. Rd3 Bd7 32. Red1 Rc6 33. Bd5 Rc7 34.
+Bb3 Rc6 35. Bd5 Rc7 36. Bb3 1/2-1/2
+
+
+[Event "13th EICC"]
+[Site "Plovdiv BUL"]
+[Date "2012.03.27"]
+[Round "7.6"]
+[White "Kobalia, M."]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[WhiteElo "2666"]
+[BlackElo "2767"]
+[PlyCount "79"]
+[EventDate "2012.03.20"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "BUL"]
+[Source "Mark Crowther"]
+[SourceDate "2012.04.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. c3
+d6 9. d4 Bb6 10. a5 Ba7 11. h3 O-O 12. Be3 Ra8 13. Nbd2 h6 14. Re1 Re8 15. dxe5
+Nxe5 16. Nxe5 dxe5 17. Nf1 Qe7 18. Qf3 Bd7 19. Bxa7 Rxa7 20. Ne3 Raa8 21. Rad1
+Rad8 22. Nd5 Nxd5 23. Bxd5 Be6 24. Bxe6 Qxe6 25. Rxd8 Rxd8 26. Rd1 Rd6 27. Rxd6
+Qxd6 28. Qe3 c5 29. f3 h5 30. h4 g6 31. Kf2 c4 32. Kg3 Kg7 33. Qb6 Qd2 34. Qxa6
+Qxb2 35. Qb6 Qxc3 36. Qxb5 Qe1+ 37. Kh3 Qh1+ 38. Kg3 Qe1+ 39. Kh3 Qh1+ 40. Kg3
+1/2-1/2
+
+
+[Event "19th TCh-RUS 2012"]
+[Site "Sochi RUS"]
+[Date "2012.04.12"]
+[Round "4"]
+[White "Morozevich, A."]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "D97"]
+[WhiteElo "2765"]
+[BlackElo "2767"]
+[PlyCount "253"]
+[EventDate "2012.04.09"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2012.04.16"]
+[WhiteTeam "Economist-SGSEU, Saratov"]
+[BlackTeam "ShSM-64, Moscow"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8. Be2
+b5 9. Qb3 c5 10. dxc5 Be6 11. Qc2 Nbd7 12. Be3 Rc8 13. Rd1 b4 14. Nd5 Bxd5 15.
+exd5 Nxc5 16. O-O Nce4 17. Qb1 Nd6 18. Rfe1 Qa5 19. Nd4 Qxd5 20. Bf3 Qe5 21.
+Nc6 Rxc6 22. Bxc6 Ng4 23. g3 Qh5 24. h4 Nxe3 25. Rxe3 Qc5 26. Be4 Qb6 27. a4
+Rc8 28. Re2 Bf6 29. Rc1 Rxc1+ 30. Qxc1 Qd4 31. Bf3 Kg7 32. Kg2 h5 33. Qc6 Qd3
+34. Qd5 Qc4 35. Qxc4 Nxc4 36. b3 Na5 37. Re4 Nxb3 38. Rxb4 Nd4 39. Rc4 e6 40.
+Be4 a5 41. f3 Nb3 42. Bc2 Nd4 43. Bd3 Nb3 44. Bc2 Nd4 45. Be4 Nb3 46. Rc7 Bd8
+47. Rd7 Bf6 48. Bc2 Nd4 49. Bd3 Nb3 50. Bc4 Nc5 51. Rc7 Bd4 52. Bb5 Kf8 53. g4
+hxg4 54. fxg4 Ne4 55. Rc4 e5 56. Rc8+ Kg7 57. Rc7 Nd6 58. Bc6 Kf6 59. Bd5 Bb2
+60. Kf3 Ba3 61. g5+ Kg7 62. Kg4 Kf8 63. h5 gxh5+ 64. Kxh5 Bb4 65. Rd7 Ke8 66.
+Bc6 Kf8 67. Ra7 Nf5 68. Bd5 Nd6 69. Rc7 Ba3 70. Rc3 Bb4 71. Re3 Ne8 72. Rf3 Nd6
+73. Re3 Ne8 74. Rxe5 f6 75. Re2 fxg5 76. Kxg5 Nc7 77. Bc6 Kf7 78. Kf5 Bc3 79.
+Bb5 Bb4 80. Bc4+ Kf8 81. Re5 Kg7 82. Ba2 Kf8 83. Re2 Na6 84. Kg6 Nc7 85. Bf7
+Bc5 86. Rc2 Bd6 87. Kf6 Be7+ 88. Kg6 Bd6 89. Re2 Bc5 90. Bc4 Bb4 91. Re5 Ne8
+92. Bb5 Nd6 93. Bc6 Bc3 94. Re3 Bb2 95. Bd7 Bc1 96. Re5 Bd2 97. Bh3 Bb4 98. Re3
+Nc4 99. Re2 Nb6 100. Bf5 Nd5 101. Re5 Ne7+ 102. Kg5 Bd2+ 103. Kg4 Kf7 104. Be4
+Kf6 105. Rb5 Ke6 106. Kf3 Kf6 107. Ke2 Bb4 108. Kd3 Nc8 109. Kd4 Nd6 110. Rb6
+Ke6 111. Bg2 Ke7 112. Kd5 Nf5 113. Rb7+ Kd8 114. Bh3 Ne3+ 115. Kc6 Nc4 116.
+Rd7+ Ke8 117. Rd4 Ne5+ 118. Kc7 Bc3 119. Rd6 Ke7 120. Re6+ Kf7 121. Kd6 Ng6
+122. Re3 Bb4+ 123. Kc6 Kf6 124. Kb5 Ne5 125. Rb3 Bd2 126. Ka6 Ke7 127. Rb6
+1/2-1/2
+
+
+[Event "19th TCh-RUS 2012"]
+[Site "Sochi RUS"]
+[Date "2012.04.15"]
+[Round "7"]
+[White "Svidler, P."]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "A15"]
+[WhiteElo "2744"]
+[BlackElo "2767"]
+[PlyCount "83"]
+[EventDate "2012.04.09"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2012.04.16"]
+[WhiteTeam "St. Petersburg Chess Fed."]
+[BlackTeam "ShSM-64, Moscow"]
+
+1. c4 Nf6 2. g3 c6 3. b3 d5 4. Bb2 Bf5 5. Nf3 e6 6. Bg2 Nbd7 7. O-O Be7 8. d3
+h6 9. Nbd2 O-O 10. Qc2 Bh7 11. Ne5 Nxe5 12. Bxe5 Bd6 13. Qb2 a5 14. Nf3 Bxe5
+15. Nxe5 Qd6 16. a3 d4 17. f4 Nd7 18. Nxd7 Qxd7 19. b4 Rfe8 20. b5 c5 21. b6
+Re7 22. Rab1 e5 23. Qb5 Qc8 24. fxe5 Rxe5 25. Bd5 Bf5 26. Qb2 Re7 27. Qd2 Be6
+28. e4 dxe3 29. Qxe3 Qd7 30. Rfe1 Rc8 31. Bg2 Ree8 32. Qf3 Rc6 33. Qf2 Rd6 34.
+Qxc5 Rxd3 35. Qc7 Qxc7 36. bxc7 Rc8 37. Rxb7 Rd7 38. c5 Rdxc7 39. Rxc7 Rxc7 40.
+c6 Kf8 41. Re5 a4 42. Ra5 1/2-1/2
+
+
+[Event "TCh-ITA 2012"]
+[Site "Arvier ITA"]
+[Date "2012.04.30"]
+[Round "6"]
+[White "Ronchetti, N."]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2446"]
+[BlackElo "2767"]
+[PlyCount "99"]
+[EventDate "2012.04.27"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "ITA"]
+[Source "Mark Crowther"]
+[SourceDate "2012.04.30"]
+[WhiteTeam "Acc. Scacch. Italiana Bologna"]
+[BlackTeam "Ob. Risarcimento Padova"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 Qxd5 5. Nf3 Nf6 6. Be2 Be7 7. O-O cxd4 8.
+cxd4 O-O 9. Ne5 Qd8 10. Nc3 Nbd7 11. Bf3 Nb6 12. Be3 Nbd5 13. Qb3 Nxe3 14. fxe3
+Nd7 15. Nc4 Rb8 16. a4 a6 17. Rfd1 b6 18. d5 e5 19. d6 Bg5 20. Nd5 Bb7 21. Qc3
+Bxd5 22. Rxd5 Kh8 23. Rad1 Qe8 24. e4 f5 25. exf5 e4 26. Be2 Bf6 27. Qe3 Qd8
+28. Qxe4 b5 29. axb5 axb5 30. Nd2 Nb6 31. Rxb5 Qxd6 32. Nf3 Qc7 33. Qb4 Rfe8
+34. Bf1 Nd7 35. Qd6 Qa7+ 36. Kh1 Rbd8 37. Qa3 Qc7 38. Rbd5 Ne5 39. Rxd8 Rxd8
+40. Rxd8+ Qxd8 41. Nd4 Ng4 42. Ne6 Qb8 43. Qf8+ Qxf8 44. Nxf8 Bxb2 45. h3 Nf2+
+46. Kg1 Bd4 47. Ne6 Ba7 48. Kh2 Bb8+ 49. Kg1 Ba7 50. Kh2 1/2-1/2
+
+
+[Event "20th Sigeman & Co"]
+[Site "Malmo SWE"]
+[Date "2012.05.11"]
+[Round "3"]
+[White "Leko, P."]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "C92"]
+[WhiteElo "2723"]
+[BlackElo "2770"]
+[PlyCount "78"]
+[EventDate "2012.05.09"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "SWE"]
+[EventCategory "16"]
+[Source "Mark Crowther"]
+[SourceDate "2012.05.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Re8 10. d4 Bb7 11. Nbd2 Bf8 12. a3 h6 13. Bc2 Nb8 14. b3 Nbd7 15. Bb2
+g6 16. a4 c6 17. Bd3 Nh5 18. g3 Bg7 19. Qc2 Qb6 20. Bf1 Rac8 21. Bg2 a5 22. Nf1
+bxa4 23. bxa4 exd4 24. Nxd4 Ne5 25. Ne3 Ba6 26. Ba3 Nc4 27. Nxc4 Bxc4 28. Rab1
+Qa6 29. Red1 d5 30. exd5 cxd5 31. Nb5 Red8 32. Rd2 Nf6 33. Be7 Rd7 34. Bxf6
+Qxf6 35. Qd1 Rcd8 36. Qf3 Qg5 37. Qd1 h5 38. h4 Qe5 39. Bf1 Qe7 1/2-1/2
+
+
+[Event "20th Sigeman & Co"]
+[Site "Malmo SWE"]
+[Date "2012.05.14"]
+[Round "5"]
+[White "Li Chao2"]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2703"]
+[BlackElo "2770"]
+[PlyCount "68"]
+[EventDate "2012.05.09"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "SWE"]
+[EventCategory "16"]
+[Source "Mark Crowther"]
+[SourceDate "2012.05.14"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8.
+Rb1 O-O 9. Be2 Nc6 10. d5 Ne5 11. Nxe5 Bxe5 12. Qd2 e6 13. f4 Bc7 14. O-O exd5
+15. exd5 Ba5 16. d6 Rb8 17. Rb5 Bd7 18. f5 Bxb5 19. Bxb5 Qh4 20. Rf4 Qg5 21.
+Qe1 Qd8 22. Qe5 Re8 23. Qd5 Re1+ 24. Kf2 g5 25. f6 h6 26. Qf5 Qxd6 27. Kxe1 Rd8
+28. Kf2 Qd1 29. Bc4 Kh8 30. Rf3 Qxc1 31. Bd3 Qd2+ 32. Kf1 Qd1+ 33. Kf2 Qd2+ 34.
+Kf1 Qd1+ 1/2-1/2
+
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.10"]
+[Round "3"]
+[White "Carlsen, M."]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2835"]
+[BlackElo "2770"]
+[PlyCount "59"]
+[EventDate "2012.06.08"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "22"]
+[Source "Mark Crowther"]
+[SourceDate "2012.06.11"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Qa4+ Nd7 8.
+Nf3 O-O 9. Be3 c5 10. Rc1 Nb6 11. Qd1 Bg4 12. Be2 Bxf3 13. gxf3 cxd4 14. cxd4
+Qd7 15. O-O Rac8 16. Qd2 Rfd8 17. Rfd1 Rxc1 18. Qxc1 Rc8 19. Qa3 Na4 20. Bf1 b5
+21. Rc1 Rxc1 22. Qxc1 Bxd4 23. Bxb5 Bxe3 24. Bxd7 Bxc1 25. Bxa4 Bf4 26. h3 Be5
+27. Kg2 Bf4 28. Kg1 Be5 29. Kg2 Bf4 30. Kg1 1/2-1/2
+
+
+[Event "7th Tal Mem Blitz"]
+[Site "Moscow RUS"]
+[Date "2012.06.07"]
+[Round "2"]
+[White "McShane, L."]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "2706"]
+[BlackElo "2770"]
+[PlyCount "79"]
+[EventDate "2012.06.07"]
+[EventType "tourn (blitz)"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "22"]
+[Source "Mark Crowther"]
+[SourceDate "2012.06.11"]
+
+1. e4 c5 2. Nc3 e6 3. g3 Nc6 4. Bg2 Nf6 5. Nge2 a6 6. O-O b5 7. d3 Bb7 8. Be3
+Be7 9. h3 O-O 10. g4 d5 11. exd5 Nxd5 12. Nxd5 exd5 13. d4 cxd4 14. Nxd4 Ne5
+15. Nf5 Bf6 16. Bd4 g6 17. g5 Bxg5 18. Bxe5 gxf5 19. Qd4 Rc8 20. b3 Rxc2 21.
+Qd3 Rc6 22. Rad1 Rg6 23. Kh1 Bf6 24. Bf4 Re8 25. Bxd5 Qd7 26. Bxb7 Qxb7+ 27.
+Qd5 Qxd5+ 28. Rxd5 Re2 29. a4 bxa4 30. bxa4 Re4 31. Rxf5 Rxa4 32. Rb1 Ra2 33.
+Bg3 Kg7 34. Rb7 a5 35. Ra7 Rg5 36. Rxf6 Kxf6 37. Bh4 Kg6 38. Bxg5 Kxg5 39. Rxf7
+Kg6 40. Ra7 1/2-1/2
+
+
+[Event "TCh-SUI National A 2012"]
+[Site "Switzerland SUI"]
+[Date "2012.06.03"]
+[Round "4.1"]
+[White "Pelletier, Y."]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "A35"]
+[WhiteElo "2589"]
+[BlackElo "2767"]
+[PlyCount "60"]
+[EventDate "2012.03.18"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "SUI"]
+[Source "Mark Crowther"]
+[SourceDate "2012.06.11"]
+[WhiteTeam "Zuerich 1"]
+[BlackTeam "Winterthur 1"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 Nf6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nc7 7. O-O e5 8. d3
+Be7 9. Nd2 Bd7 10. Nc4 f6 11. f4 b5 12. Ne3 exf4 13. Rxf4 O-O 14. Ned5 Bd6 15.
+Nxc7 Bxc7 16. Rf2 Rb8 17. a4 a6 18. axb5 axb5 19. Be3 Nd4 20. Ne4 Re8 21. b4
+Bg4 22. bxc5 f5 23. Bxd4 Qxd4 24. Ng5 h6 25. Nf3 Qxc5 26. Qb3+ Kh8 27. d4 Qb6
+28. e3 b4 29. Rc1 Bxf3 30. Bxf3 Qd6 1/2-1/2
+
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.13"]
+[Round "5"]
+[White "Grischuk, A."]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "D92"]
+[WhiteElo "2761"]
+[BlackElo "2770"]
+[PlyCount "62"]
+[EventDate "2012.06.08"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "22"]
+[Source "Mark Crowther"]
+[SourceDate "2012.06.19"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. Rc1 Be6 7. Ng5 c5 8. dxc5
+d4 9. Nb5 Nc6 10. Nc7 Bf5 11. Nxa8 e5 12. Bd2 e4 13. e3 h6 14. Nh3 Bxh3 15.
+gxh3 Ne5 16. Bg2 Nd3+ 17. Kf1 Nxc1 18. Qxc1 d3 19. Bc3 Qe7 20. Nc7 Qxc7 21.
+Bxf6 Bxf6 22. Bxe4 Rd8 23. Bd5 Qxc5 24. Qd1 Rxd5 25. cxd5 Qxd5 26. Rg1 Kg7 27.
+Qb3 Qe4 28. Rg4 Qh1+ 29. Rg1 Qe4 30. Rg4 Qh1+ 31. Rg1 Qe4 1/2-1/2
+
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.16"]
+[Round "7"]
+[White "Radjabov, T."]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2784"]
+[BlackElo "2770"]
+[PlyCount "126"]
+[EventDate "2012.06.08"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "22"]
+[Source "Mark Crowther"]
+[SourceDate "2012.06.19"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
+Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Qd2 Qxd2+ 12. Bxd2 Rd8 13. d5 Na6 14. Rc1
+f5 15. e5 h6 16. Bc4 Kh8 17. O-O g5 18. Rfd1 f4 19. Bxa6 bxa6 20. Ba5 Rg8 21.
+e6 Rb8 22. a4 Bb7 23. Rc7 g4 24. Nh4 Bf6 25. Nf5 Bxd5 26. Nxe7 Bxe7 27. Rxe7
+Rg5 28. Bc7 Rb4 29. Re8+ Rg8 30. Be5+ Kh7 31. Re7+ Kg6 32. Rxa7 Re4 33. Bxf4
+Bb3 34. Rb1 Bxa4 35. Be3 Bb5 36. e7 Re8 37. Bc5 Rc8 38. Be3 Re8 39. Rd1 h5 40.
+Rd5 h4 41. h3 gxh3 42. gxh3 R4xe7 43. Rxe7 Rxe7 44. Rg5+ Kf6 45. Rg4 Rh7 46.
+Bg5+ Kf7 47. Bxh4 Bd7 48. Rf4+ Kg8 49. Kh2 a5 50. Kg3 Rg7+ 51. Kh2 Rh7 52. Rd4
+a4 53. Rd3 a3 54. Bf6 a2 55. f4 Rf7 56. Be5 Rh7 57. Ra3 Be6 58. Kg2 Kf7 59.
+Ra7+ Kg8 60. Ra6 Bxh3+ 61. Kg3 Bd7 62. Rxa2 Rh3+ 63. Kg2 Rd3 1/2-1/2
+
+
+[Event "40th TCh-GRE 2012"]
+[Site "Achaea GRE"]
+[Date "2012.07.01"]
+[Round "3.2"]
+[White "Sedlak, N."]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[WhiteElo "2556"]
+[BlackElo "2770"]
+[PlyCount "52"]
+[EventDate "2012.06.30"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[Source "Mark Crowther"]
+[SourceDate "2012.07.02"]
+[WhiteTeam "THESSALONIKI HS"]
+[BlackTeam "CP PERISTERI"]
+
+1. d4 Nf6 2. Bg5 d5 3. Bxf6 exf6 4. e3 Be7 5. c4 dxc4 6. Bxc4 Nd7 7. Nc3 O-O 8.
+Nf3 Nb6 9. Bb3 a5 10. a3 Bd7 11. O-O a4 12. Ba2 Re8 13. h3 Bd6 14. e4 Ra5 15.
+Re1 Be6 16. Bxe6 Rxe6 17. Qd3 Bf8 18. Rad1 g6 19. Nd2 Rd6 20. Nc4 Nxc4 21. Qxc4
+c6 22. d5 Qb8 23. Qe2 Qe8 24. Qc2 Qa8 25. Qe2 Qe8 26. Qc2 Qa8 1/2-1/2
+
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.16"]
+[Round "4"]
+[White "Leko, P."]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[WhiteElo "2730"]
+[BlackElo "2775"]
+[PlyCount "84"]
+[EventDate "2012.07.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[EventCategory "19"]
+[Source "Mark Crowther"]
+[SourceDate "2012.07.17"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4 8.
+Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 Nbc6 11. f4 dxc3 12. Qd3 d4 13. Nxd4 Nxd4 14. Qxd4
+Bd7 15. Rg1 Nf5 16. Qf2 Qc6 17. Bd3 Qd5 18. Rb1 Bc6 19. Rb3 O-O-O 20. Rxc3 Kb8
+21. g4 Nd4 22. Rg3 Qh1+ 23. Bf1 b6 24. Bb2 Be4 25. a4 Rd5 26. Ba3 Rc8 27. Bd6+
+Kb7 28. Rxc8 Nf3+ 29. Ke2 Rd2+ 30. Ke3 Kxc8 31. Rg1 Nxg1 32. Kxd2 Nf3+ 33. Kc3
+Nxh2 34. Be2 Qa1+ 35. Kd2 Qh1 36. Qg3 Nf1+ 37. Bxf1 Qxf1 38. Qe3 Qg2+ 39. Qe2
+Qxe2+ 40. Kxe2 Bxc2 41. a5 bxa5 42. Kd2 Bg6 1/2-1/2
+
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.20"]
+[Round "7"]
+[White "Karjakin, Sergey"]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[WhiteElo "2779"]
+[BlackElo "2775"]
+[PlyCount "82"]
+[EventDate "2012.07.13"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[EventCategory "19"]
+[Source "Mark Crowther"]
+[SourceDate "2012.07.23"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. O-O Nc6 8.
+Qg4 Nf6 9. Qg3 d6 10. Kh1 e5 11. Nc3 Nh5 12. Qf3 Qh4 13. g3 Qg4 14. Qxg4 Bxg4
+15. Nd5 Rc8 16. Kg2 Be6 17. Nd2 Nf6 18. Nc4 Bc5 19. Nxf6+ gxf6 20. c3 h5 21. h4
+Ne7 22. Ne3 d5 23. exd5 Nxd5 24. Nf5 Rg8 25. Be4 Rd8 26. Re1 Rd7 27. Bh6 Nf4+
+28. Bxf4 exf4 29. b4 Bb6 30. Rad1 fxg3 31. fxg3 Rxd1 32. Rxd1 Bc7 33. c4 Rg4
+34. Kf3 Bxf5 35. Bxf5 Rxc4 36. a3 Rc3+ 37. Rd3 Rxd3+ 38. Bxd3 Kf8 39. Be4 b6
+40. a4 b5 41. axb5 axb5 1/2-1/2
+
+
+[Event "40th Olympiad Open"]
+[Site "Istanbul TUR"]
+[Date "2012.08.31"]
+[Round "4.23"]
+[White "Morovic Fernandez, I."]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "D90"]
+[WhiteElo "2575"]
+[BlackElo "2773"]
+[PlyCount "61"]
+[EventDate "2012.08.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "Mark Crowther"]
+[SourceDate "2012.09.03"]
+[WhiteTeam "Chile"]
+[BlackTeam "Italy"]
+[WhiteTeamCountry "CHI"]
+[BlackTeamCountry "ITA"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. Bd2 Bg4 7. e3 O-O 8.
+Rc1 Nxc3 9. Bxc3 Nd7 10. Be2 Nf6 11. O-O Nd5 12. h3 Nxc3 13. Rxc3 Bd7 14. Qb3
+Rb8 15. Qa3 a6 16. Qa5 c6 17. Qxd8 Rfxd8 18. Rfc1 Be6 19. Bc4 Bxc4 20. Rxc4 Rd5
+21. Rc5 Rbd8 22. Kf1 e6 23. Ke2 Kf8 24. R1c3 Ke8 25. Rxd5 Rxd5 26. Rb3 Rb5 27.
+Rxb5 axb5 28. b3 f6 29. Kd3 Bf8 30. Nd2 b6 31. Ke4 1/2-1/2
+
+
+[Event "40th Olympiad Open"]
+[Site "Istanbul TUR"]
+[Date "2012.09.03"]
+[Round "6.8"]
+[White "Adams, Mi"]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2722"]
+[BlackElo "2773"]
+[PlyCount "61"]
+[EventDate "2012.08.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "Mark Crowther"]
+[SourceDate "2012.09.10"]
+[WhiteTeam "England"]
+[BlackTeam "Italy"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ITA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 Nf6 6. c3 a6 7. Bf1 Bg4 8. h3
+Bxf3 9. Qxf3 e6 10. d3 Be7 11. Nd2 O-O 12. Qd1 Nd7 13. Nf3 Nde5 14. Nh2 d5 15.
+f4 Nd7 16. exd5 exd5 17. g3 b5 18. Bg2 Nb6 19. Be3 Rc8 20. Bf2 Re8 21. Rc1 Bd6
+22. Rc2 a5 23. Rxe8+ Qxe8 24. Ng4 Qd7 25. d4 cxd4 26. cxd4 Ne7 27. Ne5 Qb7 28.
+Bf3 Rxc2 29. Qxc2 Nd7 30. Ng4 g6 31. Kg2 1/2-1/2
+
+
+[Event "40th Olympiad Open"]
+[Site "Istanbul TUR"]
+[Date "2012.09.06"]
+[Round "9.8"]
+[White "Leko, P."]
+[Black "Caruana, F."]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[WhiteElo "2737"]
+[BlackElo "2773"]
+[PlyCount "160"]
+[EventDate "2012.08.28"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[Source "Mark Crowther"]
+[SourceDate "2012.09.10"]
+[WhiteTeam "Hungary"]
+[BlackTeam "Italy"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "ITA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. h3 b6 7. O-O e5 8. a4
+a5 9. Na3 Qc7 10. Nc4 Be6 11. b3 Nf6 12. Ncxe5 Nd7 13. Nxd7 Bxa1 14. Bg5 Bg7
+15. Bf6 Bxf6 16. Nxf6+ Ke7 17. e5 h6 18. Qd2 Kd8 19. Qf4 Kc8 20. Nd2 Qe7 21.
+Nde4 Kc7 22. Re1 Rad8 23. Nd6 Rxd6 24. exd6+ Qxd6 25. Qf3 Rd8 26. Re3 Kb7 27.
+Ne4 Qe5 28. Qe2 Qa1+ 29. Kh2 Qe5+ 30. Ng3 Qc7 31. Kg1 Rd5 32. Ne4 Rd8 33. Nd2
+Qf4 34. Nf3 Qf6 35. Ne5 Rd5 36. Qe1 h5 37. Nc4 Rd4 38. Nd2 Rd5 39. Ne4 Qd8 40.
+Nc3 Rf5 41. Ne4 Rd5 42. Qa1 Rd4 43. Nd2 Rd7 44. Nf3 Bd5 45. Qd1 Qf6 46. Qe2
+Bxf3 47. Rxf3 Qg5 48. Re3 Kc7 49. Re4 Qf6 50. g3 Rd4 51. Re3 Rd7 52. h4 Kd6 53.
+Rf3 Qe5 54. Re3 Qf6 55. Kg2 Kc7 56. Re4 Qd6 57. Qe3 Qf6 58. Qe1 Qd6 59. Re8 Rd8
+60. Qe7+ Rd7 61. Qxd6+ Kxd6 62. Kf3 Kc7 63. Kf4 b5 64. f3 bxa4 65. bxa4 c4 66.
+Ke3 cxd3 67. cxd3 Kb6 68. Re5 c5 69. g4 Rd4 70. gxh5 Rxh4 71. hxg6 fxg6 72.
+Re6+ Kc7 73. f4 Rg4 74. Kf3 Rg1 75. Ra6 g5 76. fxg5 Rxg5 77. Rxa5 Kb6 78. Rb5+
+Kc6 79. Rb1 Rd5 80. Ke3 Rd4 1/2-1/2

@@ -1,0 +1,605 @@
+[Event "Izt"]
+[Site "Biel (Switzerland)"]
+[Date "1993.??.??"]
+[Round "12"]
+[White "Polgar Judit (HUN)"]
+[Black "Barua Dibyendu (IND)"]
+[Result "1-0"]
+[ECO "C33"]
+[WhiteElo "2630"]
+[BlackElo "2510"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Ne7 4.Nc3 Ng6 5.Nf3 Nc6 6.d4 Bb4 7.Bd2
+d6 8.a3 Ba5 9.Nd5 Bxd2+ 10.Qxd2 Be6 11.O-O-O Nce7 12.h4 c6 13.Nxe7
+Qxe7 14.Bxe6 Qxe6 15.h5 Ne7 16.Qxf4 Qh6 17.Qxh6 gxh6 18.Rh4 Rg8
+19.Rd2 Rg7 20.Rf4 Kd7 21.Nh2 f5 22.exf5 Nd5 23.Re4 Nf6 24.Re6
+Rf8 25.g4 Rff7 26.d5 c5 27.Rxf6 Rxf6 28.Re2 Re7 29.Re6 Rf8 30.Kd2
+Rxe6 31.dxe6+ Ke7 32.Ke3 Kf6 33.Kf4 b5 34.Nf3 Rg8 35.Nd2 Ke7
+36.Nf1 d5 37.Nd2 Kd6 38.Nf3 d4 39.Nd2 c4 40.Ne4+ Ke7 41.Ke5 1-0
+
+
+[Event "Izt"]
+[Site "Biel (Switzerland)"]
+[Date "1993.??.??"]
+[Round "5"]
+[White "Polgar Judit (HUN)"]
+[Black "Hellers Ferdinand (SWE)"]
+[Result "1-0"]
+[ECO "B82"]
+[WhiteElo "2630"]
+[BlackElo "2560"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e6 7.Bd3
+Nbd7 8.Qf3 g6 9.Nb3 Bg7 10.Be3 O-O 11.g4 Rb8 12.h4 b5 13.h5 Bb7
+14.hxg6 hxg6 15.O-O-O b4 16.Ne2 a5 17.g5 Nh5 18.Bb5 Ba8 19.Ba4
+Nb6 20.Bxb6 Qxb6 21.Rxh5 gxh5 22.Ng3 Rfc8 23.Nxh5 Qc7 24.Nd4
+Bxd4 25.Rxd4 Bc6 26.Bxc6 Qxc6 27.Qd3 Rd8 28.Rc4 Qb6 29.b3 Kf8
+30.Nf6 Ke7 31.Rd4 Rbc8 32.e5 d5 33.g6 Rc3 34.Qd1 Rdc8 35.Rd2
+Rg3 36.Rxd5 Rxg6 37.Rd7+ Kf8 38.Rxf7+ Kxf7 39.Qd7+ 1-0
+
+
+[Event "Izt"]
+[Site "Biel (Switzerland)"]
+[Date "1993.??.??"]
+[Round "10"]
+[White "Polgar Judit (HUN)"]
+[Black "Rogers Ian (AUS)"]
+[Result "1-0"]
+[ECO "B18"]
+[WhiteElo "2630"]
+[BlackElo "2595"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nd7 7.Be2
+e6 8.O-O Bd6 9.b3 Ngf6 10.Bb2 Qc7 11.c4 O-O 12.Nh4 Rfe8 13.Nxg6
+hxg6 14.Qc2 Rad8 15.Rad1 b6 16.c5 Bf4 17.cxb6 Nxb6 18.Rfe1 Nbd5
+19.Nf1 Nb4 20.Qc4 Qb7 21.g3 Bd6 22.Bf3 Rc8 23.a3 Nbd5 24.Nd2
+Red8 25.Qd3 Ne7 26.Nc4 Bc7 27.Qc2 Nfd5 28.b4 Rb8 29.Bc1 Nf5 30.Bg5
+Rdc8 31.Kg2 a5 32.Nxa5 Bxa5 33.bxa5 Qb3 34.Qd2 Ra8 35.h4 Qa4
+36.h5 gxh5 37.Bxh5 Qxa5 38.Qe2 Qc7 39.Rd3 Ra4 40.Rh1 Rxd4 41.Bg6
+Rxd3 42.Bh7+ 1-0
+
+
+[Event "Match"]
+[Site "Budapest (Hungary)"]
+[Date "1993.??.??"]
+[Round "2"]
+[White "Polgar Judit (HUN)"]
+[Black "Spassky Boris V (FRA)"]
+[Result "1-0"]
+[ECO "C95"]
+[WhiteElo "2630"]
+[BlackElo "2565"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.c3 d6 9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.Nf1
+Bf8 14.Ng3 g6 15.b3 Bg7 16.d5 Bf8 17.Bg5 h6 18.Be3 c6 19.c4 a5
+20.Qd2 Kh7 21.Nh2 b4 22.Ng4 Nxg4 23.hxg4 Qh4 24.g5 c5 25.Nf1
+f6 26.g3 Qh3 27.f3 fxg5 28.Re2 Nf6 29.g4 Qxf3 30.Nh2 Qh3 31.Rf1
+Nxg4 32.Rf7+ Bg7 33.Nxg4 Qxg4+ 34.Rg2 Qh3 35.Rxb7 Rf8 36.Bxg5
+hxg5 37.Qxg5 Qh6 38.Qxh6+ Kxh6 39.Rh2+ Kg5 40.Rxg7 1-0
+
+
+[Event "Match"]
+[Site "Budapest (Hungary)"]
+[Date "1993.??.??"]
+[Round "4"]
+[White "Polgar Judit (HUN)"]
+[Black "Spassky Boris V (FRA)"]
+[Result "1-0"]
+[ECO "C76"]
+[WhiteElo "2630"]
+[BlackElo "2565"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.c3 a6 6.Ba4 d6 7.d4 Bd7
+8.Re1 Nge7 9.d5 Nb8 10.Bxd7+ Nxd7 11.Be3 h6 12.Nfd2 O-O 13.c4
+f5 14.f3 c5 15.Nc3 Qc7 16.Rb1 Rfb8 17.Qe2 f4 18.Bf2 g5 19.b4
+b6 20.Rb2 Bf6 21.Reb1 Nc8 22.g4 Kg7 23.Kg2 Kg6 24.a3 Kg7 25.Qd1
+Kf7 26.Qa4 Ne7 27.Qb3 Nc8 28.a4 a5 29.Nb5 Qd8 30.bxa5 Rxa5 31.Ra2
+Rba8 32.Qc2 R5a6 33.Rba1 Nb8 34.Nb3 Qd7 35.Be1 Bd8 36.Bc3 Ne7
+37.a5 Ng6 38.Kf2 Ke7 39.axb6 Bxb6 40.Na5 Kf8 41.Nc6 Rxa2 42.Rxa2
+Rxa2 43.Qxa2 Nxc6 44.Qa8+ Nd8 45.Qb8 h5 46.Qxb6 Nf7 47.Qb8+ Kg7
+48.h3 hxg4 49.hxg4 Kf6 50.Ba5 Ne7 51.Qf8 Ng6 52.Qg8 Ne7 53.Qh7
+Qe8 54.Bc7 Qa8 55.Nxd6 Nxd6 56.Bxd6 Qa2+ 57.Kg1 Qa1+ 58.Kh2 Ng6
+59.Bc7 Qa8 60.Bxe5+ Nxe5 61.Qf5+ Kg7 62.Qxe5+ Kg6 63.Qf5+ Kh6
+64.Qf6+ Kh7 65.Qf7+ 1-0
+
+
+[Event "Match"]
+[Site "Budapest (Hungary)"]
+[Date "1993.??.??"]
+[Round "8"]
+[White "Polgar Judit (HUN)"]
+[Black "Spassky Boris V (FRA)"]
+[Result "1-0"]
+[ECO "C95"]
+[WhiteElo "2630"]
+[BlackElo "2565"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 O-O 9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.Nf1
+Bf8 14.Ng3 g6 15.b3 d5 16.Bg5 h6 17.Bh4 dxe4 18.Nxe4 g5 19.dxe5
+Nxe4 20.Bxe4 Bxe4 21.Rxe4 gxh4 22.Rd4 Re7 23.e6 fxe6 24.Ne5 Rg7
+25.Rxd7 Qg5 26.Qf3 Rd8 27.Rxg7+ Qxg7 28.Re1 Bc5 29.Ng4 Qg6 30.Qf4
+Bb6 31.Nxh6+ Kg7 32.Qxh4 Qf6 33.Qxf6+ Kxf6 34.Re2 Rd1+ 35.Kh2
+Rc1 36.g4 Rxc3 37.h4 Rd3 38.g5+ Ke7 39.g6 Kf8 40.Rxe6 Rf3 41.Ng4
+Rf5 42.Kg3 1-0
+
+
+[Event "Zt"]
+[Site "Budapest (Hungary)"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Polgar Judit (HUN)"]
+[Black "Ftacnik Lubomir (SVK)"]
+[Result "1-0"]
+[ECO "B09"]
+[WhiteElo "2630"]
+[BlackElo "2535"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O 6.Bd3 Nc6 7.O-O
+e5 8.fxe5 dxe5 9.d5 Nd4 10.Nxe5 Nxe4 11.Bxe4 Bxe5 12.Bf4 Bxf4
+13.Rxf4 Nf5 14.Bxf5 Bxf5 15.Qd4 Bxc2 16.Re1 f5 17.Qc4 Kh8 18.Rc1
+Be4 19.Nxe4 fxe4 20.Qd4+ Kg8 21.Rxf8+ Qxf8 22.Rxc7 e3 23.Qxe3
+Re8 24.Qf2 Qxf2+ 25.Kxf2 Rd8 26.Rxb7 Rxd5 27.Ke3 a5 28.a4 Rd1
+29.h4 Re1+ 30.Kf3 Rf1+ 31.Kg3 Rd1 32.Rb5 Rd3+ 33.Kf2 h5 34.Ke2
+Rg3 35.Kf1 Rg4 36.b3 Rg3 37.Kf2 Rc3 38.Rxa5 Rxb3 39.Ra7 Rb4 40.g3
+Rb3 41.a5 Ra3 42.a6 Kf8 43.Ke2 Ke8 44.Kd2 Kd8 45.Ra8+ Kc7 46.a7
+Kb6 47.Rg8 Rxa7 48.Rxg6+ Kc5 49.Ke3 Rh7 50.Ke4 Rh8 51.Ke5 Kc4
+52.Rg5 Kd3 53.Kf4 Kd4 54.Rf5 Rh7 55.Rf8 Kd5 56.Kf5 Rg7 57.Rd8+
+Kc6 58.Kf4 Rg4+ 59.Kf3 Rg7 60.Rh8 Rf7+ 1-0
+
+
+[Event "Zt"]
+[Site "Budapest (Hungary)"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Polgar Judit (HUN)"]
+[Black "Ftacnik Lubomir (SVK)"]
+[Result "1-0"]
+[ECO "B82"]
+[WhiteElo "2630"]
+[BlackElo "2535"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e6 7.Bd3
+b5 8.Qf3 Bb7 9.Be3 Nbd7 10.a3 g6 11.O-O-O Qc7 12.g4 Nc5 13.Kb1
+Be7 14.Rhe1 O-O-O 15.g5 Ne8 16.b4 Nxd3 17.cxd3 Kb8 18.Rc1 Qd7
+19.Bg1 Rc8 20.Qf2 Ba8 21.a4 bxa4 22.b5 axb5 23.Ndxb5 a3 24.Nxa3
+Rc7 25.Qb2+ Rb7 26.Ncb5 Rf8 27.Ba7+ Rxa7 28.Nxa7+ Kxa7 29.Nb5+
+Kb8 30.Nd4+ Bb7 31.Nc6+ Kc8 32.Ne5+ Qc7 33.Rxc7+ Nxc7 34.Nc4
+Ba6 35.Nb6+ Kd8 36.Rc1 d5 37.Qc2 Bd6 38.Qc6 Bxd3+ 39.Ka1 1-0
+
+
+[Event "Zt"]
+[Site "Budapest (Hungary)"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Polgar Judit (HUN)"]
+[Black "Gdanski Jacek (POL)"]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "2630"]
+[BlackElo "2485"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Ne7 5.a3 Bxc3+ 6.bxc3 c5 7.Qg4
+Qc7 8.Bd3 c4 9.Be2 O-O 10.Nf3 Nbc6 11.Bg5 Qa5 12.Kd2 f5 13.Qh3
+Bd7 14.a4 Nc8 15.Qg3 Kh8 16.h4 Nb6 17.h5 Nxa4 18.Rxa4 Qxa4 19.h6
+g6 20.Bf6+ Rxf6 21.exf6 Kg8 22.Qc7 Nb4 23.cxb4 Qxb4+ 24.Ke3 g5
+25.Nxg5 1-0
+
+
+[Event "Zt"]
+[Site "Budapest (Hungary)"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Polgar Judit (HUN)"]
+[Black "Gdanski Jacek (POL)"]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "2630"]
+[BlackElo "2485"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Ne7 5.a3 Bxc3+ 6.bxc3 c5 7.Qg4
+O-O 8.Bd3 Nbc6 9.Qh5 Ng6 10.Nf3 Qc7 11.a4 c4 12.Bxg6 fxg6 13.Qh3
+Qa5 14.Bd2 Bd7 15.Qg4 Ne7 16.h4 h6 17.Qh3 Rf7 18.Ke2 Raf8 19.Rhf1
+Qd8 20.a5 Nc6 21.Qg4 Kh7 22.h5 g5 23.Bxg5 hxg5 24.Nxg5+ Kh8 25.h6
+g6 26.Nxf7+ Rxf7 27.Qxg6 Qf8 28.f4 Ne7 29.Qg5 Rf5 30.Qg7+ Qxg7
+31.hxg7+ Kxg7 32.Rab1 Bc8 33.Rf3 Rh5 34.Rbf1 Rh4 35.Rg3+ Kf7
+36.Rff3 Ng6 37.Kf2 Bd7 38.Rh3 Rxh3 39.Rxh3 Kg7 40.Ke3 Ba4 41.g4
+Ne7 42.Kd2 Bd7 43.Rh5 Be8 44.Rh1 Bd7 45.Rb1 Bc6 46.Kc1 Kg6 47.Kb2
+Ng8 48.Ka3 Nh6 49.Rg1 Bd7 50.Kb4 b6 51.axb6 axb6 52.Ka3 Kf7 53.Kb2
+Kg6 54.Kc1 Be8 55.Kd2 Ba4 56.Ra1 Be8 57.Rg1 Ba4 58.Rg2 Kf7 59.Ke3
+Kg6 60.Kf3 Kf7 61.Kg3 Kg6 62.Rh2 Nf7 63.Kh4 Nh6 64.Rf2 Bd7 65.Rf1
+Ba4 66.Rb1 b5 67.Rc1 Ng8 68.Rf1 Bxc2 69.Rf2 Be4 70.Rb2 Nh6 71.Rxb5
+Bf3 72.f5+ exf5 73.Rb6+ Kg7 74.g5 Ng8 75.Rb7+ Kf8 76.g6 f4 77.e6
+Ne7 78.Rxe7 1-0
+
+
+[Event "Zt"]
+[Site "Budapest (Hungary)"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Polgar Judit (HUN)"]
+[Black "Wojtkiewicz Aleksander (USA)"]
+[Result "1-0"]
+[ECO "B93"]
+[WhiteElo "2630"]
+[BlackElo "2570"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e5 7.Nf3
+Nbd7 8.a4 Be7 9.Bd3 O-O 10.O-O exf4 11.Kh1 Ne5 12.Bxf4 Qc7 13.Bg5
+Be6 14.a5 Nfg4 15.Bf4 Nxf3 16.Qxf3 Ne5 17.Qg3 Rac8 18.Be3 Rfe8
+19.Bb6 Qd7 20.Bd4 Qd8 21.Nd5 Bh4 22.Qf4 Nxd3 23.cxd3 Qg5 24.Qf3
+Qg6 25.Ne3 Be7 26.Bc3 Rcd8 27.Rf2 Bh4 28.Rff1 Bg5 29.Rae1 Rd7
+30.Nf5 Bf6 31.d4 Rdd8 32.Qf4 d5 33.Nd6 Re7 34.e5 Bg5 35.Qf3 Rc7
+36.Bb4 Be7 37.Bc5 Rdd7 38.b4 h6 39.Qa3 Rc6 40.Qb3 Bh4 41.Re3
+f6 42.Qd1 fxe5 43.dxe5 Kh7 44.Kg1 Rcc7 45.Rf4 Bg5 46.Rg3 d4 47.Rxd4 1-0
+
+
+[Event "It"]
+[Site "Dos Hermanas (Spain)"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Polgar Judit (HUN)"]
+[Black "Fernandez Garcia Jose Luis (ESP)"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2630"]
+[BlackElo "2445"]
+[Annotator ""]
+[Source ""]
+[Remark "V"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 Nbd7 4.Be3 e5 5.f3 c6 6.Qd2 Be7 7.O-O-O
+Qa5 8.g4 b5 9.Kb1 Nb6 10.b3 Rb8 11.Qe1 b4 12.Nce2 Be6 13.g5 Nfd7
+14.f4 exf4 15.Nxf4 Na4 16.Nge2 Bc4 17.Bd2 Bxg5 18.Rg1 Bxe2 19.Nxe2
+Bxd2 20.Rxd2 Nc3+ 21.Nxc3 bxc3 22.Rd3 O-O 23.Qh4 Qd8 24.Qh3 g6
+25.Rxc3 Nf6 26.Bg2 Re8 27.Qh6 Rb4 28.d5 cxd5 29.exd5 Ng4 30.Qd2
+Qb6 31.Rf1 Rd4 32.Qg5 Re5 33.Qh4 Qb4 34.Rc8+ Kg7 35.Qxh7+ Kxh7
+36.Rxf7+ Kh6 37.Rh8+ 1-0
+
+
+[Event "It"]
+[Site "Dos Hermanas (Spain)"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Polgar Judit (HUN)"]
+[Black "Rivas Pastor Manuel (ESP)"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2630"]
+[BlackElo "2530"]
+[Annotator ""]
+[Source ""]
+[Remark "V"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 Nbd7 4.f4 e5 5.Nf3 exd4 6.Qxd4 c6 7.Be3
+d5 8.exd5 Bc5 9.Qd3 Qe7 10.Nd4 Nb6 11.dxc6 O-O 12.O-O-O bxc6
+13.Bg1 Qc7 14.g3 Rd8 15.Ndb5 1-0
+
+
+[Event "Ch World (qual) (PCA)"]
+[Site "Groningen (Netherlands)"]
+[Date "1993.??.??"]
+[Round "3"]
+[White "Polgar Judit (HUN)"]
+[Black "Rozentalis Eduardas (LTU)"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2630"]
+[BlackElo "2600"]
+[Annotator ""]
+[Source ""]
+[Remark "XII"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nc6 4.e5 Nge7 5.Nf3 Nf5 6.Bb5 Bd7 7.Bg5
+Be7 8.h4 h5 9.Qd2 a6 10.Bf1 b6 11.O-O-O g6 12.Qf4 b5 13.Bd3 Nb4
+14.Bxf5 gxf5 15.Rh3 Nc6 16.Ne2 b4 17.Rg3 a5 18.b3 a4 19.Kd2 Na7
+20.Bxe7 Qxe7 21.Rg7 O-O-O 22.Qg5 Qe8 23.Qf6 Rf8 24.Ng5 Bb5 25.Rxf7
+Rxf7 26.Qxf7 Bxe2 27.Kxe2 Qxf7 28.Nxf7 Rg8 29.Ng5 Nb5 30.Rd3
+Kd7 31.bxa4 Nc3+ 32.Kd2 Ra8 33.Nh7 Rxa4 34.Nf6+ Ke7 35.Rg3 Kf7
+36.Rg5 Rxa2 37.Rxh5 f4 38.Rh7+ Kg6 39.h5+ Kf5 40.Rf7 Kg5 41.Rg7+
+Kf5 42.Rf7 Kg5 43.g3 fxg3 44.fxg3 Ne4+ 45.Nxe4+ dxe4 46.Rxc7
+b3 47.Ke3 Rxc2 48.Rxc2 bxc2 49.Kd2 Kg4 50.d5 Kxg3 51.dxe6 e3+
+52.Kxc2 e2 53.e7 e1Q 54.e8Q Kh4 55.Kd3 Qd1+ 56.Ke4 Qc2+ 57.Kd5
+Qb3+ 58.Kd6 Qb4+ 59.Ke6 Qg4+ 60.Ke7 Qb4+ 61.Kf6 Qf4+ 62.Kg7 Qg5+
+63.Kh7 Qf5+ 64.Kh8 Kg5 65.Kg7 1-0
+
+
+[Event "Ch World (qual) (PCA)"]
+[Site "Groningen (Netherlands)"]
+[Date "1993.??.??"]
+[Round "10"]
+[White "Polgar Judit (HUN)"]
+[Black "Smirin Ilia (ISR)"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2630"]
+[BlackElo "2640"]
+[Annotator ""]
+[Source ""]
+[Remark "XII"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Bg5 Bg7 5.Qd2 h6 6.Bf4 Nbd7 7.O-O-O
+g5 8.Be3 Ng4 9.h4 Nxe3 10.Qxe3 g4 11.h5 c5 12.Nge2 a6 13.dxc5
+Nxc5 14.Nd4 Qa5 15.Bc4 Bd7 16.Nd5 Na4 17.b4 Qd8 18.Nf5 Bb2+ 19.Kb1
+Rc8 20.Bb3 Be5 21.Nfxe7 Nc3+ 22.Kc1 Nxd5 23.Nxd5 Be6 24.Kb1 Bxd5
+25.Rxd5 Qf6 26.Rhd1 O-O 27.Qe2 Kh8 28.c4 b6 29.Qd2 Rc6 30.f3
+gxf3 31.Rf1 Bf4 32.Qc2 fxg2 33.Qxg2 Qh4 34.Rg1 Bg5 35.Rf5 Re8
+36.e5 Rxc4 37.Rxf7 Rxb4 38.Qc2 Re4 39.Rd1 R8xe5 40.Qc8+ 1-0
+
+
+[Event "It"]
+[Site "Hastings (England)"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Polgar Judit (HUN)"]
+[Black "Crouch Colin S (ENG)"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2630"]
+[BlackElo "2365"]
+[Annotator ""]
+[Source ""]
+[Remark "I(XII)"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.f4 c6 5.Nf3 Bg4 6.Be3 Qb6 7.Qd2 Bxf3
+8.gxf3 Nd7 9.O-O-O Qa5 10.Kb1 O-O-O 11.Rg1 Kb8 12.Rg5 Qc7 13.d5
+Nb6 14.dxc6 bxc6 15.Qd3 Nf6 16.Ra5 Nfd7 17.Na4 Nc5 18.Qa3 Ncxa4
+19.Rxa4 Nxa4 20.Qxa4 Ka8 21.Bc4 Rb8 22.b3 Bc3 23.Bxf7 Ba5 24.f5
+gxf5 25.exf5 Rb4 26.Qa3 Rh4 27.Qb2 Rb8 28.c4 d5 29.cxd5 Rxh2
+30.Qc1 Qe5 31.Be6 Bc3 32.Bf4 Rxa2 33.Bxe5 Ra1+ 34.Kc2 Rxc1+ 35.Kxc1
+Bxe5 36.dxc6 Re8 37.Rd7 h5 38.Bd5 1-0
+
+
+[Event "It"]
+[Site "Hastings (England)"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Polgar Judit (HUN)"]
+[Black "Gurevich Ilya (USA)"]
+[Result "1-0"]
+[ECO "B93"]
+[WhiteElo "2630"]
+[BlackElo "2575"]
+[Annotator ""]
+[Source ""]
+[Remark "I(XII)"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 Nbd7 7.Be2
+e5 8.fxe5 Nxe5 9.Bg5 Be7 10.Qd2 h6 11.Bf4 Be6 12.Nf5 Bxf5 13.exf5
+Rc8 14.O-O-O Qa5 15.Kb1 Qc5 16.Rhe1 O-O 17.Bf1 Rfe8 18.h3 b5
+19.Qd4 Bf8 20.Qxc5 Rxc5 21.Ne4 Nxe4 22.Rxe4 f6 23.c3 Kf7 24.Be2
+Rb8 25.Be3 Rcc8 26.Rd5 Nc4 27.Bf4 Ne5 28.Kc2 Rc6 29.Be3 Be7 30.Rb4
+Rc7 31.a4 Nc6 32.Rg4 bxa4 33.Rc4 Kf8 34.Bf4 Rb4 35.Kb1 Rxc4 36.Bxc4
+Ne5 37.Bxa6 a3 38.bxa3 Ra7 39.Ra5 Nc4 40.Ra4 d5 41.Ka2 Nxa3 42.Kb3
+Nb1 43.Be3 Ra8 44.Bc1 Bd6 45.Kc2 Rb8 46.Ra2 Rb6 47.Bb2 Na3+ 48.Rxa3
+Bxa3 49.Bxa3+ Ke8 50.Be2 1-0
+
+
+[Event "It"]
+[Site "Hastings (England)"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Polgar Judit (HUN)"]
+[Black "Sadler Matthew (ENG)"]
+[Result "1-0"]
+[ECO "B93"]
+[WhiteElo "2630"]
+[BlackElo "2535"]
+[Annotator ""]
+[Source ""]
+[Remark "I(XII)"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 Nbd7 7.Qf3
+e5 8.Nf5 g6 9.Ne3 exf4 10.Ned5 Nxd5 11.Nxd5 Ne5 12.Qxf4 Bg7 13.Be3
+O-O 14.Nb6 Ng4 15.Nxa8 Bh6 16.Bb6 Qe7 17.Qf3 d5 18.Be2 Qb4+ 19.Qc3
+Qxe4 20.O-O Qxe2 21.Rae1 Qb5 22.Bd4 Bd7 23.Nc7 Qc6 24.h3 Rc8
+25.Qf3 Nf6 26.Nxd5 1-0
+
+
+[Event "It"]
+[Site "Madrid (Spain)"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Polgar Judit (HUN)"]
+[Black "Lautier Joel (FRA)"]
+[Result "1-0"]
+[ECO "C12"]
+[WhiteElo "2630"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.bxc3
+Ne4 8.Qg4 Kf8 9.Bd3 Nxd2 10.Kxd2 c5 11.h4 Nc6 12.Nf3 c4 13.Be2
+b5 14.a3 a5 15.Qf4 Qe7 16.h5 Ra7 17.g4 b4 18.Qe3 bxa3 19.Ra2
+a4 20.Rha1 Bd7 21.Rxa3 Nb8 22.R3a2 Rb7 23.Rg1 Na6 24.g5 hxg5
+25.Nxg5 Nc7 26.Qg3 Ne8 27.f4 f5 28.Qg2 Rb6 29.Qh1 Qd8 30.h6 Rxh6
+31.Qg2 Bb5 32.Rb1 Bc6 33.Rh1 Ke7 34.Rxh6 gxh6 35.Nh7 Kd7 36.Nf8+
+Kc8 37.Nxe6 Qh4 38.Ra1 Kb8 39.Bf3 Qe7 40.Nc5 Qh4 41.Ke3 Rb2 42.Qg6
+Rxc2 43.Rb1+ 1-0
+
+
+[Event "It"]
+[Site "Madrid (Spain)"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Polgar Judit (HUN)"]
+[Black "San Segundo Carrillo Pablo (ESP)"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2630"]
+[BlackElo "2440"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Ndb5 d6 7.Bf4
+e5 8.Bg5 a6 9.Na3 b5 10.Bxf6 gxf6 11.Nd5 Bg7 12.c3 f5 13.Bd3
+Ne7 14.Nxe7 Qxe7 15.Nc2 Qb7 16.Qf3 O-O 17.O-O d5 18.exf5 e4 19.Qg3
+Kh8 20.Be2 Bxf5 21.Rad1 Rad8 22.Rd2 Be6 23.a3 f5 24.f4 a5 25.Nd4
+Bd7 26.Rfd1 Rc8 27.b4 Qc7 28.Rc2 axb4 29.axb4 Ra8 30.Qe3 Qb8
+31.Nb3 Ra3 32.Nc5 Qd6 33.Nxd7 Qxd7 34.Qc5 Rc8 35.Rxd5 Qb7 36.Qd6
+Qa7+ 37.Rc5 Rxc3 38.R2xc3 Bxc3 39.g3 Ra8 40.Kg2 Qa2 41.Qd1 Bf6
+42.Rc2 Qe6 43.Bxb5 Rd8 44.Qh5 e3 45.Kh3 Be7 46.Rc7 Rf8 47.Be2
+Qd6 48.Rb7 Rf6 49.Qe8+ Bf8 50.Qxe3 Qd5 51.Qc3 Qxb7 52.Qxf6+ Qg7
+53.Qxg7+ Kxg7 54.b5 Bc5 55.Bh5 Kf6 56.Kg2 Ke6 57.Kf3 h6 58.h3
+Bb6 59.Be8 Bd8 60.Bc6 Kd6 61.g4 fxg4+ 62.hxg4 Ke6 63.Ke4 Kf6
+64.Bd5 Bc7 65.Bb3 Kg6 66.f5+ Kf6 67.Be6 Kg5 68.Kd5 Bd8 69.Kc6 1-0
+
+
+[Event "It (active)"]
+[Site "Monte Carlo (Monaco)"]
+[Date "1994.??.??"]
+[Round "11"]
+[White "Kramnik Vladimir (RUS)"]
+[Black "Polgar Judit (HUN)"]
+[Result "1/2-1/2"]
+[ECO "E92"]
+[WhiteElo "2725"]
+[BlackElo "2630"]
+[Annotator ""]
+[Source ""]
+[Remark "III-IV"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5 a5
+8.Bg5 h6 9.Bh4 Na6 10.O-O Qe8 11.Nd2 Bd7 12.Kh1 h5 13.b3 Ng4
+14.a3 f6 15.Rb1 g5 16.Bg3 f5 17.exf5 Bxf5 18.Nde4 Qg6 19.h3 Bxe4
+20.Nxe4 Qxe4 21.hxg4 h4 22.f3 Qd4 23.Bf2 Qf4 24.Qc1 Qxc1 25.Rfxc1
+e4 26.Be3 exf3 27.Bxf3 Bf6 28.b4 Rae8 29.Bd2 axb4 30.axb4 b6
+31.Re1 Nb8 32.Rxe8 Rxe8 33.Re1 Rxe1+ 34.Bxe1 Nd7 35.Bd2 Kg7 36.Kg1
+Bd4+ 37.Kf1 Kf6 38.Ke1 Ne5 39.Be2 Bg1 40.Kd1 Bh2 41.Bc3 Ke7 42.Kc2
+Ng6 43.Bd4 Be5 44.Be3 Bf4 45.Bg1 Ne5 46.Kb3 Kd7 47.Ka4 Bd2 48.Kb5
+Ng6 49.Bd4 Nf4 50.Bf3 Nd3 51.Be4 Nxb4 52.Bf5+ Ke7 53.Bb2 Kd8
+54.Bf6+ Ke8 55.Bb2 Ke7 56.Bd4 Kd8 57.Bf6+ Ke8 58.Bb2 Kd8 59.Bb1
+Kd7 60.Ba3 c6+ 61.Kxb6 cxd5 62.Bf5+ Ke7 63.Kb5 Na2 64.cxd5 Nc3+
+65.Kc4 Nd1 66.Kd3 Bf4 67.Ke2 Nc3+ 68.Kf3 Nxd5 69.Bb2 Ne3 70.Bd3
+Nd5 71.Be4 Nb6 72.Bd3 d5 73.Bd4 Nd7 74.Bf5 Nb8 75.Bc5+ Kf6 76.Bd4+
+Be5 77.Bb6 Nc6 78.Bd7 Nb4 79.Bd8+ Kg6 80.Bf5+ Kh6 81.Be7 Nc6
+82.Bf8+ Bg7 83.Bc5 Ne5+ 84.Ke2 Ng6 85.Bd6 Be5 86.Bxg6 1/2-1/2
+
+
+[Event "Olympiad"]
+[Site "Moscow (Russia)"]
+[Date "1994.??.??"]
+[Round "14"]
+[White "Ivanchuk Vassily (UKR)"]
+[Black "Polgar Judit (HUN)"]
+[Result "1/2-1/2"]
+[ECO "B81"]
+[WhiteElo "2695"]
+[BlackElo "2630"]
+[Annotator ""]
+[Source ""]
+[Remark "XII"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g4 h6 7.Bg2
+a6 8.h3 g5 9.Nb3 Nc6 10.f4 Nd7 11.O-O gxf4 12.Bxf4 Nde5 13.Qe2
+Bd7 14.a4 h5 15.g5 Ng6 16.Be3 Nce5 17.a5 1/2-1/2
+
+
+[Event "Olympiad"]
+[Site "Moscow (Russia)"]
+[Date "1994.??.??"]
+[Round "10"]
+[White "Ljubojevic Ljubomir (SCG)"]
+[Black "Polgar Judit (HUN)"]
+[Result "1/2-1/2"]
+[ECO "B98"]
+[WhiteElo "2580"]
+[BlackElo "2630"]
+[Annotator ""]
+[Source ""]
+[Remark "XII"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4
+Be7 8.Qf3 Qa5 9.O-O-O Bd7 10.Bh4 Nc6 11.Nb3 Qc7 12.g4 h6 13.Bg3
+O-O-O 14.h4 Be8 15.g5 Nd7 16.Bh3 g6 17.Qe3 hxg5 18.hxg5 Kb8 19.f5
+Rh5 20.fxe6 fxe6 21.Bxe6 Bxg5 22.Qxg5 Rxg5 23.Bxd6 Qxd6 24.Rxd6
+Nf6 25.Rxd8+ Nxd8 26.Bd5 Bc6 27.Bxc6 Nxc6 28.Rf1 Nd7 29.Nd5 Rg2
+30.Nf4 Rg4 31.Nd2 Nc5 32.a3 g5 33.Nd3 Nxe4 34.Nxe4 Rxe4 35.Rg1
+g4 36.Nf2 Re2 37.Nxg4 Nd4 38.Rd1 1/2-1/2
+
+
+[Event "Olympiad"]
+[Site "Moscow (Russia)"]
+[Date "1994.??.??"]
+[Round "6"]
+[White "Marin Mihail (ROM)"]
+[Black "Polgar Judit (HUN)"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "2520"]
+[BlackElo "2630"]
+[Annotator ""]
+[Source ""]
+[Remark "XII"]
+
+1.e4 e6 2.d3 c5 3.g3 Nc6 4.Bg2 Nge7 5.c3 d5 6.f4 b6 7.Nh3 dxe4
+8.dxe4 Ba6 9.Nf2 Qxd1+ 10.Kxd1 h5 11.Nd2 Rd8 12.Kc2 h4 13.Nf3
+hxg3 14.hxg3 Rxh1 15.Bxh1 Nc8 16.Bd2 b5 17.b3 c4 18.b4 Nb6 19.Be3
+Bb7 20.a3 Nd7 21.Nd4 Nxd4+ 22.Bxd4 a5 23.e5 Bxh1 24.Rxh1 axb4
+25.axb4 f5 26.exf6 Nxf6 27.Re1 Kf7 28.Nh3 Nh7 29.Re5 Bxb4 30.Rxb5
+Be7 31.Rb7 Rd5 32.Kd2 g5 33.Rc7 gxf4 34.gxf4 Rh5 35.Nf2 Nf6 36.Bxf6
+Kxf6 37.Ng4+ Kf7 38.Ne5+ Kf6 39.Ng4+ Kf7 40.Ne5+ Kf6 41.Ke3 Rh1
+42.Ng4+ Kf5 43.Nf2 Rh7 44.Rxc4 1/2-1/2
+
+
+[Event "It \"Intel Chess Grand Prix\" (active)"]
+[Site "Paris (France)"]
+[Date "1994.??.??"]
+[Round "1"]
+[White "Kramnik Vladimir (RUS)"]
+[Black "Polgar Judit (HUN)"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2725"]
+[BlackElo "2630"]
+[Annotator ""]
+[Source ""]
+[Remark "XI"]
+
+1.e4 c5 2.Nf3 Nc6 3.c3 d5 4.exd5 Qxd5 5.d4 e5 6.Nxe5 Nxe5 7.dxe5
+Qxe5+ 8.Be3 Bd7 9.Na3 O-O-O 10.Qf3 Nf6 11.O-O-O Be7 12.Bf4 Qh5
+13.Nb5 Bxb5 14.Bxb5 Qxf3 15.gxf3 Nd5 16.Bg3 Nb6 17.Bd3 g6 18.Kc2
+Rd7 19.Bb5 Rxd1 20.Rxd1 a6 21.Bf1 Re8 22.h4 Bd8 23.h5 Bc7 24.Bh4
+Bf4 25.Bd3 Kc7 26.Bg3 Bxg3 27.fxg3 c4 28.Bf1 Re3 29.hxg6 hxg6
+30.Bg2 Nd7 31.Kd2 Rd3+ 32.Ke2 Nc5 33.Bf1 b5 34.Rd2 a5 35.Bg2
+g5 36.Bh3 Kd6 37.Bf5 Rxd2+ 38.Kxd2 Ke5 39.Bc2 f5 40.a3 f4 41.g4
+Kd5 42.Ke2 Nd7 43.Bf5 Ne5 44.Be4+ Kc5 45.Kd2 b4 46.axb4+ axb4
+47.Kc2 Nf7 48.Kd2 Nd6 49.Bc2 Nc8 50.Be4 Nb6 51.Kc2 Na4 52.Bg6
+Nb6 53.Be4 Nd7 54.Kd2 Nf6 55.Ba8 Ne8 1/2-1/2

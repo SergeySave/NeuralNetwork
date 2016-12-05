@@ -1,0 +1,613 @@
+[Event "It (cat.13)"]
+[Site "Wijk aan Zee (Netherlands)"]
+[Date "2004.??.??"]
+[Round "8"]
+[White "Granda Zuniga Julio E (PER)"]
+[Black "Nakamura Hikaru (USA)"]
+[Result "1-0"]
+[ECO "D77"]
+[WhiteElo "2605"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark "I"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d5 6.c4 dxc4 7.Na3
+c3 8.bxc3 c5 9.e3 Nc6 10.Qe2 Bf5 11.Rd1 cxd4 12.cxd4 Rc8 13.Bb2
+Nb4 14.Ne1 Bg4 15.Bf3 Bxf3 16.Nxf3 Qd5 17.Ne5 Nxa2 18.Nac4 b5
+19.Rxa2 bxc4 20.Rda1 c3 21.Bc1 Ne4 22.Ra5 Qe6 23.Nd3 Nd6 24.Rxa7
+Nb5 25.Nf4 Qc6 26.R7a5 Rb8 27.Nd3 Rfc8 28.Qc2 Qb6 29.Nc5 Qd8
+30.Qa4 Nc7 31.Nd7 Ra8 32.Nb6 Rxa5 33.Qxa5 Rb8 34.Nc4 Nd5 35.Qxd8+
+Rxd8 36.Kf1 c2 37.Bd2 Rc8 38.Na3 e5 39.dxe5 Bf8 40.Bc1 Bb4 41.Ra2
+Ra8 42.Rxc2 Bxa3 43.Ra2 Bxc1 44.Rxa8+ Kg7 45.Ra5 Nc3 46.Ra7 Kg8
+47.Ke1 Bb2 48.Ra5 Ne4 49.Ke2 Ng5 50.f4 Ne4 51.Ra8+ Kg7 52.Kd3
+Nf2+ 53.Kc2 Bxe5 54.fxe5 Ng4 55.Ra5 Nxe3+ 56.Kd3 Ng4 57.h4 h5
+58.Ke4 Nh6 59.Ra7 Nf5 60.e6 Kf6 61.Rxf7+ Kxe6 62.Rf8 Nd6+ 63.Kf4
+Nf7 64.Ra8 Kf6 65.Ra6+ Kg7 66.Ke4 Nh6 67.Ke5 Ng4+ 68.Ke6 Kg8
+69.Ra7 Kf8 70.Kd5 Kg8 71.Ke4 Nf6+ 72.Ke5 Nh7 73.Ke6 g5 74.hxg5 1-0
+
+
+[Event "It (cat.13)"]
+[Site "Wijk aan Zee (Netherlands)"]
+[Date "2004.??.??"]
+[Round "4"]
+[White "Naiditsch Arkadij (GER)"]
+[Black "Nakamura Hikaru (USA)"]
+[Result "1-0"]
+[ECO "B96"]
+[WhiteElo "2611"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark "I"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4
+Bd7 8.Qe2 Nc6 9.O-O-O Nxd4 10.Rxd4 Qb6 11.Qd2 Bc6 12.Bc4 Be7
+13.e5 dxe5 14.fxe5 Bc5 15.Rd3 Ne4 16.Nxe4 Bxe4 17.Rb3 Qc6 18.Rd1
+O-O 19.Bd3 Bg6 20.Bxg6 fxg6 21.Be3 Rac8 22.a3 Be7 23.Rd3 Qe4
+24.Rd7 Rfd8 25.Kb1 Qxe5 26.Bb6 Bf6 27.c3 Re8 28.Bd4 Qe4+ 29.Qd3
+Qxd3+ 30.Rxd3 e5 31.Be3 Rcd8 32.Kc2 b5 33.Rxd8 Rxd8 34.Rxd8+
+Bxd8 35.Kd3 Kf7 36.c4 bxc4+ 37.Kxc4 Ke6 38.b4 Bc7 39.Kc5 e4 40.h3
+Be5 41.g4 h6 42.a4 g5 43.b5 axb5 44.axb5 g6 45.Kc6 Bd6 46.b6
+Be5 47.b7 Bd6 48.Ba7 Bf4 49.Be3 Bd6 50.Bd2 Bg3 51.Ba5 Bb8 52.Bb6
+h5 53.Bd4 hxg4 54.hxg4 Bh2 55.Be3 Bd6 56.Bxg5 Be5 57.Be3 Bd6
+58.Bb6 Bb8 59.Bc7 Ba7 60.Bf4 Ke7 61.Kb5 e3 62.Bxe3 Bb8 63.Kc6
+Ke6 64.Bb6 1-0
+
+
+[Event "It (cat.13)"]
+[Site "Wijk aan Zee (Netherlands)"]
+[Date "2004.??.??"]
+[Round "2"]
+[White "Van Der Wiel John T H (NED)"]
+[Black "Nakamura Hikaru (USA)"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2493"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark "I"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5
+a6 8.Na3 b5 9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 Ne7 12.Nxf6+ gxf6 13.Bd3
+d5 14.Qe2 Bb7 15.O-O-O Qb6 16.exd5 Nxd5 17.Be4 Nf4 18.Qf3 Bxe4
+19.Qxe4 O-O 20.Nc2 Qe6 21.Ne3 Qxa2 22.g3 b4 23.gxf4 bxc3 24.Qb1
+cxb2+ 25.Kd2 Rad8+ 26.Ke2 Qxb1 27.Rxb1 exf4 28.Rhg1+ Kh8 29.Nd1
+Rd4 30.Nxb2 f3+ 31.Kxf3 Rb8 32.Rbe1 Rb3+ 33.Re3 Rxe3+ 34.fxe3
+Rd2 35.Nc4 Rxh2 36.Nd6 h5 37.Ne8 Kh7 38.Rg7+ Kh6 39.Rxf7 Ra2
+40.Rxf6+ Kg5 41.Rc6 Ra1 42.Nd6 Rf1+ 43.Kg2 Ra1 44.Ne4+ Kg4 45.Rc5
+Ra2+ 46.Nf2+ Kh4 47.Kf3 Ra1 48.Kf4 a5 49.Rc2 a4 50.e4 Rb1 51.Rc3 1-0
+
+
+[Event "It (cat.13)"]
+[Site "Wijk aan Zee (Netherlands)"]
+[Date "2004.01.22"]
+[Round "10"]
+[White "Tiviakov Sergei (NED)"]
+[Black "Nakamura Hikaru (USA)"]
+[Result "0-1"]
+[ECO "B30"]
+[WhiteElo "2617"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 Qc7 4.Nf3 Nf6 5.O-O Nd4 6.Re1 a6 7.Bf1
+Ng4 8.g3 Nxf3+ 9.Qxf3 Ne5 10.Qe2 e6 11.Bg2 d6 12.b3 Be7 13.Bb2
+Nc6 14.Nd1 Nd4 15.Qd3 Bf6 16.c3 Nc6 17.Ne3 O-O 18.Ng4 Be7 19.Qe2
+Bd7 20.Red1 a5 21.d4 a4 22.Rab1 axb3 23.axb3 Ra2 24.Ne3 cxd4
+25.cxd4 Bf6 26.e5 dxe5 27.dxe5 Be7 28.Nc4 Nb4 29.Nd6 Bc6 30.Qc4
+Nd5 31.Bd4 Bxd6 32.exd6 Qd7 33.Bc5 Rc8 34.Qd4 Nf6 35.Bxc6 Rxc6
+36.Ra1 Rxa1 37.Rxa1 Rc8 38.Ra7 Qc6 39.Ba3 h5 40.Qb4 b5 41.Qd4
+Rd8 42.Rc7 Qf3 43.d7 e5 44.Qxe5 Qd1+ 45.Kg2 Rxd7 46.Rc5 h4 47.Qf5
+Rd8 48.Bb2 Ng4 49.Rc8 Rxc8 50.Qxc8+ Kh7 51.Qf5+ Kg8 52.h3 Qxb3
+53.Bxg7 Qxg3+ 54.fxg3 Ne3+ 55.Kf3 Nxf5 56.Bc3 hxg3 57.Bb4 Kg7
+58.Bc5 Kg6 59.Kg4 g2 60.Kf3 b4 61.Kxg2 b3 62.Ba3 Ne3+ 63.Kf3
+Nc4 64.Bc1 Kf5 65.h4 b2 66.Bxb2 Nxb2 67.h5 Kg5 68.Ke4 Kxh5 69.Kf5
+Nc4 0-1
+
+
+[Event "Tournament \"New York Masters\""]
+[Site "New York (USA)"]
+[Date "2004.02.10"]
+[Round "1"]
+[White "Molner Mackenzie (USA)"]
+[Black "Nakamura Hikaru (USA)"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "2213"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Qc7 6.Be3 Nf6 7.Qd2
+Bb4 8.f3 d5 9.exd5 Nxd5 10.a3 Bxc3 11.bxc3 O-O 12.c4 Nxe3 13.Qxe3
+Qc5 14.Kf2 Nd7 15.Nb3 Qc7 16.Bd3 Ne5 17.Rae1 f6 18.h4 Bd7 19.Nc5
+Rad8 20.h5 Bc8 21.Rh4 Rfe8 22.h6 g6 23.Ne4 Qe7 24.Rf4 Nd7 25.c5
+Rf8 26.Bc4 Kh8 27.Bb3 e5 28.Nd6 Nxc5 29.Nf7+ Rxf7 30.Bxf7 Rf8
+31.Bb3 b6 32.Rc4 Qd6 33.Rc3 Bb7 34.Bc4 Rd8 35.Re2 g5 36.Bd3 Kg8
+37.Rd2 Kf8 38.Ke2 Ne6 39.Bxh7 Nd4+ 40.Kf1 Bc8 41.Be4 Bd7 42.Rcd3
+Bb5 43.Kg1 Bxd3 44.Rxd3 Qc7 45.c3 Ne6 46.Rxd8+ Qxd8 47.Bd3 Nc5
+48.Bc4 Qd6 49.a4 a5 50.Bb5 Kg8 51.Qe2 Kh7 52.Qc4 Qe7 53.Qd5 Kxh6
+54.Qc6 Qd8 55.Kh2 Kg7 56.Bc4 Kf8 57.Qb5 Qd6 58.Qb1 e4+ 59.Kg1
+f5 60.fxe4 Nxe4 61.Bb5 Qc5+ 62.Kh2 Qe5+ 63.Kg1 Nxc3 64.Qd3 Nd5
+65.Kh1 g4 66.Qc4 Kg7 67.Qc8 Qe1+ 68.Kh2 g3+ 69.Kh3 Nf4+ 70.Kh4
+Nxg2+ 71.Kg5 Qe3+ 72.Kxf5 Qf4+ 73.Ke6 Qg4+ 0-1
+
+
+[Event "It (open)"]
+[Site "Reykjavik (Iceland)"]
+[Date "2004.03.07"]
+[Round "1"]
+[White "Thorsteinsson Thorsteinn (ISL)"]
+[Black "Nakamura Hikaru (USA)"]
+[Result "0-1"]
+[ECO "A65"]
+[WhiteElo "2283"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Bg5 c5 7.d5 e6
+8.Qd2 exd5 9.cxd5 h6 10.Be3 a6 11.a4 h5 12.Nge2 Nbd7 13.Nd1 Nh7
+14.Nec3 f5 15.Be2 Be5 16.exf5 gxf5 17.Bf4 Bxf4 18.Qxf4 Qf6 19.Nf2
+Ne5 20.O-O Bd7 21.Ra3 Rae8 22.Rb3 Bc8 23.Rb6 Qd8 24.a5 Rf6 25.Rc1
+Qc7 26.b4 Nd7 27.bxc5 Nxb6 28.axb6 Qd8 29.c6 Qxb6 30.Rb1 Rxe2
+31.Qg3+ Kh8 32.h4 Rb2 33.Re1 f4 34.Re8+ Nf8 0-1
+
+
+[Event "It (open)"]
+[Site "Reykjavik (Iceland)"]
+[Date "2004.03.10"]
+[Round "4"]
+[White "Erenburg Sergey (ISR)"]
+[Black "Nakamura Hikaru (USA)"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2537"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3
+Be6 8.Be3 Nbd7 9.Qd2 h5 10.a4 Be7 11.Be2 g6 12.a5 h4 13.O-O Kf8
+14.Nd5 Bxd5 15.exd5 Rc8 16.c4 Kg7 17.Rac1 Nh5 18.Rfd1 Nf4 19.Bf1
+Bg5 20.Na1 Nf6 21.b4 N6h5 22.c5 Ng3 23.c6 h3 24.hxg3 h2+ 25.Kh1
+Nh5 26.Qe1 Bxe3 27.g4 Bxc1 28.gxh5 Bb2 29.Nb3 b5 30.Qd2 Bd4 31.Nxd4
+exd4 32.hxg6 fxg6 33.Qxd4+ Kf7 34.Bd3 Re8 35.Be4 Qf6 36.Qb6 Rb8
+37.Qa7+ Qe7 38.Qe3 Qf6 39.Rc1 Re7 40.Qh6 Qg7 41.Qh3 Rh8 42.Qg4
+Qh6 43.Rc2 Qg7 44.Rc1 Qh6 45.Re1 g5 46.Rc1 Rc7 47.Bf5 Qh4 48.Bd7
+Qxg4 49.Bxg4 Ke7 50.Re1+ Kd8 51.Re6 Rf7 52.Rxd6+ Kc7 53.Rg6 Rf4
+54.Rg7+ Kd6 55.Rd7+ Ke5 56.c7 Rc4 57.Bh3 Rh6 58.Kxh2 g4 59.fxg4
+Rd6 60.Rf7 Kxd5 61.g5 Rdc6 62.g6 1-0
+
+
+[Event "It (open)"]
+[Site "Reykjavik (Iceland)"]
+[Date "2004.03.15"]
+[Round "8"]
+[White "Vidarsson Jon G (ISL)"]
+[Black "Nakamura Hikaru (USA)"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "2336"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nc3 d6 3.Bb5+ Nd7 4.a4 Ngf6 5.f4 a6 6.Bc4 b6 7.Nf3
+e6 8.Qe2 Bb7 9.d3 Be7 10.O-O O-O 11.Ba2 Bc6 12.d4 d5 13.exd5
+exd5 14.Kh1 Bd6 15.Ne5 Bb7 16.Qf3 cxd4 17.Nxd7 Qxd7 18.Nxd5 Bc5
+19.Nxf6+ gxf6 20.Qh5 Kh8 21.Bd2 Rg8 22.Rg1 Qc6 23.Qh3 d3 24.Bxf7
+Rg7 25.Bb3 Bxg1 26.Rxg1 dxc2 27.Qc3 Qxc3 0-1
+
+
+[Event "It \"Foxwoods Open\""]
+[Site "Connecticut (USA)"]
+[Date "2004.04.08"]
+[Round "2"]
+[White "Goletiani Rusudan (USA)"]
+[Black "Nakamura Hikaru (USA)"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "2336"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.Nf3 Nf6 2.b3 d6 3.d4 g6 4.Bb2 Bg7 5.e3 O-O 6.Be2 c6 7.c4 Qc7
+8.O-O Nbd7 9.Nc3 Re8 10.b4 e5 11.dxe5 dxe5 12.c5 b6 13.cxb6 axb6
+14.Rc1 Qb8 15.Ng5 b5 16.Qb3 Re7 17.a4 h6 18.Nf3 bxa4 19.Nxa4
+Ba6 20.Bxa6 Rxa6 21.h3 Nd5 22.Rc4 Re6 23.Rfc1 Bf8 24.Bc3 Qb5
+25.Nb2 c5 26.Rxc5 Nxc5 27.Qxd5 Qb7 28.Qxb7 Nxb7 29.Nxe5 Nd6 30.Nbd3
+Ra3 31.Bb2 Rb3 32.f4 Nf5 33.Rc8 Rd6 34.Nc5 Rxb2 35.Ncd7 Rd1+
+36.Kh2 Nd6 37.Rxf8+ Kg7 38.f5 gxf5 39.Rd8 Rdd2 0-1
+
+
+[Event "It (open)"]
+[Site "Chicago (USA)"]
+[Date "2004.05.31"]
+[Round "7"]
+[White "Shabalov Alexander (USA)"]
+[Black "Nakamura Hikaru (USA)"]
+[Result "1-0"]
+[ECO "D97"]
+[WhiteElo "2608"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4
+Na6 8.Be2 c5 9.d5 e6 10.O-O exd5 11.exd5 Bf5 12.Be3 Qb6 13.b3
+Rfe8 14.Rad1 Ng4 15.Bd2 Rad8 16.Rfe1 Bd4 17.Nxd4 cxd4 18.Na4
+Qc7 19.Bxg4 Qxc4 20.bxc4 Bxg4 21.f3 Bd7 22.Nb2 b5 23.Ba5 Rxe1+
+24.Bxe1 bxc4 25.Nxc4 Bb5 26.Rxd4 Bxc4 27.Rxc4 Rxd5 28.Bc3 Rd8
+29.Bf6 Re8 30.Bd4 Nb8 31.Bxa7 Nd7 32.Bd4 Ra8 33.Rc7 Nf8 34.Ra7
+Rd8 35.Be3 Kg7 36.a4 Ne6 37.a5 Rd3 38.Kf2 Ra3 39.Bb6 Rb3 40.Ke2
+Kf8 41.Kd2 Ke8 42.Kc2 Rb4 43.Kc3 Rb1 44.Be3 Ra1 45.Kb2 Ra4 46.a6
+Kd8 47.Ra8+ Kd7 48.a7 h5 49.Rb8 Nc7 50.Kb3 Ra1 51.h4 Ra6 52.Bf2
+Ra1 53.Bb6 Kc6 54.Bxc7 Rxa7 55.Bf4 Kd7 56.Rb6 Ra1 57.Kc3 Rg1
+58.Rb2 f6 59.Kd3 Rh1 60.g3 Ke6 61.Rb6+ Kf5 62.Bd2 Rd1 63.Ke2 1-0
+
+
+[Event "Ch World FIDE (KO-system) (active)"]
+[Site "Tripoli (Libya)"]
+[Date "2004.06.20"]
+[Round "1"]
+[White "Volkov Sergey Viktorovich (RUS)"]
+[Black "Nakamura Hikaru (USA)"]
+[Result "0-1"]
+[ECO "E92"]
+[WhiteElo "2628"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.Be3 Na6
+8.d5 Ng4 9.Bg5 f6 10.Bh4 h5 11.Nd2 Bd7 12.h3 Nh6 13.g4 hxg4 14.hxg4
+Qe7 15.Nf1 Nf7 16.Ne3 Bh6 17.Bd3 Kg7 18.Qe2 Rh8 19.O-O-O c5 20.a3
+Nc7 21.Kb1 a6 22.f3 b5 23.Bf2 Rab8 24.cxb5 axb5 25.b4 Na6 26.Qb2
+Rhc8 27.Be2 Rb7 28.Rc1 Bf4 29.Rc2 Qe8 30.Na2 Rbc7 31.Ng2 Bh6
+32.Be3 Bxe3 33.Nxe3 Qe7 34.Bd1 Rh8 35.Rch2 Rcc8 36.Rxh8 Rxh8
+37.Rxh8 Kxh8 38.Nc3 cxb4 39.axb4 Qd8 40.Qh2+ Kg7 41.Nc2 Qb6 42.Kb2
+Ng5 43.Kb3 Nc7 44.Be2 Qa7 45.Qg2 Kf7 46.Qf1 Qb6 47.Qa1 Ke7 48.Qa5
+Qb7 49.Na3 f5 50.gxf5 gxf5 51.Nc2 fxe4 52.fxe4 Nxe4 53.Nxe4 Qxd5+
+54.Kb2 Qxe4 55.Bd1 Ne6 56.Qa3 Nd4 57.Qg3 Kd8 58.Ne3 Kc7 59.Qe1
+Nc6 60.Bb3 Qd4+ 61.Ka3 Nxb4 62.Qc1+ Bc6 63.Qg1 Nd3 64.Qg7+ Kb6
+65.Nd1 Qa1+ 0-1
+
+
+[Event "It \"World Open\""]
+[Site "Philadelphia (USA)"]
+[Date "2004.07.04"]
+[Round "6"]
+[White "Fridman Daniel (LAT)"]
+[Black "Nakamura Hikaru (USA)"]
+[Result "0-1"]
+[ECO "D76"]
+[WhiteElo "2578"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O
+Nc6 8.e3 O-O 9.Nc3 Re8 10.d5 Na5 11.Nd4 Bd7 12.e4 c6 13.Bf4 Bc8
+14.Nde2 e5 15.dxe6 Bxe6 16.b3 c5 17.Qc1 Qe7 18.Rd1 Rad8 19.Qa3
+Nc6 20.Rac1 c4 21.Bd6 Qg5 22.h4 Qa5 23.Qxa5 Nxa5 24.bxc4 Naxc4
+25.Bc5 Rc8 26.Bd4 Nb2 27.Rd2 N6c4 28.Rdc2 Nd3 29.Rd1 Nb4 30.Bxg7
+Nxc2 31.Bf6 Bg4 32.Rb1 Rc6 33.e5 Rb6 34.Rxb6 Nxb6 35.Bxb7 Nd7
+36.Nf4 Nxe5 37.Be4 Nf3+ 0-1
+
+
+[Event "Tournament \"New York Masters\""]
+[Site "New York (USA)"]
+[Date "2004.08.03"]
+[Round "1"]
+[White "Kleiman Jake (USA)"]
+[Black "Nakamura Hikaru (USA)"]
+[Result "0-1"]
+[ECO "E63"]
+[WhiteElo "2217"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 Bg7 4.Bg2 O-O 5.Nf3 d6 6.O-O Nc6 7.d4
+a6 8.d5 Na5 9.Qd3 c5 10.e4 b5 11.cxb5 axb5 12.Nxb5 Ba6 13.a4
+Qb6 14.b4 cxb4 15.Be3 Qb7 16.Rab1 b3 17.Nd2 Bxb5 18.axb5 Rfb8
+19.b6 Qa6 20.Qxa6 Rxa6 21.Bf3 b2 22.Be2 Raxb6 23.Bxb6 Rxb6 24.Rfd1
+Rb4 25.f3 Nd7 26.Nf1 Nc5 27.Kf2 Na4 28.Rd2 Nc3 29.Rbxb2 Nxe4+
+30.fxe4 Bxb2 31.Kf3 Nb3 32.Rd1 Nd4+ 33.Kf2 Nxe2 34.Kxe2 Rxe4+
+35.Kf3 Ra4 36.Ne3 Bd4 37.Nc2 Bc5 38.h4 h5 39.Rd3 Kg7 40.Ne1 Ra2
+41.g4 hxg4+ 42.Kxg4 Ra4+ 43.Kh3 e5 0-1
+
+
+[Event "It (open)"]
+[Site "Fort Lauderdale (USA)"]
+[Date "2004.08.14"]
+[Round "8"]
+[White "Matikozian Andranik (ARM)"]
+[Black "Nakamura Hikaru (USA)"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2479"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 Nf6 4.Bb5 Qc7 5.O-O Nd4 6.Re1 a6 7.e5
+Nxb5 8.exf6 gxf6 9.Ne4 Bg7 10.d4 f5 11.Nxc5 Nxd4 12.Nxd4 Qxc5
+13.Be3 Bf6 14.b4 Qxb4 15.Nxf5 d5 16.Rb1 Qxe1+ 17.Qxe1 Bxf5 18.Rxb7
+O-O 19.Bc5 Rab8 20.Qb4 a5 21.Qb3 Rxb7 22.Qxb7 Bxc2 23.Qxd5 Rc8
+24.Be3 a4 25.h4 e6 26.Qf3 Be5 27.Qg4+ Kf8 28.Bh6+ Ke7 29.Qg5+
+Kd6 30.Qe3 Bf6 31.Qb6+ Kd7 32.Bf4 Be7 33.Qb7+ Kd8 34.Bd2 1-0
+
+
+[Event "Tournament \"New York Masters\""]
+[Site "New York (USA)"]
+[Date "2004.08.17"]
+[Round "1"]
+[White "Benjamin Joel (USA)"]
+[Black "Nakamura Hikaru (USA)"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2554"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Qc7 5.O-O Nd4 6.Nxd4 cxd4 7.Nd5
+Nxd5 8.exd5 a6 9.Ba4 g6 10.d3 b5 11.Bb3 Bg7 12.d6 Qc6 13.dxe7
+d5 14.Qf3 Be6 15.Bg5 h6 16.Bf6 Rg8 17.Bxg7 Rxg7 18.Qf6 Rg8 19.Rfe1
+Ra7 20.a4 b4 21.a5 Bd7 22.Qxd4 Rc7 23.Bxd5 Qc5 24.Qf4 Bf5 25.Bb3
+Rxe7 26.d4 Qc8 27.Qd6 Qd8 28.Ba4+ Bd7 29.Bxd7+ Qxd7 30.Qb8+ Qd8
+31.Rxe7+ Kxe7 32.Re1+ Kd7 33.Qb7+ Kd6 34.Qxb4+ Kc6 35.Qc5+ Kd7
+36.Qa7+ Kd6 37.Qxa6+ Kd7 1-0
+
+
+[Event "Ch State New York"]
+[Site "New York (USA)"]
+[Date "2004.09.04"]
+[Round "2"]
+[White "Bisguier Arthur B (USA)"]
+[Black "Nakamura Hikaru (USA)"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "2276"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.Nf3 Nf6 2.d4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O 6.Be2 b6 7.Ne5
+c5 8.O-O Bb7 9.a4 a6 10.a5 cxd4 11.exd4 b5 12.Re1 e6 13.Nd3 Nfd7
+14.Bd6 Re8 15.Ne5 Nxe5 16.Bxe5 Bf8 17.Bf1 Nc6 18.Qf3 Nxe5 19.dxe5
+Rc8 20.Qf4 Bg7 21.Bd3 f6 22.exf6 Qxf6 23.Qxf6 Bxf6 24.Nd1 e5
+25.c3 e4 26.Bc2 Red8 27.Bb3 Kg7 28.Kf1 b4 29.Re3 bxc3 30.bxc3
+d4 31.Rh3 dxc3 32.Rc1 Rd2 33.Nxc3 Bd4 34.Ke1 e3 0-1
+
+
+[Event "Tournament \"New York Masters\""]
+[Site "New York (USA)"]
+[Date "2004.09.14"]
+[Round "2"]
+[White "Hoffmann Asa (USA)"]
+[Black "Nakamura Hikaru (USA)"]
+[Result "0-1"]
+[ECO "B30"]
+[WhiteElo "2272"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.Qe2 g6 5.Bxc6 dxc6 6.h3 Bg7 7.d3
+Nd7 8.Nbd2 O-O 9.a4 a5 10.O-O Re8 11.e5 Nf8 12.Ne4 Ne6 13.Re1
+b6 14.b3 f5 15.Neg5 Nf8 16.Nd2 h6 17.Ngf3 Be6 18.Bb2 Bd5 19.Rad1
+Qc7 20.Nh4 Qc8 21.Nc4 Rb8 22.Bc1 g5 23.Nf3 f4 24.Bb2 Rd8 25.Bc3
+Ne6 26.Ba1 Nf8 27.Ncd2 Qf5 28.Nh2 Ng6 29.Qg4 Qxg4 30.hxg4 Be6
+31.Nc4 Nf8 32.f3 Nd7 33.Nf1 Kf7 34.Nfd2 Rh8 35.Kf2 Nf8 36.Rh1
+Ng6 37.Rde1 Rhd8 38.Bc3 Rd7 39.g3 fxg3+ 40.Kxg3 Nf4 41.Bb2 Kg6
+42.Bc1 b5 43.Na3 Rd5 44.axb5 cxb5 45.Bb2 Rdd8 46.Ne4 c4 47.d4
+cxb3 48.cxb3 Nd3 49.Nc5 Nxc5 50.dxc5 Rd3 51.Nc2 Bxb3 52.Nd4 Bd5
+53.Rhf1 e6 54.c6 Rc8 55.Nxb5 Rxc6 56.Nd6 Rc2 57.Bc1 Rxc1 0-1
+
+
+[Event "Tournament \"New York Masters\""]
+[Site "New York (USA)"]
+[Date "2004.09.21"]
+[Round "3"]
+[White "Bonin Jay R (USA)"]
+[Black "Nakamura Hikaru (USA)"]
+[Result "0-1"]
+[ECO "A27"]
+[WhiteElo "2342"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 f5 4.d4 e4 5.Ng5 Nf6 6.Nh3 Bb4 7.Bg5
+h6 8.Bxf6 Qxf6 9.e3 Bxc3+ 10.bxc3 g5 11.Qh5+ Qf7 12.Qxf7+ Kxf7
+13.c5 Na5 14.f3 b6 15.fxe4 fxe4 16.Nf2 Bb7 17.Bb5 d6 18.O-O Kg7
+19.Rad1 Bd5 20.Ng4 Rhf8 21.a3 Bc4 22.Bxc4 Nxc4 23.cxd6 cxd6 24.d5
+Rxf1+ 25.Kxf1 Nxa3 26.Rd4 h5 27.Nf2 Nb5 28.Rc4 a5 29.Nxe4 a4
+30.Rb4 a3 31.Rb1 a2 32.Ra1 Re8 33.Nxg5 Nxc3 34.Ke1 b5 35.Kd2
+b4 36.Ne6+ Kf6 37.Nd4 Ra8 38.Kc2 Nxd5 39.Kb2 Nxe3 40.g3 Ra3 41.Rxa2
+Nd1+ 42.Ka1 Rd3 43.Nc6 b3 44.Re2 b2+ 0-1
+
+
+[Event "It (open)"]
+[Site "Port Erin (England)"]
+[Date "2004.09.26"]
+[Round "2"]
+[White "Berzinsh Roland (LAT)"]
+[Black "Nakamura Hikaru (USA)"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2447"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 cxd4 5.Nxd4 e5 6.Ndb5 d6 7.Bg5
+a6 8.Na3 b5 9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 Bb7 12.Nc2 Nb8 13.Nce3
+Nd7 14.Qg4 h5 15.Qf3 g6 16.a4 bxa4 17.Rxa4 Bg5 18.Bc4 O-O 19.h4
+Bxe3 20.Qxe3 Kg7 21.b4 a5 22.Rxa5 Rxa5 23.bxa5 Qxa5 24.O-O Rc8
+25.Rb1 Bxd5 26.Bxd5 Rxc3 27.Qd2 Nf6 28.Qa2 Qc5 0-1
+
+
+[Event "It (open)"]
+[Site "Port Erin (England)"]
+[Date "2004.09.30"]
+[Round "6"]
+[White "Speelman Jonathan S (ENG)"]
+[Black "Nakamura Hikaru (USA)"]
+[Result "0-1"]
+[ECO "A09"]
+[WhiteElo "2555"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.Nf3 d5 2.c4 d4 3.d3 Nc6 4.g3 e5 5.Bg2 Bb4+ 6.Bd2 a5 7.O-O Nf6
+8.Na3 O-O 9.Nb5 Re8 10.e3 Bf5 11.e4 Bg4 12.h3 Bh5 13.Bc1 Nd7
+14.Na3 Bd6 15.Nc2 Nc5 16.Qd2 Nb4 17.Nfe1 f6 18.f3 Qd7 19.b3 b5
+20.cxb5 Nxc2 21.Nxc2 Qxb5 22.Rd1 Bf7 23.Bf1 a4 24.Na3 Qd7 25.b4
+Na6 26.b5 Bb4 27.Qf2 Bxa3 28.Bxa3 Qxb5 29.Qd2 c5 30.Rab1 Qc6
+31.Rdc1 Reb8 32.f4 Qd6 33.Rxb8+ Rxb8 34.Qa5 exf4 35.gxf4 f5 36.e5
+Qg6+ 37.Kh2 Bd5 38.Rc2 Qc6 39.Rb2 Rxb2+ 40.Bxb2 Nc7 41.a3 Ne6
+42.Bc1 h6 43.h4 Qe8 44.Qe1 Qb5 45.Qd2 Bb7 46.Qf2 Qc6 47.Bd2 c4 0-1
+
+
+[Event "It (open)"]
+[Site "Port Erin (England)"]
+[Date "2004.10.01"]
+[Round "7"]
+[White "Nakamura Hikaru (USA)"]
+[Black "Chandler Murray G (ENG)"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "2620"]
+[BlackElo "2531"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Be3 e6 5.Nd2 Ne7 6.c3 Bg6 7.f4 h5
+8.Ngf3 Nf5 9.Bf2 Qc7 10.b4 a5 11.a3 Nd7 12.Be2 Be7 13.O-O b5
+14.a4 axb4 15.axb5 O-O 16.Qb3 Ra3 17.Rxa3 bxa3 18.c4 dxc4 19.Nxc4
+cxb5 20.Nxa3 b4 21.Nc4 Ra8 22.Nfd2 Nb6 23.Nxb6 Qxb6 24.Qb2 Qa5
+25.Bc4 Qa3 26.Qb3 Rd8 27.Nf3 Qxb3 28.Bxb3 Rc8 29.Ra1 Rc3 30.Bd1
+b3 31.Be1 Rd3 32.Ra8+ Kh7 33.Be2 Rxd4 34.Nxd4 Nxd4 35.Bc4 b2
+36.Ba2 b1Q 37.Bxb1 Bxb1 38.Kf2 Nf5 39.Rc8 Be4 40.g3 Kg6 41.Bb4
+Bxb4 42.Rc4 Bd5 43.Rxb4 Nh6 44.Rb8 Kf5 45.Rh8 Kg4 46.Rc8 Kh3
+47.Kg1 Ng4 48.Rc2 h4 49.gxh4 Kxh4 50.Rc3 Nh6 51.Rg3 Nf5 52.Rg5
+Bf3 53.Kf2 Bg4 54.Kg2 g6 55.h3 Bxh3+ 56.Kf3 Nd4+ 57.Ke3 Nc2+
+58.Kf3 Ne1+ 59.Ke2 Bg4+ 60.Kxe1 Kg3 61.f5 exf5 62.e6 fxe6 63.Rxg6
+f4 64.Rg5 f3 65.Rg8 e5 66.Rf8 Kg2 67.Kd2 f2 68.Ke3 f1Q 69.Rxf1
+Kxf1 70.Ke4 1/2-1/2
+
+
+[Event "It (open)"]
+[Site "Port Erin (England)"]
+[Date "2004.10.02"]
+[Round "8"]
+[White "Kotronias Vasilios (GRE)"]
+[Black "Nakamura Hikaru (USA)"]
+[Result "1-0"]
+[ECO "C89"]
+[WhiteElo "2599"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+O-O 8.c3 d5 9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d3 Bd6 13.Re1
+Bf5 14.Qf3 Qh4 15.g3 Qh3 16.Nd2 Rae8 17.Ne4 Bg4 18.Qg2 f5 19.Qxh3
+Bxh3 20.Bd2 fxe4 21.dxe4 Bc5 22.Be3 Rxe4 23.Bxc5 Rfe8 24.Rxe4
+Rxe4 25.Be3 Kf8 26.Re1 Nxe3 27.fxe3 h6 28.Kf2 Bd7 29.h4 Re8 30.e4
+Ke7 31.Ke3 Rf8 32.a4 Rb8 33.Re2 b4 34.Bc4 bxc3 35.bxc3 Rb1 36.Kd4
+Ra1 37.Ra2 Rg1 38.Bxa6 Rxg3 39.c4 Rb3 40.c5 Rb4+ 41.Ke5 Be6 42.Ra1
+Bb3 43.Rb1 g5 44.hxg5 hxg5 45.Be2 g4 46.Bd1 g3 47.Bxb3 1-0
+
+
+[Event "Ch USA"]
+[Site "San Diego (USA)"]
+[Date "2004.11.26"]
+[Round "3"]
+[White "Nakamura Hikaru (USA)"]
+[Black "Stripunsky Alexander (USA)"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[WhiteElo "2620"]
+[BlackElo "2533"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Ba7 7.O-O
+Nc6 8.Nc3 Qh4 9.Qe2 Nf6 10.h3 d6 11.Be3 O-O 12.Bxa7 Rxa7 13.Qe3
+Ra8 14.Rad1 Rd8 15.f4 Nd7 16.Rd2 b6 17.e5 dxe5 18.Be4 Bb7 19.fxe5
+Ndxe5 20.Qxb6 Rxd2 21.Nxd2 Qd8 22.Qe3 Qc7 23.Nf3 Nxf3+ 24.Bxf3
+Ne7 25.Bxb7 1/2-1/2
+
+
+[Event "Ch USA"]
+[Site "San Diego (USA)"]
+[Date "2004.11.29"]
+[Round "5"]
+[White "Nakamura Hikaru (USA)"]
+[Black "Kudrin Sergey (USA)"]
+[Result "1/2-1/2"]
+[ECO "D82"]
+[WhiteElo "2620"]
+[BlackElo "2528"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 c5 6.dxc5 Qa5 7.Rc1
+Ne4 8.cxd5 Nxc3 9.Qd2 Qxa2 10.Rxc3 O-O 11.Bc4 Qa1+ 12.Rc1 Qxb2
+13.e4 Qa3 14.Nf3 Qxc5 15.d6 Qa3 16.Bxf7+ Kh8 17.Bg5 Nc6 18.dxe7
+Nxe7 19.Rc7 Qa1+ 20.Rc1 Qa3 21.Rc7 Qa1+ 22.Ke2 Qxh1 23.Bxe7 Bg4
+24.Bxf8 Rxf8 25.h3 Bxf3+ 26.gxf3 Qxh3 27.Rxb7 Qc8 28.Bd5 Qc5
+29.e5 Bxe5 30.Qh6 Bc7 31.Kf1 Rb8 32.Qh4 Qc1+ 33.Kg2 Qf4 34.Qxf4 1/2-1/2
+
+
+[Event "Ch USA"]
+[Site "San Diego (USA)"]
+[Date "2004.12.03"]
+[Round "8"]
+[White "Nakamura Hikaru (USA)"]
+[Black "Goldin Alexander (USA)"]
+[Result "1/2-1/2"]
+[ECO "B59"]
+[WhiteElo "2620"]
+[BlackElo "2620"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Be3 e5 7.Nb3
+Be6 8.Be2 Be7 9.O-O O-O 10.f4 exf4 11.Bxf4 d5 12.exd5 Nxd5 13.Nxd5
+Qxd5 14.Qxd5 Bxd5 15.Rad1 Be6 16.Bf3 Rac8 17.c3 Rfd8 18.Be3 Rxd1
+19.Rxd1 b6 20.Bf4 Kf8 21.h3 a5 22.Kh1 a4 23.Nd2 Na5 24.a3 b5
+25.Be2 Nc4 26.Nxc4 Bxc4 27.Bxc4 Rxc4 28.Bd6 Bxd6 29.Rxd6 Rc5
+30.Rd7 Re5 31.Rb7 g5 32.c4 1/2-1/2

@@ -9,6 +9,10 @@ import java.util.Scanner;
 import java.util.concurrent.ExecutionException;
 
 public class ChessAIMain {
+	
+	private static int games = 0;
+	private static int checks = 0;
+	private static int checkmates = 0;
 
 	public static void main(String[] args) throws InterruptedException, ExecutionException, FileNotFoundException {
 		File gamesDirectory = new File("games");
@@ -18,9 +22,13 @@ public class ChessAIMain {
 		for (File pgnFile : gamesDirectory.listFiles()) {
 			if (!pgnFile.isDirectory() && !pgnFile.isHidden() && pgnFile.getName().endsWith(".pgn")) {
 				readTranscripts(pgnFile, transcripts);
-				System.out.println(pgnFile.getName());
 			}
 		}
+		
+		System.out.println(games);
+		System.out.println(checks);
+		System.out.println(checkmates);
+		
 		/*
 		//Create a new neural network
 		NeuralNetwork network = new NeuralNetwork(true, 384, 512, 512, 512, 512, 128); //384 inputs, 4 layers of 512 neurons, 128 outputs
@@ -42,6 +50,7 @@ public class ChessAIMain {
 	}
 
 	private static void readTranscripts(File file, List<Transcript> transcripts) {
+		int transcript = 0;
 		try (Scanner scan = new Scanner(file)) {
 			Transcript t = null;
 			String moveList = null;
@@ -50,9 +59,17 @@ public class ChessAIMain {
 
 				if (line.startsWith("[Event \"")) {
 					if (t != null) {
-						populateTranscript(t, moveList);
-						moveList = null;
-						transcripts.add(t);
+						transcript++;
+						try {
+							if (moveList != null) {
+								populateTranscript(t, moveList);
+								moveList = null;
+								transcripts.add(t);
+							}
+						} catch (Exception e) {
+							System.err.println("Error reading " + file.getName() + "#" + transcript);
+							e.printStackTrace();
+						}
 					}
 					t = new Transcript();
 				}
@@ -65,18 +82,28 @@ public class ChessAIMain {
 			e.printStackTrace();
 		}
 	}
-	
-	private static int a = 0;
-	
+
 	private static void populateTranscript(Transcript t, String moveList) {
-		String[] moved = moveList.split("\\d*[\\\\.]\\s*");
+		String old;
+		do {
+			old = moveList;
+			moveList  = moveList.replaceAll("(?:\\([^\\(\\)]*\\))", ""); //Remove areas enclosed in parenthesis
+			moveList  = moveList.replaceAll("(?:\\{[^\\{\\}]*\\})", ""); //Remove areas enclosed in braces
+		} while (!old.equals(moveList));
 		
+		moveList = moveList.replaceAll("(?:\\d+\\.\\.\\.)", ""); //Remove all elipses
+		
+		if (moveList.contains("+")) checks++;
+		if (moveList.contains("#")) checkmates++;
+		
+		String[] moved = moveList.split("\\d*[\\\\.]\\s*");
+
 		ChessBoard board = new ChessBoard();
 		LinkedList<String> moves = t.getMoves();
-		
+
 		for (int i = 1; i<moved.length; i++) {
 			if (i == moved.length - 1) {
-				String[] parts = moved[i].split(" ");
+				String[] parts = moved[i].split("\\s+");
 				if (parts.length > 2) {
 					String movew = board.getMoveConverted(parts[0], true);
 					moves.add(movew);
@@ -92,7 +119,7 @@ public class ChessAIMain {
 					t.setOutcome(parts[1]);
 				}
 			} else {
-				String[] steps = moved[i].split(" ");
+				String[] steps = moved[i].split("\\s+");
 				String movew = board.getMoveConverted(steps[0], true);
 				moves.add(movew);
 				board.applyConvertedMove(movew);
@@ -101,7 +128,7 @@ public class ChessAIMain {
 				board.applyConvertedMove(moveb);
 			}
 		}
-		a++;
-		System.out.println(a + " " + moves);
+		games++;
+		//System.out.println(games + " " + moves);
 	}
 }

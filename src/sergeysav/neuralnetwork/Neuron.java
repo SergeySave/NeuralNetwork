@@ -19,8 +19,8 @@ public class Neuron implements Serializable {
 	private static final long serialVersionUID = -2054648138743362458L;
 	
 	//The activation function to use for this neuron
-	private Function<Double, Double> activationFunction;
-	private Function<Double, Double> derivativeFunction;
+	private transient Function<Double, Double> activationFunction;
+	private transient Function<Double, Double> derivativeFunction;
 	
 	//The weights to the previous layer of neurons
 	private double[] weights;
@@ -54,7 +54,7 @@ public class Neuron implements Serializable {
 	 * @param numParents the number of parent nodes for this neuron
 	 * @param activationFunction the activation function to use
 	 */
-	public Neuron(int numParents, Function<Double, Double> activationFunction, Function<Double, Double> derivativeFunction) {
+	private Neuron(int numParents, Function<Double, Double> activationFunction, Function<Double, Double> derivativeFunction) {
 		//Set the weights as random values from -1 to 1
 		weights = NeuralNetwork.rand.doubles(numParents, -1, 1).toArray();
 		//Set the bias to 0

@@ -407,4 +407,8 @@ public class ChessBoard {
 		else if (pieceType.equals("K")) return 6;
 		return -1;
 	}
+	
+	public int getPieceAt(int row, int col) {
+		return board[row][col];
+	}
 }

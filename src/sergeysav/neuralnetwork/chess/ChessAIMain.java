@@ -3,50 +3,94 @@ package sergeysav.neuralnetwork.chess;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 import java.util.concurrent.ExecutionException;
+import java.util.stream.StreamSupport;
 
+import sergeysav.neuralnetwork.NeuralNetwork;
+import sergeysav.neuralnetwork.chess.ChessTrainer.TrainingResult;
+
+/*
+ * 
+ * Inputs 0-5 are type of piece at (0,0), Inputs (6-11) are type of piece at (1,0)
+ * 
+ */
 public class ChessAIMain {
 	
-	private static int games = 0;
-	private static int checks = 0;
-	private static int checkmates = 0;
+	private static double trainingRatio = 0.75;
 
 	public static void main(String[] args) throws InterruptedException, ExecutionException, FileNotFoundException {
+		print("Initializing games");
 		File gamesDirectory = new File("games");
 
-		List<Transcript> transcripts = new LinkedList<Transcript>();
+		List<File> trainingFiles = new ArrayList<File>();
+		List<File> testingFiles = new ArrayList<File>();
 
 		for (File pgnFile : gamesDirectory.listFiles()) {
 			if (!pgnFile.isDirectory() && !pgnFile.isHidden() && pgnFile.getName().endsWith(".pgn")) {
-				readTranscripts(pgnFile, transcripts);
+				if (Math.random() <= trainingRatio) {
+					trainingFiles.add(pgnFile);
+				} else {
+					testingFiles.add(pgnFile);
+				}
 			}
 		}
 		
-		System.out.println(games);
-		System.out.println(checks);
-		System.out.println(checkmates);
-		
-		/*
+		print("Creating Neural Network");
 		//Create a new neural network
-		NeuralNetwork network = new NeuralNetwork(true, 384, 512, 512, 512, 512, 128); //384 inputs, 4 layers of 512 neurons, 128 outputs
+		NeuralNetwork network = new NeuralNetwork(true, 384, 512, 512, 512, 512, 134); //384 inputs, 4 layers of 512 neurons, 134 outputs (128 tiles + 6 upgrade types)
 
-		//Training data for the network
-		double[][] trainingData = null;
-
-		//Testing data for the network
-		double[][] testingData = null;
-
-		//Teach the XOR function to the neural network
-		Trainer trainer = new Trainer(0.2, trainingData, testingData, network);
-
-		//Train the network
-		TrainingResult result = trainer.train(1e-2, 100000);
-
-		//Print the error
-		System.out.println(result);*/
+		print("Creating Network Trainer");
+		ChessTrainer trainer = new ChessTrainer(0.2, ()->{
+			//Generate a stream of double arrays for the training data
+			Collections.shuffle(trainingFiles);
+			
+			return trainingFiles.stream().flatMap((f)->{
+				//Convert each file to a stream of transcripts
+				List<Transcript> trans = new LinkedList<Transcript>();
+				readTranscripts(f, trans);
+				return trans.stream();
+			}).flatMap((t)->StreamSupport.stream(t.spliterator(), false)).parallel();
+		}, ()->{
+			//Generate a stream of double arrays for the testing data
+			Collections.shuffle(testingFiles);
+			
+			return testingFiles.stream().flatMap((f)->{
+				//Convert each file to a stream of transcripts
+				List<Transcript> trans = new LinkedList<Transcript>();
+				readTranscripts(f, trans);
+				return trans.stream();
+			}).flatMap((t)->StreamSupport.stream(t.spliterator(), false)).parallel();
+		}, network, 1e-2);
+		
+		ChessStore store = new ChessStore();
+		store.network = network;
+		store.trainer = trainer;
+		store.epoch = 0;
+		
+		print("Saving Backup 0");
+		store.save();
+		print("Calculating if next epoch needed\n");
+		while (trainer.isNextEpochNeeded()) {
+			print("Epoch " + (store.epoch+1) + " starting");
+			trainer.performEpoch();
+			print("Epoch completed");
+			store.epoch++;
+			print("Saving Backup " + store.epoch);
+			store.save(); 
+			print("Calculating if next epoch needed\n");
+		}
+		
+		//I don't ever expect this code to be reached
+		print("Training Completed");
+		TrainingResult result = trainer.getResult();
+		print("Took " + result.epochs + " epochs");
 	}
 
 	private static void readTranscripts(File file, List<Transcript> transcripts) {
@@ -93,8 +137,8 @@ public class ChessAIMain {
 		
 		moveList = moveList.replaceAll("(?:\\d+\\.\\.\\.)", ""); //Remove all elipses
 		
-		if (moveList.contains("+")) checks++;
-		if (moveList.contains("#")) checkmates++;
+		//if (moveList.contains("+")) checks++;
+		//if (moveList.contains("#")) checkmates++;
 		
 		String[] moved = moveList.split("\\d*[\\\\.]\\s*");
 
@@ -128,7 +172,11 @@ public class ChessAIMain {
 				board.applyConvertedMove(moveb);
 			}
 		}
-		games++;
-		//System.out.println(games + " " + moves);
+		//games++;
+		//ChessAIMain.moves += moves.size();
+	}
+	
+	public static void print(String arg) {
+		System.out.println("[" + LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss.SSSS")) + "] " + arg);
 	}
 }

@@ -33,13 +33,7 @@ public class ChessTrainer implements Serializable {
 
 	public ChessTrainer(double k, Supplier<Stream<double[]>> trainingData, Supplier<Stream<double[]>> testingData, NeuralNetwork network, double epsilon) {
 		init(k, trainingData, testingData, network, epsilon);
-		learningMomentum = new double[network.getNeuralData().length][][];
-		for (int i = 0; i<learningMomentum.length; i++) {
-			learningMomentum[i] = new double[network.getNeuralData()[i].length][];
-			for (int j = 0; j<learningMomentum[i].length; j++) {
-				learningMomentum[i][j] = new double[network.getNeuralData()[i][j].getParentNeurons() + 1];
-			}
-		}
+		learningMomentum = generateMomentumArr();
 	}
 	
 	private double[][][] generateMomentumArr() {
@@ -86,8 +80,8 @@ public class ChessTrainer implements Serializable {
 		
 		//Perform backpropogation on every set of inputs
 		//This is what I want to work: it should use multiple threads for the backpropogation
-		//trainingData.get().map(this::performBackpropogation).reduce(new double[][][], accumulator)
-		trainingData.get().sequential().forEach(this::performBackpropogation);
+		learningMomentum = sumArray3(trainingData.get().map(this::performBackpropogation).reduce(generateMomentumArr(), this::sumArray3), learningMomentum);
+		//trainingData.get().sequential().forEach(this::performBackpropogation);
 		
 		//Apply the learning momentum
 		for (int i = 0; i<learningMomentum.length; i++) {
@@ -102,12 +96,26 @@ public class ChessTrainer implements Serializable {
 			}
 		}
 	}
+	
+	private double[][][] sumArray3(double[][][] a1, double[][][] a2) {
+		double[][][] result = new double[a1.length][][];
+		for (int i = 0; i<result.length; i++) {
+			result[i] = new double[a1[i].length][];
+			for (int j = 0; j<result[i].length; j++) {
+				result[i][j] = new double[a1[i][j].length];
+				for (int k = 1; k<result[i][j].length; k++) {
+					result[i][j][k] = a1[i][j][k] + a2[i][j][k];
+				}
+			}
+		}
+		return result;
+	}
 
 	public TrainingResult getResult() {
 		return new TrainingResult(calculateAverageError(trainingData), calculateAverageError(testingData), epochs, calculateAverageError(trainingData) <= epsilon);
 	}
 
-	private void performBackpropogation(double[] data) {
+	private double[][][] performBackpropogation(double[] data) {
 		Neuron[][] neuralData = network.getNeuralData();
 		double[][] neuralOutputs = new double[network.getNeuralData().length][];
 		double[][] neuralDeltas = new double[network.getNeuralData().length][];
@@ -116,6 +124,8 @@ public class ChessTrainer implements Serializable {
 
 		double[] input =  trial[0];
 		double[] target = trial[1];
+		
+		double[][][] result = generateMomentumArr();
 
 		{
 			double[] lastLayer = trial[0];
@@ -148,16 +158,16 @@ public class ChessTrainer implements Serializable {
 				}
 				neuralDeltas[i][j] = deltaWeight;
 				//New weight = oldWeight + k * output(source) * deltaWeight(thisNode)
-				learningMomentum[i][j][0] += learningRate * deltaWeight;
+				result[i][j][0] += learningRate * deltaWeight;
 				for (int k = 0; k < neuron.getWeights().length; k++) {
-					learningMomentum[i][j][k+1] += learningRate * (i > 0 ? neuralOutputs[i-1][k] : input[k]) * deltaWeight;
+					result[i][j][k+1] += learningRate * (i > 0 ? neuralOutputs[i-1][k] : input[k]) * deltaWeight;
 					//neuron.getWeights()[k] += learningRate * (i > 0 ? neuralOutputs[i-1][k] : input[k]) * deltaWeight;
 				}
 				//neuron.setBias(neuron.getBias() + learningRate * deltaWeight);
 			}
 		}
 		//System.out.println(Arrays.deepToString(neuralOutputs));
-		//return result;
+		return result;
 	} 
 	//Output neurons: constant * FromOutput * error
 	//Hidden neurons: constant * FromOutput * error

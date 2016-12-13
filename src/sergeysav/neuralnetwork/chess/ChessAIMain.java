@@ -1,7 +1,9 @@
 package sergeysav.neuralnetwork.chess;
 
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -22,10 +24,27 @@ import sergeysav.neuralnetwork.chess.ChessTrainer.TrainingResult;
  * 
  */
 public class ChessAIMain {
-	
+
 	private static double trainingRatio = 0.75;
+	private static BufferedWriter fileWriter;
 
 	public static void main(String[] args) throws InterruptedException, ExecutionException, FileNotFoundException {
+		Runtime.getRuntime().addShutdownHook(new Thread(()->{
+			if (fileWriter != null) {
+				try {
+					fileWriter.close();
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		}));
+		
+		try {
+			fileWriter = new BufferedWriter(new FileWriter(new File("log.log")));
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+
 		print("Initializing games");
 		File gamesDirectory = new File("games");
 
@@ -41,16 +60,16 @@ public class ChessAIMain {
 				}
 			}
 		}
-		
+
 		print("Creating Neural Network");
 		//Create a new neural network
-		NeuralNetwork network = new NeuralNetwork(true, 384, 512, 512, 512, 512, 134); //384 inputs, 4 layers of 512 neurons, 134 outputs (128 tiles + 6 upgrade types)
+		NeuralNetwork network = new NeuralNetwork(true, 384, 259, 259, 134); //384 inputs, 2 layers of 259 neurons, 134 outputs (128 tiles + 6 upgrade types)
 
 		print("Creating Network Trainer");
 		ChessTrainer trainer = new ChessTrainer(0.2, ()->{
 			//Generate a stream of double arrays for the training data
 			Collections.shuffle(trainingFiles);
-			
+
 			return trainingFiles.stream().flatMap((f)->{
 				//Convert each file to a stream of transcripts
 				List<Transcript> trans = new LinkedList<Transcript>();
@@ -60,7 +79,7 @@ public class ChessAIMain {
 		}, ()->{
 			//Generate a stream of double arrays for the testing data
 			Collections.shuffle(testingFiles);
-			
+
 			return testingFiles.stream().flatMap((f)->{
 				//Convert each file to a stream of transcripts
 				List<Transcript> trans = new LinkedList<Transcript>();
@@ -68,12 +87,12 @@ public class ChessAIMain {
 				return trans.stream();
 			}).flatMap((t)->StreamSupport.stream(t.spliterator(), false)).parallel();
 		}, network, 1e-2);
-		
+
 		ChessStore store = new ChessStore();
 		store.network = network;
 		store.trainer = trainer;
 		store.epoch = 0;
-		
+
 		print("Saving Backup 0");
 		store.save();
 		print("Calculating if next epoch needed\n");
@@ -86,7 +105,7 @@ public class ChessAIMain {
 			store.save(); 
 			print("Calculating if next epoch needed\n");
 		}
-		
+
 		//I don't ever expect this code to be reached
 		print("Training Completed");
 		TrainingResult result = trainer.getResult();
@@ -134,12 +153,12 @@ public class ChessAIMain {
 			moveList  = moveList.replaceAll("(?:\\([^\\(\\)]*\\))", ""); //Remove areas enclosed in parenthesis
 			moveList  = moveList.replaceAll("(?:\\{[^\\{\\}]*\\})", ""); //Remove areas enclosed in braces
 		} while (!old.equals(moveList));
-		
+
 		moveList = moveList.replaceAll("(?:\\d+\\.\\.\\.)", ""); //Remove all elipses
-		
+
 		//if (moveList.contains("+")) checks++;
 		//if (moveList.contains("#")) checkmates++;
-		
+
 		String[] moved = moveList.split("\\d*[\\\\.]\\s*");
 
 		ChessBoard board = new ChessBoard();
@@ -175,8 +194,14 @@ public class ChessAIMain {
 		//games++;
 		//ChessAIMain.moves += moves.size();
 	}
-	
+
 	public static void print(String arg) {
-		System.out.println("[" + LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss.SSSS")) + "] " + arg);
+		String str = "[" + LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss.SSSS")) + "] " + arg;
+		try {
+			fileWriter.write(str+"\n");
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		System.out.println(str);
 	}
 }

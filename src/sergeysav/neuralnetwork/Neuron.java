@@ -64,6 +64,11 @@ public class Neuron implements Serializable {
 		this.derivativeFunction = derivativeFunction;
 	}
 	
+	public void init() {
+		this.activationFunction = Neuron::sigmoid;
+		this.derivativeFunction = Neuron::sigmoidDerivative;
+	}
+	
 	/**
 	 * Get the output of this neuron with a given layer of neuron values as input
 	 * 

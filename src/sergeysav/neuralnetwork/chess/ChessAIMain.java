@@ -13,6 +13,8 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 import java.util.concurrent.ExecutionException;
+import java.util.function.Supplier;
+import java.util.stream.Stream;
 import java.util.stream.StreamSupport;
 
 import sergeysav.neuralnetwork.NeuralNetwork;
@@ -28,6 +30,9 @@ public class ChessAIMain {
 	private static double trainingRatio = 0.75;
 	private static BufferedWriter fileWriter;
 
+	private static double LEARNING_K = 0.2;
+	private static double EPSILON = 1e-2;
+
 	public static void main(String[] args) throws InterruptedException, ExecutionException, FileNotFoundException {
 		Runtime.getRuntime().addShutdownHook(new Thread(()->{
 			if (fileWriter != null) {
@@ -38,7 +43,7 @@ public class ChessAIMain {
 				}
 			}
 		}));
-		
+
 		try {
 			fileWriter = new BufferedWriter(new FileWriter(new File("log.log")));
 		} catch (IOException e) {
@@ -61,12 +66,18 @@ public class ChessAIMain {
 			}
 		}
 
-		print("Creating Neural Network");
-		//Create a new neural network
-		NeuralNetwork network = new NeuralNetwork(true, 384, 259, 259, 134); //384 inputs, 2 layers of 259 neurons, 134 outputs (128 tiles + 6 upgrade types)
+		ChessStore loaded = null;
 
-		print("Creating Network Trainer");
-		ChessTrainer trainer = new ChessTrainer(0.2, ()->{
+		if (args.length > 0 && new File("backups/" + args[0]).exists()) {
+			print("Loading Neural Network from file");
+			loaded = ChessStore.load(new File("backups/" + args[0]));
+		}
+
+		NeuralNetwork network;
+		ChessTrainer trainer;
+		int startEpoch;
+		
+		Supplier<Stream<double[]>> trainingData = ()->{
 			//Generate a stream of double arrays for the training data
 			Collections.shuffle(trainingFiles);
 
@@ -76,7 +87,9 @@ public class ChessAIMain {
 				readTranscripts(f, trans);
 				return trans.stream();
 			}).flatMap((t)->StreamSupport.stream(t.spliterator(), false)).parallel();
-		}, ()->{
+		};
+		
+		Supplier<Stream<double[]>> testingData = ()->{
 			//Generate a stream of double arrays for the testing data
 			Collections.shuffle(testingFiles);
 
@@ -86,14 +99,34 @@ public class ChessAIMain {
 				readTranscripts(f, trans);
 				return trans.stream();
 			}).flatMap((t)->StreamSupport.stream(t.spliterator(), false)).parallel();
-		}, network, 1e-2);
+		};
+
+		if (loaded == null) {
+			print("Creating Neural Network");
+			//Create a new neural network
+			network = new NeuralNetwork(true, 384, 259, 259, 134); //384 inputs, 2 layers of 259 neurons, 134 outputs (128 tiles + 6 upgrade types)
+
+			print("Creating Network Trainer");
+			trainer = new ChessTrainer(LEARNING_K, trainingData, testingData, network, EPSILON);
+			
+			startEpoch = 0;
+		} else {
+			network = loaded.network;
+			
+			network.init();
+			
+			trainer = loaded.trainer;
+			
+			trainer.init(LEARNING_K, trainingData, testingData, network, EPSILON);
+			startEpoch = loaded.epoch;
+		}
 
 		ChessStore store = new ChessStore();
 		store.network = network;
 		store.trainer = trainer;
-		store.epoch = 0;
+		store.epoch = startEpoch;
 
-		print("Saving Backup 0");
+		print("Saving Backup " + store.epoch);
 		store.save();
 		print("Calculating if next epoch needed\n");
 		while (trainer.isNextEpochNeeded()) {

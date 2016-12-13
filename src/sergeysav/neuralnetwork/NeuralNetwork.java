@@ -184,4 +184,14 @@ public class NeuralNetwork implements Serializable {
 		if (neurons[0][0].getParentNeurons() != inputNeurons) new IllegalArgumentException("The inputted neurons expect " + neurons[0][0].getParentNeurons() + " input neurons. " + inputNeurons + " expected.");
 		layers = neurons;
 	}
+	
+	public void init() {
+		//Loop through each layer of neurons
+		for (int i = 0; i<layers.length; i++) {
+			//Loop through each neuron in this layer
+			for (int j = 0; j<layers[i].length; j++) {
+				layers[i][j].init();
+			}
+		}
+	}
 }

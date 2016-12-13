@@ -1,8 +1,10 @@
 package sergeysav.neuralnetwork.chess;
 
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
 
@@ -22,10 +24,10 @@ public class ChessStore implements Serializable {
 	public void save() {
 		try {
 			new File("backups").mkdirs();
-			
+
 			File outputFile = new File("backups/backup-" + epoch + ".store");
 			outputFile.createNewFile();
-			
+
 			ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(outputFile));
 			oos.writeObject(this);
 			oos.flush();
@@ -33,5 +35,17 @@ public class ChessStore implements Serializable {
 		} catch(IOException e) {
 			e.printStackTrace();
 		}
+	}
+
+	public static ChessStore load(File file) {
+		try {
+			ObjectInputStream ois = new ObjectInputStream(new FileInputStream(file));
+			ChessStore store = (ChessStore)ois.readObject();
+			ois.close();
+			return store;
+		} catch(IOException | ClassNotFoundException e) {
+			e.printStackTrace();
+		}
+		return null;
 	}
 }

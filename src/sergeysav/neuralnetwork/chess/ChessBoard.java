@@ -21,7 +21,7 @@ public class ChessBoard {
 
 		String captureLocation = "(" + groupColumn + groupRow + ")";
 		String optionalCaptureLocation = "(" + optionalGroupColumn + optionalGroupRow + ")?";
-		
+
 		String optionalEqualsGroup = "(?:[=])?";
 
 		String optionalCaptureCapture = "([x])?";
@@ -94,20 +94,20 @@ public class ChessBoard {
 		int toRow = Integer.parseInt(moveParts[1].charAt(0) + "");
 		int toCol = Integer.parseInt(moveParts[1].charAt(1) + "");
 
-		int piece = Integer.parseInt(moveParts[2]);
-		int pieceType = Math.abs(piece);
-		int team = Math.round(Math.signum(piece));
-		
+		int piece = board[fromRow][fromCol];//Integer.parseInt(moveParts[2]);
+		int pieceType = Math.abs(board[fromRow][fromCol]);
+		int team = Math.round(Math.signum(board[fromRow][fromCol]));
+
 		boolean doResetEnpassant = true;
 
 		if (pieceType == 1) { //If this is a pawn
 			if (Math.abs(board[toRow][toCol]) == 7) { //If it is moving onto an enpassant stored tile
 				board[toRow + board[toRow][toCol]/7][toCol] = 0; //Kill the pawn that produced the enpassant tile
 			} else if (Math.abs(fromRow - toRow) == 2) { //If it just did the double move thing
-				 //Reset the current enpassant tile
+				//Reset the current enpassant tile
 				resetEnpassant(team);
 				doResetEnpassant = false;
-				
+
 				//Set an empassant tile
 				board[(toRow + fromRow)/2][toCol] = 7 * team;
 				enpassantCol = toCol;
@@ -133,9 +133,12 @@ public class ChessBoard {
 
 		if (doResetEnpassant) resetEnpassant(team);
 		board[fromRow][fromCol] = 0;
+		if (moveParts.length > 2) {
+			piece = Integer.parseInt(moveParts[2]);
+		}
 		board[toRow][toCol] = piece;
 	}
-	
+
 	private void resetEnpassant(int ofTeam) {
 		if (enpassantCol != -1) {
 			if (Math.abs(board[ofTeam == -1 ? 2 : 5][enpassantCol]) == 7) {
@@ -143,6 +146,40 @@ public class ChessBoard {
 			}
 			enpassantCol = -1;
 		}
+	}
+
+	public boolean isLegalMove(String from, String to) {
+		int fromRow = Integer.parseInt(from.charAt(0) + "");
+		int fromCol = Integer.parseInt(from.charAt(1) + "");
+
+		int toRow = Integer.parseInt(to.charAt(0) + "");
+		int toCol = Integer.parseInt(to.charAt(1) + "");
+
+		if ((board[fromRow][fromCol] == 6 && fromRow == 0 && toRow == 0) || (board[fromRow][fromCol] == -6 && fromRow == 7 && toRow == 7)) { //If king
+			if (fromCol == 4) {
+				if (toCol == 7) { //Kingside Castle
+					if (board[fromRow][5] != 0 || board[fromRow][6] != 0) {
+						return false;
+					}
+					if (board[fromRow][fromCol] == 6) { //White
+						return !(isWhiteCheck(fromRow, 4) || isWhiteCheck(fromRow, 5) || isWhiteCheck(fromRow, 6) || isWhiteCheck(fromRow, 7));
+					} else { //Black
+						return !(isBlackCheck(fromRow, 4) || isBlackCheck(fromRow, 5) || isBlackCheck(fromRow, 6) || isBlackCheck(fromRow, 7));
+					}
+				} else if (toCol == 0) { //Queenside Castle
+					if (board[fromRow][3] != 0 || board[fromRow][2] != 0 || board[fromRow][1] != 0) {
+						return false;
+					}
+					if (board[fromRow][fromCol] == 6) { //White
+						return !(isWhiteCheck(fromRow, 0) || isWhiteCheck(fromRow, 1) || isWhiteCheck(fromRow, 2) || isWhiteCheck(fromRow, 3) || isWhiteCheck(fromRow, 4));
+					} else { //Black
+						return !(isBlackCheck(fromRow, 0) || isBlackCheck(fromRow, 1) || isBlackCheck(fromRow, 2) || isBlackCheck(fromRow, 3) || isBlackCheck(fromRow, 4));
+					}
+				}
+			}
+		}
+
+		return isLegalMove(fromRow + "" + fromCol + ";" + toRow + "" + toCol); 
 	}
 
 	//Does not check for Castles
@@ -161,12 +198,42 @@ public class ChessBoard {
 		int maxRow = Math.max(fromRow, toRow);
 		int maxCol = Math.max(fromCol, toCol);
 
-		int piece = Integer.parseInt(moveParts[2]);
+		int piece = board[fromRow][fromCol];//Integer.parseInt(moveParts[2]);
 		int pieceType = Math.abs(piece);
 		int team = Math.round(Math.signum(piece));
 
+		if (team == Math.round(Math.signum(board[toRow][toCol]))) {
+			return false;
+		}
+		
+		if (toRow < 0 || toRow > 7 && toCol < 0 && toCol > 7) {
+			return false;
+		}
+
+		if (team > 0) { // WHITE
+			int enpassantBackup = enpassantCol;
+			int[][] boardBackup = deepCopyBoard();
+			applyConvertedMove(move);
+			boolean check = isWhiteCheck();
+			board = boardBackup;
+			enpassantCol = enpassantBackup;
+			if (check) {
+				return false;
+			}
+		} else { //BLACK
+			int enpassantBackup = enpassantCol;
+			int[][] boardBackup = deepCopyBoard();
+			applyConvertedMove(move);
+			boolean check = isBlackCheck();
+			board = boardBackup;
+			enpassantCol = enpassantBackup;
+			if (check) {
+				return false;
+			}
+		}
+
 		if (pieceType == 1) { //Pawn
-			return ((board[toRow][toCol] != 0 && toRow == fromRow + team && (toCol == fromCol + 1 || toCol == fromCol - 1)) || (toCol == fromCol && board[toRow][toCol] == 0 && ((toRow == fromRow + team) || (((fromRow == 1 && team == 1) || (fromRow == 6 && team == -1)) ? toRow == fromRow + 2*team : false))));
+			return ((board[toRow][toCol] != 0 && toRow == fromRow + team && (toCol == fromCol + 1 || toCol == fromCol - 1)) || (toCol == fromCol && board[toRow][toCol] == 0 && ((toRow == fromRow + team) || (((fromRow == 1 && team == 1) || (fromRow == 6 && team == -1)) ? toRow == fromRow + 2*team && board[fromRow + team][fromCol] == 0 : false))));
 		} else if (pieceType == 2) { //Rook
 			if (toRow == fromRow) {
 				for (int i = minCol + 1; i < maxCol; i++) {
@@ -256,7 +323,7 @@ public class ChessBoard {
 
 		//Get the piece type
 		int piece = getPieceNumFromStr(pieceType);
-		
+
 		if (piece != 1) {
 			resetEnpassant(whiteTeamMoving ? 1 : -1);
 		}
@@ -398,6 +465,98 @@ public class ChessBoard {
 		return (fromRow + "" + fromCol) + ";" + (toRow + "" + toCol) + ";" + newType * (whiteTeamMoving ? 1 : -1);
 	}
 
+	private boolean hasLegalMoves(int row, int col) {
+		int piece = board[row][col];
+		int pieceType = Math.abs(piece);
+		int team = Math.round(Math.signum(piece));
+
+		if (pieceType == 1) { //Pawn
+			return isLegalMove(row + "" + col + ";" + (row+team) + "" + col) ||
+					isLegalMove(row + "" + col + ";" + (row+team+team) + "" + col) ||
+					isLegalMove(row + "" + col + ";" + (row+team) + "" + (col+1)) ||
+					isLegalMove(row + "" + col + ";" + (row+team) + "" + (col-1));
+		} else if (pieceType == 2) { //Rook
+			for (int i = 0; i<8; i++) {
+				if (i != row) {
+					if (isLegalMove(row + "" + col + ";" + i + "" + col)) {
+						return true;
+					}
+				}
+			}
+			for (int i = 0; i<8; i++) {
+				if (i != col) {
+					if (isLegalMove(row + "" + col + ";" + row + "" + i)) {
+						return true;
+					}
+				}
+			}
+		} else if (pieceType == 3) { //Knight
+			return isLegalMove(row + "" + col + ";" + (row+2) + "" + (col+1)) ||
+					isLegalMove(row + "" + col + ";" + (row+2) + "" + (col-1)) ||
+					isLegalMove(row + "" + col + ";" + (row+1) + "" + (col+2)) ||
+					isLegalMove(row + "" + col + ";" + (row+1) + "" + (col-2)) ||
+					isLegalMove(row + "" + col + ";" + (row-2) + "" + (col-1)) ||
+					isLegalMove(row + "" + col + ";" + (row-2) + "" + (col-1)) ||
+					isLegalMove(row + "" + col + ";" + (row-1) + "" + (col-2)) ||
+					isLegalMove(row + "" + col + ";" + (row-1) + "" + (col-2));
+		} else if (pieceType == 4) { //Bishop
+			for (int i = 0; i<8; i++) {
+				if (i != col) {
+					if (isLegalMove(row + "" + col + ";" + (row - col + i) + "" + (i))) {
+						return true;
+					}
+				}
+			}
+			for (int i = 0; i<8; i++) {
+				if (i != row) {
+					if (isLegalMove(row + "" + col + ";" + (i) + "" + (row + col - i))) {
+						return true;
+					}
+				}
+			}
+		} else if (pieceType == 5) { //Queen
+			for (int i = 0; i<8; i++) {
+				if (i != row) {
+					if (isLegalMove(row + "" + col + ";" + i + "" + col)) {
+						return true;
+					}
+				}
+			}
+			for (int i = 0; i<8; i++) {
+				if (i != col) {
+					if (isLegalMove(row + "" + col + ";" + row + "" + i)) {
+						return true;
+					}
+				}
+			}
+			for (int i = 0; i<8; i++) {
+				if (i != col) {
+					if (isLegalMove(row + "" + col + ";" + (row - col + i) + "" + (i))) {
+						return true;
+					}
+				}
+			}
+			for (int i = 0; i<8; i++) {
+				if (i != row) {
+					if (isLegalMove(row + "" + col + ";" + (i) + "" + (row + col - i))) {
+						return true;
+					}
+				}
+			}
+		} else if (pieceType == 6) { //King
+			return isLegalMove(row + "" + col + ";" + (row) + "" + (col+1)) ||
+					isLegalMove(row + "" + col + ";" + (row) + "" + (col-1)) ||
+					isLegalMove(row + "" + col + ";" + (row+1) + "" + (col)) ||
+					isLegalMove(row + "" + col + ";" + (row-1) + "" + (col)) ||
+					isLegalMove(row + "" + col + ";" + (row+1) + "" + (col+1)) ||
+					isLegalMove(row + "" + col + ";" + (row+1) + "" + (col-1)) ||
+					isLegalMove(row + "" + col + ";" + (row-1) + "" + (col+1)) ||
+					isLegalMove(row + "" + col + ";" + (row-1) + "" + (col-1));
+		}
+
+		return false;
+	}
+
 	private int getPieceNumFromStr(String pieceType) {
 		if (pieceType == null) return 1;
 		else if (pieceType.equals("R")) return 2;
@@ -407,8 +566,118 @@ public class ChessBoard {
 		else if (pieceType.equals("K")) return 6;
 		return -1;
 	}
-	
+
 	public int getPieceAt(int row, int col) {
 		return board[row][col];
+	}
+
+	public boolean isWhiteCheck() {
+		for (int i = 0; i<8; i++) {
+			for (int j = 0; j<8; j++) {
+				if (board[i][j] == 6) {
+					return isWhiteCheck(i, j);
+				}
+			}
+		}
+		return false;
+	}
+
+	private boolean isWhiteCheck(int kI, int kJ) {
+		for (int i = 0; i<8; i++) {
+			for (int j = 0; j<8; j++) {
+				if (board[i][j] < 0) {
+					if (isLegalMove(i + "" + j, kI + "" + kJ)) {
+						return true;
+					}
+				}
+			}
+		}
+
+		return false;
+	}
+
+	public boolean isBlackCheck() {
+		for (int i = 0; i<8; i++) {
+			for (int j = 0; j<8; j++) {
+				if (board[i][j] == -6) {
+					return isBlackCheck(i, j);
+				}
+			}
+		}
+		return false;
+	}
+
+	private boolean isBlackCheck(int kI, int kJ) {
+		for (int i = 0; i<8; i++) {
+			for (int j = 0; j<8; j++) {
+				if (board[i][j] > 0) {
+					if (isLegalMove(i + "" + j, kI + "" + kJ)) {
+						return true;
+					}
+				}
+			}
+		}
+
+		return false;
+	}
+
+	/**
+	 * Bit flags:
+	 * 1 = Game over
+	 * 2 = White in Check(mate; if 1)
+	 * 4 = Black in Check(mate; if 1)
+	 * 8 = Stalemate
+	 * 
+	 * Check = all legal moves involve protecting king
+	 * Checkmate = no legal moves, in check
+	 * Stalemate = no legal moves, not in check
+	 * 
+	 * @return an integer of flags representing the board state
+	 */
+	public int getBoardState(boolean whiteTeamMoving) {
+		int result = 0;
+		boolean moves = doMovesExist(whiteTeamMoving);
+
+		result |= moves ? 0 : 1;
+		result |= isWhiteCheck() ? 1<<1 : 0;
+		result |= isBlackCheck() ? 1<<2 : 0;
+		result |= result == 1 ? 0 : 1<<3;
+
+		return result;
+	}
+
+	private boolean doMovesExist(boolean whiteTeamMoving) {
+		if (whiteTeamMoving) {
+			for (int i = 0; i<8; i++) {
+				for (int j = 0; j<8; j++) {
+					if (board[i][j] > 0) {
+						if (hasLegalMoves(i, j)) {
+							return true;
+						}
+					}
+				}
+			}
+		} else {
+			for (int i = 0; i<8; i++) {
+				for (int j = 0; j<8; j++) {
+					if (board[i][j] < 0) {
+						if (hasLegalMoves(i, j)) {
+							return true;
+						}
+					}
+				}
+			}
+		}
+		return false;
+	}
+
+	private int[][] deepCopyBoard() {
+		int[][] newArr = new int[8][8];
+		for (int i = 0; i<8; i++) {
+			for (int j = 0; j<8; j++) {
+				newArr[i][j] = board[i][j];
+			}
+		}
+		return newArr;
 	}
 }

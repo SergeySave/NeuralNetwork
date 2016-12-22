@@ -58,7 +58,8 @@ public class ChessTrainer implements Serializable {
 	public boolean isNextEpochNeeded() {
 		double err = calculateAverageError(trainingData);
 		ChessAIMain.print("Training Error: " + err);
-		return err > epsilon && testingCheck();
+		testingCheck(); //Just used to calculate and print
+		return err > epsilon;
 	}
 	
 	private boolean testingCheck() {

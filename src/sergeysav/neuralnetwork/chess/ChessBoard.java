@@ -155,7 +155,7 @@ public class ChessBoard {
 		int toRow = Integer.parseInt(to.charAt(0) + "");
 		int toCol = Integer.parseInt(to.charAt(1) + "");
 
-		if ((board[fromRow][fromCol] == 6 && fromRow == 0 && toRow == 0) || (board[fromRow][fromCol] == -6 && fromRow == 7 && toRow == 7)) { //If king
+		if ((board[fromRow][fromCol] == 6 && fromRow == 0 && toRow == 0) || (board[fromRow][fromCol] == -6 && fromRow == 7 && toRow == 7) && (board[fromRow][toCol]/2 == board[fromRow][fromCol]/6)) { //If king
 			if (fromCol == 4) {
 				if (toCol == 7) { //Kingside Castle
 					if (board[fromRow][5] != 0 || board[fromRow][6] != 0) {

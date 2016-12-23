@@ -104,7 +104,7 @@ public class ChessTrainer implements Serializable {
 			result[i] = new double[a1[i].length][];
 			for (int j = 0; j<result[i].length; j++) {
 				result[i][j] = new double[a1[i][j].length];
-				for (int k = 1; k<result[i][j].length; k++) {
+				for (int k = 0; k<result[i][j].length; k++) {
 					result[i][j][k] = a1[i][j][k] + a2[i][j][k];
 				}
 			}

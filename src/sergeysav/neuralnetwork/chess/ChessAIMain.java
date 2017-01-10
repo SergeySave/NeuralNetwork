@@ -30,7 +30,7 @@ public class ChessAIMain {
 	private static double trainingRatio = 0.75;
 	private static BufferedWriter fileWriter;
 
-	private static double LEARNING_K = 1e-5;
+	private static double LEARNING_K = 1e-3;
 	private static double EPSILON = 1e-8;
 
 	public static void main(String[] args) throws InterruptedException, ExecutionException, FileNotFoundException {

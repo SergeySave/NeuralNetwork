@@ -7,6 +7,7 @@ import java.util.stream.Stream;
 
 import sergeysav.neuralnetwork.NeuralNetwork;
 import sergeysav.neuralnetwork.Neuron;
+import sergeysav.stream.StreamUtil;
 
 /**
  * An implementation of a backpropogation neural network trainer for the chess games
@@ -73,29 +74,30 @@ public class ChessTrainer implements Serializable {
 	/**
 	 * Is next epoch needed MUST ALWAYS be called before this
 	 */
-	public void performEpoch() {
+	public void performEpoch(Runnable backup) {
 		epochs++;
-		
-		//Calculate the error
-		//lastTestingError = calculateAverageError(testingData);
-		
-		//Perform backpropogation on every set of inputs
-		//This is what I want to work: it should use multiple threads for the backpropogation
-		learningMomentum = sumArray3(trainingData.get().map(this::performBackpropogation).reduce(generateMomentumArr(), this::sumArray3), learningMomentum);
-		//trainingData.get().sequential().forEach(this::performBackpropogation);
-		
-		//Apply the learning momentum
-		for (int i = 0; i<learningMomentum.length; i++) {
-			for (int j = 0; j<learningMomentum[i].length; j++) {
-				Neuron n = network.getNeuralData()[i][j];
-				n.setBias(n.getBias() + learningMomentum[i][j][0]);
-				learningMomentum[i][j][0] *= 0.9;
-				for (int k = 1; k<learningMomentum[i][j].length; k++) {
-					n.getWeights()[k-1] += learningMomentum[i][j][k];
-					learningMomentum[i][j][k] *= 0.9;
+
+		//Batch the input data into batches of 500
+		StreamUtil.batchStream(trainingData.get(), 500, true).forEach((s)->{
+			//Calculate the momentum given by these 500
+			learningMomentum = sumArray3(s.map(this::performBackpropogation).reduce(generateMomentumArr(), this::sumArray3), learningMomentum);
+			
+			//Apply the learning momentum
+			for (int i = 0; i<learningMomentum.length; i++) {
+				for (int j = 0; j<learningMomentum[i].length; j++) {
+					Neuron n = network.getNeuralData()[i][j];
+					n.setBias(n.getBias() + learningMomentum[i][j][0]);
+					learningMomentum[i][j][0] *= 0.9;
+					for (int k = 1; k<learningMomentum[i][j].length; k++) {
+						n.getWeights()[k-1] += learningMomentum[i][j][k];
+						learningMomentum[i][j][k] *= 0.9;
+					}
 				}
 			}
-		}
+			
+			//Run the backup code
+			backup.run();
+		});
 	}
 	
 	private double[][][] sumArray3(double[][][] a1, double[][][] a2) {

@@ -19,13 +19,24 @@ public class ChessStore implements Serializable {
 
 	public NeuralNetwork network;
 	public ChessTrainer trainer;
-	public int epoch;
+	private int epoch;
+	public int callsInEpoch;
+	
+	public void setEpoch(int epoch) {
+		this.epoch = epoch;
+		callsInEpoch = 0;
+	}
+	
+	public int getEpoch() {
+		return epoch;
+	}
 
 	public void save() {
 		try {
 			new File("backups").mkdirs();
 
-			File outputFile = new File("backups/backup-" + epoch + ".store");
+			ChessAIMain.print("Saving Backup " + epoch + "-" + callsInEpoch);
+			File outputFile = new File("backups/backup-" + epoch + "-" + callsInEpoch++ + ".store");
 			outputFile.createNewFile();
 
 			ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(outputFile));

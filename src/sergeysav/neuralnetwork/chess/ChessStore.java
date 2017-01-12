@@ -7,6 +7,7 @@ import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
+import java.nio.file.Files;
 
 import sergeysav.neuralnetwork.NeuralNetwork;
 
@@ -21,12 +22,12 @@ public class ChessStore implements Serializable {
 	public ChessTrainer trainer;
 	private int epoch;
 	public int callsInEpoch;
-	
+
 	public void setEpoch(int epoch) {
 		this.epoch = epoch;
 		callsInEpoch = 0;
 	}
-	
+
 	public int getEpoch() {
 		return epoch;
 	}
@@ -43,6 +44,28 @@ public class ChessStore implements Serializable {
 			oos.writeObject(this);
 			oos.flush();
 			oos.close();
+
+			if ((callsInEpoch-3) % 10 != 0) {
+				File toDelete = new File("backups/backup-" + epoch + "-" + (callsInEpoch-3) + ".store");
+				if (toDelete.exists()) {
+					ChessAIMain.print("Deleting Backup " + epoch + "-" + (callsInEpoch-3));
+					Files.delete(toDelete.toPath());
+				}
+			}
+			if ((callsInEpoch-21) % 100 != 0) {
+				File toDelete = new File("backups/backup-" + epoch + "-" + (callsInEpoch-21) + ".store");
+				if (toDelete.exists()) {
+					ChessAIMain.print("Deleting Backup " + epoch + "-" + (callsInEpoch-21));
+					Files.delete(toDelete.toPath());
+				}
+			}
+			if ((callsInEpoch-201) % 1000 != 0) {
+				File toDelete = new File("backups/backup-" + epoch + "-" + (callsInEpoch-201) + ".store");
+				if (toDelete.exists()) {
+					ChessAIMain.print("Deleting Backup " + epoch + "-" + (callsInEpoch-201));
+					Files.delete(toDelete.toPath());
+				}
+			}
 		} catch(IOException e) {
 			e.printStackTrace();
 		}

@@ -80,7 +80,7 @@ public class ChessTrainer implements Serializable {
 		//Batch the input data into batches of 500
 		StreamUtil.batchStream(trainingData.get(), 500, true).forEach((s)->{
 			//Calculate the momentum given by these 500
-			learningMomentum = sumArray3(s.map(this::performBackpropogation).reduce(generateMomentumArr(), this::sumArray3), learningMomentum);
+			learningMomentum = sumArray3(s.map(this::performBackpropogation).reduce(generateMomentumArr(), this::sumArray3, this::sumArray3), learningMomentum);
 			
 			//Apply the learning momentum
 			for (int i = 0; i<learningMomentum.length; i++) {

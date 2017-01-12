@@ -119,6 +119,8 @@ public class ChessAIMain {
 			
 			trainer.init(LEARNING_K, trainingData, testingData, network, EPSILON);
 			startEpoch = loaded.getEpoch();
+			
+			loaded = null;
 		}
 
 		ChessStore store = new ChessStore();
@@ -126,15 +128,14 @@ public class ChessAIMain {
 		store.trainer = trainer;
 		store.setEpoch(startEpoch);
 
-		//print("Saving Backup " + store.getEpoch());
 		store.save();
 		print("Calculating if next epoch needed\n");
+		
 		while (trainer.isNextEpochNeeded()) {
 			print("Epoch " + (store.getEpoch()+1) + " starting");
 			trainer.performEpoch(store::save);
 			print("Epoch completed");
 			store.setEpoch(store.getEpoch()+1);;
-			//print("Saving Backup " + store.getEpoch());
 			store.save(); 
 			print("Calculating if next epoch needed\n");
 		}

@@ -698,13 +698,13 @@ public class ChessBoard {
 			}
 		} else { //Generate the data as if the black team is moving
 			//Add the inputs to the array
-			for (int i = 7; i>=0; i--) {
+			for (int i = 0; i<8; i++) {
 				for (int j = 0; j<8; j++) {
 					int pieceType = getPieceAt(i, j);
 					if (pieceType == 7 || pieceType == -7) pieceType = 0;
 					int absType = Math.abs(pieceType);
 					if (absType > 0) {
-						output[6*8*i + 6*j + absType - 1] = -Math.signum(pieceType);
+						output[6*8*(7-i) + 6*j + absType - 1] = -Math.signum(pieceType);
 					}
 				}
 			}

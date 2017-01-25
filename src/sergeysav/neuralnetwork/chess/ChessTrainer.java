@@ -199,14 +199,14 @@ public class ChessTrainer implements Serializable {
 
 	private double calculateAverageError(Supplier<Stream<double[]>> dataSet) {
 		if (dataSet == null) return 0;
-
-		TempData finalDataVal = dataSet.get().map((a)->{
-			TempData data = new TempData();
-			data.count = 1;
-			double[][] arr = splitArray(a, network.getInputNeurons());
-			data.err = calculateError(arr[0], arr[1]);
-			return data;
-		}).reduce(new TempData(), (a,b)->{
+		
+		TempData finalDataVal = dataSet.get().reduce(new TempData(), (td, d)->{
+			TempData newData = new TempData();
+			newData.count = td.count + 1;
+			double[][] arr = splitArray(d, network.getInputNeurons());
+			newData.err = calculateError(arr[0], arr[1]) + td.err;
+			return newData;
+		}, (a, b)->{
 			TempData newData = new TempData();
 			newData.count = a.count + b.count;
 			newData.err = a.err + b.err;

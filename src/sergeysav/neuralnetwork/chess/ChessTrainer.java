@@ -18,14 +18,14 @@ import sergeysav.stream.StreamUtil;
 public class ChessTrainer implements Serializable {
 
 	private static final long serialVersionUID = 3561024763642610745L;
-	
+
 	private transient double learningRate;
 	private transient Supplier<Stream<double[]>> trainingData;
 	//private transient int trainingSize;
 	private transient Supplier<Stream<double[]>> testingData;
 	private transient double epsilon;
 	//private transient int testingSize;
-	
+
 	private double lastTestingError = Double.MAX_VALUE;
 
 	private transient NeuralNetwork network;
@@ -36,7 +36,7 @@ public class ChessTrainer implements Serializable {
 		init(k, trainingData, testingData, network, epsilon);
 		learningMomentum = generateMomentumArr();
 	}
-	
+
 	private double[][][] generateMomentumArr() {
 		double[][][] m = new double[network.getNeuralData().length][][];
 		for (int i = 0; i<m.length; i++) {
@@ -47,7 +47,7 @@ public class ChessTrainer implements Serializable {
 		}
 		return m;
 	}
-	
+
 	public void init(double k, Supplier<Stream<double[]>> trainingData, Supplier<Stream<double[]>> testingData, NeuralNetwork network, double epsilon) {
 		this.learningRate = k;
 		this.trainingData = trainingData;
@@ -55,14 +55,14 @@ public class ChessTrainer implements Serializable {
 		this.network = network;
 		this.epsilon = epsilon;
 	}
-	
+
 	public boolean isNextEpochNeeded() {
 		double err = calculateAverageError(trainingData);
 		ChessAIMain.print("Training Error: " + err);
 		testingCheck(); //Just used to calculate and print
 		return err > epsilon;
 	}
-	
+
 	private boolean testingCheck() {
 		double e = calculateAverageError(testingData);
 		ChessAIMain.print("Testing Error: " + e);
@@ -70,36 +70,44 @@ public class ChessTrainer implements Serializable {
 		lastTestingError = e;
 		return b;
 	}
-	
+
 	/**
 	 * Is next epoch needed MUST ALWAYS be called before this
 	 */
 	public void performEpoch(Runnable backup) {
 		epochs++;
+		
+		int batchSize = 100;
+		double actualLearningRate = learningRate/batchSize;
+		double friction = 0.9;
 
-		//Batch the input data into batches of 500
-		StreamUtil.batchStream(trainingData.get(), 500, true).forEach((s)->{
-			//Calculate the momentum given by these 500
-			learningMomentum = sumArray3(s.map(this::performBackpropogation).reduce(generateMomentumArr(), this::sumArray3, this::sumArray3), learningMomentum);
+		//Batch the input data into batches
+		StreamUtil.batchStream(trainingData.get(), batchSize, true).forEach((s)->{
+			//Calculate the momentum given by these batches
+			BackpropData bpval = s.map(this::performBackpropogation).reduce(generateMomentumBP(), this::sumBPData, this::sumBPData);
+
+			ChessAIMain.print("Training Error Estimate: "+Math.sqrt(bpval.err/batchSize), true, true);
 			
+			learningMomentum = sumArray3(bpval.val, learningMomentum);
+
 			//Apply the learning momentum
 			for (int i = 0; i<learningMomentum.length; i++) {
 				for (int j = 0; j<learningMomentum[i].length; j++) {
 					Neuron n = network.getNeuralData()[i][j];
-					n.setBias(n.getBias() + learningMomentum[i][j][0]);
-					learningMomentum[i][j][0] *= 0.9;
+					n.setBias(n.getBias() + actualLearningRate*learningMomentum[i][j][0]);
+					learningMomentum[i][j][0] *= friction;
 					for (int k = 1; k<learningMomentum[i][j].length; k++) {
-						n.getWeights()[k-1] += learningMomentum[i][j][k];
-						learningMomentum[i][j][k] *= 0.9;
+						n.getWeights()[k-1] += actualLearningRate*learningMomentum[i][j][k];
+						learningMomentum[i][j][k] *= friction;
 					}
 				}
 			}
-			
+
 			//Run the backup code
 			backup.run();
 		});
 	}
-	
+
 	private double[][][] sumArray3(double[][][] a1, double[][][] a2) {
 		double[][][] result = new double[a1.length][][];
 		for (int i = 0; i<result.length; i++) {
@@ -114,11 +122,27 @@ public class ChessTrainer implements Serializable {
 		return result;
 	}
 
+	private BackpropData generateMomentumBP() {
+		BackpropData result = new BackpropData();
+		result.val = generateMomentumArr();
+		result.count = 0;
+		result.err = 0;
+		return result;
+	}
+
+	private BackpropData sumBPData(BackpropData a1, BackpropData a2) {
+		BackpropData result = new BackpropData();
+		result.val = sumArray3(a1.val, a2.val);
+		result.count = a1.count + a2.count;
+		result.err = a1.err + a2.err;
+		return result;
+	}
+
 	public TrainingResult getResult() {
 		return new TrainingResult(calculateAverageError(trainingData), calculateAverageError(testingData), epochs, calculateAverageError(trainingData) <= epsilon);
 	}
 
-	private double[][][] performBackpropogation(double[] data) {
+	private BackpropData performBackpropogation(double[] data) {
 		Neuron[][] neuralData = network.getNeuralData();
 		double[][] neuralOutputs = new double[network.getNeuralData().length][];
 		double[][] neuralDeltas = new double[network.getNeuralData().length][];
@@ -127,8 +151,11 @@ public class ChessTrainer implements Serializable {
 
 		double[] input =  trial[0];
 		double[] target = trial[1];
-		
-		double[][][] result = generateMomentumArr();
+
+		//double[][][] result = generateMomentumArr();
+		BackpropData result = new BackpropData();
+		result.val = generateMomentumArr();
+		result.count = 1;
 
 		{
 			double[] lastLayer = trial[0];
@@ -140,6 +167,13 @@ public class ChessTrainer implements Serializable {
 				lastLayer = neuralOutputs[i];
 			}
 		}
+		
+		for (int i = 0; i<target.length; i++) {
+			double e = neuralOutputs[neuralOutputs.length-1][i] - target[i];
+			result.err += e*e;
+		}
+		result.err /= target.length;
+		result.err /= target.length;
 
 		//double[][][] result = new double[network.getNeuralData().length][][];
 
@@ -161,9 +195,9 @@ public class ChessTrainer implements Serializable {
 				}
 				neuralDeltas[i][j] = deltaWeight;
 				//New weight = oldWeight + k * output(source) * deltaWeight(thisNode)
-				result[i][j][0] += learningRate * deltaWeight;
+				result.val[i][j][0] += deltaWeight;
 				for (int k = 0; k < neuron.getWeights().length; k++) {
-					result[i][j][k+1] += learningRate * (i > 0 ? neuralOutputs[i-1][k] : input[k]) * deltaWeight;
+					result.val[i][j][k+1] += (i > 0 ? neuralOutputs[i-1][k] : input[k]) * deltaWeight;
 					//neuron.getWeights()[k] += learningRate * (i > 0 ? neuralOutputs[i-1][k] : input[k]) * deltaWeight;
 				}
 				//neuron.setBias(neuron.getBias() + learningRate * deltaWeight);
@@ -193,13 +227,13 @@ public class ChessTrainer implements Serializable {
 			double err = outputs[i] - desiredOutputs[i];
 			error += (err*err);
 		}
-
+		
 		return error/outputs.length/outputs.length;
 	}
 
 	private double calculateAverageError(Supplier<Stream<double[]>> dataSet) {
 		if (dataSet == null) return 0;
-		
+
 		TempData finalDataVal = dataSet.get().reduce(new TempData(), (td, d)->{
 			TempData newData = new TempData();
 			newData.count = td.count + 1;
@@ -212,7 +246,7 @@ public class ChessTrainer implements Serializable {
 			newData.err = a.err + b.err;
 			return newData;
 		});
-		
+
 		if (finalDataVal.count == 0) return 0;
 
 		return Math.sqrt(finalDataVal.err/finalDataVal.count);
@@ -254,8 +288,14 @@ public class ChessTrainer implements Serializable {
 			return "Training Result[err= " + trainingDataError + " test= " + testingDataError + " e= " + epochs + " success= " + success + "]";
 		}
 	}
-	
+
 	private static class TempData {
+		public double err;
+		public int count;
+	}
+
+	private static class BackpropData {
+		public double[][][] val;
 		public double err;
 		public int count;
 	}

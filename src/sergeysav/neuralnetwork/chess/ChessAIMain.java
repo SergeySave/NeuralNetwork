@@ -30,7 +30,7 @@ public class ChessAIMain {
 	private static double trainingRatio = 0.75;
 	private static BufferedWriter fileWriter;
 
-	private static double LEARNING_K = 1e-3;
+	private static double LEARNING_K = 0.3;
 	private static double EPSILON = 1e-8;
 
 	public static void main(String[] args) throws InterruptedException, ExecutionException, FileNotFoundException {
@@ -76,7 +76,7 @@ public class ChessAIMain {
 		NeuralNetwork network;
 		ChessTrainer trainer;
 		int startEpoch;
-		
+
 		Supplier<Stream<double[]>> trainingData = ()->{
 			//Generate a stream of double arrays for the training data
 			Collections.shuffle(trainingFiles);
@@ -88,7 +88,7 @@ public class ChessAIMain {
 				return trans.stream();
 			}).flatMap((t)->StreamSupport.stream(t.spliterator(), false)).parallel();
 		};
-		
+
 		Supplier<Stream<double[]>> testingData = ()->{
 			//Generate a stream of double arrays for the testing data
 			Collections.shuffle(testingFiles);
@@ -104,22 +104,22 @@ public class ChessAIMain {
 		if (loaded == null) {
 			print("Creating Neural Network");
 			//Create a new neural network
-			network = new NeuralNetwork(true, 384, 259, 259, 134); //384 inputs, 2 layers of 259 neurons, 134 outputs (128 tiles + 6 upgrade types)
-
+			network = new NeuralNetwork(true, 384, 200, 200, 200, 200, 200, 200, 200, 200, 134); //384 inputs, 8 hidden layers of size 200, 134 outputs (128 tiles + 6 upgrade types)
+			
 			print("Creating Network Trainer");
 			trainer = new ChessTrainer(LEARNING_K, trainingData, testingData, network, EPSILON);
-			
+
 			startEpoch = 0;
 		} else {
 			network = loaded.network;
-			
+
 			network.init();
-			
+
 			trainer = loaded.trainer;
-			
+
 			trainer.init(LEARNING_K, trainingData, testingData, network, EPSILON);
 			startEpoch = loaded.getEpoch();
-			
+
 			loaded = null;
 		}
 
@@ -130,7 +130,7 @@ public class ChessAIMain {
 
 		store.save();
 		print("Calculating if next epoch needed\n");
-		
+
 		while (trainer.isNextEpochNeeded()) {
 			print("Epoch " + (store.getEpoch()+1) + " starting");
 			trainer.performEpoch(store::save);
@@ -237,5 +237,22 @@ public class ChessAIMain {
 			e.printStackTrace();
 		}
 		System.out.println(str);
+	}
+
+	public static void print(String arg, boolean toConsole, boolean format) {
+		String str;
+		if (format) {
+			str = "[" + LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss.SSSS")) + "] " + arg;
+		} else {
+			str = arg;
+		}
+		try {
+			fileWriter.write(str+"\n");
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		if (toConsole) {
+			System.out.println(str);
+		}
 	}
 }

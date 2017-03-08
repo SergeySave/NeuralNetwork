@@ -36,7 +36,10 @@ public class ChessStore implements Serializable {
 		try {
 			new File("backups").mkdirs();
 
-			ChessAIMain.print("Saving Backup " + epoch + "-" + callsInEpoch);
+			if (callsInEpoch == 0) {
+				ChessAIMain.print("Saving Backup " + epoch + "-" + callsInEpoch);
+			}
+			//ChessAIMain.print("Saving Backup " + epoch + "-" + callsInEpoch);
 			File outputFile = new File("backups/backup-" + epoch + "-" + callsInEpoch++ + ".store");
 			outputFile.createNewFile();
 
@@ -48,21 +51,21 @@ public class ChessStore implements Serializable {
 			if ((callsInEpoch-3) % 10 != 0) {
 				File toDelete = new File("backups/backup-" + epoch + "-" + (callsInEpoch-3) + ".store");
 				if (toDelete.exists()) {
-					ChessAIMain.print("Deleting Backup " + epoch + "-" + (callsInEpoch-3));
+					//ChessAIMain.print("Deleting Backup " + epoch + "-" + (callsInEpoch-3));
 					Files.delete(toDelete.toPath());
 				}
 			}
 			if ((callsInEpoch-21) % 100 != 0) {
 				File toDelete = new File("backups/backup-" + epoch + "-" + (callsInEpoch-21) + ".store");
 				if (toDelete.exists()) {
-					ChessAIMain.print("Deleting Backup " + epoch + "-" + (callsInEpoch-21));
+					//ChessAIMain.print("Deleting Backup " + epoch + "-" + (callsInEpoch-21));
 					Files.delete(toDelete.toPath());
 				}
 			}
 			if ((callsInEpoch-201) % 1000 != 0) {
 				File toDelete = new File("backups/backup-" + epoch + "-" + (callsInEpoch-201) + ".store");
 				if (toDelete.exists()) {
-					ChessAIMain.print("Deleting Backup " + epoch + "-" + (callsInEpoch-201));
+					//ChessAIMain.print("Deleting Backup " + epoch + "-" + (callsInEpoch-201));
 					Files.delete(toDelete.toPath());
 				}
 			}

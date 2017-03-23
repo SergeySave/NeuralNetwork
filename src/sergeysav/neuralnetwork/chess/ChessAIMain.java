@@ -104,7 +104,7 @@ public class ChessAIMain {
 		if (loaded == null) {
 			print("Creating Neural Network");
 			//Create a new neural network
-			network = new NeuralNetwork(true, 384, 200, 200, 200, 200, 200, 200, 200, 200, 134); //384 inputs, 8 hidden layers of size 200, 134 outputs (128 tiles + 6 upgrade types)
+			network = new NeuralNetwork(true, 384, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 134); //384 inputs, 16 hidden layers of size 200, 134 outputs (128 tiles + 6 upgrade types)
 			
 			print("Creating Network Trainer");
 			trainer = new ChessTrainer(LEARNING_K, trainingData, testingData, network, EPSILON);

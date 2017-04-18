@@ -76,30 +76,27 @@ public class ChessAIMain {
 		NeuralNetwork network;
 		ChessTrainer trainer;
 		int startEpoch;
+		
+		class DataSupplier implements Supplier<Stream<double[]>> {
+			private List<File> files;
+			public DataSupplier(List<File> files) {
+				this.files = files;
+			}
+			@Override
+			public Stream<double[]> get() {
+				Collections.shuffle(files);
+				
+				return trainingFiles.stream().flatMap((f)->{
+					//Convert each file to a stream of transcripts
+					List<Transcript> trans = new LinkedList<Transcript>();
+					readTranscripts(f, trans);
+					return trans.stream();
+				}).flatMap((t)->StreamSupport.stream(t.spliterator(), false)).parallel();
+			}
+		}
 
-		Supplier<Stream<double[]>> trainingData = ()->{
-			//Generate a stream of double arrays for the training data
-			Collections.shuffle(trainingFiles);
-
-			return trainingFiles.stream().flatMap((f)->{
-				//Convert each file to a stream of transcripts
-				List<Transcript> trans = new LinkedList<Transcript>();
-				readTranscripts(f, trans);
-				return trans.stream();
-			}).flatMap((t)->StreamSupport.stream(t.spliterator(), false)).parallel();
-		};
-
-		Supplier<Stream<double[]>> testingData = ()->{
-			//Generate a stream of double arrays for the testing data
-			Collections.shuffle(testingFiles);
-
-			return testingFiles.stream().flatMap((f)->{
-				//Convert each file to a stream of transcripts
-				List<Transcript> trans = new LinkedList<Transcript>();
-				readTranscripts(f, trans);
-				return trans.stream();
-			}).flatMap((t)->StreamSupport.stream(t.spliterator(), false)).parallel();
-		};
+		Supplier<Stream<double[]>> trainingData = new DataSupplier(trainingFiles);
+		Supplier<Stream<double[]>> testingData = new DataSupplier(testingFiles);
 
 		if (loaded == null) {
 			print("Creating Neural Network");

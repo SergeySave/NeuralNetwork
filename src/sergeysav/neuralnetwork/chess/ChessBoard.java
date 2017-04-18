@@ -1,5 +1,6 @@
 package sergeysav.neuralnetwork.chess;
 
+import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Optional;
@@ -80,6 +81,11 @@ public class ChessBoard {
 		board[0][3] = 5;
 		board[7][3] = -5;
 	}
+	
+	public ChessBoard(ChessBoard toCopy) {
+		board = toCopy.deepCopyBoard();
+		enpassantCol = toCopy.enpassantCol;
+	}
 
 	//Input format: RowCol;RowCol;NewType;CASTLE
 	//CASTLE not required
@@ -140,7 +146,7 @@ public class ChessBoard {
 	}
 
 	private void resetEnpassant(int ofTeam) {
-		if (enpassantCol != -1) {
+		if (enpassantCol >= 0 && enpassantCol < 8) {
 			if (Math.abs(board[ofTeam == -1 ? 2 : 5][enpassantCol]) == 7) {
 				board[ofTeam == -1 ? 2 : 5][enpassantCol] = 0;
 			}
@@ -674,11 +680,23 @@ public class ChessBoard {
 	private int[][] deepCopyBoard() {
 		int[][] newArr = new int[8][8];
 		for (int i = 0; i<8; i++) {
-			for (int j = 0; j<8; j++) {
-				newArr[i][j] = board[i][j];
-			}
+			System.arraycopy(board[i], 0, newArr[i], 0, 8);
 		}
 		return newArr;
+	}
+	
+	public void transpose(int rows, int cols) {
+		if (enpassantCol != -1) enpassantCol += cols;
+		//if (enpassantCol < 0 || enpassantCol > 8) enpassantCol = -1;
+		int[][] newBoard = new int[8][8];
+		for (int i = Math.max(0, -rows); i<8-Math.max(0, rows); i++) {
+			System.arraycopy(board[i], 
+					Math.max(0, -cols), 
+					newBoard[i+rows], 
+					0, 
+					8-Math.abs(cols));
+		}
+		board = newBoard;
 	}
 	
 	public double[] generateNeuralInputs(boolean whiteMoving) {
@@ -711,5 +729,10 @@ public class ChessBoard {
 		}
 		
 		return output;
+	}
+	
+	@Override
+	public String toString() {
+		return Arrays.deepToString(board);
 	}
 }

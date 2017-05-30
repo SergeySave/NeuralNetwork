@@ -139,7 +139,7 @@ public class ChessBoard {
 
 		if (doResetEnpassant) resetEnpassant(team);
 		board[fromRow][fromCol] = 0;
-		if (moveParts.length > 2) {
+		if (moveParts.length > 2 && pieceType == 1 && (team == 1 ? toRow == 7 : team == -1 ? toRow == 0 : false)) {
 			piece = Integer.parseInt(moveParts[2]);
 		}
 		board[toRow][toCol] = piece;

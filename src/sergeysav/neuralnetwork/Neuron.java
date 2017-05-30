@@ -40,7 +40,7 @@ public class Neuron implements Serializable {
 	 * @param numParents the number of parent nodes for this neuron
 	 */
 	public Neuron(int numParents) {
-		this(numParents, Neuron::sigmoid, Neuron::sigmoidDerivative);
+		this(numParents, Neuron::fancyTanh, Neuron::fancyTanhDerivative);
 	}
 	
 	/**
@@ -65,8 +65,8 @@ public class Neuron implements Serializable {
 	}
 	
 	public void init() {
-		this.activationFunction = Neuron::sigmoid;
-		this.derivativeFunction = Neuron::sigmoidDerivative;
+		this.activationFunction = Neuron::fancyTanh;
+		this.derivativeFunction = Neuron::fancyTanhDerivative;
 	}
 	
 	/**
@@ -109,11 +109,41 @@ public class Neuron implements Serializable {
 	 * 
 	 * y = x * (1 - x)
 	 * 
-	 * @param x the input value into the derivative function
+	 * @param x = f(x)
 	 * @return the derivative of the sigmoid function
 	 */
 	public static double sigmoidDerivative(double x) {
 		return x * (1-x);
+	}
+	
+	/**
+	 * The fancy tanh function of x.
+	 * 
+	 * y = 1.7158tanh(2/3 * x)
+	 * 
+	 * @param x the input x value to the fancy tanh function
+	 * @return the result of the calculation of the fancy tanh function
+	 */
+	public static double fancyTanh(double x) {
+		//Calculate the value of the fancy tanh function
+		return 3.4316/(Math.exp(-fourthirds*x) + 1) - 1.7158;
+	}
+	private static final double fourthirds = 4/3;
+	
+	/**
+	 * The derivative of the fancy tanh function.
+	 * 
+	 * y = 2.28773/(cosh(4x/3)+1)
+	 * 
+	 * @param x = f(x)
+	 * @return the derivative of the fancy tanh function
+	 */
+	public static double fancyTanhDerivative(double x) {
+		return 1.14387 - (x*x)/(1.5*1.7158);
+	}
+	
+	private static double square(double x) {
+		return x*x;
 	}
 		
 	/**

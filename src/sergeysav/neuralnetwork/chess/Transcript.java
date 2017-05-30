@@ -57,7 +57,7 @@ public class Transcript {
 					int piece = Integer.parseInt(parts[2]);
 					int pieceTypeMove = Math.abs(piece);
 					
-					addData(board, fromRow, fromCol, toRow, toCol, pieceTypeMove);
+					addData(board, fromRow, fromCol, toRow, toCol, pieceTypeMove);/*
 					if (!(pieceTypeMove == 6 && Math.abs(board.getPieceAt(toRow, toCol)) == 3)) {
 						if (fromRow < 7 && toRow < 7) {
 							ChessBoard b = new ChessBoard(board);
@@ -83,7 +83,7 @@ public class Transcript {
 							if (b.isLegalMove((fromRow) + "" + (fromCol-1), (toRow) + "" + (toCol-1)))
 								addData(b, fromRow, fromCol-1, toRow, toCol-1, pieceTypeMove);
 						}
-					}
+					}*/
 
 					board.applyConvertedMove(move);
 

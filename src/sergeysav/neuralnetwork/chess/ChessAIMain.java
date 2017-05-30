@@ -15,7 +15,6 @@ import java.util.Scanner;
 import java.util.concurrent.ExecutionException;
 import java.util.function.Supplier;
 import java.util.stream.Stream;
-import java.util.stream.StreamSupport;
 
 import sergeysav.neuralnetwork.NeuralNetwork;
 import sergeysav.neuralnetwork.chess.ChessTrainer.TrainingResult;
@@ -30,8 +29,10 @@ public class ChessAIMain {
 	private static double trainingRatio = 0.75;
 	private static BufferedWriter fileWriter;
 
-	private static double LEARNING_K = 0.3;
+	private static double LEARNING_K = 0.0005;
 	private static double EPSILON = 1e-8;
+	
+	private static int backupDo;
 
 	public static void main(String[] args) throws InterruptedException, ExecutionException, FileNotFoundException {
 		Runtime.getRuntime().addShutdownHook(new Thread(()->{
@@ -50,14 +51,14 @@ public class ChessAIMain {
 			e.printStackTrace();
 		}
 
-		print("Initializing games");
-		File gamesDirectory = new File("games");
+		print("Initializing cases");
+		File casesDirectory = new File("cases");
 
 		List<File> trainingFiles = new ArrayList<File>();
 		List<File> testingFiles = new ArrayList<File>();
 
-		for (File pgnFile : gamesDirectory.listFiles()) {
-			if (!pgnFile.isDirectory() && !pgnFile.isHidden() && pgnFile.getName().endsWith(".pgn")) {
+		for (File pgnFile : casesDirectory.listFiles()) {
+			if (!pgnFile.isDirectory() && !pgnFile.isHidden() && pgnFile.getName().endsWith(".case")) {
 				if (Math.random() <= trainingRatio) {
 					trainingFiles.add(pgnFile);
 				} else {
@@ -86,12 +87,7 @@ public class ChessAIMain {
 			public Stream<double[]> get() {
 				Collections.shuffle(files);
 				
-				return trainingFiles.stream().flatMap((f)->{
-					//Convert each file to a stream of transcripts
-					List<Transcript> trans = new LinkedList<Transcript>();
-					readTranscripts(f, trans);
-					return trans.stream();
-				}).flatMap((t)->StreamSupport.stream(t.spliterator(), false)).parallel();
+				return trainingFiles.stream().map(ChessAIMain::readArray);
 			}
 		}
 
@@ -101,7 +97,7 @@ public class ChessAIMain {
 		if (loaded == null) {
 			print("Creating Neural Network");
 			//Create a new neural network
-			network = new NeuralNetwork(true, 384, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 134); //384 inputs, 16 hidden layers of size 200, 134 outputs (128 tiles + 6 upgrade types)
+			network = new NeuralNetwork(true, 384, 384, 361, 339, 316, 293, 270, 248, 225, 202, 179, 134); //384 inputs, 16 hidden layers of size 200, 134 outputs (128 tiles + 6 upgrade types)
 			
 			print("Creating Network Trainer");
 			trainer = new ChessTrainer(LEARNING_K, trainingData, testingData, network, EPSILON);
@@ -130,7 +126,14 @@ public class ChessAIMain {
 
 		while (trainer.isNextEpochNeeded()) {
 			print("Epoch " + (store.getEpoch()+1) + " starting");
-			trainer.performEpoch(store::save);
+			backupDo = 0;
+			trainer.performEpoch(()->{
+				if (backupDo % 10 == 0) {
+					store.save();
+					backupDo %= 10;
+				}
+				backupDo++;
+			});
 			print("Epoch completed");
 			store.setEpoch(store.getEpoch()+1);;
 			store.save(); 
@@ -141,6 +144,22 @@ public class ChessAIMain {
 		print("Training Completed");
 		TrainingResult result = trainer.getResult();
 		print("Took " + result.epochs + " epochs");
+	}
+	
+	private static double[] readArray(File file) {
+		try (Scanner scan = new Scanner(file)) {
+			String line = scan.nextLine();
+			line = line.substring(1, line.length()-1);
+			String[] bits = line.split(", ");
+			double[] arr = new double[bits.length];
+			for (int i = 0; i<bits.length; i++) {
+				arr[i] = Double.parseDouble(bits[i]);
+			}
+			return arr;
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		return new double[]{};
 	}
 
 	private static void readTranscripts(File file, List<Transcript> transcripts) {

@@ -57,10 +57,12 @@ public class ChessTrainer implements Serializable {
 	}
 
 	public boolean isNextEpochNeeded() {
+		return true;
+		/*
 		double err = calculateAverageError(trainingData);
 		ChessAIMain.print("Training Error: " + err);
 		testingCheck(); //Just used to calculate and print
-		return err > epsilon;
+		return err > epsilon;*/
 	}
 
 	private boolean testingCheck() {
@@ -76,6 +78,31 @@ public class ChessTrainer implements Serializable {
 	 */
 	public void performEpoch(Runnable backup) {
 		epochs++;
+		
+		int batchSize = 1;
+		double actualLearningRate = learningRate/batchSize;
+		
+		trainingData.get().sequential().forEach((data)->{
+			BackpropData bp = performBackpropogation(data);
+			ChessAIMain.print("Training Error Estimate: "+Math.sqrt(bp.err/batchSize), true, true);
+			
+			//Do learning
+			for (int i = 0; i<bp.val.length; i++) {
+				for (int j = 0; j<bp.val[i].length; j++) {
+					Neuron n = network.getNeuralData()[i][j];
+					n.setBias(n.getBias() + actualLearningRate*bp.val[i][j][0]);
+					for (int k = 1; k<bp.val[i][j].length; k++) {
+						n.getWeights()[k-1] += actualLearningRate*bp.val[i][j][k];
+					}
+				}
+			}
+
+			//Run the backup code
+			backup.run();
+		});
+		
+		
+		/*
 		
 		int batchSize = 100;
 		double actualLearningRate = learningRate/batchSize;
@@ -105,7 +132,7 @@ public class ChessTrainer implements Serializable {
 
 			//Run the backup code
 			backup.run();
-		});
+		});*/
 	}
 
 	private double[][][] sumArray3(double[][][] a1, double[][][] a2) {
